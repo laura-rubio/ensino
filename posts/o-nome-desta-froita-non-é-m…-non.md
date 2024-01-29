@@ -5,7 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-En galego comeza por P, igual que en inglés. O seu nome é  PEXEGO
+En galego comeza por P, igual que en inglés. O seu nome é  PEXEGO.
 
 ![](/img/pexegos.jpg)
 
