@@ -1,5 +1,7 @@
 ---
 title: "O nome desta froita non é M…, non. "
+tags:
+  - lexico
 draft: false
 show_toc: false
 ---
