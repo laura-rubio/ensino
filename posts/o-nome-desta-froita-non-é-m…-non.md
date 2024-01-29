@@ -5,9 +5,11 @@ tags:
 draft: false
 show_toc: false
 ---
-En galego comeza por P, igual que en inglés. O seu nome é  PEXEGO.
+
 
 ![](/img/pexegos.jpg)
+
+En galego comeza por P, igual que en inglés. O seu nome é  PEXEGO.
 
 Agora que sabes isto, aposto que nunca tiñas reparado en que a famosa princesa Peach de Mario Bros é a princesa Pexego en galego.
 
