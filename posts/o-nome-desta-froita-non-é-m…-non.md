@@ -13,7 +13,7 @@ Agora que sabes isto, aposto que nunca tiñas reparado en que a famosa princesa 
 
 ![](/img/princess_peach_pexego.png)
 
-Pexego tamén é a palabra que máis se repite na música máis coñecida da banda sonora do filme. 
+Pexego tamén é a palabra que máis se repite no tema principal da banda sonora do filme. 
 
 Pexegos, pexegos, pexegos... 
 
