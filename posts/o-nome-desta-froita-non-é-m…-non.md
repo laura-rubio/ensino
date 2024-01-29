@@ -15,8 +15,8 @@ Agora que sabes isto, aposto que nunca tiñas reparado en que a famosa princesa 
 
 Pexego tamén é a palabra que máis se repite na música máis coñecida da banda sonora do filme. 
 
-Pexegos, pexegos, pexegos!!!
+Pexegos, pexegos, pexegos... 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/imSefM4GPpE?si=_x7cl7b2pMVT-Fic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Non volvas esquecer o nome!!!
+Con P! Non te esquezas!!!
