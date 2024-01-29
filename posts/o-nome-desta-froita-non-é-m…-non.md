@@ -7,19 +7,11 @@ show_toc: false
 ---
 En galego comeza por P, igual que en inglés. O seu nome é  PEXEGO
 
-
-
 ![](/img/pexegos.jpg)
 
-
-
-Agora que sabes isto, reparaches en que a famosa princesa Peach de Mario Bross é a princesa Pexego en galego?
-
-
+Agora que sabes isto, xa tiñas reparado en que a famosa princesa Peach de Mario Bross é a princesa Pexego en galego?
 
 ![](/img/princess_peach_pexego.png)
-
-
 
 Pexego tamén é a palabra que máis se repite na música máis coñecida da banda sonora do filme. 
 
