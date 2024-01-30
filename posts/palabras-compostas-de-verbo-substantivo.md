@@ -29,7 +29,7 @@ Combina os verbos e os substantivos para creares palabras novas por composición
 
 ![](/img/garda_costas.jpeg)
 
-O presidente viaxa sempre acompañado de varios <e-answer>gardacostas</e-answer>
+O presidente dos EUA viaxa sempre acompañado de varios <e-answer>gardacostas</e-answer>
 
 ![](/img/lava_louça.jpg)
 
@@ -45,7 +45,7 @@ O vehículo da fotografía ten os <e-answer>paralamas</e-answer> pintados de ver
 
 ![](/img/quebra_nozes.jpg)
 
-Despois de abrires as noces, garda o <e-answer>quebranoces</e-answer> na gabeta da cociña
+Despois de abrires as noces, garda o <e-answer>quebranoces</e-answer> na gabeta.
 
 ![](/img/ranha_ceos.jpg)
 

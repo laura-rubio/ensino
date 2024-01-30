@@ -1,15 +1,13 @@
 ---
-title: "O nome desta froita non é M…, non. "
+title: O nome desta froita non é M…
 tags:
   - lexico
 draft: false
 show_toc: false
 ---
-
-
 ![](/img/pexegos.jpg)
 
-En galego comeza por P, igual que en inglés. O seu nome é  PEXEGO.
+O seu nome en galego comeza por P, igual que en inglés. Chámase PEXEGO.
 
 Agora que sabes isto, aposto que nunca tiñas reparado en que a famosa princesa Peach de Mario Bros é a princesa Pexego en galego.
 
