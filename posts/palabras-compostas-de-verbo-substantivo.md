@@ -45,7 +45,7 @@ O vehículo da fotografía ten os <e-answer>paralamas</e-answer> pintados de ver
 
 ![](/img/quebra_nozes.jpg)
 
-Despois de abrires as noces, garda o <e-answer>quebranoces</e-answer> na gabeta.
+Despois de abrires todas as noces, garda o <e-answer>quebranoces</e-answer> na gabeta
 
 ![](/img/ranha_ceos.jpg)
 
