@@ -7,7 +7,7 @@ show_toc: false
 ---
 ![](/img/pexegos.jpg)
 
-O seu nome en galego comeza por P, igual que en inglés. Chámase PEXEGO.
+O seu nome en galego/portugués comeza por P, igual que en inglés. Nos chamámolo PEXEGO e eles, PÊSSEGO.
 
 Agora que sabes isto, aposto que nunca tiñas reparado en que a famosa princesa Peach de Mario Bros é a princesa Pexego en galego.
 
@@ -19,4 +19,6 @@ Pexegos, pexegos, pexegos...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/imSefM4GPpE?si=_x7cl7b2pMVT-Fic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Con P! Non te esquezas!!!
+Nisto, o galego non é unha excepción, usan unha palabra que comeza por P en moitas outras linguas. Dise *pêche,* en francés; *pesco,* en italiano; *pfirsich;* en alemán e *prèssec,* en catalán, por exemplo.
+
+A próxima vez non te esquezas! Con P!!!
