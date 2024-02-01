@@ -19,6 +19,6 @@ Pexegos, pexegos, pexegos...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/imSefM4GPpE?si=_x7cl7b2pMVT-Fic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Nisto, o galego non é unha excepción, usan unha palabra que comeza por P en moitas outras linguas. Dise *pêche,* en francés; *pesco,* en italiano; *pfirsich;* en alemán e *prèssec,* en catalán, por exemplo.
+Nisto, o galego non é unha excepción, usan unha palabra que comeza por P en moitas outras linguas. Dise *pêche,* en francés; *pesco,* en italiano; *pfirsich,* en alemán e *prèssec,* en catalán, por exemplo.
 
 A próxima vez non te esquezas! Con P!!!
