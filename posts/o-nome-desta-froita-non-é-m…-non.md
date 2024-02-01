@@ -7,7 +7,7 @@ show_toc: false
 ---
 ![](/img/pexegos.jpg)
 
-O seu nome en galego/portugués comeza por P, igual que en inglés. Nos chamámolo PEXEGO e eles, PÊSSEGO.
+O seu nome en galego/portugués comeza por P, igual que en inglés. A forma inglesa é peach, nós chamámolo PEXEGO e os portugueses, PÊSSEGO.
 
 Agora que sabes isto, aposto que nunca tiñas reparado en que a famosa princesa Peach de Mario Bros é a princesa Pexego en galego.
 
