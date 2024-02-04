@@ -45,9 +45,9 @@ O obxecto, usado polo persoal médico sobre o rostro, en especial sobre o nariz 
 
 Por último, tampouco teñen *\-iña* nin *\-illa* ningún dos produtos ou preparados que aplicamos no cabelo, na cara ou nas pestanas con fins cosméticos. Se quixermos ser máis concretos, só temos de especificar o tipo: *máscara para o cabelo, máscara para o rostro, máscara de pestanas.*
 
-## 9. Mesilla > a mesa de cabeceira
+## 9. Mesilla/mesita de noche > a mesa de cabeceira
 
-O pequeno móbel, xunto á cabeceira da cama, onde se colocan os obxectos que se poden precisar principalmente durante a noite é unha **mesa de cabeceira** ou unha *mesa de noite,* nunca unha *\*mesilla* nin tampouco unha *\*mesiña.*
+O pequeno móbel, xunto á cabeceira da cama, onde se colocan os obxectos que se poden precisar principalmente durante a noite é unha **mesa de cabeceira*,*** nunca unha *\*mesilla* nin tampouco unha *\*mesiña.*
 
 ## 10. Papilla > a papa ou as papas
 
