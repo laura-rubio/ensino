@@ -1,6 +1,6 @@
 {
   "imports": {
-    "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@27d5f8061f19922a44466ed3042aea0d870d2dc0/"
+    "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@2f9d2bd45ad112b5fca1fc5e9c13330182339dd0/"
   },
   "tasks": {
     "lume": "echo \"import 'lume/cli.ts'\" | deno run --unstable -A -",
