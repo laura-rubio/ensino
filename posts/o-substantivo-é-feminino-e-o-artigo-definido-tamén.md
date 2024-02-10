@@ -27,9 +27,9 @@ O plural de *arma* é *as armas,* logo é feminina.
 
 ## Exercicios
 
-### Básico
-
 Escribe o artigo definido:
+
+### Básico
 
 abeto > <e-answer> o </e-answer> abeto
 
