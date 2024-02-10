@@ -1,7 +1,8 @@
 {
   "imports": {
-    "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@2f9d2bd45ad112b5fca1fc5e9c13330182339dd0/"
+    "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@c92897fa2c41ac6e662108776ff3e71e8502b1d0/"
   },
+  "lock": false,
   "tasks": {
     "lume": "echo \"import 'lume/cli.ts'\" | deno run --unstable -A -",
     "build": "deno task lume",
