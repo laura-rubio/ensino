@@ -41,8 +41,6 @@ automóbil > <e-answer> o </e-answer> automóbil
 
 alma > <e-answer> a </e-answer> alma
 
-area > <e-answer> a </e-answer> area
-
 aula > <e-answer> a </e-answer> aula 
 
 aparello > <e-answer> o </e-answer> aparello 
@@ -52,6 +50,8 @@ aparello > <e-answer> o </e-answer> aparello
 acordeón > <e-answer> o </e-answer> acordeón 
 
 arte > <e-answer> a </e-answer> arte
+
+area > <e-answer> a </e-answer> area
 
 allo > <e-answer> o </e-answer> allo
 
