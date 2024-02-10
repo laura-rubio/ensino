@@ -5,8 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-| artigo determinado   |   o    |    a     |    os    |   as     |
-
-| artigo indeterminado |   un   |   unha   |    uns   |   unhas  |
+Artigo determinado: o, a, os, as
+Artigo indeterminado: un, unha, uns, unhas 
 
 
