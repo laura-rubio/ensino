@@ -1,5 +1,5 @@
 ---
-title: "O artigo "
+title: "As formas do artigo "
 tags:
   - clases_de_palabras
 draft: false
