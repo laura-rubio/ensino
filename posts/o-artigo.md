@@ -6,6 +6,6 @@ draft: false
 show_toc: false
 ---
 Artigo determinado: o, a, os, as
-Artigo indeterminado: un, unha, uns, unhas 
 
-
+
+Artigo indeterminado: un, unha, uns, unhas
