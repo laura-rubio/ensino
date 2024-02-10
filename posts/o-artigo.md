@@ -5,7 +5,6 @@ tags:
 draft: false
 show_toc: false
 ---
-Artigo determinado: o, a, os, as
+Artigo definido: o, a, os, as
 
-
-Artigo indeterminado: un, unha, uns, unhas
+Artigo indefinido: un, unha, uns, unhas
