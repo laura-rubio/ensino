@@ -1,9 +1,11 @@
 ---
-title: "O substantivo é feminino e o artigo definido, tamén "
+title: 'O substantivo é feminino e o artigo definido, tamén '
 tags:
-  - clases_de_palabras
+  - o_artigo
 draft: false
 show_toc: false
+summary: ''
+image: ''
 ---
 ## Xénero do substantivo e do artigo definido
 
