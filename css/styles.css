@@ -317,3 +317,7 @@ img.is-horizontal {
 .header-anchor:hover {
 	color: var(--gray);
 }
+
+e-moji {
+	font-size: 6rem;
+}
