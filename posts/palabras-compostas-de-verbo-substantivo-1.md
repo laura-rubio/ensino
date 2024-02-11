@@ -1,9 +1,11 @@
 ---
-title: Palabras compostas de verbo + substantivo
+title: Palabras compostas de verbo + substantivo (1)
 tags:
   - palabras_compostas
 draft: false
 show_toc: false
+summary: ''
+image: ''
 ---
 ## Verbos
 
