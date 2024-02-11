@@ -25,4 +25,4 @@ tags:
 
 <e-moji> 1000 + 🍃 =</e-moji> <e-answer>milfollas</e-answer> 
 
-<e-validate>Verifica a resposta</e-validate>
+<e-validate>Verifica as respostas</e-validate>
