@@ -27,7 +27,7 @@ As palabras compostas son formadas por dous ou máis lexemas.
 
 ## Exercicio
 
-Crea unha palabra nova por composición xuntando un verbo cun substantivo e, a seguir, relaciónaa coa imaxe correspondente.
+Crea unha palabra nova por composición xuntando un verbo cun substantivo. A seguir, escribe a palabra debaixo da imaxe correspondente.
 
 ![Image](/img/afialapis.jpg)
 
