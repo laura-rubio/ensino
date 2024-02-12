@@ -29,31 +29,31 @@ As palabras compostas son formadas por dous ou máis lexemas.
 
 Crea unha palabra nova por composición xuntando un verbo cun substantivo. A seguir, escribe a palabra debaixo da imaxe correspondente.
 
-![Image](/img/afialapis.jpg)
+![Image](/img/afialapis.jpg){.is-square}
 
 <e-answer>afialapis</e-answer>
 
-![Image](/img/cataventos.jpg)
+![Image](/img/cataventos.jpg){.is-square}
 
 <e-answer>cataventos</e-answer>
 
-![Image](/img/xirasol_1.jpg)
+![Image](/img/xirasol_1.jpg){.is-square}
 
 <e-answer>xirasol</e-answer> 
 
-![Image](/img/furabolos.jpg)
+![Image](/img/furabolos.jpg){.is-square}
 
 <e-answer>furabolos</e-answer> 
 
-![Image](/img/quebracabezas.jpg)
+![Image](/img/quebracabezas.jpg){.is-square}
 
 <e-answer>quebracabezas</e-answer> 
 
-![Image](/img/conta_gotas.jpg)
+![Image](/img/conta_gotas.jpg){.is-square}
 
 <e-answer>contagotas</e-answer> 
 
-![Image](/img/tira_leite.jpg)
+![Image](/img/tira_leite.jpg){.is-square}
 
 <e-answer>tiraleite</e-answer>
 
