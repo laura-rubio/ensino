@@ -40,6 +40,10 @@ Exemplo:
 
 <e-answer>afialapis</e-answer>
 
+![Image](/img/quebracabezas.jpg){.is-square}
+
+<e-answer>quebracabezas</e-answer> 
+
 ![Image](/img/cataventos.jpg){.is-square}
 
 <e-answer>cataventos</e-answer>
@@ -51,10 +55,6 @@ Exemplo:
 ![Image](/img/furabolos.jpg){.is-square}
 
 <e-answer>furabolos</e-answer> 
-
-![Image](/img/quebracabezas.jpg){.is-square}
-
-<e-answer>quebracabezas</e-answer> 
 
 ![Image](/img/conta_gotas.jpg){.is-square}
 
