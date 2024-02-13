@@ -66,6 +66,6 @@ Exemplo:
 
 ![Image](/img/portamoedas_portachaves.jpg){.is-square}
 
-<e-answer>portamoedas</e-answer> e <e-answer>portachaves</e-answer>
+<e-answer>portamoedas</e-answer> e chaveiro ou <e-answer>portachaves</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
