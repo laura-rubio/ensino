@@ -53,8 +53,6 @@ aparello > <e-answer> o </e-answer> aparello
 
 acordeón > <e-answer> o </e-answer> acordeón 
 
-arte > <e-answer> a </e-answer> arte
-
 area > <e-answer> a </e-answer> area
 
 allo > <e-answer> o </e-answer> allo
@@ -62,5 +60,73 @@ allo > <e-answer> o </e-answer> allo
 aguia > <e-answer> a </e-answer> aguia
 
 ama (de cría ou a patroa) > <e-answer> a </e-answer> ama
+
+<e-validate>Verifica as respostas</e-validate>
+
+### Intermedio
+
+altofalante > <e-answer> o </e-answer> altofalante
+
+alga > <e-answer> a </e-answer> alga
+
+algodón > <e-answer> o </e-answer> algodón
+
+asa > <e-answer> a </e-answer> asa 
+
+áncora > <e-answer> a </e-answer> áncora
+
+aspecto > <e-answer> o </e-answer> aspecto
+
+ascua > <e-answer> a </e-answer> ascua 
+
+alcol > <e-answer> o </e-answer> alcol
+
+aspa > <e-answer> a </e-answer> aspa 
+
+ánima > <e-answer> a </e-answer> ánima
+
+alcume > <e-answer> o </e-answer> alcume
+
+ansia > <e-answer> a </e-answer> ansia
+
+aloumiño > <e-answer> o </e-answer> aloumiño
+
+arca > <e-answer> a </e-answer> arca
+
+almacén > <e-answer> o </e-answer> almacén
+
+arpa > <e-answer> a </e-answer> arpa
+
+<e-validate>Verifica as respostas</e-validate>
+
+### Avanzado
+
+anteface > <e-answer> o </e-answer> anteface
+
+alba > <e-answer> a </e-answer> alba
+
+afán > <e-answer> o </e-answer> afán
+
+anca > <e-answer> a </e-answer> anca
+
+ágora > <e-answer> a </e-answer> ágora
+
+agrón > <e-answer> o </e-answer> agrón
+
+asta > <e-answer> a </e-answer> asta
+
+ágata > <e-answer> a </e-answer> ágata
+
+aborto > <e-answer> o </e-answer> aborto 
+
+álxebra > <e-answer> a </e-answer> álxebra
+
+acta > <e-answer> a </e-answer> acta
+
+asma > <e-answer> a </e-answer> asma
+
+árnica > <e-answer> a </e-answer> árnica
+
+alifafe > <e-answer> o </e-answer> alifafe
 
 <e-validate>Verifica as respostas</e-validate>
