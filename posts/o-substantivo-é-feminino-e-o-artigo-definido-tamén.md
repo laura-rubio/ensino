@@ -7,7 +7,7 @@ show_toc: false
 summary: ''
 image: ''
 ---
-## Xénero do substantivo e do artigo definido
+## Xénero do substantivo e do artigo determinado
 
 En español, os substantivos de xénero feminino que comezan por *a-* ou *ha-* tónico, trocan o artigo determinado feminino *(la)* polo masculino *(el).* 
 
