@@ -7,7 +7,7 @@ show_toc: false
 summary: ''
 image: ''
 ---
-## Artigo definido
+## Artigo determinado
 
 |                        | masculino        | feminino         |
 | ---------------------- | ---------------- | ---------------- | 
@@ -15,7 +15,7 @@ image: ''
 |  **plural**            | os               | as               |
 
 ---
-## Artigo indefinido
+## Artigo indeterminado
 
 |                        | masculino        | feminino         |
 | ---------------------- | ---------------- | ---------------- | 

@@ -1,5 +1,5 @@
 ---
-title: 'O substantivo é feminino e o artigo definido, tamén '
+title: 'O substantivo é feminino e o artigo determinado, tamén '
 tags:
   - o_artigo
 draft: false
@@ -9,21 +9,21 @@ image: ''
 ---
 ## Xénero do substantivo e do artigo definido
 
-En español, os substantivos de xénero feminino que comezan por *a-* ou *ha-* tónico, trocan o artigo definido feminino *(la)* polo masculino *(el).* 
+En español, os substantivos de xénero feminino que comezan por *a-* ou *ha-* tónico, trocan o artigo determinado feminino *(la)* polo masculino *(el).* 
 
 ## Por que?
 
 Para evitar ter que pronunciar dous *as* seguidos *(la arma)* cando están no singular. 
 
-Exemplo:
+Por esta razón, aínda que *arma* é unha palabra feminina, o artigo determinado singular que a acompaña é masculino: *el arma*
 
-*Arma* é unha palabra feminina, mais o artigo definido singular é masculino: *el arma*
-
-En galego non acontece isto. *Arma* é unha palabra feminina, por tanto, o artigo definido singular é tamén feminino: *a arma*
+En galego non acontece isto, quere dicir, *arma* é unha palabra feminina, e o artigo determinado singular é tamén feminino: *a arma*
 
 ## Como é: el arma ou la arma?
 
-Se tiveres dúbidas sobre o xénero da palabra, só tes que pasala ao plural:
+Se tiveres dúbidas sobre o xénero da palabra, só tes que pasala ao plural.
+
+Exemplo:
 
 O plural de *arma* é *as armas,* logo é feminina.
 
