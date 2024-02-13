@@ -34,7 +34,7 @@ Exemplo:
 
 ![Image](/img/corta_uñas.jpg){.is-square}
 
-<e-answer size_3 readonly>cortaúnllas</e-answer>
+<e-answer size_3 readonly>cortaúnllas</e-answer> ou <e-answer size_3 readonly>cortaúñas</e-answer>
 
 ![Image](/img/afialapis.jpg){.is-square}
 
