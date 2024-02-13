@@ -17,7 +17,7 @@ Para evitar ter que pronunciar dous *as* seguidos *(la arma)* cando están no si
 
 Por esta razón, aínda que *arma* é unha palabra feminina, o artigo determinado singular que a acompaña é masculino: *el arma*
 
-En galego non acontece isto, quere dicir, *arma* é unha palabra feminina, e o artigo determinado singular é tamén feminino: *a arma*
+En galego non acontece isto. *Arma* é unha palabra feminina, por tanto, o artigo determinado singular tamén é feminino: *a arma*
 
 ## Como é: el arma ou la arma?
 
@@ -29,7 +29,7 @@ O plural de *arma* é *as armas,* logo é feminina.
 
 ## Exercicios
 
-Escribe o artigo definido:
+Escribe o artigo determinado:
 
 ### Básico
 
