@@ -11,7 +11,6 @@ app
       "title: text",
       "summary: textarea",
       "tags: list",
-      "image: file",
       "draft: checkbox",
       "show_toc: checkbox",
       "content: markdown",
