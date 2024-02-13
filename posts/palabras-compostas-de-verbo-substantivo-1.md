@@ -11,7 +11,7 @@ image: ''
 
 <e-layout>
 
-<e-tag color=1>para</e-tag>  <e-tag color=1>lava</e-tag> <e-tag color=1>raña</e-tag> <e-tag color=1>saca</e-tag> <e-tag color=1>porta</e-tag>  <e-tag color=1>quebra</e-tag> <e-tag color=1>garda</e-tag> 
+<e-tag color=1>para</e-tag>  <e-tag color=1>lava</e-tag> <e-tag color=1>fura</e-tag> <e-tag color=1>raña</e-tag> <e-tag color=1>saca</e-tag> <e-tag color=1>porta</e-tag>  <e-tag color=1>quebra</e-tag> <e-tag color=1>garda</e-tag> 
 
 </e-layout>
 
@@ -19,7 +19,7 @@ image: ''
 
 <e-layout>
 
-<e-tag color=3>rollas</e-tag>  <e-tag color=3>noces</e-tag> <e-tag color=3>lamas</e-tag> <e-tag color=3>luvas</e-tag> <e-tag color=3>costas</e-tag>  <e-tag color=3>ceos</e-tag> <e-tag color=3>louza</e-tag> 
+<e-tag color=3>rollas</e-tag>  <e-tag color=3>noces</e-tag> <e-tag color=3>lamas</e-tag> <e-tag color=3>luvas</e-tag> <e-tag color=3>bolos</e-tag> <e-tag color=3>costas</e-tag>  <e-tag color=3>ceos</e-tag> <e-tag color=3>louza</e-tag> 
 
 </e-layout>
 
@@ -56,5 +56,9 @@ A primeira xeración de <e-answer>rañaceos</e-answer> apareceron en Chicago e e
 ![](/img/tira_rolhas.jpeg)
 
 Sirve ti o viño, na mesa da cociña tes o <e-answer>sacarrollas</e-answer>
+
+![Image](/img/furabolos_silencio.jpg)
+
+O <e-answer>furabolos</e-answer> sobre os labios significa silencio.
 
 <e-validate>Verifica as respostas</e-validate>
