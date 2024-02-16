@@ -1,9 +1,10 @@
 ---
-title: Riquiños, si, mais sen exaxerar
+title: 'Riquiños, si, mais sen exaxerar'
 summary: 10 palabras que non acaban en *-iño* nin en *-iña.*
 tags:
   - lexico
 draft: false
+show_toc: false
 ---
 A pesar de seren moitas as campañas publicitarias que contribuíron a espallar a idea de os galegos e as galegas seren persoas meigas que están o día todo a dicir *graciñas, [sentidiño](https://portaldaspalabras.gal/lexico/mira-que-din/sentidino/)*, *ruliña...* non é ben así. Para o probar, traio aquí esta lista de palabras que, ao contrario do que acontece en español, non se usan no diminutivo en galego.
 
