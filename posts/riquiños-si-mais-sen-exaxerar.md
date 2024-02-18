@@ -48,7 +48,7 @@ Por último, tampouco teñen *\-iña* nin *\-illa* ningún dos produtos ou prepa
 
 ## 9. Mesilla/mesita de noche > a mesa de cabeceira
 
-O pequeno móbel, xunto á cabeceira da cama, onde se colocan os obxectos que se poden precisar principalmente durante a noite é unha **mesa de cabeceira*,*** nunca unha *\*mesilla* nin tampouco unha *\*mesiña.*
+O pequeno móbel, xunto á cabeceira da cama, onde se colocan os obxectos que se poden precisar principalmente durante a noite é unha **mesa de cabeceira,** nunca unha *\*mesilla* nin tampouco unha *\*mesiña.*
 
 ## 10. Papilla > a papa ou as papas
 
