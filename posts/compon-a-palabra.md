@@ -11,7 +11,7 @@ tags:
 
 <e-moji> ⛹️ + 🗣 =</e-moji> <e-answer size_3 readonly>altofalante</e-answer>
 
-<e-moji> 🐄 + 👩 =</e-moji> <e-answer>vacaloura</e-answer>
+<e-moji> 🐄 + 👱🏼‍♀️ =</e-moji> <e-answer>vacaloura</e-answer>
 
 <e-moji> 🚰 + 🔥 =</e-moji> <e-answer>augardente</e-answer>
 
