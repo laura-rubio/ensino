@@ -3,8 +3,10 @@ title: Cantos anos teño?
 tags:
   - O numeral
 draft: false
+summary: ''
+show_toc: false
 ---
-A idade é só número, mais cal? Observa con atención as seguintes fotografías e tenta adiviñar a idade destes galegos famosos. Escribe o número por extenso.
+A idade é só un número, mais cal? Observa con atención as seguintes fotografías e tenta adiviñar a idade destes galegos famosos. Escribe o número por extenso.
 
 Amancio Ortega, o fundador de Inditex \[entre 80 e 90 anos]
 
