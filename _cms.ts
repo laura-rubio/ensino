@@ -1,4 +1,4 @@
-import cms from "lume/deps/cms.ts";
+import cms from "lume/cms.ts";
 
 const app = cms();
 
