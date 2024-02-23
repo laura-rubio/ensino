@@ -3,6 +3,7 @@ import slugifyUrls from "lume/plugins/slugify_urls.ts";
 import inline from "lume/plugins/inline.ts";
 import toc from "https://deno.land/x/lume_markdown_plugins@v0.6.0/toc.ts";
 import nunjucks from "lume/plugins/nunjucks.ts";
+import pagefind from "lume/plugins/pagefind.ts";
 
 const site = lume({
   src: ".",
@@ -16,6 +17,7 @@ site.ignore("README.md")
   }))
   .use(inline())
   .use(nunjucks())
+  .use(pagefind())
   .use(toc())
   .copy("admin")
   .copy("admin.css", "admin/admin.css")
