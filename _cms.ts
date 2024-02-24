@@ -4,6 +4,7 @@ const app = cms();
 
 app
   .upload("imaxes", "src:img")
+  .versioning("master")
   .collection(
     "posts",
     "src:posts/*.md",
