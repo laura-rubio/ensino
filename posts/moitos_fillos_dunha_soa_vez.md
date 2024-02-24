@@ -39,7 +39,7 @@ Se os bebés nacidos nun parto foren máis, reciben estes nomes:
 
 ## Agora em português! É quase igual!
 
-🚼🚼 são <e-answer>gémeos</e-answer> <e-answer>univitelinos</e-answer> ou <e-answer>gémeos</e-answer> <e-answer>bivitelinos<e/e-answer>
+🚼🚼 são <e-answer>gémeos</e-answer> <e-answer>univitelinos</e-answer> ou <e-answer>gémeos</e-answer> <e-answer>bivitelinos</e-answer>
 
 🚼🚼🚼 são <e-answer>trigémeos</e-answer>
 
@@ -56,4 +56,3 @@ Se os bebés nacidos nun parto foren máis, reciben estes nomes:
 🚼🚼🚼🚼🚼🚼🚼🚼🚼 são <e-answer>nónuplos</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
-
