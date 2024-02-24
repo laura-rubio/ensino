@@ -6,7 +6,7 @@ tags:
 draft: false
 show_toc: false
 ---
-Nos tempos de antes, era moi habitual os pais teren moitos fillos e fillas. Tamén era moi frecuente conviviren so o mesmo teito persoas de distintas xeracións: fillos, pais, avós, tíos etc. Nos nosos días, unha familia que ten tres fillos é xa unha familia numerosa e son moi escasas. A maioría ten unicamente un ou dous. 
+Antigamente, era moi habitual os pais teren moitos fillos e fillas. Tamén era moi frecuente conviviren so o mesmo teito persoas de distintas xeracións: fillos, pais, avós, tíos etc. Nos nosos días, unha familia con tres fillos é xa unha familia numerosa e son moi escasas. A maioría ten unicamente un ou dous. 
 
 A pesar de seren unha excepción, hoxe imos debruzarnos sobre as familias numerosas, nomeadamente, sobre aquelas que teñen moitos fillos dunha vez. O noso obxectivo vai ser aprendermos os nomes en galego para os bebés nacidos nun mesmo parto. Ti sabes isto? Non? Entón o primeiro é veres o vídeo: 
 
@@ -19,7 +19,7 @@ Por último, os irmáns xemelgos idénticos que nacen unidos por algunha parte d
 
 <e-validate>Verifica a resposta</e-validate>
 
-Se os bebés nacidos nun parto foren máis, reciben estes nomes:
+Se os bebés nacidos nun parto foren máis de dous, reciben estes nomes:
 
 🚼🚼🚼 son <e-answer>trixemelgos</e-answer>
 
@@ -37,7 +37,7 @@ Se os bebés nacidos nun parto foren máis, reciben estes nomes:
 
 <e-validate>Verifica a resposta</e-validate>
 
-## Agora em português! É quase igual!
+## Agora em português! É practicamente igual!
 
 🚼🚼 são <e-answer readonly>gémeos</e-answer> <e-answer>univitelinos</e-answer> ou <e-answer>gémeos</e-answer> <e-answer>bivitelinos</e-answer>
 
