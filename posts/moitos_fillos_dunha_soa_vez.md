@@ -37,7 +37,7 @@ Se os bebés nacidos nun parto foren máis de dous, reciben estes nomes:
 
 <e-validate>Verifica a resposta</e-validate>
 
-## Agora em português! É practicamente igual!
+## Agora em português! É praticamente igual!
 
 🚼🚼 são <e-answer readonly>gémeos</e-answer> <e-answer>univitelinos</e-answer> ou <e-answer>gémeos</e-answer> <e-answer>bivitelinos</e-answer>
 
