@@ -36,3 +36,24 @@ Se os bebés nacidos nun parto foren máis, reciben estes nomes:
 🚼🚼🚼🚼🚼🚼🚼🚼🚼 son  <e-answer>nónuplos</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
+
+## Agora em português! É quase igual!
+
+🚼🚼 são <e-answer>gémeos</e-answer> <e-answer>univitelinos</e-answer> ou <e-answer>gémeos</e-answer> <e-answer>bivitelinos<e/e-answer>
+
+🚼🚼🚼 são <e-answer>trigémeos</e-answer>
+
+🚼🚼🚼🚼 são <e-answer>quadrigémeos</e-answer>
+
+🚼🚼🚼🚼🚼 são <e-answer>quíntuplos</e-answer>
+
+🚼🚼🚼🚼🚼🚼 são <e-answer>séxtuplos</e-answer>
+
+🚼🚼🚼🚼🚼🚼🚼 são <e-answer>séptuplos</e-answer>
+
+🚼🚼🚼🚼🚼🚼🚼🚼 são <e-answer>óctuplos</e-answer>
+
+🚼🚼🚼🚼🚼🚼🚼🚼🚼 são <e-answer>nónuplos</e-answer>
+
+<e-validate>Verifica a resposta</e-validate>
+
