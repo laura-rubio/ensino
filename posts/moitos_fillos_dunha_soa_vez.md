@@ -8,7 +8,7 @@ show_toc: false
 ---
 Nos tempos de antes, era moi habitual os pais teren moitos fillos e fillas. Tamén era moi frecuente conviviren so o mesmo teito persoas de distintas xeracións: fillos, pais, avós, tíos etc. Nos nosos días, unha familia que ten tres fillos é xa unha familia numerosa e son moi escasas. A maioría ten unicamente un ou dous. 
 
-A pesar de seren unha excepción, hoxe imos debruzarnos sobre as familias numerosas, nomeadamente, daquelas que teñen moitos fillos dunha vez. O noso obxectivo vai ser aprendermos os nomes en galego para os bebés nacidos nun mesmo parto. Ti sabes isto? Non? Entón o primeiro é veres o vídeo: 
+A pesar de seren unha excepción, hoxe imos debruzarnos sobre as familias numerosas, nomeadamente, sobre aquelas que teñen moitos fillos dunha vez. O noso obxectivo vai ser aprendermos os nomes en galego para os bebés nacidos nun mesmo parto. Ti sabes isto? Non? Entón o primeiro é veres o vídeo: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FQfghLHlDh0?si=534mIfRNI-C3hCqX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
