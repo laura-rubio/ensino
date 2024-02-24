@@ -122,7 +122,8 @@ function createInput(el) {
 
   const input = document.createElement("input");
   input.type = "text";
-  input.size = el.getAttribute("size") || 8;
+  input.size = el.getAttribute("size") ||
+    Math.max(el.innerHTML.trim().length, 7);
   input.placeholder = el.getAttribute("placeholder") || "...";
   if (el.hasAttribute("readonly")) {
     input.readOnly = true;
