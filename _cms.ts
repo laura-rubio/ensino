@@ -2,6 +2,14 @@ import cms from "lume/cms.ts";
 
 const app = cms();
 
+const tags = {
+  name: "tags",
+  type: "list",
+  init(field) {
+    field.options = field.cmsContent.data.site.search.values("id", "type=category");
+  }
+};
+
 app
   .upload("imaxes", "src:img")
   .versioning("master")
@@ -11,7 +19,7 @@ app
     [
       "title: text",
       "summary: textarea",
-      "tags: list",
+      tags,
       "draft: checkbox",
       "show_toc: checkbox",
       "content: markdown",
@@ -25,7 +33,7 @@ app
   .collection("categorías", "src:categories", [
     "title: text",
     "id: text",
-    "tags: list",
+    tags,
   ]);
 
 export default app;
