@@ -4,6 +4,7 @@ tags:
   - sons_vocalicos
 draft: false
 show_toc: false
+summary: ''
 ---
 Ouve con atención e identifica como é o *e* da sílaba tónica das seguintes series de palabras. Despois, escribe aberto ou fechado no cadro.
 
@@ -139,9 +140,9 @@ l<mark>e</mark>tra:
 
 <e-validate>Verifica a resposta</e-validate>
 
-n<mark>e</mark>to:
+v<mark>e</mark>llo:
 
-<audio src="https://ilg.usc.es/pronuncia/mp3/n/497.mp3" controls> </audio> <e-answer>aberto</e-answer>
+<audio src="https://ilg.usc.es/pronuncia/mp3/v/384.mp3" controls> </audio> <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
