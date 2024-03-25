@@ -63,7 +63,7 @@ n<mark>e</mark>gro:
 
 <e-validate>Verifica a resposta</e-validate>
 
-v<mark>e</mark>rmello:
+verm<mark>e</mark>llo:
 
 <audio src="https://ilg.usc.es/pronuncia/mp3/v/586.mp3" controls> </audio>  <e-answer>fechado</e-answer>
 
