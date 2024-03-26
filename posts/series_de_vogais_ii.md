@@ -139,12 +139,12 @@ s<mark>e</mark>u:
 
 n<mark>o</mark>sa:
 
-<audio src="https://ilg.usc.es/pronuncia/mp3/n/915.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+<audio src="https://ilg.usc.es/pronuncia/mp3/n/916.mp3" controls> </audio>  <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
 v<mark>o</mark>sa:
 
-<audio src="https://ilg.usc.es/pronuncia/mp3/v/1320.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+<audio src="https://ilg.usc.es/pronuncia/mp3/v/1321.mp3" controls> </audio>  <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
