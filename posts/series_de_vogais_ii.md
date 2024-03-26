@@ -98,3 +98,53 @@ r<mark>o</mark>sa:
 <audio src="https://ilg.usc.es/pronuncia/mp3/r/2973.mp3" controls> </audio>  <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
+
+## Serie 3: Os posesivos
+
+m<mark>e</mark>u:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/m/1947.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+
+<e-validate>Verifica a resposta</e-validate>
+
+t<mark>e</mark>u:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/t/1145.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+
+<e-validate>Verifica a resposta</e-validate>
+
+s<mark>e</mark>u:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/s/1342.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+
+<e-validate>Verifica a resposta</e-validate>
+
+n<mark>o</mark>so:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/n/915.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+
+<e-validate>Verifica a resposta</e-validate>
+
+v<mark>o</mark>so:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/v/1320.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+
+<e-validate>Verifica a resposta</e-validate>
+
+s<mark>e</mark>u:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/s/1342.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+
+<e-validate>Verifica a resposta</e-validate>
+
+n<mark>o</mark>sa:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/n/915.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+
+<e-validate>Verifica a resposta</e-validate>
+
+v<mark>o</mark>sa:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/v/1320.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+
+<e-validate>Verifica a resposta</e-validate>
