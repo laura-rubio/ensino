@@ -3,6 +3,8 @@ title: Serie de palabras terminadas en -ela
 summary: ''
 draft: false
 show_toc: false
+tags:
+  - sons_vocalicos
 ---
 Ouve con atención e identifica como é o e da sílaba tónica da seguinte serie de palabras. Despois, escribe aberto ou fechado no cadro.
 
