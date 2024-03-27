@@ -94,6 +94,8 @@ donc<mark>e</mark>la:
 
 ### Repara!
 
-O *e* tónico das palabras terminadas en -ela é <e-answer>aberto</e-answer>.
+O *e* tónico das palabras terminadas en *-ela* é <e-answer>aberto</e-answer>.
 
-A única excepción é a palabra <e-answer>estrela</e-answer>, con e <e-answer>fechado</e-answer>
+A única excepción é a palabra <e-answer>estrela</e-answer>, con *e* <e-answer>fechado</e-answer>
+
+<e-validate>Verifica a resposta</e-validate>
