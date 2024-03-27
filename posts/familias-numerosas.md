@@ -14,8 +14,11 @@ A pesar de seren unha excepción, hoxe imos debruzarnos sobre as familias numero
 
 Como explica Esther Estévez nel, o nome muda de acordo co número de bebés que nacen:
 
-Dous irmáns nacidos nun mesmo parto son <e-answer>xemelgos</e-answer>, e poden ser de dous tipos: xemelgos univitelinos ou xemelgos bivitelinos. Os que naceron do mesmo óvulo e son idénticos son os <e-answer>xemelgos</e-answer> <e-answer>univitelinos</e-answer>. Mais tamén pode ser que non se parezan moito e que mesmo teñan un sexo diferente. Neste caso chamámolos <e-answer>xemelgos</e-answer> <e-answer>bivitelinos</e-answer>, porque proceden de óvulos distintos. 
-Por último, os irmáns xemelgos idénticos que nacen unidos por algunha parte do corpo son os <e-answer>siameses</e-answer>.
+Dous irmáns nacidos nun mesmo parto son <e-answer>xemelgos</e-answer>, e poden ser de dous tipos. Os que naceron do mesmo óvulo e son idénticos son os <e-answer>xemelgos</e-answer> <e-answer>univitelinos</e-answer>. Mais tamén pode ser que non se parezan moito e que mesmo teñan un sexo diferente. Neste caso chamámolos <e-answer>xemelgos</e-answer> <e-answer>bivitelinos</e-answer>, porque proceden de óvulos distintos. 
+
+<e-validate>Verifica a resposta</e-validate>
+
+Aínda que non se comenta no vídeo, existe unha palabra para referirse aos irmáns xemelgos idénticos que nacen unidos por algunha parte do corpo. Cal é? <e-answer>siameses</e-answer>.
 
 <e-validate>Verifica a resposta</e-validate>
 
