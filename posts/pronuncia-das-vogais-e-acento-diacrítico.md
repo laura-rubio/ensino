@@ -97,7 +97,7 @@ O *o* e o *e* das palabras con acento diacrítico é sempre <e-answer>aberto</e-
 Esta regra só ten dúas excepcións:
 
 * o verbo <e-answer>pór</e-answer>
-* a P2 do imperativo do verbo *ser* <e-answer readonly>sé</e-answer>. Ex.: *Pórtate ben e sé educado, por favor.*
+* a P2 do imperativo do verbo *ser* <e-answer readonly>sé</e-answer>> Ex.: *Pórtate ben e sé educado, por favor.*
 
 Nestes casos, aínda que se acentúan, tanto o *o* como o *e* é <e-answer>fechado</e-answer>.
 
