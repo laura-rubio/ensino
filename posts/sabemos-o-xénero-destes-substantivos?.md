@@ -52,3 +52,18 @@ Escribe a forma do artigo determinado adecuada en cada caso:
 10. <e-answer>a</e-answer> fronte
 
 <e-validate>Verifica as respostas</e-validate>
+
+# Serie 4
+
+1. <e-answer readonly>a</e-answer> acne
+2. <e-answer>o</e-answer> cuspe
+3. <e-answer>os</e-answer> cárceres
+4. <e-answer>a</e-answer> énfase
+5. <e-answer>as</e-answer> paisaxes
+6. <e-answer>o</e-answer> réxime
+7. <e-answer>a</e-answer> estrea
+8. <e-answer>a</e-answer> síndrome
+9. <e-answer>o</e-answer> gume
+10. <e-answer>a</e-answer> fraude
+
+<e-validate>Verifica as respostas</e-validate>
