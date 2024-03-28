@@ -1,12 +1,17 @@
 ---
-title: Sabemos o xénero destes substantivos?
+title: 'O par perfecto: artigos e substantivos'
 summary: ''
 tags:
   - o_artigo
 draft: false
 show_toc: false
 ---
-Escribe a forma do artigo determinado adecuada en cada caso:
+Todo o mundo sabe que o artigo e o substantivo non poden estar afastados un do outro. 
+
+O artigo antecede sempre o substantivo e, como acontece coas relacións, a unión só será harmoniosa se ambos concordaren en xénero e número.
+
+Ten en conta isto, e acaba coa soidade dos substantivos das seguintes series xuntándoos co artigo determinado ideal: 
+
 
 # Serie 1
 
@@ -58,12 +63,57 @@ Escribe a forma do artigo determinado adecuada en cada caso:
 1. <e-answer readonly>a</e-answer> acne
 2. <e-answer>o</e-answer> cuspe
 3. <e-answer>os</e-answer> cárceres
-4. <e-answer>a</e-answer> énfase
+4. <e-answer>a</e-answer> calor
 5. <e-answer>as</e-answer> paisaxes
 6. <e-answer>o</e-answer> réxime
 7. <e-answer>a</e-answer> estrea
 8. <e-answer>a</e-answer> síndrome
 9. <e-answer>o</e-answer> gume
 10. <e-answer>a</e-answer> fraude
+
+<e-validate>Verifica as respostas</e-validate>
+
+# Serie 5
+
+1. <e-answer readonly>as</e-answer> testemuñas
+2. <e-answer>a</e-answer> suor
+3. <e-answer>o</e-answer> garaxe
+4. <e-answer>a</e-answer> reciclaxe
+5. <e-answer>as</e-answer> frontes
+6. <e-answer>o</e-answer> couce
+7. <e-answer>a</e-answer> síndrome
+8. <e-answer>as</e-answer> homenaxes
+9. <e-answer>o</e-answer> dote
+10. <e-answer>as</e-answer> canles
+
+<e-validate>Verifica as respostas</e-validate>
+
+# Serie 6
+
+1. <e-answer readonly>a</e-answer> xénese
+2. <e-answer>o</e-answer> masacre
+3. <e-answer>a</e-answer> cute
+4. <e-answer>a</e-answer> fouce
+5. <e-answer>o</e-answer> glute
+6. <e-answer>a</e-answer> rouquén
+7. <e-answer>as</e-answer> eclipses
+8. <e-answer>a</e-answer> estante
+9. <e-answer>a</e-answer> diabetes
+10. <e-answer>o</e-answer> cal
+
+<e-validate>Verifica as respostas</e-validate>
+
+# Serie 7
+
+1. <e-answer readonly>o</e-answer> testemuño
+2. <e-answer>as</e-answer> miraxes
+3. <e-answer>o</e-answer> auxe
+4. <e-answer>a</e-answer> énfase
+5. <e-answer>o</e-answer> dó
+6. <e-answer>a</e-answer> apocalipse
+7. <e-answer>a</e-answer> pube
+8. <e-answer>os</e-answer> alifafes
+9. <e-answer>a</e-answer> reuma
+10. <e-answer>o</e-answer> apóstrofo
 
 <e-validate>Verifica as respostas</e-validate>
