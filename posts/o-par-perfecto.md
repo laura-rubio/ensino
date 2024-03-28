@@ -127,5 +127,6 @@ Ten en conta isto, e acaba coa soidade dos substantivos das seguintes series xun
 5. <e-answer>o</e-answer> axóuxere
 6. <e-answer>a</e-answer> apóstrofe
 7. <e-answer>a</e-answer> espionaxe
+8. <e-answer>o</e-answer> diadema
 
 <e-validate>Verifica as respostas</e-validate>
