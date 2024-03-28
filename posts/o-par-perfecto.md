@@ -51,7 +51,7 @@ Ten en conta isto, e acaba coa soidade dos substantivos das seguintes series xun
 4. <e-answer>o</e-answer> cume
 5. <e-answer>as</e-answer> reportaxes
 6. <e-answer>o</e-answer> sinal
-7. <e-answer>o</e-answer> sal
+7. <e-answer>a</e-answer> porcentaxe
 8. <e-answer>a</e-answer> marxe
 9. <e-answer>os</e-answer> costumes
 10. <e-answer>a</e-answer> fronte
@@ -79,7 +79,7 @@ Ten en conta isto, e acaba coa soidade dos substantivos das seguintes series xun
 2. <e-answer>a</e-answer> suor
 3. <e-answer>o</e-answer> garaxe
 4. <e-answer>a</e-answer> reciclaxe
-5. <e-answer>as</e-answer> frontes
+5. <e-answer>as</e-answer> peaxes
 6. <e-answer>o</e-answer> couce
 7. <e-answer>a</e-answer> síndrome
 8. <e-answer>as</e-answer> homenaxes
@@ -97,7 +97,7 @@ Ten en conta isto, e acaba coa soidade dos substantivos das seguintes series xun
 5. <e-answer>o</e-answer> glute
 6. <e-answer>a</e-answer> rouquén
 7. <e-answer>as</e-answer> eclipses
-8. <e-answer>a</e-answer> estante
+8. <e-answer>o</e-answer> estante
 9. <e-answer>a</e-answer> diabetes
 10. <e-answer>o</e-answer> cal
 
@@ -115,5 +115,17 @@ Ten en conta isto, e acaba coa soidade dos substantivos das seguintes series xun
 8. <e-answer>os</e-answer> alifafes
 9. <e-answer>a</e-answer> reuma
 10. <e-answer>o</e-answer> apóstrofo
+
+<e-validate>Verifica as respostas</e-validate>
+
+# Serie 8
+
+1. <e-answer readonly>o</e-answer> valse
+2. <e-answer>a</e-answer> vertixe 
+3. <e-answer>as</e-answer> palafitas
+4. <e-answer>a</e-answer> ferruxe
+5. <e-answer>o</e-answer> axóuxere
+6. <e-answer>a</e-answer> apóstrofe
+7. <e-answer>a</e-answer> espionaxe
 
 <e-validate>Verifica as respostas</e-validate>
