@@ -1,6 +1,6 @@
 ---
 title: Puxa ou empurra?
-summary: Puxar non é push, non
+summary: 'Puxar non é push, non'
 tags:
   - lexico
   - o_verbo
@@ -60,12 +60,6 @@ Completa con *puxa* ou *empurra:*
 <iframe src="https://giphy.com/embed/3o6Zt2aRZ4jobek6ze" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <e-answer>puxa</e-answer>
-
-<e-validate>Verifica a resposta</e-validate>
-
-<iframe src="https://giphy.com/embed/TGdkxy8Dwt3AtG76EG" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-<e-answer>empurra</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
