@@ -128,7 +128,7 @@ Ten en conta isto, e acaba coa soidade dos substantivos das seguintes series xun
 7. <e-answer>a</e-answer> apóstrofe
 8. <e-answer>o</e-answer> ubre
 9. <e-answer>a</e-answer> agravante
-10. <e-answer>as</e-answer> as avestruces
+10. <e-answer>as</e-answer> avestruces
 11. <e-answer>o</e-answer> diadema
 
 <e-validate>Verifica as respostas</e-validate>
