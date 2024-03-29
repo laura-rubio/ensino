@@ -1,6 +1,5 @@
 ---
 title: 'O par perfecto: artigos e substantivos'
-summary: ''
 tags:
   - o_artigo
 draft: false
@@ -99,14 +98,14 @@ Ten en conta isto, e acaba coa soidade dos substantivos das seguintes series xun
 7. <e-answer>as</e-answer> eclipses
 8. <e-answer>o</e-answer> estante
 9. <e-answer>a</e-answer> diabetes
-10. <e-answer>o</e-answer> cal
+10. <e-answer>os</e-answer> pesadelos
 
 <e-validate>Verifica as respostas</e-validate>
 
 # Serie 7
 
 1. <e-answer readonly>o</e-answer> testemuño
-2. <e-answer>as</e-answer> miraxes
+2. <e-answer>as</e-answer> orixes
 3. <e-answer>o</e-answer> auxe
 4. <e-answer>a</e-answer> énfase
 5. <e-answer>o</e-answer> dó
@@ -121,12 +120,15 @@ Ten en conta isto, e acaba coa soidade dos substantivos das seguintes series xun
 # Serie 8
 
 1. <e-answer readonly>o</e-answer> valse
-2. <e-answer>a</e-answer> vertixe 
-3. <e-answer>as</e-answer> palafitas
-4. <e-answer>a</e-answer> ferruxe
-5. <e-answer>o</e-answer> axóuxere
-6. <e-answer>a</e-answer> apóstrofe
-7. <e-answer>a</e-answer> espionaxe
-8. <e-answer>o</e-answer> diadema
+2. <e-answer>a</e-answer> vertixe
+3. <e-answer>o</e-answer> fel
+4. <e-answer>as</e-answer> palafitas
+5. <e-answer>a</e-answer> ferruxe
+6. <e-answer>o</e-answer> axóuxere
+7. <e-answer>a</e-answer> apóstrofe
+8. <e-anwer>o</e-answer> ubre
+9. <e-answer>a</e-answer> agravante
+10. <e-anwer>as</e-answer> as avestruces
+11. <e-answer>o</e-answer> diadema
 
 <e-validate>Verifica as respostas</e-validate>
