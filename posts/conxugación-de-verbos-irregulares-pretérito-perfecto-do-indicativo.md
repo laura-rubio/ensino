@@ -152,7 +152,7 @@ Conxuga no pretérito perfecto do indicativo os seguintes verbos:
 - Ti <e-answer>trouxeches</e-answer>
 - El, ele, vostede <e-answer>trouxo</e-answer>
 - Nós <e-answer>trouxemos</e-answer>
-- Vós <e-answer>troxestes</e-answer>
+- Vós <e-answer>trouxestes</e-answer>
 - Eles, elas, vostedes <e-answer>trouxeron</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
