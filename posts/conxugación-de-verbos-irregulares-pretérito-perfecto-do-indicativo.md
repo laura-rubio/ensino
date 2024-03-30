@@ -176,6 +176,8 @@ Conxuga no pretérito perfecto do indicativo os seguintes verbos:
 - Vós <e-answer>tivestes</e-answer>
 - Eles, elas, vostedes <e-answer>tiveron</e-answer>
 
+<e-validate>Verifica as respostas</e-validate>
+
 ## Valer
 - Eu <e-answer>valín</e-answer>
 - Ti <e-answer>valiches</e-answer>

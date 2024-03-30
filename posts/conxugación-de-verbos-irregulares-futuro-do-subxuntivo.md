@@ -175,6 +175,8 @@ Conxuga no futuro do subxuntivo os seguintes verbos:
 - Vós <e-answer>tiverdes</e-answer>
 - Eles, elas, vostedes <e-answer>tiveren</e-answer>
 
+<e-validate>Verifica as respostas</e-validate>
+
 ## Valer
 - Eu <e-answer>valer</e-answer>
 - Ti <e-answer>valeres</e-answer>
