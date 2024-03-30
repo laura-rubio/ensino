@@ -8,7 +8,7 @@ show_toc: false
 Conxuga no pretérito perfecto do indicativo os seguintes verbos:
 
 ## Caber
-- Eu <e-answer>coubeo</e-answer>
+- Eu <e-answer>couben</e-answer>
 - Ti <e-answer>coubeches</e-answer>
 - El, ele, vostede <e-answer>coubo</e-answer>
 - Nós <e-answer>coubemos</e-answer>
