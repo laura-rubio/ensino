@@ -7,16 +7,6 @@ show_toc: false
 ---
 Conxuga no pretérito perfecto do indicativo os seguintes verbos:
 
-## Ser
-- Eu <e-answer>fun</e-answer>
-- Ti <e-answer>fuches</e-answer>
-- El, ele, vostede <e-answer>foi</e-answer>
-- Nós <e-answer>fomos</e-answer>
-- Vós <e-answer>fostes</e-answer>
-- Eles, elas, vostedes <e-answer>foron</e-answer>
-
-<e-validate>Verifica as respostas</e-validate>
-
 ## Caber
 - Eu <e-answer>coubeo</e-answer>
 - Ti <e-answer>coubeches</e-answer>
@@ -54,6 +44,16 @@ Conxuga no pretérito perfecto do indicativo os seguintes verbos:
 - Nós <e-answer>fixemos</e-answer>
 - Vós <e-answer>fixestes</e-answer>
 - Eles, elas, vostedes <e-answer>fixeron</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Haber
+- Eu <e-answer>houben</e-answer>
+- Ti <e-answer>houbeches</e-answer>
+- El, ele, vostede <e-answer>houbo</e-answer>
+- Nós <e-answer>houbemos</e-answer>
+- Vós <e-answer>houbestes</e-answer>
+- Eles, elas, vostedes <e-answer>houberon</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -127,16 +127,6 @@ Conxuga no pretérito perfecto do indicativo os seguintes verbos:
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Traer
-- Eu <e-answer>trouxen</e-answer>
-- Ti <e-answer>trouxeches</e-answer>
-- El, ele, vostede <e-answer>trouxo</e-answer>
-- Nós <e-answer>trouxemos</e-answer>
-- Vós <e-answer>troxestes</e-answer>
-- Eles, elas, vostedes <e-answer>trouxeron</e-answer>
-
-<e-validate>Verifica as respostas</e-validate>
-
 ## Saber
 - Eu <e-answer>souben</e-answer>
 - Ti <e-answer>soubeches</e-answer>
@@ -144,6 +134,26 @@ Conxuga no pretérito perfecto do indicativo os seguintes verbos:
 - Nós <e-answer>soubemos</e-answer>
 - Vós <e-answer>soubestes</e-answer>
 - Eles, elas, vostedes <e-answer>souberon</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Ser
+- Eu <e-answer>fun</e-answer>
+- Ti <e-answer>fuches</e-answer>
+- El, ele, vostede <e-answer>foi</e-answer>
+- Nós <e-answer>fomos</e-answer>
+- Vós <e-answer>fostes</e-answer>
+- Eles, elas, vostedes <e-answer>foron</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Traer
+- Eu <e-answer>trouxen</e-answer>
+- Ti <e-answer>trouxeches</e-answer>
+- El, ele, vostede <e-answer>trouxo</e-answer>
+- Nós <e-answer>trouxemos</e-answer>
+- Vós <e-answer>troxestes</e-answer>
+- Eles, elas, vostedes <e-answer>trouxeron</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
