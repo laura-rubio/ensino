@@ -152,7 +152,7 @@ Conxuga no futuro do subxuntivo os seguintes verbos:
 - Ti <e-answer>trouxeres</e-answer>
 - El, ele, vostede <e-answer>trouxer</e-answer>
 - Nós <e-answer>trouxermos</e-answer>
-- Vós <e-answer>troxerdes</e-answer>
+- Vós <e-answer>trouxerdes</e-answer>
 - Eles, elas, vostedes <e-answer>trouxeren</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
