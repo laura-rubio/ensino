@@ -22,7 +22,7 @@ Conxuga no pretérito perfecto do indicativo os seguintes verbos:
 - Ti <e-answer>deches</e-answer>
 - El, ele, vostede <e-answer>deu</e-answer>
 - Nós <e-answer>demos</e-answer>
-- Vós <e-answer>deste</e-answer>
+- Vós <e-answer>destes</e-answer>
 - Eles, elas, vostedes <e-answer>deron</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
