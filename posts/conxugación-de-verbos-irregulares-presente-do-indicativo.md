@@ -87,6 +87,16 @@ Conxuga no presente do indicativo os seguintes verbos:
 
 <e-validate>Verifica as respostas</e-validate>
 
+## Poder
+- Eu <e-answer>podo</e-answer>
+- Ti <e-answer>podes</e-answer>
+- El, ele, vostede <e-answer>pode</e-answer>
+- Nós <e-answer>podemos</e-answer>
+- Vós <e-answer>podedes</e-answer>
+- Eles, elas, vostedes <e-answer>poden</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
 ## Pór
 - Eu <e-answer>poño</e-answer>
 - Ti <e-answer>pos</e-answer>
