@@ -121,12 +121,12 @@ Ten en conta isto, e acaba coa soidade dos substantivos das seguintes series xun
 
 1. <e-answer readonly>o</e-answer> valse
 2. <e-answer>a</e-answer> vertixe
-3. <e-answer>o</e-answer> fel
-4. <e-answer>as</e-answer> palafitas
+3. <e-answer>os</e-answer> ubres
+4. <e-answer>a</e-answer> palafita
 5. <e-answer>a</e-answer> ferruxe
 6. <e-answer>o</e-answer> axóuxere
 7. <e-answer>a</e-answer> apóstrofe
-8. <e-answer>o</e-answer> ubre
+8. <e-answer>o</e-answer> fel
 9. <e-answer>a</e-answer> agravante
 10. <e-answer>as</e-answer> avestruces
 11. <e-answer>o</e-answer> diadema
