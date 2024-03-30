@@ -143,6 +143,6 @@ Ten en conta isto, e acaba coa soidade dos substantivos das seguintes series xun
 7. <e-answer>o</e-answer> nada
 8. <e-answer>o</e-answer> diadema
 9. <e-answer>as</e-answer> iconas
-10. <e-answer>o</e-answer> malgaxe
+10. <e-answer>o</e-answer> áloe
    
 <e-validate>Verifica as respostas</e-validate>
