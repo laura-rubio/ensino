@@ -139,8 +139,9 @@ Ten en conta isto, e acaba coa soidade dos substantivos das seguintes series xun
 3. <e-answer>o</e-answer> bechamel
 4. <e-answer>a</e-answer> carraxe
 5. <e-answer>o</e-answer> paradoxo
-6. <e-answer>o</e-answer> nada
-7. <e-answer>o</e-answer> diadema
-8. <e-answer>as</e-answer> equipaxes
+6. <e-answer>as</e-answer> iconas
+7. <e-answer>o</e-answer> nada
+8. <e-answer>o</e-answer> diadema
+9. <e-answer>as</e-answer> equipaxes
    
 <e-validate>Verifica as respostas</e-validate>
