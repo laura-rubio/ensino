@@ -182,7 +182,7 @@ Conxuga no presente do indicativo os seguintes verbos:
 - Ti <e-answer>ves</e-answer>
 - El, ele, vostede <e-answer>vén</e-answer>
 - Nós <e-answer>vimos</e-answer>
-- Vós <e-answer>vides</e-answer> ou <e-answer readonly>vindes</e-answer>
+- Vós <e-answer readonly>vindes</e-answer> ou <e-answer>vides</e-answer>
 - Eles, elas, vostedes <e-answer>veñen</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
