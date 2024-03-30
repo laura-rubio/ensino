@@ -3,6 +3,8 @@ title: O pretérito perfecto do indicativo (1)
 summary: Exercicio para practicares o pretérito perfecto do indicativo
 tags:
   - tempos_verbais
+draft: false
+show_toc: false
 ---
 ## Recursos
 
@@ -12,7 +14,7 @@ tags:
 
 - - -
 
-## Exercicios
+## Exercicio
 
 Pon as seguintes oracións en pasado.
 

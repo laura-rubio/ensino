@@ -97,7 +97,6 @@ Conxuga no futuro do subxuntivo os seguintes verbos:
 
 <e-validate>Verifica as respostas</e-validate>
 
-
 ## Pór
 - Eu <e-answer>puxer</e-answer>
 - Ti <e-answer>puxeres</e-answer>
@@ -105,6 +104,16 @@ Conxuga no futuro do subxuntivo os seguintes verbos:
 - Nós <e-answer>puxermos</e-answer>
 - Vós <e-answer>puxerdes</e-answer>
 - Eles, elas, vostedes <e-answer>puxeren</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Querer
+- Eu <e-answer>quixer</e-answer>
+- Ti <e-answer>quixeres</e-answer>
+- El, ele, vostede <e-answer>quixer</e-answer>
+- Nós <e-answer>quixermos</e-answer>
+- Vós <e-answer>quixerdes</e-answer>
+- Eles, elas, vostedes <e-answer>quixeren</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -157,7 +166,6 @@ Conxuga no futuro do subxuntivo os seguintes verbos:
 - Eles, elas, vostedes <e-answer>viren</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
-
 
 ## Vir
 - Eu <e-answer>viñer</e-answer>

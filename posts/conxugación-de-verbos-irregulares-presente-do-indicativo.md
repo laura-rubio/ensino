@@ -107,6 +107,16 @@ Conxuga no presente do indicativo os seguintes verbos:
 
 <e-validate>Verifica as respostas</e-validate>
 
+## Querer
+- Eu <e-answer>quero</e-answer>
+- Ti <e-answer>queres</e-answer>
+- El, ele, vostede <e-answer>quere</e-answer>
+- Nós <e-answer>queremos</e-answer>
+- Vós <e-answer>queredes</e-answer>
+- Eles, elas, vostedes <e-answer>queren</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
 ## Rir
 - Eu <e-answer>río</e-answer>
 - Ti <e-answer>ris</e-answer>
@@ -156,7 +166,6 @@ Conxuga no presente do indicativo os seguintes verbos:
 - Eles, elas, vostedes <e-answer>ven</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
-
 
 ## Vir
 - Eu <e-answer>veño</e-answer>

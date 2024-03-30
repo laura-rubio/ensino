@@ -97,7 +97,6 @@ Conxuga no pretérito perfecto do indicativo os seguintes verbos:
 
 <e-validate>Verifica as respostas</e-validate>
 
-
 ## Pór
 - Eu <e-answer>puxen</e-answer>
 - Ti <e-answer>puxeches</e-answer>
@@ -105,6 +104,16 @@ Conxuga no pretérito perfecto do indicativo os seguintes verbos:
 - Nós <e-answer>puxemos</e-answer>
 - Vós <e-answer>puxestes</e-answer>
 - Eles, elas, vostedes <e-answer>puxeron</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Querer
+- Eu <e-answer>quixen</e-answer>
+- Ti <e-answer>quixeches</e-answer>
+- El, ele, vostede <e-answer>quixo</e-answer>
+- Nós <e-answer>quixemos</e-answer>
+- Vós <e-answer>quixestes</e-answer>
+- Eles, elas, vostedes <e-answer>quixeron</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -158,13 +167,12 @@ Conxuga no pretérito perfecto do indicativo os seguintes verbos:
 
 <e-validate>Verifica as respostas</e-validate>
 
-
 ## Vir
 - Eu <e-answer>vin</e-answer>
 - Ti <e-answer>viñeches</e-answer>
 - El, ele, vostede <e-answer>veu</e-answer>
 - Nós <e-answer>viñemos</e-answer>
-- Vós <e-answer>vides</e-answer> ou <e-answer>viñestes</e-answer>
+- Vós <e-answer>viñestes</e-answer>
 - Eles, elas, vostedes <e-answer>viñeron</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
