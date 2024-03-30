@@ -129,6 +129,18 @@ Ten en conta isto, e acaba coa soidade dos substantivos das seguintes series xun
 8. <e-answer>o</e-answer> fel
 9. <e-answer>a</e-answer> agravante
 10. <e-answer>as</e-answer> avestruces
-11. <e-answer>o</e-answer> diadema
 
+<e-validate>Verifica as respostas</e-validate>
+
+# Serie 9
+
+1. <e-answer readonly>a</e-answer> espionaxe
+2. <e-answer>os</e-answer> masacres
+3. <e-answer>o</e-answer> bechamel
+4. <e-answer>a</e-answer> carraxe
+5. <e-answer>o</e-answer> paradoxo
+6. <e-answer>o</e-answer> nada
+7. <e-answer>o</e-answer> diadema
+8. <e-answer>as</e-answer> equipaxes
+   
 <e-validate>Verifica as respostas</e-validate>
