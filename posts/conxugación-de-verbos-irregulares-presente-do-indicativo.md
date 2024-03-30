@@ -37,6 +37,16 @@ Conxuga no presente do indicativo os seguintes verbos:
 
 <e-validate>Verifica as respostas</e-validate>
 
+## Estar
+- Eu <e-answer>estou</e-answer>
+- Ti <e-answer>estás</e-answer>
+- El, ele, vostede <e-answer>está</e-answer>
+- Nós <e-answer>estamos</e-answer>
+- Vós <e-answer>estades</e-answer>
+- Eles, elas, vostedes <e-answer>están</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
 ## Facer
 - Eu <e-answer>fago</e-answer>
 - Ti <e-answer>fas</e-answer>
@@ -154,6 +164,16 @@ Conxuga no presente do indicativo os seguintes verbos:
 - Nós <e-answer>traemos</e-answer>
 - Vós <e-answer>traedes</e-answer>
 - Eles, elas, vostedes <e-answer>traen</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Ter
+- Eu <e-answer>teño</e-answer>
+- Ti <e-answer>tes</e-answer>
+- El, ele, vostede <e-answer>ten</e-answer>
+- Nós <e-answer>temos</e-answer>
+- Vós <e-answer readonly>tendes</e-answer> ou <e-answer>tedes</e-answer>
+- Eles, elas, vostedes <e-answer>teñen</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 

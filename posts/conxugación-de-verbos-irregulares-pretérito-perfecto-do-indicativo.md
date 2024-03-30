@@ -37,6 +37,17 @@ Conxuga no pretérito perfecto do indicativo os seguintes verbos:
 
 <e-validate>Verifica as respostas</e-validate>
 
+## Estar
+- Eu <e-answer>estiven</e-answer>
+- Ti <e-answer>estiveches</e-answer>
+- El, ele, vostede <e-answer>estivo</e-answer>
+- Nós <e-answer>estivemos</e-answer>
+- Vós <e-answer>estivestes</e-answer>
+- Eles, elas, vostedes <e-answer>estiveron</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+
 ## Facer
 - Eu <e-answer>fixen</e-answer>
 - Ti <e-answer>fixeches</e-answer>
@@ -156,6 +167,14 @@ Conxuga no pretérito perfecto do indicativo os seguintes verbos:
 - Eles, elas, vostedes <e-answer>trouxeron</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## Ter
+- Eu <e-answer>tiven</e-answer>
+- Ti <e-answer>tiveches</e-answer>
+- El, ele, vostede <e-answer>tivo</e-answer>
+- Nós <e-answer>tivemos</e-answer>
+- Vós <e-answer>tivestes</e-answer>
+- Eles, elas, vostedes <e-answer>tiveron</e-answer>
 
 ## Valer
 - Eu <e-answer>valín</e-answer>

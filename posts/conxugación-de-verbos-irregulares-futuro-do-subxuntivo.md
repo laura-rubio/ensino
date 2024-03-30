@@ -37,6 +37,16 @@ Conxuga no futuro do subxuntivo os seguintes verbos:
 
 <e-validate>Verifica as respostas</e-validate>
 
+## Estar
+- Eu <e-answer>estiver</e-answer>
+- Ti <e-answer>estiveres</e-answer>
+- El, ele, vostede <e-answer>estiver</e-answer>
+- Nós <e-answer>estivermos</e-answer>
+- Vós <e-answer>estiverdes</e-answer>
+- Eles, elas, vostedes <e-answer>estiveren</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
 ## Facer
 - Eu <e-answer>fixer</e-answer>
 - Ti <e-answer>fixeres</e-answer>
@@ -156,6 +166,14 @@ Conxuga no futuro do subxuntivo os seguintes verbos:
 - Eles, elas, vostedes <e-answer>trouxeren</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## Ter
+- Eu <e-answer>tiver</e-answer>
+- Ti <e-answer>tiveres</e-answer>
+- El, ele, vostede <e-answer>tiver</e-answer>
+- Nós <e-answer>tivermos</e-answer>
+- Vós <e-answer>tiverdes</e-answer>
+- Eles, elas, vostedes <e-answer>tiveren</e-answer>
 
 ## Valer
 - Eu <e-answer>valer</e-answer>
