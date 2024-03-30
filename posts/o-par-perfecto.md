@@ -90,7 +90,7 @@ Ten en conta isto, e acaba coa soidade dos substantivos das seguintes series xun
 # Serie 6
 
 1. <e-answer readonly>a</e-answer> xénese
-2. <e-answer>o</e-answer> masacre
+2. <e-answer>o</e-answer> contrasinal
 3. <e-answer>a</e-answer> cute
 4. <e-answer>a</e-answer> fouce
 5. <e-answer>o</e-answer> glute
