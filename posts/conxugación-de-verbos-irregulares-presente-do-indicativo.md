@@ -7,16 +7,6 @@ show_toc: false
 ---
 Conxuga no presente do indicativo os seguintes verbos:
 
-## Ser
-- Eu <e-answer>son</e-answer>
-- Ti <e-answer>es</e-answer>
-- El, ele, vostede <e-answer>é</e-answer>
-- Nós <e-answer>somos</e-answer>
-- Vós <e-answer>sodes</e-answer>
-- Eles, elas, vostedes <e-answer>son</e-answer>
-
-<e-validate>Verifica as respostas</e-validate>
-
 ## Caber
 - Eu <e-answer>caibo</e-answer>
 - Ti <e-answer>cabes</e-answer>
@@ -54,6 +44,16 @@ Conxuga no presente do indicativo os seguintes verbos:
 - Nós <e-answer>facemos</e-answer>
 - Vós <e-answer>facedes</e-answer>
 - Eles, elas, vostedes <e-answer>fan</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Haber
+- Eu <e-answer>hei</e-answer>
+- Ti <e-answer>has</e-answer>
+- El, ele, vostede <e-answer readonly>ha</e-answer> ou <e-answer >hai</e-answer>
+- Nós <e-answer>habemos</e-answer>
+- Vós <e-answer>habedes</e-answer>
+- Eles, elas, vostedes <e-answer>han</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -127,16 +127,6 @@ Conxuga no presente do indicativo os seguintes verbos:
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Traer
-- Eu <e-answer>traio</e-answer>
-- Ti <e-answer>traes</e-answer>
-- El, ele, vostede <e-answer>trae</e-answer>
-- Nós <e-answer>traemos</e-answer>
-- Vós <e-answer>traedes</e-answer>
-- Eles, elas, vostedes <e-answer>traen</e-answer>
-
-<e-validate>Verifica as respostas</e-validate>
-
 ## Saber
 - Eu <e-answer>sei</e-answer>
 - Ti <e-answer>sabes</e-answer>
@@ -144,6 +134,26 @@ Conxuga no presente do indicativo os seguintes verbos:
 - Nós <e-answer>sabemos</e-answer>
 - Vós <e-answer>sabedes</e-answer>
 - Eles, elas, vostedes <e-answer>saben</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Ser
+- Eu <e-answer>son</e-answer>
+- Ti <e-answer>es</e-answer>
+- El, ele, vostede <e-answer>é</e-answer>
+- Nós <e-answer>somos</e-answer>
+- Vós <e-answer>sodes</e-answer>
+- Eles, elas, vostedes <e-answer>son</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Traer
+- Eu <e-answer>traio</e-answer>
+- Ti <e-answer>traes</e-answer>
+- El, ele, vostede <e-answer>trae</e-answer>
+- Nós <e-answer>traemos</e-answer>
+- Vós <e-answer>traedes</e-answer>
+- Eles, elas, vostedes <e-answer>traen</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
