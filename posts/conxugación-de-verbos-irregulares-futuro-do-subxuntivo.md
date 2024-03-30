@@ -7,16 +7,6 @@ show_toc: false
 ---
 Conxuga no futuro do subxuntivo os seguintes verbos:
 
-## Ser
-- Eu <e-answer>for</e-answer>
-- Ti <e-answer>fores</e-answer>
-- El, ele, vostede <e-answer>for</e-answer>
-- Nós <e-answer>formos</e-answer>
-- Vós <e-answer>fordes</e-answer>
-- Eles, elas, vostedes <e-answer>foren</e-answer>
-
-<e-validate>Verifica as respostas</e-validate>
-
 ## Caber
 - Eu <e-answer>couber</e-answer>
 - Ti <e-answer>couberes</e-answer>
@@ -54,6 +44,16 @@ Conxuga no futuro do subxuntivo os seguintes verbos:
 - Nós <e-answer>fixermos</e-answer>
 - Vós <e-answer>fixerdes</e-answer>
 - Eles, elas, vostedes <e-answer>fixeren</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Haber
+- Eu <e-answer>houber</e-answer>
+- Ti <e-answer>houberes</e-answer>
+- El, ele, vostede <e-answer>houber</e-answer>
+- Nós <e-answer>houbermos</e-answer>
+- Vós <e-answer>houberdes</e-answer>
+- Eles, elas, vostedes <e-answer>houberen</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -127,16 +127,6 @@ Conxuga no futuro do subxuntivo os seguintes verbos:
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Traer
-- Eu <e-answer>trouxer</e-answer>
-- Ti <e-answer>trouxeres</e-answer>
-- El, ele, vostede <e-answer>trouxer</e-answer>
-- Nós <e-answer>trouxermos</e-answer>
-- Vós <e-answer>troxerdes</e-answer>
-- Eles, elas, vostedes <e-answer>trouxeren</e-answer>
-
-<e-validate>Verifica as respostas</e-validate>
-
 ## Saber
 - Eu <e-answer>souber</e-answer>
 - Ti <e-answer>souberes</e-answer>
@@ -144,6 +134,26 @@ Conxuga no futuro do subxuntivo os seguintes verbos:
 - Nós <e-answer>soubermos</e-answer>
 - Vós <e-answer>souberdes</e-answer>
 - Eles, elas, vostedes <e-answer>souberen</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Ser
+- Eu <e-answer>for</e-answer>
+- Ti <e-answer>fores</e-answer>
+- El, ele, vostede <e-answer>for</e-answer>
+- Nós <e-answer>formos</e-answer>
+- Vós <e-answer>fordes</e-answer>
+- Eles, elas, vostedes <e-answer>foren</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Traer
+- Eu <e-answer>trouxer</e-answer>
+- Ti <e-answer>trouxeres</e-answer>
+- El, ele, vostede <e-answer>trouxer</e-answer>
+- Nós <e-answer>trouxermos</e-answer>
+- Vós <e-answer>troxerdes</e-answer>
+- Eles, elas, vostedes <e-answer>trouxeren</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
