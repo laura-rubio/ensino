@@ -105,5 +105,7 @@ show_toc: false
 <article>
 
 13. **V**ulto, a**v**ultar, a**v**ultado... e todas as derivadas
+
+![Image](/img/vulto_figura.jpeg){.is-square}
    
 </article>
