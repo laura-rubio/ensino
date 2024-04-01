@@ -109,3 +109,11 @@ show_toc: false
 ![Image](/img/vulto_figura.jpeg){.is-square}
    
 </article>
+
+<article>
+  
+Lémbrate! 
+
+![Image](/img/dedos_v.jpg){.is-square}
+
+</article>
