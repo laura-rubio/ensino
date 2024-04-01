@@ -98,7 +98,7 @@ show_toc: false
 
 12. **V**erniz
 
-![Image](/img/verniz.jpeg){.is-square}
+![Image](/img/verniz_unhas.jpeg){.is-square}
    
 </article>
 
