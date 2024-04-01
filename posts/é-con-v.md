@@ -1,6 +1,6 @@
 ---
 title: É con v
-summary: "13 palabras con b en español, mais que se escriben con v en galego/português\r\n"
+summary: "13 palabras con b en español, mais que se escriben con v en galego/portugués\r\n"
 tags:
   - problemas_be_uve
 draft: false
