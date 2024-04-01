@@ -8,7 +8,7 @@ show_toc: false
 ---
 <article>
 
-1. Acivro / azevinho
+1. Aci**v**ro / aze**v**inho
    
 ![Image](/img/acivro_azevinho.jpeg){.is-square}
 
@@ -16,7 +16,7 @@ show_toc: false
 
 <article>
 
-2. Avogado / advogado
+2. A**v**ogado / ad**v**ogado
 
 ![Image](/img/avogado_advogado.jpeg){.is-square}
 
@@ -24,7 +24,7 @@ show_toc: false
 
 <article>
 
-3. Avó - avoa / avô - avó
+3. A**v**ó - a**v**oa / a**v**ô - a**v**ó
 
 ![Image](/img/avo_avoa.jpeg){.is-square}
    
@@ -32,7 +32,7 @@ show_toc: false
 
 <article>
 
-4. Chuvasco
+4. Chu**v**asco
 
 ![Image](/img/chuvasco.jpeg){.is-square}
    
@@ -40,7 +40,7 @@ show_toc: false
 
 <article>
 
-5. Escaravello / escaravelho
+5. Escara**v**ello / escara**v**elho
 
 ![Image](/img/escaravelho.jpg){.is-square}
    
@@ -48,7 +48,7 @@ show_toc: false
 
 <article>
 
-6. Gravar, gravado, gravadora... e todas as derivadas
+6. Gra**v**ar, gra**v**ado, gra**v**adora... e todas as derivadas
 
 ![Image](/img/gravadora.jpeg){.is-square}
    
@@ -56,7 +56,7 @@ show_toc: false
 
 <article>
 
-7. Gravata
+7. Gra**v**ata
 
 ![Image](/img/gravata.jpeg){.is-square}
 
@@ -64,7 +64,7 @@ show_toc: false
 
 <article>
 
-8. Pavillón / pavilhão
+8. Pa**v**illón / pa**v**ilhão
 
 ![Image](/img/pavilhao.jpg){.is-square}
    
@@ -72,7 +72,7 @@ show_toc: false
 
 <article>
 
-9. Trevo
+9. Tre**v**o
 
 ![Image](/img/trevo.jpg){.is-square}
    
@@ -80,7 +80,7 @@ show_toc: false
 
 <article>
 
-10. Varrer
+10. **V**arrer
 
 ![Image](/img/varrer.jpeg){.is-square}
    
@@ -88,7 +88,7 @@ show_toc: false
 
 <article>
 
-11. Vermello / vermelho
+11. **V**ermello / **v**ermelho
 
 ![Image](/img/vermelho.jpeg){.is-square}
 
@@ -96,7 +96,7 @@ show_toc: false
 
 <article>
 
-12. Verniz
+12. **V**erniz
 
 ![Image](/img/verniz.jpeg){.is-square}
    
@@ -104,6 +104,6 @@ show_toc: false
 
 <article>
 
-13. Vulto, avultar, avultado... e todas as derivadas
+13. **V**ulto, a**v**ultar, a**v**ultado... e todas as derivadas
    
 </article>
