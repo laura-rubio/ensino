@@ -5,7 +5,6 @@ tags:
   - 2 ESO
 draft: false
 show_toc: false
-summary: ''
 ---
 Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadro. 
 
