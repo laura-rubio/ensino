@@ -1,7 +1,8 @@
 ---
 title: A roupa
 summary: Escolma de xogos do Portal das Palabras
-tags: []
+tags:
+  - 1 ESO
 draft: false
 show_toc: false
 ---
@@ -28,4 +29,3 @@ show_toc: false
 [Apunta ben > Na zapataría](https://portaldaspalabras.gal/xogo/na-zapatari%c2%ada/)
 
 [Apunta ben: De alfaias](https://portaldaspalabras.gal/xogo/de-alfaias/)
-

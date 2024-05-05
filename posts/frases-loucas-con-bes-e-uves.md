@@ -1,5 +1,5 @@
 ---
-title: "Frases loucas "
+title: 'Frases loucas '
 summary: (con bes e uves)
 tags:
   - problemas_be_uve
@@ -10,9 +10,9 @@ Un bo truco para teres menos erros de bes e uves é inventares frases coas palab
 
 ## Lémbrate! 
 
-👉 Canto máis extravagante for a frase, máis fácil será de memorizar!
-
 👉 Non mestures palabras con be e con uve na mesma frase
+
+👉 Canto máis extravagante for a frase, máis fácil será de memorizar!
 
 <iframe src="https://giphy.com/embed/Qw4X3FDRolaUzXnPLNK" width="466" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/awesomenesstv-reaction-crazy-audrey-whitby-Qw4X3FDRolaUzXnPLNK">
 
