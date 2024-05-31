@@ -1,4 +1,4 @@
-import cms from "lume/cms.ts";
+import cms from "lume/cms/mod.ts";
 
 const app = cms();
 
@@ -12,7 +12,6 @@ const tags = {
 
 app
   .upload("imaxes", "src:img")
-  .versioning("master")
   .collection(
     "posts",
     "src:posts/*.md",
