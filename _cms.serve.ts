@@ -6,7 +6,7 @@ export default serve({
   git: true,
   auth: {
     method: "basic",
-    users: { admin: "admin" }
+    users: { laura: "Gatuna01" }
   },
   env: {
     LUME_LOGS: "error",
