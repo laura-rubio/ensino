@@ -3,6 +3,7 @@ title: Cartões modalidades desportivas
 tags:
   - portugues
 draft: false
+show_toc: false
 ---
 <e-card color="1">
 <div>
@@ -19,7 +20,7 @@ draft: false
 ![](/img/icons8-basquetebol-100.png)
 
 </div>
-<div>Basquetebol ou basquete</div>
+<div>Basquetebol ou básquete</div>
 </e-card>
 
 <e-card color="3">
