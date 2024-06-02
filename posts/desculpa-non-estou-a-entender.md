@@ -1,10 +1,11 @@
 ---
-title: Desculpa, non estou a entender
-summary: 11 falsos amigos do galego no español
+title: 'Desculpa, non estou a entender'
+summary: 11 falsos amigos do español no galego
 tags:
   - lexico
   - falsos_amigos
 draft: false
+show_toc: false
 ---
 ### 1. Año
 
