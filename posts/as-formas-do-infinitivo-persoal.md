@@ -1,12 +1,12 @@
 ---
 title: As formas do infinitivo persoal
-summary: Modelos para te familiarizares coa conxugación do infinitivo persoal +
+summary: >-
+  Modelos para te familiarizares coa conxugación do infinitivo persoal +
   adestramento
 tags:
   - o_infinitivo_flexionado
-  - 3_ESO
-  - 4_ESO
 draft: false
+show_toc: false
 ---
 # As formas
 
