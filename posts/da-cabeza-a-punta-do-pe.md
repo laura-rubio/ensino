@@ -3,7 +3,8 @@ title: Da cabeza á punta do pé
 summary: Todos os nomes das distintas partes do corpo humano.
 tags:
   - lexico
-  - 1 ESO
+draft: false
+show_toc: false
 ---
 [](http://aprofa.gal/2020/01/16/partes-do-corpo-4/)Deixo abaixo a ligazón a este
 marabilloso contido que descubrín no blog de Pilar Ponte, a profa, para

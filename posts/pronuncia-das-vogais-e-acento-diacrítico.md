@@ -2,7 +2,6 @@
 title: A pronuncia das vogais con acento diacrítico
 tags:
   - sons_vocalicos
-  - 2 ESO
 draft: false
 show_toc: false
 ---

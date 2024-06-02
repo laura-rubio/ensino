@@ -2,7 +2,8 @@
 title: O acento diacrítico (1)
 tags:
   - acentuacion_diacritica
-  - 2 ESO
+draft: false
+show_toc: false
 ---
 ## O que é o acento diacrítico?
 

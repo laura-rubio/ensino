@@ -2,9 +2,6 @@
 title: As vogais do galego
 tags:
   - sons_vocalicos
-  - 1 ESO
-  - 2 ESO
-  - 3_ESO
 draft: false
 show_toc: false
 ---

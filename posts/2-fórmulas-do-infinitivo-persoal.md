@@ -2,7 +2,6 @@
 title: Infinitivo persoal para manifestos
 summary: 2 fórmulas básicas para o seu uso
 tags:
-  - 3_ESO
   - o_infinitivo_flexionado
 draft: false
 show_toc: false

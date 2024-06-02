@@ -3,8 +3,8 @@ title: Novos emojis
 summary: Como lles chamamos?
 tags:
   - lexico
-  - 2 ESO
 draft: false
+show_toc: false
 ---
 Hai uns días soubemos que o Consorcio Unicode decidiu aumentar a familia de
 emojis con 157 novos membros. Unicode é o organismo que está ao cargo de

@@ -3,7 +3,6 @@ title: Series de vogais II
 summary: Para aprender a distinguir entre abertas e fechadas
 tags:
   - sons_vocalicos
-  - 1 ESO
 draft: false
 show_toc: false
 ---

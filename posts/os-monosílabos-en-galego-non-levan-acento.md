@@ -3,7 +3,8 @@ title: Os monosílabos en galego non levan acento gráfico
 summary: Ou si?
 tags:
   - acentuacion
-  - 1 ESO
+draft: false
+show_toc: false
 ---
 Non levan, non. Segundo as *Normas ortográficas e morfolóxicas do idioma galego* (NOMIG, 2003) as palabras monosílabas non se acentúan en galego.
 

@@ -1,8 +1,9 @@
 ---
-title: "O alfabeto galego "
+title: 'O alfabeto galego '
 tags:
   - ortografia
-  - 1 ESO
+draft: false
+show_toc: false
 ---
 O alfabeto ou abecedario é o conxunto de letras con que se representan os sons
 dunha lingua.

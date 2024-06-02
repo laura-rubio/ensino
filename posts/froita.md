@@ -2,6 +2,7 @@
 title: Froita
 tags:
   - sociolinguistica
+  - lexico
 draft: false
 show_toc: false
 ---

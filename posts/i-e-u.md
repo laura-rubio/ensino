@@ -1,9 +1,10 @@
 ---
-title: "I e U "
+title: 'I e U '
 summary: Cando os acentuamos?
 tags:
   - acentuacion
-  - 1 ESO
+draft: false
+show_toc: false
 ---
 Acentuámolos sempre nestes dous casos:
 

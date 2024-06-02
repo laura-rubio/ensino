@@ -2,7 +2,6 @@
 title: Brincamos co alfabeto?
 tags:
   - ortografia
-  - 1 ESO
 draft: false
 show_toc: false
 ---

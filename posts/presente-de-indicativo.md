@@ -1,10 +1,12 @@
 ---
 title: O presente do indicativo (1)
-summary: Exercicio para fixares as formas correctas de certos verbos no presente
-  do indicativo
+summary: >-
+  Exercicio para fixares as formas correctas de certos verbos no presente do
+  indicativo
 tags:
   - tempos_verbais
-  - 2 ESO
+draft: false
+show_toc: false
 ---
 ## Recursos
 

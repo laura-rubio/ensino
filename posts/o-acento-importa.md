@@ -2,7 +2,6 @@
 title: O acento importa (7)
 tags:
   - acentuacion_diacritica
-  - 2 ESO
 draft: false
 show_toc: false
 ---

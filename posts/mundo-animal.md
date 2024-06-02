@@ -2,7 +2,6 @@
 title: Mundo animal
 summary: Escolma de xogos do Portal das Palabras sobre este tema
 tags:
-  - 1 ESO
   - lexico
 draft: false
 show_toc: false

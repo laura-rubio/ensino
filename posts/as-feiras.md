@@ -1,12 +1,10 @@
 ---
-title: "Os dias da semana: galego > português"
+title: 'Os dias da semana: galego > português'
 tags:
   - portugues
-  - 1 ESO
-  - 2 ESO
-  - 3_ESO
-  - 4_ESO
+  - lexico
 draft: false
+show_toc: false
 ---
 Em galego existem duas formas para nomearmos os dias da semana. Em português só há uma. Vira o cartão para conheceres a forma portuguesa:
 

@@ -3,8 +3,8 @@ title: Mallando no ximnasio
 summary: 8 exercicios moi habituais en calquera rutina de adestramento
 tags:
   - lexico
-  - 3_ESO
 draft: false
+show_toc: false
 ---
 ## 1. Quecemento
 

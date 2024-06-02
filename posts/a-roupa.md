@@ -2,7 +2,7 @@
 title: A roupa
 summary: Escolma de xogos do Portal das Palabras
 tags:
-  - 1 ESO
+  - lexico
 draft: false
 show_toc: false
 ---
