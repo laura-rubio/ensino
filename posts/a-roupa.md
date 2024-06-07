@@ -14,7 +14,7 @@ show_toc: false
 
 [Verdadeiro ou falso: Vai de roupa](https://portaldaspalabras.gal/xogo/vai-da-roupa/)
 
-[Apunta ben: O traxe tradicional galego](https://portaldaspalabras.gal/xogo/vai-da-roupa/)
+[Apunta ben: O traxe tradicional galego](https://portaldaspalabras.gal/xogo/o-traxe/)
 
 [Canto sabes?: Roupa e accesorios](https://portaldaspalabras.gal/xogo/roupa-e-complementos/)
 
