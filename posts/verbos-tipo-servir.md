@@ -1,12 +1,13 @@
 ---
-title: " Verbos tipo sentir"
+title: ' Verbos tipo sentir'
 tags:
   - verbos_con_alternancia_vocálica
 draft: false
+show_toc: false
 ---
 Os verbos como *sentir* presentan unha variación tripla no vocalismo da raíz *(s**e**nt-):* 
 
-* en posición átona o *e* sempre é fechado \[e] (agás no presente do subxuntivo); 
+* en posición átona o *e* sempre é fechado \[e] (agás nas formas do presente do subxuntivo *sintamos* e *sintades*, con *i*); 
 * en posición tónica hai *e* aberto \[ɛ] na 2ª e na 3ª persoa do singular e na 3ª do plural do presente do indicativo e *i*  na 1ª do singular do presente do indicativo, na 2ª do singular do imperativo e en todo o presente do subxuntivo.
 
 ## Lémbrate!
@@ -64,7 +65,7 @@ Completa os espazos cos verbos no presente do indicativo:
 
 ### Primeiro
 
-Aínda que a vogal temática da maioría das formas do presente do indicativo é *\-e-:* *s**e**ntes, s**e**nte, s**e**ntimos, s**e**ntides, s**e**nten,* a primeira persoa é *s**i**nto,* con *\-i-*. É certo que o erro máis habitual, e o que debes evitar, é dicir *\*sintes, \*sinte* e *\*sinten,* mais tamén hai falantes aos que o contacto coas formas correctas do estándar os leva a pensar que a P1 segue o mesmo padrón de conxugación. Isto é o que explica, por exemplo, que os Verto anden a cantar este retrouso:
+Aínda que a vogal temática da maioría das formas do presente do indicativo é *\-e-:* *s**e**ntes, s**e**nte, s**e**ntimos, s**e**ntides, s**e**nten,* a primeira persoa é *s**i**nto,* con *\-i-*. É certo que o erro máis habitual, e o que debes evitar, é dicir *\*sintes, \*sinte* e *\*sinten,* mais tamén hai falantes aos que o contacto coas formas correctas do estándar os leva a pensar que a P1 segue o mesmo padrón de conxugación. Isto é o que explica, por exemplo, que os Verto anden a cantar este refrán:
 
 *Xa non podo deixar de pensar*\
 *en como o mundo non para*\
