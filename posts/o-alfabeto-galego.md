@@ -68,7 +68,7 @@ palabras que tomamos doutras linguas. Algunhas delas usámolas moito:
 
 | Letra | Nome          | Exemplo |
 | ----- | ------------- | ------- |
-| **ç** | o c cedillado | Eça     |
+| **ç** | o c cedillado | Barça   |
 | **j** | o iota        | júnior  |
 | **k** | o ka          | karate  |
 | **w** | o uve dobre   | show    |
