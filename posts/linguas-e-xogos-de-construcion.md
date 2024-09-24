@@ -3,6 +3,8 @@ title: Linguas e xogos de construción
 summary: En que se parecen?
 tags:
   - silaba
+draft: false
+show_toc: false
 ---
 Se pensares ben, a nosa lingua parécese moito a un deses xogos de construción a que todos xogamos de pequenos. Lémbraste daqueles bloquiños de cores? Eu teño pasado horas deitada no chan a xuntar uns cos outros.
 
@@ -28,7 +30,7 @@ Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de
 3. Dúas vogais contiguas poden pertencer á mesma sílaba ou a sílabas diferentes:
 
 * Pertencen á mesma sílaba cando as pronunciamos xuntas nunha soa emisión de voz. Cando isto acontece, dicimos que as dúas vogais forman un **ditongo**. Ex.: pa-c**ie**n-c**ia**
-* Polo contrario, se as pronunciamos en sílabas diferentes, forman un **hiato**. Ex.: a-r-**e-a**
+* Polo contrario, se as pronunciamos en sílabas diferentes, forman un **hiato**. Ex.: a-r**e-a**
 
 4. Mesmo hai sílabas con até tres vogais seguidas. Neste caso, dicimos que as tres vogais forman un **tritongo**. Ex.: o-fi-c**iai**s
 5. As palabras poden estar constituídas por unha única sílaba (**monosílabas**) ou por varias (**polisílabas**). Segundo o número de sílabas que teñan, distinguimos os seguintes tipos:
