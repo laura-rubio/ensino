@@ -42,12 +42,10 @@ Além destas letras do alfabeto, no português usam-se o <e-tag color=4 desc="o 
 
 <e-layout>
   <e-tag color=5 desc="o rr duplo">rr</e-tag>
-  <e-tag color=5 desc="o ss duplo">ss</e-tag>
+  <e-tag color=5 desc="o esse duplo">ss</e-tag>
   <e-tag color=5 desc="o cê-agá">ch</e-tag>
   <e-tag color=5 desc="o ele-agá">lh</e-tag>
   <e-tag color=5 desc="o ene-agá">nh</e-tag>
   <e-tag color=5 desc="o guê-u">gu</e-tag>
   <e-tag color=5 desc="o quê-u">qu</e-tag>
 </e-layout>
-
-
