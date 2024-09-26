@@ -49,3 +49,7 @@ Além destas letras do alfabeto, no português usam-se <e-tag color=4 desc="o ç
   <e-tag color=5 desc="o guê-u">gu</e-tag>
   <e-tag color=5 desc="o quê-u">qu</e-tag>
 </e-layout>
+
+## O alfabeto divertido
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Zvp8jPSSSI?si=qBFPePtWcK391rx_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
