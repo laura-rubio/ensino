@@ -1,8 +1,9 @@
 ---
 title: Sílaba e tipos
-summary: ""
 tags:
   - silaba
+draft: false
+show_toc: false
 ---
 Denominamos sílaba a cada golpe de voz con que pronunciamos unha palabra.
 
@@ -113,7 +114,7 @@ Pentasílabas
 
 a. Separa as palabras en sílabas e indica cal é sílaba tónica:
 
-Se tiveres moitas dúbidas, consulta a pronuncia da palabra no [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/)
+Se tiveres moitas dúbidas, consulta a pronuncia de cada unha no [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/)
 
 1. heroe: <e-answer readonly>he-ro-e</e-answer> A sílaba tónica é <e-answer readonly>ro</e-answer>
 2. acne: <e-answer>ac-ne</e-answer> A sílaba tónica é <e-answer>ac</e-answer>
@@ -129,7 +130,7 @@ Se tiveres moitas dúbidas, consulta a pronuncia da palabra no [Dicionario de pr
 
 <e-validate>Verifica as respostas</e-validate>
 
-b. O que teñen en común todas estas voces?
+b. O que teñen en común as 11 palabras anteriores?
 
 Todas son palabras <e-answer>graves</e-answer>: a sílaba tónica é a <e-answer>penúltima</e-answer>
 

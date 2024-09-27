@@ -51,10 +51,10 @@ Xunta as sílabas de cada cor e forma palabras acabadas en -zo ou en -cio:
 
 ## Terminadas en -zo
 
-6. <e-tag color=6><e-answer>pre</e-answer></e-tag> <e-tag color=6><e-answer>zo</e-answer></e-tag>
-7. <e-tag color=7><e-answer>can</e-answer></e-tag> <e-tag color=7><e-answer>sa</e-answer></e-tag> <e-tag color=7><e-answer>zo</e-answer></e-tag>
-8. <e-tag color=8><e-answer>ser</e-answer></e-tag> <e-tag color=8><e-answer>vi</e-answer></e-tag> <e-tag color=8><e-answer>zo</e-answer></e-tag>
-9. <e-tag color=9><e-answer>xu</e-answer></e-tag> <e-tag color=9><e-answer>í</e-answer></e-tag> <e-tag color=9><e-answer>zo</e-answer></e-tag>
-10. <e-tag color=10><e-answer>es</e-answer></e-tag> <e-tag color=10><e-answer>pa</e-answer></e-tag> <e-tag color=10><e-answer>zo</e-answer></e-tag>
+1. <e-tag color=6><e-answer>pre</e-answer></e-tag> <e-tag color=6><e-answer>zo</e-answer></e-tag>
+2. <e-tag color=7><e-answer>can</e-answer></e-tag> <e-tag color=7><e-answer>sa</e-answer></e-tag> <e-tag color=7><e-answer>zo</e-answer></e-tag>
+3. <e-tag color=8><e-answer>ser</e-answer></e-tag> <e-tag color=8><e-answer>vi</e-answer></e-tag> <e-tag color=8><e-answer>zo</e-answer></e-tag>
+4. <e-tag color=9><e-answer>xu</e-answer></e-tag> <e-tag color=9><e-answer>í</e-answer></e-tag> <e-tag color=9><e-answer>zo</e-answer></e-tag>
+5. <e-tag color=10><e-answer>es</e-answer></e-tag> <e-tag color=10><e-answer>pa</e-answer></e-tag> <e-tag color=10><e-answer>zo</e-answer></e-tag>
     
 <e-validate>Verifica as respostas</e-validate>

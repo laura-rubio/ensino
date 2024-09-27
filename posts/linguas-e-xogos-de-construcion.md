@@ -61,9 +61,9 @@ Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de
 
 ### Exercicio 1
 
-Agora que coñeces a técnica, imos construír palabras!
+Agora que coñeces a técnica, vamos construír palabras!
 
-Forma oito palabras agrupando e ordenando as sílabas de cada cor:
+Xunta as sílabas de cada cor e ordénaas até descubrires as 8 palabras ocultas:
 
 <e-layout>
 <e-tag color=6>nás</e-tag>
@@ -91,19 +91,18 @@ Forma oito palabras agrupando e ordenando as sílabas de cada cor:
 <e-tag color=10>po</e-tag>
 </e-layout>
 
-<details>
-<summary>Verifica as respostas</summary>
 
-1. <e-tag color=5>fri</e-tag><e-tag color=5>go</e-tag><e-tag color=5>rí</e-tag><e-tag color=5>fi</e-tag><e-tag color=5>co</e-tag>
-2. <e-tag color=10>po</e-tag><e-tag color=10>za</e-tag>
-3. <e-tag color=7>man</e-tag><e-tag color=7>tei</e-tag><e-tag color=7>ga</e-tag>
-4. <e-tag color=1>a</e-tag><e-tag color=1>ni</e-tag><e-tag color=1>mal</e-tag>
-5. <e-tag color=2>cár</e-tag><e-tag color=2>ce</e-tag><e-tag color=2>re</e-tag>
-6. <e-tag color=3>xan</e-tag><e-tag color=3>tar</e-tag>
-7. <e-tag color=4>la</e-tag><e-tag color=4>pis</e-tag>
-8. <e-tag color=6>a</e-tag><e-tag color=6>na</e-tag><e-tag color=6>nás</e-tag>
+Escribe cada sílaba da palabra na casa que corresponda:
+1. <e-tag color=5><e-answer>fri</e-answer></e-tag><e-tag color=5><e-answer>go</e-answer></e-tag><e-tag color=5><e-answer>rí</e-answer></e-tag><e-tag color=5><e-answer>fi</e-answer></e-tag><e-tag color=5><e-answer>co</e-answer></e-tag>
+2. <e-tag color=10><e-answer>po</e-answer></e-tag><e-tag color=10><e-answer>za</e-answer></e-tag>
+3. <e-tag color=7><e-answer>man</e-answer></e-tag><e-tag color=7><e-answer>tei</e-answer></e-tag><e-tag color=7><e-answer>ga</e-answer></e-tag>
+4. <e-tag color=1><e-answer>a</e-answer></e-tag><e-tag color=1><e-answer>ni</e-answer></e-tag><e-tag color=1><e-answer>mal</e-answer></e-tag>
+5. <e-tag color=2><e-answer>cár</e-answer></e-tag><e-tag color=2><e-answer>ce</e-answer></e-tag><e-tag color=2><e-answer>re</e-answer></e-tag>
+6. <e-tag color=3><e-answer>xan</e-answer></e-tag><e-tag color=3><e-answer>tar</e-answer></e-tag>
+7. <e-tag color=4><e-answer>la</e-answer></e-tag><e-tag color=4><e-answer>pis</e-answer></e-tag>
+8. <e-tag color=6><e-answer>a</e-answer></e-tag><e-tag color=6><e-answer>na</e-answer></e-tag><e-tag color=6><e-answer>nás</e-answer></e-tag>
 
-</details>
+<e-validate>Verifica as respostas</e-validate>
 
 ### Exercicio 2
 
