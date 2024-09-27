@@ -271,6 +271,9 @@ e-card {
 		padding-left: 1em;
 	}
 }
+e-moji {
+	font-size: 6rem;
+}
 
 /* Helpers */
 img.is-square {
