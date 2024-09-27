@@ -34,7 +34,11 @@ Serie 1
 8. decisão > <e-answer>decisões</e-answer>
 9. melão > <e-answer>melões</e-answer>
 10. cão > <e-answer>cães</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
 Serie 2
+
 11. lião > <e-answer>liões</e-answer>
 12. avião > <e-answer>aviões</e-answer>
 13. botão > <e-answer>botões</e-answer>
@@ -45,7 +49,11 @@ Serie 2
 18. coração > <e-answer>corações</e-answer>
 19. camião > <e-answer>camiões</e-answer>
 20. pulmão > <e-answer>pulmões</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
 Serie 3
+
 21. fogão > <e-answer>fogões</e-answer>
 22. balão > <e-answer>balões</e-answer>
 23. verão > <e-answer>verãos</e-answer> Esta palavra tem dois plurais, o outro é *verões*
