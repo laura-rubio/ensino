@@ -20,7 +20,7 @@ class Layout extends HTMLElement {
 
     const button = shadow.querySelector("button");
 
-    button.addEventListener(
+    button?.addEventListener(
       "click",
       () =>
         this.ownerDocument.querySelectorAll("e-answer").forEach((el) =>
