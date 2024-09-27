@@ -48,8 +48,7 @@ debes usar palabras con acento gráfico:
 
 ## Exercicio 2
 
-Os nomes destas catro doenzas teñen acento gráfico. Une as sílabas para saberes
-de que doenzas se trata:
+Os nomes destas catro doenzas teñen acento gráfico. Xunta as sílabas para saberes de que doenzas se trata:
 
 <e-layout>
 <e-tag color=3>bé</e-tag>
@@ -69,16 +68,13 @@ de que doenzas se trata:
 
 </e-layout>
 
-<details>
+A continuación, completa cada casa coa sílaba certa para formares a palabra:
+1. <e-tag color=1><e-answer>té</e-answer></e-tag><e-tag color=1><e-answer>ta</e-answer></e-tag><e-tag color=1><e-answer>no</e-answer></e-tag>
+2. <e-tag color=2><e-answer>xa</e-answer></e-tag><e-tag color=2><e-answer>ram</e-answer></e-tag><e-tag color=2><e-answer>pón</e-answer></e-tag>
+3. <e-tag color=3><e-answer>ru</e-answer></e-tag><e-tag color=3><e-answer>bé</e-answer></e-tag><e-tag color=3><e-answer>o</e-answer></e-tag><e-tag color=3><e-answer>la</e-answer></e-tag>
+4. <e-tag color=4><e-answer>va</e-answer></e-tag><e-tag color=4><e-answer>rí</e-answer></e-tag><e-tag color=4><e-answer>o</e-answer></e-tag><e-tag color=4><e-answer>la</e-answer></e-tag>
 
-<summary>Verifica as respostas</summary>
-
-1. <e-tag color=1>té</e-tag><e-tag color=1>ta</e-tag><e-tag color=1>no</e-tag>
-2. <e-tag color=2>xa</e-tag><e-tag color=2>ram</e-tag><e-tag color=2>pón</e-tag>
-3. <e-tag color=3>ru</e-tag><e-tag color=3>bé</e-tag><e-tag color=3>o</e-tag><e-tag color=3>la</e-tag>
-4. <e-tag color=4>va</e-tag><e-tag color=4>rí</e-tag><e-tag color=4>o</e-tag><e-tag color=4>la</e-tag>
-
-</details>
+<e-validate>Verifica as respostas</e-validate>
 
 ### Exercicio 3
 
