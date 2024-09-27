@@ -262,15 +262,14 @@ e-validate {
 	display: block;
 	margin: 3em 0;
 }
-e-card p,
-e-card li,
-e-card ol,
-e-card ul {
-	margin: 0;
-}
-e-card ol,
-e-card ul {
-	padding-left: 1em;
+
+e-card {
+	p, li, ol, ul {
+		margin: 0;
+	}
+	ol, ul {
+		padding-left: 1em;
+	}
 }
 
 /* Helpers */
@@ -316,8 +315,4 @@ img.is-horizontal {
 }
 .header-anchor:hover {
 	color: var(--gray);
-}
-
-e-moji {
-	font-size: 6rem;
 }

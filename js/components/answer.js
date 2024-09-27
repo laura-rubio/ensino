@@ -3,6 +3,10 @@ class Answer extends HTMLElement {
     super();
 
     const shadow = this.attachShadow({ mode: "open" });
+    if (this.closest("e-tag")) {
+      this.classList.add("in-tag");
+      this.setAttribute("size", this.innerHTML.trim().length);
+    }
     shadow.innerHTML = `
             <style>
                 input,
@@ -54,6 +58,14 @@ class Answer extends HTMLElement {
                     top: .2em;
                     font-size: 1.2em;
                     line-height: 1;
+                }
+                :host(.in-tag) input {
+                  background: #fff3;
+                  box-shadow: none;
+                  border: none;
+                  font-size: 100%;
+                  font-weight: bold;
+                  min-width: 2em;
                 }
             </style>
             <span class="answer">
