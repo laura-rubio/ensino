@@ -1,8 +1,9 @@
 ---
 title: Ditongos e hiatos
-summary: ""
 tags:
   - silaba
+draft: false
+show_toc: false
 ---
 Como os recoñezo?
 
@@ -31,10 +32,10 @@ diferentes. Exs.: a-r**e-a**, en-xa-b**o-a**r, p**o-e**-ma
 
 ### Repara
 
-**iu** e **ui** son ditongos se o primeiro é o elemento tónico. Ex.: p**ui**do
+**iu** e **ui** son ditongos se o primeiro é o elemento tónico. Ex.: v**iu**, p**ui**do
 
 **iú** e **uí** son hiatos se o segundo elemento é tónico. Neste caso indícase
-cun acento gráfico. Ex.: r**uí**do
+cun acento gráfico. Ex.: m**íu**do, r**uí**do
 
 - - -
 
