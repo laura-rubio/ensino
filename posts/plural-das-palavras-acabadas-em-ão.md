@@ -23,7 +23,7 @@ Aprende  o plural das palavras acabadas em -ão em dois simples passos:
 
 Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal
 
-Serie 1
+## Serie 1
 1. limão > <e-answer>limões</e-answer>
 2. alemão > <e-answer>alemães</e-answer>
 3. canção > <e-answer>canções</e-answer>
@@ -37,7 +37,7 @@ Serie 1
 
 <e-validate>Verifica as respostas</e-validate>
 
-Serie 2
+## Serie 2
 
 11. lião > <e-answer>liões</e-answer>
 12. avião > <e-answer>aviões</e-answer>
@@ -52,18 +52,49 @@ Serie 2
 
 <e-validate>Verifica as respostas</e-validate>
 
-Serie 3
+## Serie 3
 
-21. fogão > <e-answer>fogões</e-answer>
-22. balão > <e-answer>balões</e-answer>
+21. televisão > <e-answer>televisões</e-answer>
+22. inscrição > <e-answer>inscrições</e-answer>
 23. verão > <e-answer>verãos</e-answer> Esta palavra tem dois plurais, o outro é *verões*
-24. tubarão > <e-answer>tubarões</e-answer>
+24. função > <e-answer>funções</e-answer>
 25. opinião > <e-answer>opiniões</e-answer>
-26. pinhão > <e-answer>pinhões</e-answer>
+26. definição > <e-answer>definições</e-answer>
 27. condição > <e-answer>condições</e-answer>
 28. questão > <e-answer>questões</e-answer>
 29. confissão > <e-answer>confissões</e-answer>
-30. anão > <e-answer>anãos</e-answer> *Anão* também tem dois plurais, a outra forma é *anões*
+30. exposição > <e-answer>exposições</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Serie 4
+
+31. revolução > <e-answer>revoluções</e-answer>
+32. atuação > <e-answer>atuações</e-answer>
+33. lição > <e-answer>lições</e-answer>
+34. direção >  <e-answer>direções</e-answer>
+35. prisão > <e-answer>prisões</e-answer>
+36. flexão > <e-answer>flexões</e-answer>
+37. coleção > <e-answer>coleções</e-answer>
+38. tubarão > <e-answer>tubarões</e-answer>
+39. eleição > <e-answer>eleições</e-answer>
+40. salão > <e-answer>salões</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Serie 5
+
+40. repetição > <e-answer>repetições</e-answer>
+41. construção > <e-answer>construções</e-answer>
+42. apresentação > <e-answer>apresentações</e-answer>
+43. agressão > <e-answer>agressões</e-answer>
+44. votação > <e-answer>votações</e-answer>
+45. instituição > <e-answer>instituições</e-answer>
+46. desaparição > <e-answer>desaparições</e-answer>
+47. pinhão > <e-answer>pinhões</e-answer>
+48. tradição > <e-answer>tradições</e-answer>
+49. balão > <e-answer>balões</e-answer>
+50. anão > <e-answer>anãos</e-answer> *Anão* também tem dois plurais, a outra forma é *anões*
 
 <e-validate>Verifica as respostas</e-validate>
 
