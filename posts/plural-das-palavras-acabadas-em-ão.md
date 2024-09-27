@@ -3,6 +3,7 @@ title: O plural das palavras acabadas em ão
 tags:
   - portugues
 draft: false
+show_toc: false
 ---
 Aprende  o plural das palavras acabadas em -ão em dois simples passos:
 
@@ -22,6 +23,7 @@ Aprende  o plural das palavras acabadas em -ão em dois simples passos:
 
 Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal
 
+Serie 1
 1. limão > <e-answer>limões</e-answer>
 2. alemão > <e-answer>alemães</e-answer>
 3. canção > <e-answer>canções</e-answer>
@@ -29,9 +31,10 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 5. ladrão > <e-answer>ladrões</e-answer>
 6. calção > <e-answer>calções</e-answer>
 7. cidadão > <e-answer>cidadãos</e-answer>
-8. foguetão > <e-answer>foguetões</e-answer>
+8. decisão > <e-answer>decisões</e-answer>
 9. melão > <e-answer>melões</e-answer>
 10. cão > <e-answer>cães</e-answer>
+Serie 2
 11. lião > <e-answer>liões</e-answer>
 12. avião > <e-answer>aviões</e-answer>
 13. botão > <e-answer>botões</e-answer>
@@ -42,6 +45,7 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 18. coração > <e-answer>corações</e-answer>
 19. camião > <e-answer>camiões</e-answer>
 20. pulmão > <e-answer>pulmões</e-answer>
+Serie 3
 21. fogão > <e-answer>fogões</e-answer>
 22. balão > <e-answer>balões</e-answer>
 23. verão > <e-answer>verãos</e-answer> Esta palavra tem dois plurais, o outro é *verões*
