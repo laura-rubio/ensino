@@ -1,7 +1,7 @@
 ---
 title: O que é isto? (1)
 tags: []
-draft: true
+draft: false
 show_toc: false
 ---
 Observa os desenhos e completa com a palavra adequada: 
