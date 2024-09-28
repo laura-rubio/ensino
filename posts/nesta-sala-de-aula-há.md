@@ -4,7 +4,7 @@ tags: []
 draft: true
 show_toc: false
 ---
-Observa as imagens e completa com a palavra adequada: 
+Observa os desenhos e completa com a palavra adequada: 
 
 <e-layout> 
 <e-tag color=1>professora</e-tag>
