@@ -22,7 +22,7 @@ A regra para saberes qual deves usar é fácil:
 <article>
 Repara!
 
-- c + e, i > Exs.: vo**cê**, espe**ci**al
+- c + e, i > Exs.: vo**cê**, açu**ce**na, espe**ci**al
 - ç + a, o, u > Exs.: for**ça**, po**ço**, a**çu**cena
 </article>
 
