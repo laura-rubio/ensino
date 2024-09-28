@@ -1,6 +1,41 @@
 import cms from "lume/cms/mod.ts";
 
-const app = cms();
+const app = cms({
+  site: {
+    name: "Ensino",
+    description: "Web de ensino de galego e portugués",
+    body: `
+    <h2>Elementos personalizados</h2>
+    <dl>
+      <dt><code>e-answer</code></dt>
+      <dd>
+        <p>Para poñer respostas por parte dos alumnos que logo que van a validar. O contido
+      sería a resposta correcta. Pódese customizar con <code>size</code>, <code>placeholder</code>, <code>highlight</code> e <code>tip</code>.</p>
+      </dd>
+
+      <dt><code>e-validate</code></dt>
+      <dd>
+        <p>Botón que valida todas as respostas introducidas con <code>e-answer</code>.</p>
+      </dd>
+
+      <dt><code>e-tag</code></dt>
+      <dd>
+        <p>Mostra un texto curto (palabra, número, letras) en tamaño grande. Pódese customizar con <code>color</code> e <code>desc</code></p>
+      </dd>
+
+      <dt><code>e-layout</code></dt>
+      <dd>
+        <p>Para distribuír elementos dentro dunha grella predeterminada.</p>
+      </dd>
+
+      <dt><code>e-tip</code></dt>
+      <dd>
+        <p>Para meter textos ocultos dentro dun botón (?).</p>
+      </dd>
+    </dl>
+    `
+  }
+});
 
 const tags = {
   name: "tags",
