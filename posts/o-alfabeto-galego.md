@@ -5,15 +5,11 @@ tags:
 draft: false
 show_toc: false
 ---
-O alfabeto ou abecedario é o conxunto de letras con que se representan os sons
-dunha lingua.
+O alfabeto ou abecedario é o conxunto de letras con que se representan os sons dunha lingua.
 
-O nome alfabeto creouse ao xuntar alfa + beta, os nomes das dúas primeiras
-letras do grego. Abecedario é o resultado de unir as catro primeiras letras do
-latín.
+O nome alfabeto creouse ao xuntar alfa + beta, os nomes das dúas primeiras letras do grego. Abecedario é o resultado de unir as catro primeiras letras do latín.
 
-Ao contrario do que acontece no español, o nome das letras é de xénero masculino
-en galego: *o a, o be, o pe* etc.
+Ao contrario do que acontece no español, o nome das letras é de xénero masculino en galego: *o a, o be, o pe* etc.
 
 O noso alfabeto consta de 23 letras ou grafías (5 vogais e 18 consoantes):
 
@@ -45,9 +41,7 @@ O noso alfabeto consta de 23 letras ou grafías (5 vogais e 18 consoantes):
 
 ## Os dígrafos
 
-Alén destas 23 letras, temos tamén 6 dígrafos. Un dígrafo é unha combinación
-de dúas letras que se usan para representar na escrita, un único son. Os
-dígrafos do galego son:
+Alén destas 23 letras, temos tamén 6 dígrafos. Un dígrafo é unha combinación de dúas letras que se usan para representar na escrita, un único son. Os dígrafos do galego son:
 
 <e-layout>
   <e-tag color=5 desc="o ce hache">ch</e-tag>
@@ -58,13 +52,11 @@ dígrafos do galego son:
   <e-tag color=5 desc="o erre dobre">rr</e-tag>
 </e-layout>
 
-Os dígrafos non se poden separar ao final da liña. Exemplo: *ningu-nha,
-fo-gueira, arre-friado.*
+Os dígrafos non se poden separar ao final da liña. Exemplo: *ningu-nha, fo-gueira, arre-friado.*
 
 ## Letras doutros alfabetos
 
-Aínda que as seguintes letras non forman parte do alfabeto galego, aparecen en
-palabras que tomamos doutras linguas. Algunhas delas usámolas moito:
+Aínda que as seguintes letras non forman parte do alfabeto galego, aparecen en palabras que tomamos doutras linguas. Algunhas delas usámolas moito:
 
 | Letra | Nome          | Exemplo |
 | ----- | ------------- | ------- |
@@ -76,8 +68,7 @@ palabras que tomamos doutras linguas. Algunhas delas usámolas moito:
 
 ### Exercicio 1
 
-Escribe o nome da letra ou do dígrafo polo que comeza cada unha das seguintes
-palabras:
+Escribe o nome da letra ou do dígrafo polo que comeza cada unha das seguintes palabras:
 
 queixo : o <e-answer size=3>que u</e-answer>
 

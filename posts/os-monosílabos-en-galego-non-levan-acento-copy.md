@@ -1,9 +1,9 @@
 ---
-title: Os monosílabos en galego non levan acento gráfico
+title: Os monosílabos en galego non levan acento gráfico (draft)
 summary: Ou si?
 tags:
   - acentuacion
-draft: false
+draft: true
 show_toc: false
 ---
 Non levan, non. Segundo as *Normas ortográficas e morfolóxicas do idioma galego* (NOMIG, 2003) as palabras monosílabas non se acentúan en galego.
@@ -28,10 +28,11 @@ E clica nas de abaixo para coñeceres algúns monosílabos que nunca levan acent
 
 Os monosílabos das seguintes oracións levan acento, si ou non?
 
-1. Marcou un <e-answer>gol</e-answer> <e-tip>entrada da bóla na portaría adversaria</e-tip> no último minuto do partido.
-2. Como o <e-answer>chan</e-answer> <e-tip>a superficie que pisamos</e-tip> estaba húmido, escorregou e caeu de <e-answer>cu</e-answer> <e-tip>as nádegas </e-tip>.
-3. Uso o <e-answer>mel</e-answer> <e-tip>substancia doce producida polas abellas</e-tip> para adozar o iogur.
-4. Nesta avaliación está a traballar moito <e-answer>máis</e-answer>, teño <e-answer>fe</e-answer> <e-tip>actitude de quem acredita em algo</e-tip> en que vai aprobar.
+1. Marcou un <e-answer options="gol,gól">gol</e-answer> no último minuto do partido.
+2. Como o <e-answer options="chan,chán">chan</e-answer> estaba húmido, escorregou e caeu de <e-answer options="cu,cú">cu</e-answer>.
+3. Uso o <e-answer options="mel,mél">mel</e-answer> para adozar o iogur.
+4. Nesta avaliación está a traballar moito <e-answer options="mais,máis">máis</e-answer>, teño
+   <e-answer options="fe,fé">fe</e-answer> en que vai aprobar.
 5. Está <e-answer options="san,sán">san</e-answer> coma un buxo.
 6. Imos ao cinema? Imos, <e-answer options="si,sí">si</e-answer>, quero ver o último filme de Steven Spielberg.
 7. Limpo o <e-answer options="po,pó">po</e-answer> unha vez <e-answer options="por,pór">por</e-answer> semana.
