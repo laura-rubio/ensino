@@ -1,5 +1,5 @@
 ---
-title: Nesta sala de aula há
+title: O que é isto? (1)
 tags: []
 draft: true
 show_toc: false
@@ -10,6 +10,7 @@ Observa os desenhos e completa com a palavra adequada:
 <e-tag color=1>professora</e-tag>
 <e-tag color=1>lapis</e-tag>
 <e-tag color=1>mochila</e-tag>
+<e-tag color=1>óculos</e-tag>
 <e-tag color=1>régua</e-tag>
 <e-tag color=1>computador</e-tag>
 <e-tag color=1>tesoura</e-tag>
@@ -19,6 +20,7 @@ Observa os desenhos e completa com a palavra adequada:
 <e-tag color=1>caneta</e-tag>
 <e-tag color=1>livro</e-tag>
 <e-tag color=1>cadeira</e-tag>
+<e-tag color=1>autocarro</e-tag>
 </e-layout> 
 
 
@@ -42,6 +44,10 @@ uma <e-answer>caneta</e-answer>
 <e-moji> 🪑</e-moji>
 
 uma <e-answer>cadeira</e-answer>
+
+<e-moji> 🚌 </e-moji>
+
+um <e-answer>autocarro</e-answer>
 
 <e-moji> ✏️ </e-moji>
 
@@ -70,5 +76,9 @@ uma <e-answer> régua </e-answer>
 <e-moji> 🕘 </e-moji>
 
 um <e-answer> relógio </e-moji>
+
+<e-moji> 👓 </e-moji>
+
+uns <e-answer> óculos </e-answer>
 
 <e-validate> Verifica as respostas </e-validate>
