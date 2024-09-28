@@ -47,7 +47,7 @@ class Answer extends HTMLElement {
                 .is-highlight {
                     background: rgba(255,255,0,0.5);
                 }
-                .answer {
+                :host {
                     position: relative;
                     margin: 0 .3em;
                     display: inline-block;
@@ -59,6 +59,20 @@ class Answer extends HTMLElement {
                     font-size: 1.2em;
                     line-height: 1;
                 }
+                .tip {
+                  position: absolute;
+                  bottom: calc(100% + .5em);
+                  left: 0;
+                  z-index: 1;
+                  background: color-mix(in srgb, var(--background), black 5%);
+                  border: solid 1px color-mix(in srgb, var(--background), black 20%);
+                  box-shadow: 0 0 3px #0002;
+                  border-radius: 5px;
+                  padding: .5em;
+                  width: 20ch;
+                  max-width: max-content;
+                  font-size: 1rem;
+                }
                 :host(.in-tag) input {
                   background: #fff3;
                   box-shadow: none;
@@ -68,13 +82,20 @@ class Answer extends HTMLElement {
                   min-width: 2em;
                 }
             </style>
-            <span class="answer">
-                <span class="message"></span>
-            </span>
+            <span class="message"></span>
         `;
 
     this.input = createInput(this);
-    shadow.querySelector(".answer").prepend(this.input);
+    shadow.prepend(this.input);
+    if (this.hasAttribute("tip")) {
+      const tip = document.createElement("div");
+      tip.classList.add("tip");
+      tip.hidden = true;
+      tip.innerHTML = this.getAttribute("tip");
+      shadow.prepend(tip);
+      this.input.addEventListener("focus", () => tip.hidden = false);
+      this.input.addEventListener("blur", () => tip.hidden = true);
+    }
     this.message = shadow.querySelector(".message");
     this.input.addEventListener("focus", () => this.reset());
 
