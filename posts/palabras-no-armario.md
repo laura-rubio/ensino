@@ -12,12 +12,12 @@ Se non souberes o significado, clica no cartón para descubrires ese sinónimo q
 
 <e-card color="1">
   <div>Acordar</div>
-  <div>Espertar</div>
+  <div>Espertar<br>Ex.: Acordo ás 7 todos os días.</div>
   </e-card>
 
 <e-card color="2">
   <div>Ananás</div>
-  <div> Piña <br>Usa ananás e reserva piña para o froito do piñeiro.</div>
+  <div> Piña <br>Usa ananás para a froita tropical e reserva piña para o froito do piñeiro.</div>
 </e-card>
 
 <e-card color="3">
@@ -37,7 +37,7 @@ Se non souberes o significado, clica no cartón para descubrires ese sinónimo q
 
 <e-card color="6">
   <div>Cartón</div>
-  <div>Tarxeta <br>Si, en galego tamén podes dicir cartón de estudo, cartón de crédito, cartón de visita, cartón amarelo.</div>
+  <div>Tarxeta <br>Si, en galego tamén podes dicir cartón amarelo,  cartón de crédito, cartón de embarque, cartón de estudo, cartón de visita.</div>
 </e-card>
 
 <e-card color="7">
@@ -102,7 +102,7 @@ Se non souberes o significado, clica no cartón para descubrires ese sinónimo q
 
 <e-card color="9">
   <div>Testa</div>
-  <div>Fronte</div>
+  <div>Fronte <br> Esta parte da cara ten dous nomes. Reivindica testa!</div>
 </e-card>
 
 <e-card color="10">

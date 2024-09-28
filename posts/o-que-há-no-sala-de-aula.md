@@ -4,6 +4,42 @@ tags: []
 draft: true
 show_toc: false
 ---
-um <e-answer>quadro</e-answer> ![Image](/img/quadro.png)
+<e-moji> 📙 </e-moji>
 
-varios  <e-answer>computadores</e-answer>
+<e-answer> livro </e-answer>
+
+<e-moji> 🖥️ </e-moji>
+
+<e-answer>computador</e-answer> 
+
+<e-moji> 🖊️ </e-moji>
+
+<e-answer>caneta</e-answer>
+
+<e-moji> 🪑</e-moji>
+
+<e-answer>cadeira</e-answer>
+
+<e-moji> ✏️ </e-moji>
+
+<e-answer> lapis </e-moji>
+
+<e-moji> 🧑‍🎓 </e-moji>
+
+<e-answer> aluno </e-moji> 
+
+<e-moji> 🎒 </e-moji>
+
+<e-answer>mochila</e-answer>
+
+<e-moji> 🗑️ </e-moji>
+
+<e-answer> cesto dos papeis </e-answer>
+
+<e-moji> 👩‍🏫 </e-moji>
+
+<e-answer>professora</e-answer>
+
+<e-moji> ✂️ </e-moji>
+
+<e-answer> tesouras </e-answer>
