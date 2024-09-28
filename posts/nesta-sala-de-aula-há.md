@@ -1,5 +1,5 @@
 ---
-title: 'O que há na sala de aula '
+title: Nesta sala de aula há
 tags: []
 draft: true
 show_toc: false
@@ -16,7 +16,6 @@ Observa as imagens e completa com a palavra adequada:
 <e-tag color=1>relógio</e-tag>
 <e-tag color=1>cesto dos papeis</e-tag>
 <e-tag color=1>janela</e-tag>
-<e-tag color=1>aluno</e-tag>
 <e-tag color=1>caneta</e-tag>
 <e-tag color=1>livro</e-tag>
 <e-tag color=1>cadeira</e-tag>
@@ -26,54 +25,50 @@ Observa as imagens e completa com a palavra adequada:
 
 <e-moji> 📙 </e-moji>
 
-<e-answer> livro </e-answer>
+um <e-answer> livro </e-answer>
 
 <e-moji> 🪟 </e-moji>
 
-<e-answer> janela </e-answer>
+uma <e-answer> janela </e-answer>
 
 <e-moji> 🖥️ </e-moji>
 
-<e-answer>computador</e-answer> 
+um <e-answer>computador</e-answer> 
 
 <e-moji> 🖊️ </e-moji>
 
-<e-answer>caneta</e-answer>
+uma <e-answer>caneta</e-answer>
 
 <e-moji> 🪑</e-moji>
 
-<e-answer>cadeira</e-answer>
+uma <e-answer>cadeira</e-answer>
 
 <e-moji> ✏️ </e-moji>
 
-<e-answer> lapis </e-moji>
-
-<e-moji> 🧑‍🎓 </e-moji>
-
-<e-answer> aluno </e-moji> 
+um <e-answer> lapis </e-moji>
 
 <e-moji> 🎒 </e-moji>
 
-<e-answer>mochila</e-answer>
+uma <e-answer>mochila</e-answer>
 
 <e-moji> 🗑️ </e-moji>
 
-<e-answer> cesto dos papeis </e-answer>
+um <e-answer> cesto dos papeis </e-answer>
 
 <e-moji> 👩‍🏫 </e-moji>
 
-<e-answer>professora</e-answer>
+uma <e-answer>professora</e-answer>
 
 <e-moji> ✂️ </e-moji>
 
-<e-answer> tesoura </e-answer>
+uma <e-answer> tesoura </e-answer>
 
 <e-moji> 📏 </e-moji>
 
-<e-answer> régua </e-answer>
+uma <e-answer> régua </e-answer>
 
 <e-moji> 🕘 </e-moji>
 
-<e-answer> relógio </e-moji>
+um <e-answer> relógio </e-moji>
 
 <e-validate> Verifica as respostas </e-validate>
