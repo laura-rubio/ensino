@@ -1,22 +1,22 @@
 ---
-title: Os monosílabos en galego non levan acento gráfico
+title: Os monosílabos en galego non se acentúan
 summary: Ou si?
 tags:
   - acentuacion
 draft: false
 show_toc: false
 ---
-Non levan, non. Segundo as *Normas ortográficas e morfolóxicas do idioma galego* (NOMIG, 2003) as palabras monosílabas non se acentúan en galego.
+Non se acentúan, non. Segundo as *Normas ortográficas e morfolóxicas do idioma galego* (NOMIG, 2003) as palabras monosílabas non se acentúan en galego.
 
-Con todo, hai unha excepción. Algunhas palabras dunha única sílaba si levan acento gráfico para as diferenciarmos doutras que se escriben igual, mais teñen un significado diferente.
+Con todo, hai unha excepción. Algunhas palabras dunha única sílaba si teñen acento gráfico para as diferenciarmos doutras que se escriben igual, mais teñen un significado diferente.
 
 Trátase dun acento especial, que non responde a ningunha regra. Usámolo simplemente para distinguir palabras. E como é un acento un tanto especial, tamén ten un nome especial: **acento diacrítico**.
 
 ## Recursos
 
-Preme nesta ligazón para veres as palabras que si levan [acento diacrítico](https://laurarubio.net/posts/o-acento-diacritico-1/)
+Preme nesta ligazón para veres as palabras que si teñen [acento diacrítico](https://laurarubio.net/posts/o-acento-diacritico-1/)
 
-E clica nas de abaixo para coñeceres algúns monosílabos que nunca levan acento:[](https://www.youtube.com/watch?v=VtBV9-5gkVM)
+E clica nas de abaixo para coñeceres algúns monosílabos que nunca se acentúan:[](https://www.youtube.com/watch?v=VtBV9-5gkVM)
 
 [Vídeo do #DígochoEu: Quítalle o acento ao cu!](https://www.youtube.com/watch?v=VtBV9-5gkVM)
 
