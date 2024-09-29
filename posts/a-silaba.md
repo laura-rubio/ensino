@@ -132,7 +132,7 @@ Se tiveres moitas dúbidas, consulta a pronuncia de cada unha no [Dicionario de 
 
 b. O que teñen en común as 11 palabras anteriores?
 
-Todas son palabras <e-answer>graves</e-answer>: a sílaba tónica é a <e-answer>penúltima</e-answer>
+A sílaba tónica de todas elas é a <e-answer>penúltima</e-answer>, logo todas elas son palabras <e-answer>graves</e-answer>.
 
 <e-validate>Verifica as respostas</e-validate>
 
