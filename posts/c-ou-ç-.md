@@ -55,6 +55,6 @@ Repara!
 - Pessoa que perdeu a visão: <e-answer>cego</e-answer>
 - Cada um dos membros superiores do corpo: <e-answer>braço</e-answer>
 - Animal que serviu de inspiração para criar o Batman: <e-answer>morcego</e-answer>
-- Alimento que nos faz chorar ao ser cortado: <e-answer>cebola</e-answer>
+- Vegetal que nos faz chorar ao ser cortado: <e-answer>cebola</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
