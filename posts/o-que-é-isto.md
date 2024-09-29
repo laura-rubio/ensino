@@ -20,7 +20,7 @@ Observa os desenhos e completa com a palavra adequada:
 <e-tag color=1>caneta</e-tag>
 <e-tag color=1>livro</e-tag>
 <e-tag color=1>cadeira</e-tag>
-<e-tag color=1>autocarro</e-tag>
+<e-tag color=1>carro</e-tag>
 </e-layout> 
 
 
@@ -45,9 +45,9 @@ uma <e-answer>caneta</e-answer>
 
 uma <e-answer>cadeira</e-answer>
 
-<e-moji> 🚌 </e-moji>
+<e-moji> 🚗 </e-moji>
 
-um <e-answer>autocarro</e-answer>
+um <e-answer>carro</e-answer>
 
 <e-moji> ✏️ </e-moji>
 
