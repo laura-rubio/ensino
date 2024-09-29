@@ -53,12 +53,12 @@ Coloca o rato en cada unha das casas para leres a definición e escribe a palabr
 15. O <e-answer tip="Sensación percibida polo ouvido.">son</e-answer> das ondas do <e-answer tip="Masa de auga salgada.">mar</e-answer> é moi relaxante.
 16. Os <e-answer tip="Un sinónimo de seguidores.">fans</e-answer> da artista hai horas que esperan por ela á porta do hotel.
 17. A sopa está eslamiada, esqueciches o <e-answer tip="Substancia usada para salgar alimentos.">sal</e-answer>?
-18. A miña festa preferida é a de <e-answer tip="Forma de reducida de Santo que usamos antes de nomes que comezan por consoante.">san</e-answer> Xoán.
+18. A miña festa preferida é a de <e-answer tip="Forma reducida de Santo que usamos antes de nomes que comezan por consoante.">san</e-answer> Xoán.
 19. Mozart naceu cun <e-answer tip="Habilidade innata.">don</e-answer> para a música.
 20. <e-answer tip="Un sinónimo de unicamente">Só</e-answer> pode haber dous acompañantes por persoa no cuarto.
 21. Compra <e-answer tip="Alimento básico elaborado con fariña de trigo, auga e lévedo.">pan</e-answer> para o xantar.
 22. Foi a unha praia nudista para poder tomar <e-answer tip="Estrela que nos dá luz e calor.">sol</e-answer> completamente <e-answer tip="Sem roupa.">nu</e-answer>.
-23. A miña <e-answer tip="O arco da vella ten 7.">cor</e-answer> preferida <e-answer tip="3ª singular do verbo ser.">é</e-answer> o azul.
+23. A miña <e-answer tip="O arco da vella ten 7.">cor</e-answer> preferida <e-answer tip="3ª sing. do presente do indicativo do verbo ser.">é</e-answer> o azul.
 24. Aquí tes unha <e-answer tip="Utensilio usado para facer buracos no chan e retirar a terra.">pa</e-answer>, ponte a cavar.
 25. Non me respondas nese <e-answer tip="Volume ou calidade da voz.">ton</e-answer>.
 
