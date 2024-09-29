@@ -6,14 +6,14 @@ tags:
 draft: false
 show_toc: false
 ---
-[](http://aprofa.gal/2020/01/16/partes-do-corpo-4/)Deixo abaixo a ligazón a este
-marabilloso contido que descubrín no blog de Pilar Ponte, a profa, para
-traballares o léxico relacionado co corpo. Revisa primeiro o material gráfico
-que encontrarás no primeiro link e despois tenta facer os xogos seleccionados:
+Deixo a seguir a ligazón a dous recursos marabillosos para estudares o léxico do corpo humano:
 
-[O corpo humano: as súas partes](http://aprofa.gal/2020/01/16/partes-do-corpo-4/)
+1) O primeiro está realizado por Pilar Ponte, a profa:
+   [O corpo humano: as súas partes](http://aprofa.gal/2020/11/10/partes-do-corpo-4/)
 
-[](http://aprofa.gal/2020/01/16/o-corpo-humano-xogamos-co-portal-das-palabras/)
+2) O segundo é un vídeo curto da canle de Youtube Arre Demo co que aprenderás:  [Os nomes dos dedos en galego](https://youtube.com/shorts/GXIN7oNPn7E?si=ajBhnV1LR5nE4EHh)
+
+Consulta primeiro estes materiais e despois tenta facer os xogos da seleccionados a continuación:
 
 - - -
 
