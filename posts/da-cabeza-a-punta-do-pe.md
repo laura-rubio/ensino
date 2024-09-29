@@ -1,6 +1,6 @@
 ---
 title: Da cabeza á punta do pé
-summary: Todos os nomes das distintas partes do corpo humano.
+summary: Todos os nomes das partes do corpo.
 tags:
   - lexico
 draft: false
@@ -13,7 +13,7 @@ Deixo a seguir a ligazón a dous recursos marabillosos para estudares o léxico 
 
 2) O segundo é un vídeo curto da canle de Youtube Arre Demo co que aprenderás:  [Os nomes dos dedos en galego](https://youtube.com/shorts/GXIN7oNPn7E?si=ajBhnV1LR5nE4EHh)
 
-Consulta primeiro estes materiais e despois tenta facer os xogos da seleccionados a continuación:
+Consulta primeiro estes materiais e despois tenta facer os xogos da seguinte selección:
 
 - - -
 
