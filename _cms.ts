@@ -33,24 +33,28 @@ const app = cms({
         <p>Para meter textos ocultos dentro dun botón (?).</p>
       </dd>
     </dl>
-    `
-  }
+    `,
+  },
 });
 
 const tags = {
   name: "tags",
   type: "list",
   init(field) {
-    field.options = field.cmsContent.data.site.search.values("id", "type=category");
-  }
+    field.options = field.cmsContent.data.site.search.values(
+      "id",
+      "type=category",
+    );
+  },
 };
 
 app
   .upload("imaxes", "src:img")
-  .collection(
-    "posts",
-    "src:posts/*.md",
-    [
+  .collection({
+    name: "posts",
+    store: "src:posts/*.md",
+    nameField: "title",
+    fields: [
       "title: text",
       "summary: textarea",
       tags,
@@ -58,7 +62,7 @@ app
       "show_toc: checkbox",
       "content: markdown",
     ],
-  )
+  })
   .collection("paxinas", "src:pages", [
     "title: text",
     "url: text",

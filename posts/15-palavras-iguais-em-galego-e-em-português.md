@@ -3,6 +3,7 @@ title: 15 palavras iguais em galego e em português
 tags:
   - portugues
 draft: false
+show_toc: false
 ---
 E que não usas quando falas galego
 
