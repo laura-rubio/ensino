@@ -66,12 +66,12 @@ Soletra as seguintes palavras:
 
 - karate:  o <e-answer size=3>capa</e-answer>, o <e-answer size=3>á</e-answer>, o <e-answer size=3>erre</e-answer>,  o <e-answer size=3>á</e-answer>,  o <e-answer size=3>tê</e-answer>, o <e-answer size=3>é</e-answer>
 
-- professor: o <e-answer size=3>pê</e-answer>, o <e-answer size=3>erre</e-answer>, o <e-answer size=3>o</e-answer>, o <e-answer size=3>efe</e-answer>,  o <e-answer size=3>é</e-answer>,  o <e-answer size=3>esse duplo</e-answer>,  o <e-answer size=3>o</e-answer>, o <e-answer size=3>erre</e-answer>
+- professor: o <e-answer size=3>pê</e-answer>, o <e-answer size=3>erre</e-answer>, o <e-answer size=3>ó</e-answer>, o <e-answer size=3>efe</e-answer>,  o <e-answer size=3>é</e-answer>,  o <e-answer size=3>esse duplo</e-answer>,  o <e-answer size=3>ó</e-answer>, o <e-answer size=3>erre</e-answer>
 
 - janela: o <e-answer size=3>jota</e-answer>, o <e-answer size=3>á</e-answer>, o <e-answer size=3>ene</e-answer>,  o <e-answer size=3>é</e-answer>,  o <e-answer size=3>ele</e-answer>, o <e-answer size=3>á</e-answer>
 
 - kiwi: o <e-answer size=3>capa</e-answer>, o <e-answer size=3>i</e-answer>, o <e-answer size=3>dâblio</e-answer>, o <e-answer size=3>i</e-answer>
 
-- chouriço: o <e-answer size=3>cê-agá</e-answer>, o <e-answer size=3>ó</e-answer>, o <e-answer size=3>u</e-answer>, o <e-answer size=3>erre</e-answer>,  o <e-answer size=3>i</e-answer>,  o <e-answer size=3>cê-agá</e-answer>,  o <e-answer size=3>o</e-answer>
+- chouriço: o <e-answer size=3>cê-agá</e-answer>, o <e-answer size=3>ó</e-answer>, o <e-answer size=3>u</e-answer>, o <e-answer size=3>erre</e-answer>,  o <e-answer size=3>i</e-answer>,  o <e-answer size=3>cê cedilhado</e-answer>,  o <e-answer size=3>ó</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
