@@ -53,3 +53,26 @@ Além destas letras do alfabeto, no português usam-se <e-tag color=4 desc="o ç
 ## O alfabeto divertido
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Zvp8jPSSSI?si=qBFPePtWcK391rx_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Exercicio 1
+
+Soletra as seguintes palavras:
+
+- zero: o <e-answer size=3>zê</e-answer>, o <e-answer size=3>é</e-answer>, o <e-answer size=3>erre</e-answer>, o <e-answer size=3>u</e-answer>, o <e-answer size=3>ó</e-answer>
+
+- hobby:  o <e-answer size=3>agá</e-answer>, o <e-answer size=3>ó</e-answer>, o <e-answer size=3>bê</e-answer>, o <e-answer size=3>bê</e-answer>, o <e-answer size=3>ípsilon</e-answer>
+
+- galinha : o <e-answer size=3>guê</e-answer>, o <e-answer size=3>á</e-answer>, o <e-answer size=3>ele</e-answer>, o <e-answer size=3>i</e-answer>,  o <e-answer size=3>ene-agá</e-answer>,  o <e-answer size=3>á</e-answer>
+
+- karate:  o <e-answer size=3>capa</e-answer>, o <e-answer size=3>á</e-answer>, o <e-answer size=3>erre</e-answer>,  o <e-answer size=3>á</e-answer>,  o <e-answer size=3>tê</e-answer>, o <e-answer size=3>é</e-answer>
+
+- professor: o <e-answer size=3>pê</e-answer>, o <e-answer size=3>erre</e-answer>, o <e-answer size=3>o</e-answer>, o <e-answer size=3>efe</e-answer>,  o <e-answer size=3>é</e-answer>,  o <e-answer size=3>esse duplo</e-answer>,  o <e-answer size=3>o</e-answer>, o <e-answer size=3>erre</e-answer>
+
+- janela: o <e-answer size=3>jota</e-answer>, o <e-answer size=3>á</e-answer>, o <e-answer size=3>ene</e-answer>,  o <e-answer size=3>é</e-answer>,  o <e-answer size=3>ele</e-answer>, o <e-answer size=3>á</e-answer>
+
+- kiwi: o <e-answer size=3>capa</e-answer>, o <e-answer size=3>i</e-answer>, o <e-answer size=3>dâblio</e-answer>, o <e-answer size=3>i</e-answer>
+
+- chouriço: o <e-answer size=3>cê-agá</e-answer>, o <e-answer size=3>ó</e-answer>, o <e-answer size=3>u</e-answer>, o <e-answer size=3>erre</e-answer>,  o <e-answer size=3>i</e-answer>,  o <e-answer size=3>cê-agá</e-answer>,  o <e-answer size=3>o</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
