@@ -8,7 +8,7 @@ show_toc: false
 <e-layout>
 <e-tag color=1>força</e-tag>
 <e-tag color=2>você</e-tag>
-<e-tag color=3>especial</e-tag>
+<e-tag color=3>artificial</e-tag>
 <e-tag color=4>poço</e-tag>
 <e-tag color=5>açucena</e-tag>
 </e-layout>
@@ -22,7 +22,7 @@ A regra para saberes qual deves usar é fácil:
 <article>
 Repara!
 
-- c + e, i > Exs.: vo**cê**, açu**ce**na, espe**ci**al
+- c + e, i > Exs.: vo**cê**, açu**ce**na, artifi**ci**al
 - ç + a, o, u > Exs.: for**ça**, po**ço**, a**çu**cena
 </article>
 
