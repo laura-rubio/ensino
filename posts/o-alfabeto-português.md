@@ -36,7 +36,7 @@ O alfabeto da língua portuguesa é formado por 26 letras:
   <e-tag color=4 desc="o zê">z</e-tag>
 </e-layout>
 
-Além destas letras do alfabeto, no português usam-se <e-tag color=4 desc="o çê cedilhado">ç</e-tag> e 7 dígrafos.
+Além destas letras do alfabeto, no português usam-se <e-tag color=4 desc="o cê cedilhado">ç</e-tag> e 7 dígrafos.
 
 ## Dígrafos
 
