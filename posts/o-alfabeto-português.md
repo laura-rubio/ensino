@@ -58,7 +58,7 @@ Além destas letras do alfabeto, no português usam-se <e-tag color=4 desc="o ç
 
 Soletra as seguintes palavras:
 
-- zero: o <e-answer size=3>zê</e-answer>, o <e-answer size=3>é</e-answer>, o <e-answer size=3>erre</e-answer>, o <e-answer size=3>u</e-answer>, o <e-answer size=3>ó</e-answer>
+- zero: o <e-answer size=3>zê</e-answer>, o <e-answer size=3>é</e-answer>, o <e-answer size=3>erre</e-answer>, o <e-answer size=3>ó</e-answer>
 
 - hobby:  o <e-answer size=3>agá</e-answer>, o <e-answer size=3>ó</e-answer>, o <e-answer size=3>bê</e-answer>, o <e-answer size=3>bê</e-answer>, o <e-answer size=3>ípsilon</e-answer>
 
@@ -75,4 +75,3 @@ Soletra as seguintes palavras:
 - chouriço: o <e-answer size=3>cê-agá</e-answer>, o <e-answer size=3>ó</e-answer>, o <e-answer size=3>u</e-answer>, o <e-answer size=3>erre</e-answer>,  o <e-answer size=3>i</e-answer>,  o <e-answer size=3>cê-agá</e-answer>,  o <e-answer size=3>o</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
-
