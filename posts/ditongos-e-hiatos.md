@@ -9,20 +9,17 @@ Como os recoñezo?
 
 ## Ditongo
 
-Dúas vogais que van seguidas forman un ditongo cando as pronunciamos na mesma
-sílaba. Exemplos: n**ai**, p**ei**-xe, can-c**ió**n
+Dúas vogais que van seguidas forman un ditongo cando as pronunciamos na mesma sílaba. Exemplos: n**ai**, p**ei**-xe, can-c**ió**n
 
 ### Tipos de ditongos
 
-* Crecentes: vogal fechada (i, u) + vogal aberta (a, e, o). Ex.: pac**ie**nte,
-  c**ua**rto
+* Crecentes: vogal fechada (i, u) + vogal aberta (a, e, o). Ex.: pac**ie**nte, c**ua**rto
 * Decrecentes: vogal aberta (a, e, o) + vogal fechada (i, u). Ex.: p**au**
 * Homoxéneos: dúas vogais fechadas. Ex.: viv**iu**
 
 ## Hiato
 
-Dúas vogais que van seguidas forman un hiato cando as pronunciamos en sílabas
-diferentes. Exs.: a-r**e-a**, en-xa-b**o-a**r, p**o-e**-ma
+Dúas vogais que van seguidas forman un hiato cando as pronunciamos en sílabas diferentes. Exs.: a-r**e-a**, en-xa-b**o-a**r, p**o-e**-ma
 
 ### Tipos de hiatos
 
@@ -34,8 +31,7 @@ diferentes. Exs.: a-r**e-a**, en-xa-b**o-a**r, p**o-e**-ma
 
 **iu** e **ui** son ditongos se o primeiro é o elemento tónico. Ex.: v**iu**, p**ui**do
 
-**iú** e **uí** son hiatos se o segundo elemento é tónico. Neste caso indícase
-cun acento gráfico. Ex.: m**íu**do, r**uí**do
+**iú** e **uí** son hiatos se o segundo elemento é tónico. Neste caso indícase cun acento gráfico. Ex.: m**iú**do, r**uí**do
 
 - - -
 
