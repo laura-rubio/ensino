@@ -17,7 +17,7 @@ As palavras anteriores têm todas o som /s/, mas este som umas vezes é escrito 
 
 A regra para saberes qual deves usar é fácil: 
 - Escreve cê antes de *e, i*
-- Escreve çê cedilhado antes de *a, o, u*
+- Escreve cê cedilhado antes de *a, o, u*
 
 <article>
 Repara!
