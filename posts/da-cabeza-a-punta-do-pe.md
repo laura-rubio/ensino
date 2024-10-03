@@ -13,7 +13,7 @@ Deixo a seguir a ligazón a dous recursos marabillosos para estudares o léxico 
 
 2) O segundo é un vídeo curto da canle de Youtube Arre Demo co que aprenderás  [os nomes dos dedos en galego](https://youtube.com/shorts/GXIN7oNPn7E?si=ajBhnV1LR5nE4EHh). Cando souberes os nomes de todos, anímate a cantar con Migallas a [canción dos dedos para lavar as mans](https://www.youtube.com/watch?v=EtVYkMXQ7rE).
 
-Consulta primeiro estes materiais e despois tenta facer os xogos da seguinte selección:
+Despois de consultares os materiais anteriores, tenta facer os xogos da seguinte selección:
 
 - - -
 
