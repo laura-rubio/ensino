@@ -5,7 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-Xunta as sílabas de cada cor e forma palabras acabadas en -zo ou en -cio:
+Xunta as sílabas de cada cor e forma palabras acabadas en -cio ou en -zo:
 
 <e-layout>
 <e-tag color=10>zo</e-tag>
