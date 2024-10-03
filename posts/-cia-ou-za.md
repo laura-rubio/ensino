@@ -5,7 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-Xunta as sílabas de cada cor e forma palabras acabadas en -cia ou en -za:
+Xunta as sílabas de cada cor e forma palabras acabadas en *-cia* ou en *-za:*
 
 <e-layout>
 <e-tag color=7>e</e-tag>
@@ -23,7 +23,6 @@ Xunta as sílabas de cada cor e forma palabras acabadas en -cia ou en -za:
 <e-tag color=2>ren</e-tag>
 <e-tag color=3>ter</e-tag>
 <e-tag color=10>li</e-tag>
-<e-tag color=4>cen</e-tag>
 <e-tag color=4>za</e-tag>
 <e-tag color=5>gra</e-tag>
 <e-tag color=2>di</e-tag>
@@ -38,6 +37,7 @@ Xunta as sílabas de cada cor e forma palabras acabadas en -cia ou en -za:
 <e-tag color=8>cia</e-tag>
 <e-tag color=2>za</e-tag>
 <e-tag color=1>pre</e-tag>
+<e-tag color=4>cen</e-tag>
 </e-layout>
 
 ## Terminadas en -cia
