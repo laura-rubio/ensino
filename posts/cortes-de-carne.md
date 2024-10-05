@@ -1,10 +1,12 @@
 ---
 title: Cortes de carne
-summary: Os nomes en galego dos cortes de carne que máis se piden nos
-  restaurantes e que case nunca temos a oportunidade de ver escritos nas cartas
+summary: >-
+  Os nomes en galego dos cortes de carne que máis se piden nos restaurantes e
+  que case nunca temos a oportunidade de ver escritos nas cartas
 tags:
   - lexico
 draft: false
+show_toc: false
 ---
 Vira o cartón para descubrires o nome que aparece habitualmente nos menús
 
@@ -129,6 +131,6 @@ Vira o cartón para descubrires o nome que aparece habitualmente nos menús
 </e-card>
 
 <e-card color="5">
-  <div>Xoga da perna, xoenllo, pa</div>
+  <div>Pa</div>
   <div>Codillo (es)</div>
 </e-card>
