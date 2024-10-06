@@ -23,7 +23,7 @@ Do olho, que pode ficar assim por causa dum murro.
 
 ---
 
-Da beterraba, o tubérculo com sabor a terra que desanima a muitos.
+Da beterraba, o tubérculo com um sabor a terra que desanima a muitos.
 
 ![Image](/img/beterraba.jpg)
 
