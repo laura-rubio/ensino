@@ -17,7 +17,7 @@ A palavra cor é feminina em galego e em português, mas os nomes das cores são
 
 Exemplo: 
 Qual é a tua cor favorita?
-A minha cor favorita é o roxo
+A minha cor favorita é o roxo.
 
 - - -
 
