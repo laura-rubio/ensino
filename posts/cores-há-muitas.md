@@ -13,11 +13,14 @@ Calma! não é preciso aprenderes o nome de todas. Por enquanto, chega com saber
 
 Antes de começares, um lembrete rápido: 
 
+<article>
 A palavra cor é feminina em galego e em português, mas os nomes das cores são masculinos.
 
 Exemplo: 
+
 Qual é a tua cor favorita?
 A minha cor favorita é o roxo.
+</article>
 
 - - -
 
@@ -29,7 +32,7 @@ Branco
 
 <div style="height:100px;max-width:400px;background:white;border:solid black 1px;"></div>
 
-Cor-de-pele
+Cor de pele
 
 <div style="height:100px;max-width:400px;background:#f2c29e;"></div>
 
