@@ -23,7 +23,7 @@ Aprende  o plural das palavras acabadas em -ão em dois simples passos:
 
 Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal
 
-## Serie 1
+## Série 1
 1. limão > <e-answer>limões</e-answer>
 2. alemão > <e-answer>alemães</e-answer>
 3. canção > <e-answer>canções</e-answer>
@@ -37,7 +37,7 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Serie 2
+## Série 2
 
 11. lião > <e-answer>liões</e-answer>
 12. avião > <e-answer>aviões</e-answer>
@@ -52,7 +52,7 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Serie 3
+## Série 3
 
 21. televisão > <e-answer>televisões</e-answer>
 22. inscrição > <e-answer>inscrições</e-answer>
@@ -67,7 +67,7 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Serie 4
+## Série 4
 
 31. revolução > <e-answer>revoluções</e-answer>
 32. atuação > <e-answer>atuações</e-answer>
@@ -82,7 +82,7 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Serie 5
+## Série 5
 
 40. repetição > <e-answer>repetições</e-answer>
 41. construção > <e-answer>construções</e-answer>
