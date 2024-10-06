@@ -3,8 +3,8 @@ title: As cores
 tags:
   - portugues
 draft: false
+show_toc: false
 ---
-
 Aprende as cores em português a partir do galego! 
 
 Antes de começarmos, lembra que a palavra cor é feminina em galego e em português, mas os nomes das cores são masculinos.
@@ -57,7 +57,7 @@ Cincento ou cinza
 
 Prateado
 
-<div style="height:100px;max-width:400px;background:#9d9d9c;"> </div>
+<div style="height:100px;max-width:400px;background:silver;"> </div>
 
 <e-answer> Prateado </e-answer>
 
@@ -119,6 +119,15 @@ Verde
 
 - - -
 
+Azul mariño
+
+<div style="height:100px;max-width:400px;background:navy;"></div>
+
+<e-answer> Azul </e-answer>-<e-answer> marinho </e-answer>
+
+- - -
+
+
 Azul
 
 <div style="height:100px;max-width:400px;background:blue;"></div>
@@ -156,6 +165,14 @@ Púrpura
 <div style="height:100px;max-width:400px;background:#501e65;"></div>
 
 <e-answer> Roxo </e-answer>
+
+- - -
+
+Maxenta
+
+<div style="height:100px;max-width:400px;background:magenta;"></div>
+
+<e-answer> Magenta </e-answer>
 
 - - -
 
