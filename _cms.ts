@@ -32,6 +32,22 @@ const app = cms({
       <dd>
         <p>Para meter textos ocultos dentro dun botón (?).</p>
       </dd>
+      <dt><code>e-moji</code></dt>
+      <dd>
+        <p>Para meter emojis ou textos en tamaño grande.</p>
+      </dd>
+    </dl>
+
+    <h2>Modificar imaxes</h2>
+    <dl>
+      <dt><code>{.is-square}</code></dt>
+      <dd>
+        <p>Para poñer as imaxes todas cadradas.</p>
+      </dd>
+      <dt><code>{.is-horizontal}</code></dt>
+      <dd>
+        <p>Para poñer as imaxes todas rectangulares en formato horizontal.</p>
+      </dd>
     </dl>
     `,
   },
