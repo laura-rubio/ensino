@@ -13,7 +13,7 @@ show_toc: false
 <e-tag color=5>açucena</e-tag>
 </e-layout>
 
-As palavras anteriores têm todas o som /s/, mas este som umas vezes é escrito com *c* e outras com *ç.* 
+As palavras anteriores têm todas o som [s], mas este som umas vezes é escrito com *c* e outras com *ç.* 
 
 A regra para saberes qual deves usar é fácil: 
 - Escreve cê antes de *e, i*
