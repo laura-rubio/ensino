@@ -10,7 +10,7 @@ Non se acentúan, non. Segundo as *Normas ortográficas e morfolóxicas do idiom
 
 Con todo, hai unha excepción. Algunhas palabras dunha única sílaba si teñen acento gráfico para as diferenciarmos doutras que se escriben igual, mais teñen un significado diferente.
 
-Trátase dun acento especial, que non responde a regra ningunha. Usámolo simplemente para distinguir palabras. E como é un acento un tanto especial, tamén ten un nome especial: **acento diacrítico**.
+Trátase dun acento especial, que non responde a regra ningunha. Usámolo simplemente para distinguir palabras. E como é un acento un pouco especial, tamén ten un nome especial: **acento diacrítico**.
 
 ## Recursos
 
