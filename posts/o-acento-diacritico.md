@@ -7,10 +7,7 @@ show_toc: false
 ---
 ## O que é o acento diacrítico?
 
-O acento diacrítico serve para diferenciar na escrita dúas palabras que se
-escriben igual, que son homógrafas, mais que teñen orixes diferentes,
-significados distintos e que ademais poden pronunciarse de maneira diferente e
-inclusive non pertenceren á mesma categoría gramatical.
+O acento diacrítico serve para diferenciar na escrita dúas palabras que se escriben igual, que son homógrafas, mais que teñen orixes diferentes, significados distintos e que ademais poden pronunciarse de maneira diferente e, inclusive, non pertenceren á mesma categoría gramatical.
 
 Exemplos:
 
@@ -29,14 +26,14 @@ Exemplos:
 * *bola* "peza de pan" pronúnciase con o fechado
 * *bóla* "esfera, pelota" pronúnciase con o aberto
 
-  Nestes casos, a palabra que se acentúa é sempre a que ten a vogal aberta. Só hai unha excepción: *pór* e *por* son as dúas con o fechado.
+  Nestes casos, a palabra que se acentúa é sempre a que ten a vogal aberta. Só hai unha excepción: *pór* e *por* son as dúas con *o* fechado.
 
 ### Non pertencen á mesma categoría gramatical
 
 * *da* "contracción de *de* + *a*"
 * *dá* "P3 do presente de indicativo do verbo *dar*"
 
-Neste último caso, temos que manter o acento diacrítico ao engadirmos un pronome?
+  Neste último caso, temos que manter o acento diacrítico ao engadirmos un pronome?
 Ti que cres? Atento ao vídeo:
 
 <iframe src="https://player.vimeo.com/video/179171705?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
