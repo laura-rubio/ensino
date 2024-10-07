@@ -14,7 +14,7 @@ Trátase dun acento especial, que non responde a regra ningunha. Usámolo simple
 
 ## Recursos
 
-Preme nesta ligazón para veres as palabras que si teñen [acento diacrítico](https://laurarubio.net/posts/o-acento-diacritico-1/)
+Preme nesta ligazón para veres as palabras que si teñen [acento diacrítico]
 
 E clica nas de abaixo para coñeceres algúns monosílabos que nunca se acentúan:[](https://www.youtube.com/watch?v=VtBV9-5gkVM)
 
