@@ -1,5 +1,5 @@
 ---
-title: Cores há muitas
+title: Um mundo de cores
 tags:
   - portugues
 draft: false
