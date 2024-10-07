@@ -38,7 +38,7 @@ Ti que cres? Atento ao vídeo:
 
 <iframe src="https://player.vimeo.com/video/179171705?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-En galego levan acento diacrítico as seguintes palabras:
+En galego teñen acento diacrítico as seguintes palabras:
 
 | Sen acento                                                           | Con acento                           |
 | -------------------------------------------------------------------- | ------------------------------------ |
