@@ -1,8 +1,9 @@
 ---
-title: "Treino de verbos: presente do indicativo"
+title: 'Treino de verbos: presente do indicativo'
 tags:
   - portugues
 draft: false
+show_toc: false
 ---
 Conjuga no presente do indicativo os seguintes verbos:
 
@@ -14,6 +15,15 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 - Ele, ela, você <e-answer>é</e-answer>
 - Nós <e-answer>somos</e-answer>
 - Eles, elas, vocês <e-answer>são</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Chamar-se
+- Eu <e-answer>chamo</e-answer>-<e-answer>me</e-answer>
+- Tu <e-answer>chamas</e-answer>-<e-answer>te</e-answer>
+- Ele, ela, você <e-answer>chama</e-answer>-<e-answer>se</e-answer>
+- Nós <e-answer>chamamo</e-answer>-<e-answer>nos</e-answer>
+- Eles, elas, vocês <e-answer>chamam</e-answer>-<e-answer>se</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -44,14 +54,6 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Chamar-se
-- Eu <e-answer>chamo</e-answer>-<e-answer>me</e-answer>
-- Tu <e-answer>chamas</e-answer>-<e-answer>te</e-answer>
-- Ele, ela, você <e-answer>chama</e-answer>-<e-answer>se</e-answer>
-- Nós <e-answer>chamamo</e-answer>-<e-answer>nos</e-answer>
-- Eles, elas, vocês <e-answer>chamam</e-answer>-<e-answer>se</e-answer>
-
-<e-validate>Verifica as respostas</e-validate>
 
 ## Praticar
 - Eu <e-answer>pratico</e-answer>
@@ -196,4 +198,3 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 - Eles, elas, vocês <e-answer>dizem</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
-

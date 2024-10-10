@@ -1,8 +1,9 @@
 ---
-title: "Cartões de estudo - 1º da ESO: presente do indicativo"
+title: 'Cartões de estudo - 1º da ESO: presente do indicativo'
 tags:
   - portugues
 draft: false
+show_toc: false
 ---
 <e-card color="1">
   <div>Presente do indicativo de ser</div>
@@ -13,6 +14,19 @@ draft: false
       <li>ele, ela, você é </li>
       <li>nós somos </li>
       <li>eles, elas, vocês são </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente do indicativo de chamar-se</div>
+  <div>
+    <ul>
+      <li>eu chamo-me </li>
+      <li>tu chamas-te </li>
+      <li>ele, ela, você chama-se </li>
+      <li>nós chamamo-nos </li>
+      <li>eles, elas, vocês chamam-se </li>
     </ul>
   </div>
 </e-card>
@@ -52,19 +66,6 @@ draft: false
       <li>ele, ela, você faz </li>
       <li>nós fazemos </li>
       <li>eles, elas, vocês fazem </li>
-    </ul>
-  </div>
-</e-card>
-
-<e-card color="1">
-  <div>Presente do indicativo de chamar-se</div>
-  <div>
-    <ul>
-      <li>eu chamo-me </li>
-      <li>tu chamas-te </li>
-      <li>ele, ela, você chama-se </li>
-      <li>nós chamamo-nos </li>
-      <li>eles, elas, vocês chamam-se </li>
     </ul>
   </div>
 </e-card>
