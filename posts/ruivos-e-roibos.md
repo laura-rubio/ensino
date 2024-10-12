@@ -11,26 +11,26 @@ Como sei que para muitos dos meus alunos e alunas a cor de cabelo destas pessoas
 
 A próxima vez que te deparares com um, lembra-te de que o nome que deves usar para te referir a ele é: **ruivo**, em português, ou **roibo**, em galego:
 
-Pippi Långstrump, a personagem literária inventada pela escritora sueca Astrid Lindgren.
+Pippi Långstrump, a personagem inventada por Astrid Lindgren.
 
 ![Image](/img/pippi.jpg){.is-square}
-
-Tintim, o jovem da popular série de banda desenhada que anda sermpre à procura de novas aventuras com o seu cão Milu.
-
-![Image](/img/tintin.jpg){.is-square}
 
 Obélix, o melhor amigo de Astérix.
 
 ![Image](/img/obélix.jpg){.is-square}
 
+Tintim, o aventureiro mais famoso da banda desenhada.
+
+![Image](/img/tintin.jpg){.is-square}
+
 Merida, a protagonista do filme Brave da Pixar.
 
 ![Image](/img/merida.jpg){.is-square}
 
-Van Gogh, o artista neerlandês que adorava pintar girassois.
+Van Gogh, o pintor neerlandês que adorava girassois.
 
 ![Image](/img/van_gogh.jpg){.is-square}
 
-Ed Sheeran, o músico inglês, que alcançou sucesso internacional com  *hits* como Perfect ou Shivers.
+Ed Sheeran, o cantor de *hits* como Perfect ou Shivers.
 
 ![Image](/img/ed_sheeran.jpg){.is-square}
