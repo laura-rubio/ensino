@@ -23,7 +23,7 @@ Obélix, o melhor amigo de Astérix.
 
 ![Image](/img/obélix.jpg){.is-square}
 
-Mérida, a protagonista do filme Brave da Pixar.
+Merida, a protagonista do filme Brave da Pixar.
 
 ![Image](/img/merida.jpg){.is-square}
 
