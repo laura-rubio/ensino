@@ -15,7 +15,7 @@ Pippi Långstrump, a personagem literária inventada pela escritora sueca Astrid
 
 ![Image](/img/pippi.jpg){.is-square}
 
-Tintin, o jovem da popular série de banda desenhada que anda sermpre à procura de novas aventuras com o seu cão Milu.
+Tintim, o jovem da popular série de banda desenhada que anda sermpre à procura de novas aventuras com o seu cão Milu.
 
 ![Image](/img/tintin.jpg){.is-square}
 
