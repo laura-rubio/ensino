@@ -27,7 +27,7 @@ Merida, a protagonista do filme Brave da Pixar
 
 ![Image](/img/merida.jpg){.is-square}
 
-Van Gogh, o pintor neerlandês que adorava girassois
+Van Gogh, o pintor neerlandês que adorava girassóis
 
 ![Image](/img/van_gogh.jpg){.is-square}
 
