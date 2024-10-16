@@ -5,7 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-Da couve roxa, ideal para quem gostar de saladas coloridas.
+Da couve roxa, ideal para quem gosta de saladas coloridas.
 
 ![Image](/img/couve_roxa.jpg)
 
