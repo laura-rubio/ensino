@@ -15,15 +15,14 @@ Observa os desenhos e completa com a palavra adequada:
 <e-tag color=1>régua</e-tag>
 <e-tag color=1>computador</e-tag>
 <e-tag color=1>tesoura</e-tag>
+<e-tag color=1>caneta</e-tag>
 <e-tag color=1>relógio</e-tag>
 <e-tag color=1>cesto dos papéis</e-tag>
 <e-tag color=1>janela</e-tag>
-<e-tag color=1>caneta</e-tag>
 <e-tag color=1>livro</e-tag>
 <e-tag color=1>cadeira</e-tag>
 <e-tag color=1>carro</e-tag>
 </e-layout> 
-
 
 
 <e-moji> 📙 </e-moji>
