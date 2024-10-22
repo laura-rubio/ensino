@@ -9,7 +9,7 @@ Observa os desenhos e completa com a palavra adequada:
 
 <e-layout> 
 <e-tag color=1>professora</e-tag>
-<e-tag color=1>lapis</e-tag>
+<e-tag color=1>lápis</e-tag>
 <e-tag color=1>mochila</e-tag>
 <e-tag color=1>óculos</e-tag>
 <e-tag color=1>régua</e-tag>
@@ -52,7 +52,7 @@ um <e-answer>carro</e-answer>
 
 <e-moji> ✏️ </e-moji>
 
-um <e-answer> lapis </e-moji>
+um <e-answer> lápis </e-moji>
 
 <e-moji> 🎒 </e-moji>
 
