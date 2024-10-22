@@ -16,7 +16,7 @@ Observa os desenhos e completa com a palavra adequada:
 <e-tag color=1>computador</e-tag>
 <e-tag color=1>tesoura</e-tag>
 <e-tag color=1>relógio</e-tag>
-<e-tag color=1>cesto dos papeis</e-tag>
+<e-tag color=1>cesto dos papéis</e-tag>
 <e-tag color=1>janela</e-tag>
 <e-tag color=1>caneta</e-tag>
 <e-tag color=1>livro</e-tag>
@@ -60,7 +60,7 @@ uma <e-answer>mochila</e-answer>
 
 <e-moji> 🗑️ </e-moji>
 
-um <e-answer> cesto dos papeis </e-answer>
+um <e-answer> cesto dos papéis </e-answer>
 
 <e-moji> 👩‍🏫 </e-moji>
 
