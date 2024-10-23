@@ -2,7 +2,6 @@
 title: '4 palavras sem h '
 summary: (nem em galego nem em português)
 tags:
-  - 'ortografia '
   - portugues
 draft: false
 show_toc: false
