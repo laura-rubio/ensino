@@ -1,10 +1,11 @@
 ---
-title: Aí, ai! e hai
+title: 'Aí, ai! e hai'
 summary: Aprende a distinguilos
 tags:
-  - ortografia
+  - o-h
+draft: false
+show_toc: false
 ---
-
 ## **Non confundas aí, ai! e hai**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MVPBPSRwgbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
