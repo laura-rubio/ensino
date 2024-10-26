@@ -1,5 +1,5 @@
 ---
-title: Cinco línguas de Macau
+title: O português em Macau
 tags:
   - O português no mundo
 draft: false
@@ -7,13 +7,13 @@ show_toc: false
 ---
 ## Antes de mais, onde fica Macau?
 
-<e-moji>👇</e-moji>
-
-![Image](/img/macau_região_chinesa.png)
-
 ## Na China
 
 ![Image](/img/macau_na_china.png)
+
+<e-moji>👇</e-moji>
+
+![Image](/img/macau_região_chinesa.png)
 
 Macau é uma das regiões administrativas especiais da China desde 20 de dezembro de 1999. A outra é Hong Kong. Antes desta data, Macau foi colonizada e administrada por Portugal durante mais de 400 anos e é considerada o primeiro entreposto comercial, bem como a última colónia europeia na Ásia. 
 
