@@ -23,7 +23,7 @@ Analiza e tira conclusións:
 
 O segundo gráfico presenta a información relativa ás porcentaxes de mozos e mozas que manteñen a súa lingua inicial ou materna e tamén ás porcentaxes daqueles que a mudaron.
 
-- Cal é a lingua que está a aumentar o uso en novos contextos? 
+- Cal é a lingua que está a conquistar novos contextos de uso? 
 
 - É certo que o catalán se está a impor ao castelán nesa comunidade?
 
