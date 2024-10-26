@@ -2,10 +2,10 @@
 title: O catalán e a mocidade
 tags:
   - As linguas da Península Ibérica
-draft: true
+draft: false
 show_toc: false
 ---
-Velaquí tes 2 gráficos tirados da Enquisa à xuventude catalá de 2022 que mostran a información máis actualizada de que dispomos sobre os usos lingüísticos da xente nova na Cataluña.
+Velaquí tes 2 gráficos tirados da *Enquisa á xuventude catalá de 2022* que mostran a información máis actualizada de que dispomos sobre os usos lingüísticos da xente nova na Cataluña.
 
 Analiza e tira conclusións:
 
@@ -30,4 +30,3 @@ O segundo gráfico de 2022 mostra a información relativa ás porcentaxes de moz
 - Na túa opinión, cal é a lingua que se debería protexer e promover na Cataluña?
 
 Datos tirados da [Enquesta a la joventud de Calalunya 2022. Volum 2. Hàbits i estils de vida](/img/ejc22_volum_2.pdf)
-
