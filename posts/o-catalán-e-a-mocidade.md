@@ -29,4 +29,4 @@ O segundo gráfico presenta a información relativa ás porcentaxes de mozos e m
 
 - Na túa opinión, cal é a lingua que se debería protexer e promover na Cataluña?
 
-Datos tirados da [Enquesta a la joventud de Calalunya 2022. Volum 2. Hàbits i estils de vida](/img/ejc22_volum_2.pdf)
+Gráficos tirados da [Enquesta a la joventud de Calalunya 2022. Volum 2. Hàbits i estils de vida](/img/ejc22_volum_2.pdf)
