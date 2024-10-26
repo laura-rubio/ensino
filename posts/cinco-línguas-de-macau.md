@@ -2,7 +2,7 @@
 title: Cinco línguas de Macau
 tags:
   - O português no mundo
-draft: true
+draft: false
 show_toc: false
 ---
 ## Antes de mais, onde fica Macau?
