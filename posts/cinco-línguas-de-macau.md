@@ -11,7 +11,10 @@ show_toc: false
 
 ![Image](/img/macau_região_chinesa.png)
 
-## O que é Macau? 
+## Na China
+
+![Image](/img/macau_na_china.png)
+
 Macau é uma das regiões administrativas especiais da China desde 20 de dezembro de 1999. A outra é Hong Kong. Antes desta data, Macau foi colonizada e administrada por Portugal durante mais de 400 anos e é considerada o primeiro entreposto comercial, bem como a última colónia europeia na Ásia. 
 
 Fonte: [Macau](https://pt.wikipedia.org/wiki/Macau) na Wikipédia
