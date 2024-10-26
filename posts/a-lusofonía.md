@@ -2,6 +2,7 @@
 title: A lusofonia
 tags:
   - sociolinguistica
+  - portugues
 draft: false
 show_toc: false
 ---
