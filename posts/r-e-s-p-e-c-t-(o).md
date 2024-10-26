@@ -19,6 +19,6 @@ Agora en galego!:
 
 R - E - S - P - E - C - T - O
 
-Eu sei, un clip é pouco! Queredes ouvila do inicio ao fin? 👇
+Eu sei, un *clip* é pouco! Queres ouvila do inicio ao fin? 👇
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A134hShx_gw?si=6Q-JS_1-tp3WphXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
