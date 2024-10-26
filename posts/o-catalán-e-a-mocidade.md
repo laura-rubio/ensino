@@ -21,7 +21,7 @@ Analiza e tira conclusións:
 
 ![Image](/img/usos_ling_jovens.png)
 
-O segundo gráfico de 2022 mostra a información relativa ás porcentaxes de mozos e mozas que manteñen a súa lingua inicial ou materna e tamén ás porcentaxes daqueles que a mudaron.
+O segundo gráfico presenta a información relativa ás porcentaxes de mozos e mozas que manteñen a súa lingua inicial ou materna e tamén ás porcentaxes daqueles que a mudaron.
 
 - Cal é a lingua que está a gañar falantes? 
 
