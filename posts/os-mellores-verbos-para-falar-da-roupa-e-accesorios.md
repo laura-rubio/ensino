@@ -1,5 +1,5 @@
 ---
-title: Verbos para falar da roupa e accesorios
+title: Os mellores verbos para falar da roupa e accesorios
 tags:
   - lexico
 draft: false
