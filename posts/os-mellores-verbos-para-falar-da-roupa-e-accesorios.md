@@ -15,7 +15,7 @@ Eu non recomendo ~~levar~~ 🙅‍♀ Tes opcións moito mellores!
 **Vestir** ~ **vestirse**
 
 Exs.:
-- *Viste* un traxe azul e gravata da mesma cor.
+- *Viste* un traxe azul e unha gravata da mesma cor.
 - Ten o brazo enxesado e necesita axuda para *vestirse*. 
 
 </article>
@@ -25,8 +25,8 @@ Exs.:
 **Usar**
 
 Exs.:
-- *Uso* pezas de roupa grandes e largas, porque adoro o estilo *oversized.*
-- *Usa* lentes de contacto porque non ve ben ao lonxe. 
+- Adora o estilo *oversized,* por iso *usa* pezas de roupa grandes e largas.
+- *Uso* lentes de contacto porque non vexo ben ao lonxe. 
 
 </article>
 
@@ -81,7 +81,7 @@ Exs.:
 
 Exs.:
 - *Tire* a roupa e colóquea na cadeira.
-- *Tirou* a camisa e puxo unha limpa.
+- Vou *tirar* a camisa e pór unha limpa.
 
 </article>
 
