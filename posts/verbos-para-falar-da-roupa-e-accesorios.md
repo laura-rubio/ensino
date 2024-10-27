@@ -2,7 +2,7 @@
 title: Verbos para falar da roupa e accesorios
 tags:
   - lexico
-draft: true
+draft: false
 show_toc: false
 ---
 Non valen todos, non! Eu non recomendo ~~levar~~ 🙅‍♀️
