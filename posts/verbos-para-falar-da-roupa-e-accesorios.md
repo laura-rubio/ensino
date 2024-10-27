@@ -4,10 +4,11 @@ tags:
   - lexico
 draft: false
 show_toc: false
+summary: 'Non valen todos, non!'
 ---
-Non valen todos, non! Eu non recomendo ~~levar~~ 🙅‍♀️
+Eu non recomendo ~~levar~~ 🙅‍♀ Tes opcións moito mellores!
 
-Non te preocupes! Tes opcións!
+<e-moji> 👇 </e-moji>
 
 <article>
 
@@ -50,7 +51,9 @@ Exs.:
 
 E que verbos usamos para expresar o contrario? 
 
-Nin ~~quitar~~ nin ~~sacar~~ son boas opcións. Proba con estes!
+Nin ~~quitar~~ nin ~~sacar~~ son boas opcións. Que tal estes?
+
+<e-moji> 👇 </e-moji>
 
 <article> 
   
@@ -76,7 +79,7 @@ Exs.:
 
 Exs.:
 - *Tire* a roupa e colóquea na cadeira.
-- *Tira* esa camisa e pon unha limpa.
+- *Tirou* a camisa e puxo unha limpa.
 
 </article>
 
