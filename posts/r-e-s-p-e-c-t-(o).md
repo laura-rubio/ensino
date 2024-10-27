@@ -19,7 +19,9 @@ Lémbrate!:
 
 R - E - S - P - E - C - T - O
 
-En portugués é con -i- o substantivo: R - E - S - P - E - I - T - O 
+En portugués é con -i- o substantivo:
+
+R - E - S - P - E - I - T - O 
 
 E tamén o verbo:
 
