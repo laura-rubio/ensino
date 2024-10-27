@@ -25,7 +25,7 @@ Exs.:
 **Usar**
 
 Exs.:
-- Na casa *uso* só roupa confortábel.
+- *Uso* pezas de roupa grandes e largas, porque adoro o estilo *oversized.*
 - *Usa* lentes de contacto porque non ve ben ao lonxe. 
 
 </article>
@@ -45,6 +45,7 @@ Exs.:
 **calzar** ~ **calzarse**
 
 Exs.:
+- Axuda o teu irmán a *calzar* os zapatos!
 - *Cálzate*, o chan está moi frío.
 
 </article>
@@ -61,6 +62,7 @@ Nin ~~quitar~~ nin ~~sacar~~ son boas opcións. Que tal estes?
 
 Exs.:
 - Queres ler un conto? Entón *íspete* e pon o pixama.
+- Vou despir esta roupa e trocala por outra máis confortábel.
 
 </article>
 
