@@ -15,19 +15,19 @@ R - E - S - P - E - C - T
 
 <iframe width="342" height="607" src="https://www.youtube.com/embed/UG6lyc1r66M" title="Aretha Franklin - Respect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Lémbrate!: 
+Como en galego!: 
 
-R - E - S - P - E - C - T - O
+R - E - S - P - E - **C** - T - O
 
 En portugués é con -i- o substantivo:
 
-R - E - S - P - E - I - T - O 
+R - E - S - P - E - **I** - T - O 
 
 E tamén o verbo:
 
 ![Image](/img/respeite.jpg)
 
 
-Eu sei, un *clip* é pouco! Queres ouvila do inicio ao fin? 👇
+Eu sei, un *clip* é pouco! Queres ouvila do inicio ao fin, non queres? 👇
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A134hShx_gw?si=6Q-JS_1-tp3WphXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
