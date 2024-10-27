@@ -62,7 +62,7 @@ Nin ~~quitar~~ nin ~~sacar~~ son boas opcións. Que tal estes?
 
 Exs.:
 - Queres ler un conto? Entón *íspete* e pon o pixama.
-- Vou despir esta roupa e trocala por outra máis confortábel.
+- Vou *despir* esta roupa e trocala por outra máis confortábel.
 
 </article>
 
