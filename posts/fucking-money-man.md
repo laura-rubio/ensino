@@ -1,7 +1,7 @@
 ---
 title: Fucking money man - Rosalía
 tags:
-  - Músicas en catalão
+  - músicas em catalão
 draft: false
 show_toc: false
 ---
