@@ -1,7 +1,7 @@
 ---
 title: Catalán e valenciano son a mesma lingua?
 tags:
-  - As linguas da Península Ibérica
+  - catalão
 draft: false
 show_toc: false
 ---

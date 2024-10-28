@@ -1,7 +1,7 @@
 ---
 title: O catalán e a mocidade
 tags:
-  - As linguas da Península Ibérica
+  - catalão
 draft: false
 show_toc: false
 ---
