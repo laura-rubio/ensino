@@ -1,11 +1,11 @@
 ---
 title: Os números cardinais
 tags:
-  - portugues
+  - Os números em português
 draft: false
 show_toc: false
 ---
-Completa as series numéricas:
+Completa as séries numéricas:
 
 0 a 20
 
