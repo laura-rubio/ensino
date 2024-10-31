@@ -2,7 +2,7 @@
 title: NH
 tags:
   - portugues
-draft: true
+draft: false
 show_toc: false
 ---
 Ainda que o som é o mesmo, a forma de o representar é diferente em castelhano e em português.
