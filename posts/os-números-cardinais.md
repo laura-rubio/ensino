@@ -1,9 +1,8 @@
 ---
-title: Os números em português
+title: Os números cardinais
 tags:
   - portugues
 draft: false
-summary: ''
 show_toc: false
 ---
 Completa as series numéricas:
