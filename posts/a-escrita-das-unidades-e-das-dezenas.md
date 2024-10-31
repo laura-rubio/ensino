@@ -22,7 +22,7 @@ Repara!
 
 ## Dezenas
 
-Nas dezenas são três os tipos de erros que podemos dar. Eis as dicas para não errares mais: 
+Nas dezenas são três os tipos de erros que podemos dar. Eis as três dicas para não errares mais: 
 
 1. Todos os números de 10 a 19 têm Z. Todos!
 
