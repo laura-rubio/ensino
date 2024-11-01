@@ -35,7 +35,7 @@ Agora que sabes isto, treina a tua pronúncia com as seguintes séries:
 
 <e-moji> 👞 </e-moji>     **o** sapat**o**
 
-<e-moji> 🦰 </e-moji>     **o** cabel**o**
+<e-moji> 👩‍🏫 </e-moji> a pr**o**fessora
 
 <e-moji> 🦟 </e-moji>     **o** m**o**squit**o**
 
@@ -51,4 +51,4 @@ Agora que sabes isto, treina a tua pronúncia com as seguintes séries:
 
 <e-moji> 🥥 </e-moji> **o** coc**o**
 
-<e-moji> 👩‍🏫 </e-moji> a pr**o**fessora
+<e-moji> 🥄 </e-moji>  a c**o**lher
