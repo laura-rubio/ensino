@@ -1,5 +1,5 @@
 ---
-title: A pronúncia de ch
+title: A pronúncia do ch
 tags:
   - A pronúncia de...
 draft: false
