@@ -9,7 +9,7 @@ A pronuncia do cê cedilhado em português é [s]. Pratica com as seguintes pala
 
 <e-moji> 💪 </e-moji> for<b>ç</b>a
 
-<e-moji> 👧 👶 </e-moji> crian<b>ç</b>as
+<e-moji> 👧 </e-moji> crian<b>ç</b>a
 
 <e-moji> 🍬 </e-moji> rebu<b>ç</b>ado
 
@@ -30,4 +30,3 @@ A pronuncia do cê cedilhado em português é [s]. Pratica com as seguintes pala
 <e-moji> 🦥 </e-moji> pregui<b>ç</b>a
 
 <e-moji> 🤡 </e-moji> palha<b>ç</b>o
-
