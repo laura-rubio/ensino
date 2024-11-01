@@ -13,42 +13,42 @@ Agora que sabes isto, treina a tua pronúncia com as seguintes séries:
 
 ## Série 1
 
-📒   >  **o** cadern**o** 
+<e-moji> 📒 </e-moji>     **o** cadern**o** 
 
-🥛   > **o** cop**o**
- 
-👦🏻👦 > **o**s menin**o**s
+<e-moji> 🥛 </e-moji>     **o** cop**o**
 
- 🇵🇹   > P**o**rtugal
+<e-moji> 👦🏽👦 </e-moji>   **o**s menin**o**s
 
- 🛋️  > **o** s**o**fá
+<e-moji>  🇵🇹  </e-moji>     P**o**rtugal
 
- 🐈  > **o** gat**o**
+<e-moji> 🛋️  </e-moji>    **o** s**o**fá
+
+<e-moji> 🐈  </e-moji>    **o** gat**o**
 
 ##  Série 2
 
- 4️   > quatr**o**
+<e-moji> 4️⃣ </e-moji>       **o** quatr**o**
  
- 🐺  > **o** lob**o**
+<e-moji> 🐺 </e-moji>     **o** lob**o**
 
- 🍓  > **o** m**o**rang**o**
+<e-moji> 🍓 </e-moji>     **o** m**o**rang**o**
 
- 👞  > **o** sapat**o**
+<e-moji> 👞 </e-moji>     **o** sapat**o**
 
- 🦰  > **o** cabel**o**
+<e-moji> 🦰 </e-moji>     **o** cabel**o**
 
- 🦟  >**o** m**o**squit**o**
+<e-moji> 🦟 </e-moji>     **o** m**o**squit**o**
 
 ##  Série 3
 
- 🎂  > **o** bol**o**
+<e-moji> 🎂  </e-moji> **o** bol**o**
 
- 🐻  > **o** urs**o**
+<e-moji> 🐻  </e-moji> **o** urs**o**
 
- 🚦  > **o** semáf**o**r**o**
+<e-moji> 🚦 </e-moji> **o** semáf**o**r**o**
 
- 🔔  > **o** sin**o**
+<e-moji> 🔔 </e-moji> **o** sin**o**
 
- 🥥  > **o** coc**o**
+<e-moji> 🥥 </e-moji> **o** coc**o**
 
- 👩‍🏫  > a pr**o**fessora
+<e-moji> 👩‍🏫 </e-moji> a pr**o**fessora

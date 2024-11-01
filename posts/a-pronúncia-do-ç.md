@@ -5,30 +5,29 @@ tags:
 draft: false
 show_toc: false
 ---
-A pronuncia do cê cedilhado é [s]. Pratica com as seguintes palavras: 
+A pronuncia do cê cedilhado em português é [s]. Pratica com as seguintes palavras: 
 
-💪    > for**ç**a
+<e-moji> 💪 </e-moji> for<b>ç</b>a
 
-👧 👶 > crian**ç**as
+<e-moji> 👧 👶 </e-moji> crian<b>ç</b>as
 
-🍬     > rebu**ç**ado
+<e-moji> 🍬 </e-moji> rebu<b>ç</b>ado
 
-🕺     > dan**ç**ar
+<e-moji> 🕺</e-moji> dan<b>ç</b>ar
 
-🦔     > ouri**ç**o-cacheiro
+<e-moji> 🦔 </e-moji> ouri<b>ç</b>o-cacheiro
 
-👖     > cal**ç**as
+<e-moji> 👖</e-moji> cal<b>ç</b>as
 
-🏷️     > pre**ç**o
+<e-moji> 🏷️ </e-moji> pre<b>ç</b>o
 
-🇲🇿      > Mo**ç**ambique 
+<e-moji> 🇲🇿 </e-moji> Mo<b>ç</b>ambique 
 
-🍏     > ma**ç**ã
+<e-moji> 🍏 </e-moji> ma<b>ç</b>ã
 
-🧕     > muçulmana
+<e-moji> 🧕  </e-moji> mu<b>ç</b>ulmana
 
-🦥     > pregui**ç**a
+<e-moji> 🦥 </e-moji> pregui<b>ç</b>a
 
-🤡     > palhaço
-
+<e-moji> 🤡 </e-moji> palha<b>ç</b>o
 

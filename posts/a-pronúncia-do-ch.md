@@ -11,28 +11,28 @@ Treina a pronúncia com as seguintes séries:
 
 ## Série 1
 
-🔑 > a **ch**ave
+<e-moji> 🔑 </e-moji>  a **ch**ave
 
-🎒 > a mo**ch**ila
+<e-moji> 🎒 </e-moji>  a mo**ch**ila
 
-🍫 > o **ch**ocolate
+<e-moji> 🍫 </e-moji>  o **ch**ocolate
 
-🍪 > a bola**ch**a
+<e-moji> 🍪 </e-moji>  a bola**ch**a
 
-😢 > **ch**orar
+<e-moji> 😢 </e-moji>  **ch**orar
 
-🪳 > o bi**ch**o
+<e-moji> 🪳 </e-moji>  o bi**ch**o
 
 ## Série 2
 
-⛆  > a **ch**uva
+<e-moji> ⛆  </e-moji>  a **ch**uva
 
-☂️ > o guarda-**ch**uva
+<e-moji> ☂️ </e-moji>  o guarda-**ch**uva
 
-👒 > o **ch**apéu
+<e-moji> 👒 </e-moji>  o **ch**apéu
 
-🇨🇳  > a **Ch**ina
+<e-moji> 🇨🇳  </e-moji>  a **Ch**ina
 
-🧣 > o ca**ch**ecol
+<e-moji> 🧣 </e-moji>  o ca**ch**ecol
 
-🍵 > o **ch**á
+<e-moji> 🍵 </e-moji>  o **ch**á
