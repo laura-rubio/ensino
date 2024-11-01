@@ -2,7 +2,7 @@
 title: A pronúncia do o átono
 tags:
   - A pronúncia de...
-draft: true
+draft: false
 show_toc: false
 ---
 Olha as seguintes palavras, o *o* átono é o que aparece sempre a negrito. 
