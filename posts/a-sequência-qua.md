@@ -13,7 +13,7 @@ Também se escrevem com quê:
 
 - Os números **qua**tro, **qua**renta, **qua**trocentos, **qua**rto/a
 - Os interrogativos **qua**l?, **qua**ndo?, **qua**nto?
-- Na realidade, a maioria de palavras com esta sequência: ade**qua**do, a**quá**rio, anti**qua**do, e**qua**ção,  e**qua**dor, **qua**dril, **qua**drimestre, **qua**dro, **qua**drado, **qua**lquer, **qua**lidade e **qua**lificar, **qua**ntidade, **qua**se...
+- Na realidade, a maioria de palavras com esta sequência: ade**qua**do, a**quá**rio, anti**qua**do, e**qua**ção,  e**qua**dor, **qua**dril, **qua**drimestre, **qua**dro, **qua**drado, **qua**lidade e **qua**lificar, **qua**lquer, **qua**ntidade, **Qua**resma, **qua**se...
 
 Em português, *cua* é tão infrequente que as únicas exceções de que me consigo lembrar agora são: *evacuar* e *recuar.* 
 
