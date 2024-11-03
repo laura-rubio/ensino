@@ -7,7 +7,7 @@ show_toc: false
 ---
 ![Image](/img/sou_um_pato.jpg)
 
-Leste bem, sim! O som que faz o pato é quá-quá, com quê. 
+Leste bem, sim! O som que faz o pato é **quá-quá**, com quê. 
 
 Também se escrevem com quê:
 
