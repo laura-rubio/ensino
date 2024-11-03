@@ -23,4 +23,4 @@ dez - <e-answer>vinte</e-answer> - trinta - <e-answer>quarenta</e-answer> - cinq
 
 cem - <e-answer>duzentos</e-answer> - trezentos - <e-answer>quatrocentos</e-answer> - quinhentos - <e-answer>seiscentos</e-answer> - setecentos - <e-answer>oitocentos</e-answer> - novecentos - <e-answer>mil</e-answer>
 
-
+<e-validate>Verifica as respostas</evalidate>
