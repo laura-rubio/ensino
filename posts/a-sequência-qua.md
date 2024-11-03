@@ -17,6 +17,6 @@ Também se escrevem com quê:
 
 Em português, *cua* é tão infrequente que as únicas exceções de que me consigo lembrar agora são: *evacuar* e *recuar.* 
 
-Embora as formas com **qua** não sejam as próprias da tua variedade de galego, deves saber que na Galiza há galegos e galegas que dizem **qua**tro, **qua**l ou **qua**ndo, como no resto de países lusófonos. São os que vivem na zona amarela: 
+Embora algumas formas com **qua** não sejam as próprias da tua variedade de galego, deves saber que na Galiza há galegos e galegas que dizem **qua**tro, **qua**l ou **qua**ndo, como no resto de países lusófonos. São os que vivem na zona amarela: 
 
 ![Image](/img/catro_quatro.png)
