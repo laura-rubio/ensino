@@ -7,7 +7,7 @@ show_toc: false
 ---
 Ainda que o som é o mesmo, a forma de o representar é diferente em castelhano e em português.
 
-Em castelhano usam o **ñ** e em português, o dígrafo **nh**.
+Em castelhano usam o eñe <**ñ**> e em português, o dígrafo ene-agá <**nh**>.
 
 Agora que sabes isto, qual é o nome dos elementos desta série? 
 Dou-te duas dicas:
