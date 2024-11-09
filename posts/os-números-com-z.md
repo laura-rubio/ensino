@@ -5,28 +5,28 @@ tags:
 draft: false
 show_toc: false
 ---
-0 <b>z</b>ero
+Todos estes números têm a letra zê. Como sabes, o som desta letra lembra muito o som que a abelha faz. Pronuncia cada número e não te esqueças de zumbir 
 
-10 de<b>z</b>ena
+<e-tag color=1>0</e-tag> <b>z</b>ero
 
-11 on<b>z</b>e
+<e-tag color=1>11</e-tag> on<b>z</b>e
 
-12 do<b>z</b>e e dú<b>z</b>ia
+<e-tag color=1>12</e-tag> do<b>z</b>e
 
-13 tre<b>z</b>e
+<e-tag color=1>13</e-tag> tre<b>z</b>e
 
-14 cator<b>z</b>e
+<e-tag color=1>14</e-tag> cator<b>z</b>e
 
-15 quin<b>z</b>e
+<e-tag color=1>15</e-tag> quin<b>z</b>e
 
-16 de<b>z</b>asseis
+<e-tag color=1>16</e-tag> de<b>z</b>asseis
 
-17 de<b>z</b>assete
+<e-tag color=1>17</e-tag> de<b>z</b>assete
 
-18 de<b>z</b>oito
+<e-tag color=1>18</e-tag> de<b>z</b>oito
 
-19 de<b>z</b>anove
+<e-tag color=1>19</e-tag> de<b>z</b>anove
 
-200 du<b>z</b>entos
+<e-tag color=1>200</e-tag> du<b>z</b>entos
 
-300 tre<b>z</b>entos
+<e-tag color=1>300</e-tag> tre<b>z</b>entos
