@@ -2,7 +2,7 @@
 title: 10 palavras com zê
 tags:
   - A pronúncia de...
-draft: true
+draft: false
 show_toc: false
 ---
 10 palavras com zê para treinares a pronúncia do som que a abelha faz 
