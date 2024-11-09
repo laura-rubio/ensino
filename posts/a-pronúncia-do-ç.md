@@ -7,9 +7,11 @@ show_toc: false
 ---
 A pronuncia do cê cedilhado em português é [s]. Pratica com as seguintes palavras: 
 
-<e-moji> 💪 </e-moji> for<b>ç</b>a
+<e-moji> 🫂 </e-moji> abra<b>ç</b>o
 
 <e-moji> 👧 </e-moji> crian<b>ç</b>a
+
+<e-moji> 💪 </e-moji> for<b>ç</b>a
 
 <e-moji> 🍬 </e-moji> rebu<b>ç</b>ado
 
