@@ -5,7 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-10 palavras com zê para treinares a pronúncia do som que a abelha faz 
+10 palavras com zê para treinares a pronúncia do som que a abelha faz: 
 
 <e-moji> 🦓 </e-moji> <b>z</b>ebra
 
