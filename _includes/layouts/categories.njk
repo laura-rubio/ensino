@@ -27,10 +27,6 @@ layout: layouts/base.njk
 
 {% set postslist = search.pages("type=exercise '" + id + "'") %}
 
-{% if hasCategories and postslist.length %}
-	<hr>
-{% endif %}
-
 <nav>
 	<ul>
 	{% for post in postslist %}

@@ -13,6 +13,10 @@
 		<script type="module" src="/js/components/tag.js"></script>
 		<script type="module" src="/js/components/validate.js"></script>
 		<script type="module" src="/js/components/tip.js"></script>
+
+		{% if extraHead %}
+			{{ extraHead | safe }}
+		{% endif %}
 	</head>
 
 	<body>

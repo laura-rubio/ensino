@@ -6,49 +6,43 @@ const app = cms({
     description: "Web de ensino de galego e portugués",
     body: `
     <h2>Elementos personalizados</h2>
-    <dl>
-      <dt><code>e-answer</code></dt>
-      <dd>
-        <p>Para poñer respostas por parte dos alumnos que logo que van a validar. O contido
-      sería a resposta correcta. Pódese customizar con <code>size</code>, <code>placeholder</code>, <code>highlight</code> e <code>tip</code>.</p>
-      </dd>
+    <ul>
+      <li><code>e-answer</code>
+        Para poñer respostas por parte dos alumnos que logo que van a validar. O contido
+      sería a resposta correcta. Pódese customizar con <code>size</code>, <code>placeholder</code>, <code>highlight</code> e <code>tip</code>.
+      </li>
 
-      <dt><code>e-validate</code></dt>
-      <dd>
-        <p>Botón que valida todas as respostas introducidas con <code>e-answer</code>.</p>
-      </dd>
+      <li><code>e-validate</code>
+        Botón que valida todas as respostas introducidas con <code>e-answer</code>.
+      </li>
 
-      <dt><code>e-tag</code></dt>
-      <dd>
-        <p>Mostra un texto curto (palabra, número, letras) en tamaño grande. Pódese customizar con <code>color</code> e <code>desc</code></p>
-      </dd>
+      <li><code>e-tag</code>
+        Mostra un texto curto (palabra, número, letras) en tamaño grande. Pódese customizar con <code>color</code> e <code>desc</code>
+      </li>
 
-      <dt><code>e-layout</code></dt>
-      <dd>
-        <p>Para distribuír elementos dentro dunha grella predeterminada.</p>
-      </dd>
+      <li><code>e-layout</code>
+        Para distribuír elementos dentro dunha grella predeterminada.
+      </li>
 
-      <dt><code>e-tip</code></dt>
-      <dd>
-        <p>Para meter textos ocultos dentro dun botón (?).</p>
-      </dd>
-      <dt><code>e-moji</code></dt>
-      <dd>
-        <p>Para meter emojis ou textos en tamaño grande.</p>
-      </dd>
-    </dl>
+      <li><code>e-tip</code>
+        Para meter textos ocultos dentro dun botón (?).
+      </li>
+
+      <li><code>e-moji</code>
+        Para meter emojis ou textos en tamaño grande.
+      </li>
+    </ul>
 
     <h2>Modificar imaxes</h2>
-    <dl>
-      <dt><code>{.is-square}</code></dt>
-      <dd>
-        <p>Para poñer as imaxes todas cadradas.</p>
-      </dd>
-      <dt><code>{.is-horizontal}</code></dt>
-      <dd>
-        <p>Para poñer as imaxes todas rectangulares en formato horizontal.</p>
-      </dd>
-    </dl>
+    <ul>
+      <li><code>{.is-square}</code>
+        Para poñer as imaxes todas cadradas.
+      </li>
+
+      <li><code>{.is-horizontal}</code>
+        Para poñer as imaxes todas rectangulares en formato horizontal.
+      </li>
+    </ul>
     `,
   },
 });
@@ -56,8 +50,8 @@ const app = cms({
 const tags = {
   name: "tags",
   type: "list",
-  init(field) {
-    field.options = field.cmsContent.data.site.search.values(
+  init(field, { data }) {
+    field.options = data.site.search.values(
       "id",
       "type=category",
     );
@@ -73,6 +67,7 @@ app
     fields: [
       "title: text",
       "summary: textarea",
+      "extraHead: code",
       tags,
       "draft: checkbox",
       "show_toc: checkbox",
