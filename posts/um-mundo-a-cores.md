@@ -1,5 +1,5 @@
 ---
-title: Um mundo de cores
+title: Um mundo a cores
 tags:
   - portugues
 draft: false
