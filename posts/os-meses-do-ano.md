@@ -7,18 +7,18 @@ draft: false
 show_toc: false
 ---
 <e-card color="1">
-<div>xaneiro</div>
 <div>janeiro</div>
+<div>xaneiro</div>
 </e-card>
 
 <e-card color="2">
-<div>febreiro</div>
 <div>fevereiro</div>
+<div>febreiro</div>
 </e-card>
 
 <e-card color="3">
-<div>marzo</div>
 <div>março</div>
+<div>marzo</div>
 </e-card>
 
 <e-card color="4">
@@ -32,13 +32,13 @@ show_toc: false
 </e-card>
 
 <e-card color="6">
-<div>xuño</div>
 <div>junho</div>
+<div>xuño</div>
 </e-card>
 
 <e-card color="7">
-<div>xullo</div>
 <div>julho</div>
+<div>xullo</div>
 </e-card>
 
 <e-card color="8">
@@ -62,6 +62,6 @@ show_toc: false
 </e-card>
 
 <e-card color="2">
-<div>decembro</div>
 <div>dezembro</div>
+<div>decembro</div>
 </e-card>
