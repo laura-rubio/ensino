@@ -9,7 +9,7 @@ show_toc: false
 
 <e-moji> 🏠 </e-moji> ca**s**a
 
-<e-moji> 🌹 </e-moji> ro**s**a
+<e-moji> ⏸️ </e-moji> pau**s**a
 
 <e-moji> 🦊 </e-moji> rapo**s**o
 
@@ -19,12 +19,10 @@ show_toc: false
 
 <e-moji> ✂️ </e-moji> te**s**oura
 
+<e-moji> 🌹 </e-moji> ro**s**a
+
 <e-moji> ☺️ </e-moji> sorri**s**o
 
 <e-moji> 🎁 </e-moji> pre**s**ente
 
 <e-moji> 🧥 </e-moji> ca**s**aco
-
-<e-moji> ⏸️ </e-moji> pau**s**a
-
-
