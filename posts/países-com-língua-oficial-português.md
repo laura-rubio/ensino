@@ -2,7 +2,7 @@
 title: Países com língua oficial português
 tags:
   - portugues
-draft: true
+draft: false
 show_toc: false
 ---
 Completa com as letras os nomes dos países onde o português é língua oficial: 
