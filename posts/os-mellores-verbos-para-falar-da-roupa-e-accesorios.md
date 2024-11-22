@@ -32,7 +32,7 @@ Exs.:
 
 <article> 
   
-**pór**
+**Pór**
 
 Exs.:
 - *Puxo* o vestido novo para ir á festa.
@@ -42,7 +42,7 @@ Exs.:
 
 <article> 
   
-**calzar** ~ **calzarse**
+**Calzar** ~ **calzarse**
 
 Exs.:
 - Axuda o teu irmán a *calzar* os zapatos!
@@ -58,7 +58,7 @@ Nin ~~quitar~~ nin ~~sacar~~ son boas opcións. Que tal estes?
 
 <article> 
   
-**espir** ~ **espirse** e **despir** ~ **despirse**
+**Espir** ~ **espirse** e **despir** ~ **despirse**
 
 Exs.:
 - Queres ler un conto? Entón *íspete* e pon o pixama.
@@ -68,7 +68,7 @@ Exs.:
 
 <article> 
   
-**desvestir** ~ **desvestirse**
+**Desvestir** ~ **desvestirse**
 
 Exs.:
 - *Desvestiuse* rápido porque non quería que ninguén o vise nu. 
@@ -77,7 +77,7 @@ Exs.:
 
 <article> 
   
-**tirar** (a roupa ou o chapeu)
+**Tirar** (a roupa ou o chapeu)
 
 Exs.:
 - *Tire* a roupa e colóquea na cadeira.
@@ -87,7 +87,7 @@ Exs.:
 
 <article> 
 
-**descalzar** ~ **descalzarse**
+**Descalzar** ~ **descalzarse**
 
 Exs.:
 - Teño os pés inchados e quero *descalzarme* xa.
