@@ -1,7 +1,7 @@
 ---
 title: Países com língua oficial português
 tags:
-  - portugues
+  - O português no mundo
 draft: false
 show_toc: false
 ---
