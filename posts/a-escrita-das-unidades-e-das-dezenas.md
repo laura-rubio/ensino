@@ -41,6 +41,6 @@ Nas dezenas, são quatro os tipos de erros que podemos dar. Eis, portanto, quatr
    DEZASSEIS - DEZASSETE - DE<mark>ZO</mark>ITO -DEZANOVE
 
 
-4. A partir de vinte usamos a conjunção <mark>E</mark> para ligar a unidade e dezena:
+4. A partir de vinte, escrevemos separadamente a unidade e a dezena:
 
-   VINTE <mark>E</mark> UM - TRINTA <mark>E</mark> DOIS - QUARENTA <mark>E</mark> TRÊS - CINQUENTA <mark>E</mark> QUATRO - SESSENTA <mark>E</mark> CINCO - SETENTA <mark>E</mark> SEIS - OITENTA <mark>E</mark> OITO - NOVENTA <mark>E</mark> NOVE 
+   VINTE E UM - TRINTA E DOIS - QUARENTA E TRÊS - CINQUENTA E QUATRO - SESSENTA E CINCO - SETENTA E SEIS - OITENTA E OITO - NOVENTA E NOVE
