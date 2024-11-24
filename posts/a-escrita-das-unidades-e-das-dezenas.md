@@ -24,7 +24,7 @@ Repara!
 
 ## Dezenas
 
-Nas dezenas são três os tipos de erros que podemos dar. Eis, portanto, três dicas para não errares mais: 
+Nas dezenas, são quatro os tipos de erros que podemos dar. Eis, portanto, quatro dicas para não errares mais: 
 
 1. Todos os números de 10 a 19 têm Z. Todos!
 
@@ -39,3 +39,8 @@ Nas dezenas são três os tipos de erros que podemos dar. Eis, portanto, três d
 3. O dezoito é o único que não tem -A- depois de DEZ nesta série: 
 
    DEZASSEIS - DEZASSETE - DE<mark>ZO</mark>ITO -DEZANOVE
+
+
+4. A partir de vinte usamos a conjunção <mark>E</mark> para ligar a unidade e dezena:
+
+   VINTE <mark>E</mark> UM - TRINTA <mark>E</mark> DOIS - QUARENTA <mark>E</mark> TRÊS - CINQUENTA <mark>E</mark> QUATRO - SESSENTA <mark>E</mark> CINCO - SETENTA <mark>E</mark> SEIS - OITENTA <mark>E</mark> OITO - NOVENTA <mark>E</mark> NOVE 
