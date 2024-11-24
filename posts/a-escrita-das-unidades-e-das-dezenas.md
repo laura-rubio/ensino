@@ -30,7 +30,7 @@ Nas dezenas são três os tipos de erros que podemos dar. Eis, portanto, três d
 
    DE<mark>Z</mark> - ON<mark>Z</mark>E - DO<mark>Z</mark>E - TRE<mark>Z</mark>E - CATOR<mark>Z</mark>E - QUIN<mark>Z</mark>E - DE<mark>Z</mark>ASSEIS - DE<mark>Z</mark>ASSETE - DE<mark>Z</mark>OITO - DE<mark>Z</mark>ANOVE
 
-    Depois, como uma DE<mark>Z</mark>ENA é um grupo de DE<mark>Z</mark> coisas; e uma DÚ<mark>Z</mark>IA, um grupo de DO<mark>Z</mark>E, as duas palavras têm Z. Faz todo o sentido!
+    Depois, como uma DE<mark>Z</mark>ENA é um conjunto de DE<mark>Z</mark> coisas; uma DÚ<mark>Z</mark>IA, um conjunto de DO<mark>Z</mark>E; é uma QUIN<mark>Z</mark>ENA, um conjunto de QUIN<mark>Z</mark>E dias, os tres substantivos têm Z. Faz todo o sentido!
 
 3. 16 e 17 têm -Z- e também -SS-
 
