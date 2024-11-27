@@ -7,23 +7,23 @@ show_toc: false
 ---
 ### Bailemos nós ja todas tres, ai amigas - Airas Nunez
 
-Bailemos nós ja todas tres, ai amigas,\
+Bailemos nós já todas tres, ai amigas,\
 so aquestas avelaneiras frolidas,\
-e quen for velida como nós, velidas,\
+e quem for velida como nós, velidas,\
 se amigo amar,\
 so aquestas avelaneiras frolidas\
 verra bailar.
 
-Bailemos nós ja todas tres, ai irmanas,\
+Bailemos nós já todas tres, ai irmanas,\
 so aqueste ramo destas avelanas,\
-e quen for louçana como nós, louçanas,\
+e quem for louçana como nós, louçanas,\
 se amigo amar,\
 so aqueste ramo destas avelanas\
 verra bailar.
 
 Por Deus, ai amigas, mentr’al non fazemos,\
 so aqueste ramo frolido bailemos,\
-e quen ben parecer como nós parecemos,\
+e quem bem parecer como nós parecemos,\
 se amigo amar,\
 so aqueste ramo, sol que nós bailemos,\
 verra bailar.
