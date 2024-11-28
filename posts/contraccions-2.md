@@ -19,7 +19,7 @@ preposicións _con, de_ e _en_ en galego.
 
 Contrae a preposición que aparece entre parénteses co artigo indeterminado:
 
-Exemplo: A avoa de Carapuchiña Vermella vive **nunha** (en) casa no bosque.
+Exemplo: A avoa de Carapuchiña Vermella vive <e-answer readonly>nunha</e-answer> (en) casa no bosque.
 
 1. Cortei o cabelo <e-answer>cunhas</e-answer> (con) tesoiras que encontrei na cociña.
 2. O filme narra a vida <e-answer>duns</e-answer> (de) mozos que cumpren a súa pena nun cárcere turco.
