@@ -59,3 +59,5 @@ summary: quero ser...
 <e-moji> 👩‍🚀 </e-moji>
 
 <e-answer> astronauta </e-moji>
+
+<e-validate> Verifica as respostas </e-validate>
