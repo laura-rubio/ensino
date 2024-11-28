@@ -21,7 +21,7 @@ con, de, en* e *por* en galego.
 
 Contrae a preposición que aparece entre parénteses co artigo determinado:
 
-Exemplo: Comemos polbo **á** (a) feira e churrasco.
+Exemplo: Comemos polbo <e-answer size=3 readonly>á</e-answer> (a) feira e churrasco.
 
 1. Fun <e-answer>ao</e-answer> (a) supermercado, <e-answer>á</e-answer> (a) peixaría e <e-answer>á</e-answer> (a) panadaría.
 2. O irmán máis vello estuda <e-answer>no</e-answer> (en) seu cuarto e o pequeno, <e-answer>na</e-answer> (en) sala de estar.
