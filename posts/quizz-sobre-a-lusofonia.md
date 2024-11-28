@@ -3,6 +3,7 @@ title: Quizz sobre a lusofonia
 tags:
   - portugues
 draft: false
+show_toc: false
 ---
 1. Quantos países têm como língua oficial o português?
 
@@ -24,7 +25,7 @@ Resposta errada!
   <div>Nove</div>
 <div>
 Resposta certíssima!
-Os nove países são: Portugal, Brasil, Cabo Verde, Guiné-Bissau, São Tomé e Príncipe, Guiné-Equatorial, Angola, Moçambique e Timor-Leste.
+Os nove países são: Portugal, Brasil, Cabo Verde, Guiné-Bissau, São Tomé e Príncipe, Guiné Equatorial, Angola, Moçambique e Timor-Leste.
 </div>
 </e-card>
 
@@ -245,7 +246,7 @@ Resposta errada!
   </div>
 </e-card>
 
-9. Quais são as línguas oficiais da Guiné-Equatorial?
+9. Quais são as línguas oficiais da Guiné Equatorial?
 
 <e-card color="3">
   <div>Espanhol, francês e português</div>
