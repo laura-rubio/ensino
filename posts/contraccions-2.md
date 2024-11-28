@@ -17,7 +17,7 @@ preposicións _con, de_ e _en_ en galego.
 
 ### Exercicio 1
 
-Fai a contracción da preposición que aparece entre parénteses co artigo indeterminado:
+Contrae a preposición que aparece entre parénteses co artigo indeterminado:
 
 Exemplo: A avoa de Carapuchiña Vermella vive **nunha** (en) casa no bosque.
 

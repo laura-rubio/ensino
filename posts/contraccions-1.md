@@ -19,7 +19,7 @@ con, de, en* e *por* en galego.
 
 ### Exercicio 1
 
-Fai a contracción da preposición que aparece entre parénteses co artigo:
+Contrae a preposición que aparece entre parénteses co artigo determinado:
 
 Exemplo: Comemos polbo **á** (a) feira e churrasco.
 
