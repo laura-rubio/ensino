@@ -191,6 +191,6 @@ show_toc: false
 
 ![](/img/tiro_com_arco.png)
 
-<e-answer> Tiro com arco </e-answer>
+<e-answer> Tiro </e-answer> <e-answer> com </e-answer> <e-answer> arco </e-answer>
 
 <e-validate> Verifica as respostas </e-validate>
