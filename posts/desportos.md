@@ -5,9 +5,19 @@ tags:
 draft: false
 show_toc: false
 ---
+![](/img/icons8-running-100.png)
+
+<e-answer> Corrida </e-answer>
+
+<e-validate> Verifica as respostas </e-validate>
+
+- - -
+
 ![](/img/icons8-ginastica-100.png)
 
 <e-answer> Ginástica </e-answer>
+
+<e-validate> Verifica as respostas </e-validate>
 
 - - -
 
@@ -15,11 +25,15 @@ show_toc: false
 
 <e-answer> Futebol </e-answer>
 
+<e-validate> Verifica as respostas </e-validate>
+
 - - -
 
 ![](/img/icons8-basquetebol-100.png)
 
 <e-answer> Basquetebol </e-answer> ou <e-answer> basquete </e-answe>
+
+<e-validate> Verifica as respostas </e-validate>
 
 - - -
 
@@ -27,11 +41,15 @@ show_toc: false
 
 <e-answer> Andebol </e-answer>
 
+<e-validate> Verifica as respostas </e-validate>
+
 - - -
 
 ![](/img/icons8-boxe-100.png)
 
 <e-answer> Boxe </e-answer>
+
+<e-validate> Verifica as respostas </e-validate>
 
 - - -
 
@@ -39,11 +57,15 @@ show_toc: false
 
 <e-answer> Voleibol </e-answer> ou <e-answer> Vólei </e-answer>
 
+<e-validate> Verifica as respostas </e-validate>
+
 - - -
 
 ![](/img/icons8-natação-100.png)
 
 <e-answer> Natação </e-answer> 
+
+<e-validate> Verifica as respostas </e-validate>
 
 - - -
 
@@ -51,11 +73,15 @@ show_toc: false
 
 <e-answer> Hipismo </e-answer>
 
+<e-validate> Verifica as respostas </e-validate>
+
 - - -
 
 ![](/img/icons8-golfe-100.png)
 
 <e-answer> Golfe </e-answer> 
+
+<e-validate> Verifica as respostas </e-validate>
 
 - - -
 
@@ -63,11 +89,15 @@ show_toc: false
 
 <e-answer> Ciclismo </e-answer> <e-answer> de </e-answer> <e-answer> estrada </e-answer>
 
+<e-validate> Verifica as respostas </e-validate>
+
 - - -
 
 ![](/img/karate.png)
 
 <e-answer> Karaté </e-answer> ou  <e-answer> caraté </e-answer> (PT) / <e-answer> Karatê </e-answer> <e-answer> caratê </e-answer> (BR)
+
+<e-validate> Verifica as respostas </e-validate>
 
 - - -
 
@@ -75,11 +105,15 @@ show_toc: false
 
 <e-answer> Ténis </e-answer>
 
+<e-validate> Verifica as respostas </e-validate>
+
 - - -
 
 ![](/img/icons8-levantamento-de-peso-100.png)
 
 <e-answer> Halterofilismo </e-answer> ou <e-answer> levantamento </e-answer> <e-answer> de </e-answer> <e-answer> peso </e-anwer>
+
+<e-validate> Verifica as respostas </e-validate>
 
 - - -
 
@@ -87,11 +121,15 @@ show_toc: false
 
 <e-answer> Canoagem </e-answer>
 
+<e-validate> Verifica as respostas </e-validate>
+
 - - -
 
 ![](/img/icons8-pingue-pongue-100.png)
 
 <e-answer> Pingue </e-answer> - <e-answer> pongue </e-answer> ou <e-answer> Ténis </e-answer> <e-answer> de </e-answer> <e-answer> mesa </e-answer>
+
+<e-validate> Verifica as respostas </e-validate>
 
 - - -
 
@@ -99,11 +137,15 @@ show_toc: false
 
 <e-answer> Patinagem </e-answer>(PT) / <e-answer> Patinação </e-answer>(BR)
 
+<e-validate> Verifica as respostas </e-validate>
+
 - - -
 
 ![](/img/icons8-basebol-100.png)
 
 <e-answer> Beisebol </e-answer> ou <e-answer> Basebol </e-answer>
+
+<e-validate> Verifica as respostas </e-validate>
 
 - - -
 
@@ -111,11 +153,7 @@ show_toc: false
 
 <e-answer> Mergulho </e-answer>
 
-- - -
-
-![](/img/icons8-running-100.png)
-
-<e-answer> Corrida </e-answer>
+<e-validate> Verifica as respostas </e-validate>
 
 - - -
 
@@ -123,6 +161,7 @@ show_toc: false
 
 <e-answer> Hóquei </e-answer>
 
+<e-validate> Verifica as respostas </e-validate>
 
 - - -
 
@@ -130,12 +169,15 @@ show_toc: false
 
 <e-answer> Surfe </e-answer>
 
-- - -
+<e-validate> Verifica as respostas </e-validate>
 
+- - -
 
 ![](/img/icons8-raguebi-100.png)
 
 <e-answer> râguebi </e-answer> (PT) / <e-answer> rúgbi </e-answer> (BR)
+
+<e-validate> Verifica as respostas </e-validate>
 
 - - -
 
@@ -143,12 +185,13 @@ show_toc: false
 
 <e-answer> Esqui </e-answer>
 
+<e-validate> Verifica as respostas </e-validate>
+
 - - -
 
 ![](/img/tiro_com_arco.png)
 
 <e-answer> Tiro com arco </e-answer>
 
----
-
 <e-validate> Verifica as respostas </e-validate>
+
