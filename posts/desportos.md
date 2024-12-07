@@ -194,4 +194,3 @@ show_toc: false
 <e-answer> Tiro com arco </e-answer>
 
 <e-validate> Verifica as respostas </e-validate>
-

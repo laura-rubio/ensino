@@ -29,7 +29,7 @@ show_toc: false
 ![](/img/icons8-basquetebol-100.png)
 
 </div>
-<div>Basquetebol ou básquete</div>
+<div>Basquetebol ou basquete</div>
 </e-card>
 
 <e-card color="4">
