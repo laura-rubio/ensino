@@ -7,8 +7,6 @@ show_toc: false
 ---
 ![](/img/icons8-ginastica-100.png)
 
-![]()
-
 <e-answer> Ginástica </e-answer>
 
 - - -
@@ -67,6 +65,12 @@ show_toc: false
 
 - - -
 
+![](/img/karate.png)
+
+<e-answer> Karaté </e-answer> ou  <e-answer> caraté </e-answer> (PT) / <e-answer> Karatê </e-answer> <e-answer> caratê </e-answer> (BR)
+
+- - -
+
 ![](/img/icons8-tenis-2-100.png)
 
 <e-answer> Ténis </e-answer>
@@ -93,7 +97,7 @@ show_toc: false
 
 ![](/img/icons8-patinagem100.png)
 
-<e-answer> Patinagem </e-answer>(PT) ou <e-answer> Patinação </e-answer>(BR)
+<e-answer> Patinagem </e-answer>(PT) / <e-answer> Patinação </e-answer>(BR)
 
 - - -
 
@@ -109,15 +113,29 @@ show_toc: false
 
 - - -
 
+![](/img/icons8-running-100.png)
+
+<e-answer> Corrida </e-answer>
+
+- - -
+
 ![](/img/icons8-hoquei-100.png)
 
 <e-answer> Hóquei </e-answer>
 
+
 - - -
+
+![](/img/icons8-surf-100.png)
+
+<e-answer> Surfe </e-answer>
+
+- - -
+
 
 ![](/img/icons8-raguebi-100.png)
 
-<e-answer> râguebi </e-answer> (PT) ou <e-answer> rúgbi </e-answer> (BR)
+<e-answer> râguebi </e-answer> (PT) / <e-answer> rúgbi </e-answer> (BR)
 
 - - -
 
