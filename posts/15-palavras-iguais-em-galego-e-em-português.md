@@ -92,3 +92,23 @@ E que não usas quando falas galego
 15. O <e-answer> troco </e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+É difícil? Clica no link abaixo: <details> <summary>Respostas</summary>
+<ol>
+<li>caderno </li>
+<li>caneca </li>
+<li>cola </li>
+<li>computador </li>
+<li>corredor </li>
+<li>desodorizante </li>
+<li>fita </li>
+<li>frigorífico </li>
+<li>garfo </li>
+<li>lareira </li>
+<li>marcador </li>
+<li>porca </li>
+<li>parafuso </li>
+<li>presente </li>
+<li>troco </li>
+  
+</details>
