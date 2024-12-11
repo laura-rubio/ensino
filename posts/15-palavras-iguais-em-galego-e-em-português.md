@@ -93,7 +93,7 @@ E que não usas quando falas galego
 
 <e-validate>Verifica as respostas</e-validate>
 
-É difícil? Clica no link abaixo: <details> <summary>Respostas</summary>
+Qual não sabes? Clica no link abaixo: <details> <summary>Respostas</summary>
 <ol>
 <li>caderno </li>
 <li>caneca </li>
