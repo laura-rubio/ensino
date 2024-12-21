@@ -1,5 +1,5 @@
 ---
-title: Todo o que necesitas saber sobre o astur-leonés
+title: Vídeo de Linguriosa sobre o astur-leonés
 tags:
   - astur-leones
 draft: false
