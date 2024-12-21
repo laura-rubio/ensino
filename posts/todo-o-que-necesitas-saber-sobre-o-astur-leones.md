@@ -1,5 +1,5 @@
 ---
-title: Todo o que precisas saber sobre o astur-leonés
+title: Todo o que necesitas saber sobre o astur-leonés
 tags:
   - astur-leones
 draft: false
