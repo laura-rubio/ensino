@@ -3,7 +3,7 @@ title: Bolas
 summary: (con o aberto e con o fechado)
 tags:
   - acentuacion_diacritica
-draft: true
+draft: false
 show_toc: false
 ---
 ## Bolas con o fechado
