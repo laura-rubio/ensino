@@ -6,6 +6,8 @@ tags:
 draft: false
 show_toc: false
 ---
+Poden parecer todas iguais, mais non son: unhas teñen *o* aberto e outras, fechado.
+
 ## Bolas con o fechado
 Comezamos polas *bolas* con *o* fechado, por seren só dúas:
 
