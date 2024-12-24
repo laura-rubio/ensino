@@ -17,7 +17,7 @@ Comezamos polas *bolas* con *o* fechado, por seren só dúas:
 
 ![Image](/img/bola_nata.jpg){.is-square}
 
-Nos dous casos, o *o* é fechado.
+Ambas as dúas, con *o* fechado.
 
 ## Bólas con aberto
 
@@ -55,13 +55,14 @@ E até existen unhas para apertarmos nos momentos de *stress* 👇
 
 ![Image](/img/bola_anti_stress_1.jpg){.is-square}
 
-A pronuncia do *o* en todos os casos que acabamos de listar é aberta: bóla de fútbol, piscina de bólas, bóla de nadal, bóla de pilates, bóla de cristal, bóla de neve, xogo das bólas, bóla anti-stress. 
+A pronuncia do *o* en todos os casos que acabamos de listar é aberta: *bóla de fútbol, piscina de bólas, bóla de nadal, bóla de pilates, bóla de cristal, bóla de neve, xogo das bólas, bóla anti-stress.* 
 
-Alén disto, en galego, estas formas acentúanse para as diferenciar da *bola* (de pan ou de nata) que, aínda que se escriben igual, xa dixemos que se pronunciaban cun *o* fechado. 
+Estas formas acentúanse para as diferenciar da *bola* (de pan ou de nata) que, aínda que se escriben igual, xa dixemos que se pronunciaban cun *o* fechado. 
 
 ## E en portugués?
-A pronuncia de todas estas palabras en galego e português é igual, porén, en portugués non acentúan nunca *bola* (nin *bolas.*)
 
-Isto, por tanto, é uma *bola* con *o* aberto, mais o que verás nas pastelarías vai ser: bola de berlim 👇
+A pronuncia de todas estas palabras é igual en galego/portugués, a diferenza é unicamente gráfica. En galego, decidiron acentuar as *bólas* con *o* aberto; en portugués, non acentúan nunca esta palabra. 
+
+Larpeiros, ficou claro? Isto tamén é uma *bola* con *o* aberto, mais o que verás nas pastelarías vai ser: bola de berlim 👇
 
 ![Image](/img/bola_berlim.jpg){.is-square}
