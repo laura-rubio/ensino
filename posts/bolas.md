@@ -57,7 +57,7 @@ E até existen unhas para apertarmos nos momentos de *stress* 👇
 
 A pronuncia do *o* en todos os casos que acabamos de listar é aberta: *bóla de fútbol, piscina de bólas, bóla de nadal, bóla de pilates, bóla de cristal, bóla de neve, xogo das bólas, bóla anti-stress.* 
 
-Estas formas acentúanse para as diferenciar da *bola* (de pan ou de nata) que, aínda que se escriben igual, xa dixemos que se pronunciaban cun *o* fechado. 
+Estas formas acentúanse para as diferenciar da *bola* (de pan ou de nata) que, aínda que se escribe igual, xa dixemos que se pronuncia cun *o* fechado. 
 
 ## E en portugués?
 
