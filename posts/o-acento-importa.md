@@ -7,7 +7,7 @@ show_toc: false
 ---
 Explica a diferenza de significado entre as seguintes mensaxes. 
 
-A chave está nas palabras marcadas en negra.
+A chave está nas palabras marcadas.
 
 <article>
 
