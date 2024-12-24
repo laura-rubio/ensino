@@ -70,6 +70,8 @@ Estas formas acentúanse para as diferenciar da *bola* (de pan ou de nata) que, 
 
 A pronuncia de todas estas palabras é igual en galego/portugués, a diferenza é unicamente gráfica. En galego, decidiron acentuar as *bólas* con *o* aberto; en portugués, non acentúan nunca esta palabra. 
 
-Larpeiros, ficou claro? Isto tamén é uma *bola* con *o* aberto, mais o que verás nas pastelarías vai ser: bola de berlim 👇
+### Para que fique claro 
+
+Larpeiros, isto tamén é unha *bola* con *o* aberto, mais o que verás nas pastelarías vai ser: bola de berlim 👇
 
 ![Image](/img/bola_berlim.jpg){.is-square}
