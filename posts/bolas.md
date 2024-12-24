@@ -6,9 +6,10 @@ tags:
 draft: false
 show_toc: false
 ---
-Poden parecer todas iguais, mais non son: unhas teñen *o* aberto e outras, fechado.
+Poden parecer todas iguais, mais non son: unhas teñen *o* aberto e outras, *o* fechado.
 
 ## Bolas con o fechado
+
 Comezamos polas *bolas* con *o* fechado, por seren só dúas:
 
 1. A bola de pan, un tipo de pan pequeno, redondo e chato 👇
@@ -21,7 +22,9 @@ Comezamos polas *bolas* con *o* fechado, por seren só dúas:
 
 Ambas as dúas, con *o* fechado.
 
-## Bólas con aberto
+* b<mark>o</mark>la: <audio src="https://ilg.usc.es/pronuncia/mp3/b/1459.mp3" controls> </audio> 
+
+## Bólas con o aberto
 
 As *bólas* con *o* aberto son moitas máis. A razón é simple. Estamos rodeados de cousas con forma esférica ou circular, por tanto, podemos aplicar a palabra a obxectos moi diversos. Encontramos bólas... 
 
@@ -58,6 +61,8 @@ E até existen unhas para apertarmos nos momentos de *stress* 👇
 ![Image](/img/bola_anti_stress_1.jpg){.is-square}
 
 A pronuncia do *o* en todos os casos que acabamos de listar é aberta: *bóla de fútbol, piscina de bólas, bóla de nadal, bóla de pilates, bóla de cristal, bóla de neve, xogo das bólas, bóla anti-stress.* 
+
+* b<mark>ó</mark>la: <audio src="https://ilg.usc.es/pronuncia/mp3/b/1460.mp3" controls> </audio> 
 
 Estas formas acentúanse para as diferenciar da *bola* (de pan ou de nata) que, aínda que se escribe igual, xa dixemos que se pronuncia cun *o* fechado. 
 
