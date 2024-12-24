@@ -28,7 +28,7 @@ Exemplos:
 
   Nestes casos, a palabra que se acentúa é sempre a que ten a vogal aberta. Só hai dúas excepcións:
 1. *pór* e *por* son as dúas con *o* fechado.
-2. *é* e *e* son das dúas con *e* aberto.
+2. *é* e *e* son as dúas con *e* aberto.
 
 ### Non pertencen á mesma categoría gramatical
 
