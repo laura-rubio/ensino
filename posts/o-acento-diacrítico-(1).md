@@ -26,7 +26,9 @@ Exemplos:
 * *bola* "peza de pan" pronúnciase con o fechado
 * *bóla* "esfera, pelota" pronúnciase con o aberto
 
-  Nestes casos, a palabra que se acentúa é sempre a que ten a vogal aberta. Só hai unha excepción: *pór* e *por* son as dúas con *o* fechado.
+  Nestes casos, a palabra que se acentúa é sempre a que ten a vogal aberta. Só hai dúas excepcións:
+1. *pór* e *por* son as dúas con *o* fechado.
+2. *é* e *e* son das dúas con *e* aberto.
 
 ### Non pertencen á mesma categoría gramatical
 
