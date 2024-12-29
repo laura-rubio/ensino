@@ -3,6 +3,7 @@ title: Bolas
 summary: (con o aberto e con o fechado)
 tags:
   - acentuacion_diacritica
+  - sons_vocalicos
 draft: false
 show_toc: false
 ---
@@ -60,7 +61,7 @@ E até existen unhas para apertarmos nos momentos de *stress* 👇
 
 ![Image](/img/bola_anti_stress_1.jpg){.is-square}
 
-A pronuncia do *o* en todos os casos que acabamos de listar é aberta: *bóla de fútbol, piscina de bólas, bóla de nadal, bóla de pilates, bóla de cristal, bóla de neve, xogo das bólas, bóla anti-stress.* 
+A pronuncia do *o* en todos os casos que acabamos de listar é aberta: *bóla de fútbol, piscina de bólas, bóla de nadal, bóla de pilates, bóla de cristal, bóla de neve, xogo das bólas, bóla anti-stress...* 
 
 * b<mark>ó</mark>la: <audio src="https://ilg.usc.es/pronuncia/mp3/b/1460.mp3" controls> </audio> 
 
