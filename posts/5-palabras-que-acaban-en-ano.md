@@ -19,7 +19,7 @@ Ningunha destas 5 palabras acaba en *-án,* a terminación correcta é *-ano:*
 
 ## Cal é a orixe desta confusión?
 
-Como algunhas palabras do español que acaban en *-ano,* teñen a terminación *-án* en galego (*cidadán, artesán, irmán, ancián, cirurxián, aldeán, cristián...*) moitas persoas pensan que acontece igual con *marciano, humano, urbano, veterano, vexetariano* (e tamén *vegano).*
+Como algunhas palabras do español que acaban en *-ano,* teñen a terminación *-án* en galego (*cidadán, artesán, irmán, ancián, cirurxián, aldeán, cristián...*) moitas persoas pensan que acontece igual con *marciano, humano, urbano, veterano* e *vexetariano.*
 
 Non acontece, a terminación correcta tanto en galego como en portugués é *-ano*, e hai máis palabras que acaban así. O xentilicio dos nacidos nos seguintes lugares tamén acaba en *-ano*.
 
