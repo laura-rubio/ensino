@@ -21,7 +21,7 @@ Ningunha destas 5 palabras acaba en *-án,* a terminación correcta é *-ano:*
 
 Como algunhas palabras do español que acaban en *-ano,* teñen a terminación *-án* en galego (*cidadán, artesán, irmán, ancián, cirurxián, aldeán, cristián...*) moitas persoas pensan que acontece igual con *marciano, humano, urbano, veterano* e *vexetariano.*
 
-Non acontece, a terminación correcta tanto en galego como en portugués é *-ano*, e hai máis palabras que acaban así. O xentilicio dos nacidos nos seguintes lugares tamén acaba en *-ano*.
+Non acontece! A terminación correcta tanto en galego como en portugués é *-ano*, e hai máis palabras que acaban así. O xentilicio dos nacidos nos seguintes lugares tamén acaba en *-ano*.
 
 Agora que o sabes, escribe correctamente o seu nome: 
 
