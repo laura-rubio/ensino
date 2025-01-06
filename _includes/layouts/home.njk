@@ -8,7 +8,7 @@ layout: layouts/base.njk
 
 <nav>
     <ul>
-        {% for cat in search.pages("type=category tags.length=0") | reverse %}
+        {% for cat in search.pages("type=category tags.length=0", "title") %}
         <li>
             <h3>
                 <a href="{{ cat.url | url }}">
