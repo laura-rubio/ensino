@@ -3,7 +3,7 @@ title: '5 palabras que acaban en -ano '
 summary: 'Se as usarmos, non estamos errados'
 tags:
   - a_estrutura_da_palabra
-draft: true
+draft: false
 show_toc: false
 ---
 ![Image](/img/marciano.jpg)
