@@ -19,13 +19,13 @@ E tamén sobre o **ñ**. Este é o seu aspecto:
 
 <e-moji> ~ </e-moji>
 
-Non se trata, por tanto, dun sinónimo de acento, é outra cousa. 
+Non se trata, por tanto, dun sinónimo de *acento,* é outra cousa. 
 
 ## O acento
 
 O acento, como xa sabes, é o sinal que utilizamos para marcar a sílaba tónica e tamén a pronuncia aberta ou fechada das vogais. 
 
-Aínda que en galego (e tamén en portugués) só temos a palabra acento para chamalo, a verdade é que existen diferentes tipos de acentos gráficos: 
+Aínda que en galego (e tamén en portugués) só temos a palabra *acento* para chamalo, a verdade é que existen diferentes tipos de acentos gráficos: 
 
 O que usamos en galego é unicamente o acento agudo 👇 
 
