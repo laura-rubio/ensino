@@ -6,7 +6,7 @@ draft: false
 show_toc: false
 ---
 ## O til
-Esta é a cabeza dunha alumna que acaba de descubrir que o til non é un acento 👇
+Esta é a cabeza dunha alumna que acaba de descubrir que o *til* non é un acento 👇
 
 <iframe src="https://giphy.com/embed/l4FGvUYI0tETAQwGk" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
