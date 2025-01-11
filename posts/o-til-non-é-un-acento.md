@@ -30,24 +30,24 @@ Aínda que en galego (e tamén en portugués) só temos a palabra acento para ch
 O que usamos en galego é unicamente o acento agudo 👇 
 
 <e-moji> ´ </e-moji>
-Exs.: *café, portugués,* vou *á* feira.
+Exs.: *café, portugués,* vou *á* praia.
 
 Mais, se escribirmos en portugués, teremos que usar tres:
 
 O acento agudo 👇
 
 <e-moji> ´ </e-moji>
-Coas vogais tónicas abertas: *café*
+Cando a vogal tónica for aberta: *café*
 
 O acento circunflexo 👇
 
 <e-moji> ^ </e-moji>
-Coas vogais tónicas fechadas: *português*
+Cando a vogal tónica for fechada: *português*
 
 O acento grave 👇
 
 <e-moji> ` </e-moji>
-Nas contraccións: vou *à* feira
+Nas contraccións: vou *à* praia
 
 
 E *tilde?*
