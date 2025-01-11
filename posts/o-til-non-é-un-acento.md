@@ -10,7 +10,7 @@ Esta é a cabeza dunha alumna que acaba de descubrir que o *til* non é un acent
 
 <iframe src="https://giphy.com/embed/l4FGvUYI0tETAQwGk" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-Non estou a exaxexar! Acontece isto!
+Non estou a exaxerar! Acontece isto!
 
 O que é o til, entón? 👇
 
