@@ -3,6 +3,7 @@ title: Concurso 2º ESO
 tags:
   - portugues
 draft: false
+show_toc: false
 ---
 1. Qual destas formas não se usa em português para dizer "I love you"?
 
@@ -50,7 +51,7 @@ Resposta errada! Usamos, sim.
 </e-card>
 
 <e-card color="7">
-  <div>Lamento imenso</div>
+  <div>Apresento as minhas desculpas</div>
   <div>
 Resposta errada! Usamos, sim.
   </div>
