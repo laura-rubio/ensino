@@ -5,7 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-A pesar de todos os alunos e as alunas galegos acharem que os números são muito fáceis, por alguma razão quase nunca os escrevem bem.
+Apesar de todos os alunos e as alunas galegos acharem que os números são muito fáceis, por alguma razão quase nunca os escrevem bem.
 
 Umas vezes é um C no lugar onde devia ir um Z, outras é uma letra a mais ou a menos... Pouco importa o tipo de erro, o motivo por trás é sempre o mesmo: excesso de confiança. Os alunos e as alunas são uns confiançudos, pensam que já sabem tudo e não prestam atenção!
 
