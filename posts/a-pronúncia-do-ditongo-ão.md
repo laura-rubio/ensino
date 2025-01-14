@@ -2,7 +2,7 @@
 title: A pronúncia do ditongo -ão
 tags:
   - A pronúncia de...
-draft: true
+draft: false
 show_toc: false
 ---
 <e-moji> 🙅 </e-moji> não
