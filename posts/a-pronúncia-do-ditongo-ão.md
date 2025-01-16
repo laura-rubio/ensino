@@ -5,6 +5,8 @@ tags:
 draft: false
 show_toc: false
 ---
+## Série 1
+
 <e-moji> 🙅 </e-moji> não
 
 <e-moji> ✋ </e-moji> mão
@@ -20,6 +22,8 @@ show_toc: false
 <e-moji> 🍈 </e-moji> melão
 
 <e-moji> 🐕 </e-moji> cão
+
+## Série 2
 
 <e-moji> 📺 </e-moji> televisão
 
