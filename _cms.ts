@@ -87,6 +87,8 @@ app
   .auth({
     laura: "Gatuna01",
   })
-  .git();
+  .git({
+    prodBranch: "master",
+  });
 
 export default app;
