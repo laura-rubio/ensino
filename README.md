@@ -47,7 +47,9 @@ Exemplo:
 ```html
 Números
 
-<e-tag desc="un">1</e-tag> <e-tag desc="dous">2</e-tag> <e-tag desc="tres">3</e-tag>
+<e-tag desc="un">1</e-tag>
+<e-tag desc="dous">2</e-tag>
+<e-tag desc="tres">3</e-tag>
 ```
 
 ### e-layout
@@ -60,8 +62,8 @@ Exemplo:
 
 ```html
 <e-layout>
-    <e-tag desc="un">1</e-tag>
-    <e-tag desc="dous">2</e-tag>
-    <e-tag desc="tres">3</e-tag>
+  <e-tag desc="un">1</e-tag>
+  <e-tag desc="dous">2</e-tag>
+  <e-tag desc="tres">3</e-tag>
 </e-layout>
 ```

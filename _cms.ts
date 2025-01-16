@@ -83,6 +83,10 @@ app
     "title: text",
     "id: text",
     tags,
-  ]);
+  ])
+  .auth({
+    laura: "Gatuna01",
+  })
+  .git();
 
 export default app;

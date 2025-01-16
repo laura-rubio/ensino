@@ -3,7 +3,7 @@ class Tip extends HTMLElement {
     super();
 
     const shadow = this.attachShadow({ mode: "open" });
-    
+
     shadow.innerHTML = `
             <style>
                 :host {
