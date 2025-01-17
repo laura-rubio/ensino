@@ -1,12 +1,15 @@
 ---
-title: "Treino de verbos - 1º ESO: presente do indicativo"
+title: 'Treino de verbos - 1º ESO: presente do indicativo'
 tags:
   - portugues
 draft: false
+show_toc: false
 ---
 Conjuga no presente do indicativo os seguintes verbos:
 
 Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal. 
+
+## Série 1
 
 ## Ser
 
@@ -15,6 +18,16 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 * Ele, ela, você <e-answer>é</e-answer>
 * Nós <e-answer>somos</e-answer>
 * Eles, elas, vocês <e-answer>são</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Chamar-se
+
+* Eu <e-answer>chamo</e-answer>-<e-answer>me</e-answer>
+* Tu <e-answer>chamas</e-answer>-<e-answer>te</e-answer>
+* Ele, ela, você <e-answer>chama</e-answer>-<e-answer>se</e-answer>
+* Nós <e-answer>chamamo</e-answer>-<e-answer>nos</e-answer>
+* Eles, elas, vocês <e-answer>chamam</e-answer>-<e-answer>se</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -38,6 +51,16 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 
 <e-validate>Verifica as respostas</e-validate>
 
+## Poder
+
+* Eu <e-answer>posso</e-answer>
+* Tu <e-answer>podes</e-answer>
+* Ele, ela, você <e-answer>pode</e-answer>
+* Nós <e-answer>podemos</e-answer>
+* Eles, elas, vocês <e-answer>podem</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
 ## Fazer
 
 * Eu <e-answer>faço</e-answer>
@@ -48,13 +71,13 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Chamar-se
+## Dizer
 
-* Eu <e-answer>chamo</e-answer>-<e-answer>me</e-answer>
-* Tu <e-answer>chamas</e-answer>-<e-answer>te</e-answer>
-* Ele, ela, você <e-answer>chama</e-answer>-<e-answer>se</e-answer>
-* Nós <e-answer>chamamo</e-answer>-<e-answer>nos</e-answer>
-* Eles, elas, vocês <e-answer>chamam</e-answer>-<e-answer>se</e-answer>
+* Eu <e-answer>digo</e-answer>
+* Tu <e-answer>dizes</e-answer>
+* Ele, ela, você <e-answer>diz</e-answer>
+* Nós <e-answer>dizemos</e-answer>
+* Eles, elas, vocês <e-answer>dizem</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -67,6 +90,8 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 * Eles, elas, vocês <e-answer>dão</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## Série 2
 
 ## Ver
 
@@ -85,16 +110,6 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 * Ele, ela, você <e-answer>lê</e-answer>
 * Nós <e-answer>lemos</e-answer>
 * Eles, elas, vocês <e-answer>leem</e-answer>
-
-<e-validate>Verifica as respostas</e-validate>
-
-## Dizer
-
-* Eu <e-answer>digo</e-answer>
-* Tu <e-answer>dizes</e-answer>
-* Ele, ela, você <e-answer>diz</e-answer>
-* Nós <e-answer>dizemos</e-answer>
-* Eles, elas, vocês <e-answer>dizem</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -118,13 +133,13 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Poder
+## Querer
 
-* Eu <e-answer>posso</e-answer>
-* Tu <e-answer>podes</e-answer>
-* Ele, ela, você <e-answer>pode</e-answer>
-* Nós <e-answer>podemos</e-answer>
-* Eles, elas, vocês <e-answer>podem</e-answer>
+* Eu <e-answer>quero</e-answer>
+* Tu <e-answer>queres</e-answer>
+* Ele, ela, você <e-answer>quer</e-answer>
+* Nós <e-answer>queremos</e-answer>
+* Eles, elas, vocês <e-answer>querem</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -135,16 +150,6 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 * Ele, ela, você <e-answer>perde</e-answer>
 * Nós <e-answer>perdemos</e-answer>
 * Eles, elas, vocês <e-answer>perdem</e-answer>
-
-<e-validate>Verifica as respostas</e-validate>
-
-## Querer
-
-* Eu <e-answer>quero</e-answer>
-* Tu <e-answer>queres</e-answer>
-* Ele, ela, você <e-answer>quer</e-answer>
-* Nós <e-answer>queremos</e-answer>
-* Eles, elas, vocês <e-answer>querem</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -167,6 +172,8 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 * Eles, elas, vocês <e-answer>pedem</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## Série 3
 
 ## Dormir
 
