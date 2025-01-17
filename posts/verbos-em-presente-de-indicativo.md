@@ -5,6 +5,8 @@ tags:
 draft: false
 show_toc: false
 ---
+## Série 1
+
 <e-card color="1">
   <div>Presente do indicativo de ser</div>
   <div>
@@ -58,6 +60,19 @@ show_toc: false
 </e-card>
 
 <e-card color="1">
+  <div>Presente do indicativo de poder</div>
+  <div>
+    <ul>
+      <li>eu posso </li>
+      <li>tu podes </li>
+      <li>ele, ela, você pode </li>
+      <li>nós podemos </li>
+      <li>eles, elas, vocês podem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
   <div>Presente do indicativo de fazer</div>
   <div>
     <ul>
@@ -66,6 +81,19 @@ show_toc: false
       <li>ele, ela, você faz </li>
       <li>nós fazemos </li>
       <li>eles, elas, vocês fazem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente do indicativo de dizer</div>
+  <div>
+    <ul>
+      <li>eu digo </li>
+      <li>tu dizes </li>
+      <li>ele, ela, você diz </li>
+      <li>nós dizemos </li>
+      <li>eles, elas, vocês dizem </li>
     </ul>
   </div>
 </e-card>
@@ -82,6 +110,8 @@ show_toc: false
     </ul>
   </div>
 </e-card>
+
+## Série 2
 
 <e-card color="1">
   <div>Presente do indicativo de ver</div>
@@ -105,19 +135,6 @@ show_toc: false
       <li>ele, ela, você lê </li>
       <li>nós lemos </li>
       <li>eles, elas, vocês leem </li>
-    </ul>
-  </div>
-</e-card>
-
-<e-card color="1">
-  <div>Presente do indicativo de dizer</div>
-  <div>
-    <ul>
-      <li>eu digo </li>
-      <li>tu dizes </li>
-      <li>ele, ela, você diz </li>
-      <li>nós dizemos </li>
-      <li>eles, elas, vocês dizem </li>
     </ul>
   </div>
 </e-card>
@@ -149,14 +166,14 @@ show_toc: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente do indicativo de poder</div>
+  <div>Presente do indicativo de querer</div>
   <div>
     <ul>
-      <li>eu posso </li>
-      <li>tu podes </li>
-      <li>ele, ela, você pode </li>
-      <li>nós podemos </li>
-      <li>eles, elas, vocês podem </li>
+      <li>eu quero </li>
+      <li>tu queres </li>
+      <li>ele, ela, você quer </li>
+      <li>nós queremos </li>
+      <li>eles, elas, vocês querem </li>
     </ul>
   </div>
 </e-card>
@@ -170,19 +187,6 @@ show_toc: false
       <li>ele, ela, você perde </li>
       <li>nós perdemos </li>
       <li>eles, elas, vocês perdem </li>
-    </ul>
-  </div>
-</e-card>
-
-<e-card color="1">
-  <div>Presente do indicativo de querer</div>
-  <div>
-    <ul>
-      <li>eu quero </li>
-      <li>tu queres </li>
-      <li>ele, ela, você quer </li>
-      <li>nós queremos </li>
-      <li>eles, elas, vocês querem </li>
     </ul>
   </div>
 </e-card>
@@ -212,6 +216,8 @@ show_toc: false
     </ul>
   </div>
 </e-card>
+
+## Série 3
 
 <e-card color="1">
   <div>Presente do indicativo de dormir</div>
