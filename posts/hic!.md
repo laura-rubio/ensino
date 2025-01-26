@@ -7,11 +7,10 @@ show_toc: false
 summary: Soluços e saloucos
 ---
 ### HIC!
-
-![Image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9jcWxscWFrNTluMW1vcjV5ZmdkOHBnYTVlNzZhOTJyeHdoa2Z2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/140LiNgM0b5DVe/giphy.gif){.is-horizontal}
+![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RtbGtndmM4OWFuMGFsajJ0ZHJhY3IzeWdpYm1hOHFxeGVyaGU2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N1osLG4uRY8LxgYQrL/giphy.gif){.is-horizontal}
 
 ### HIC!
-![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RtbGtndmM4OWFuMGFsajJ0ZHJhY3IzeWdpYm1hOHFxeGVyaGU2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N1osLG4uRY8LxgYQrL/giphy.gif){.is-horizontal}
+![Image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9jcWxscWFrNTluMW1vcjV5ZmdkOHBnYTVlNzZhOTJyeHdoa2Z2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/140LiNgM0b5DVe/giphy.gif){.is-horizontal}
 
 ### HIC!
 ![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1mendxZ2pnOXU1b2t4YXNtdzltb3FobjRpMmthYnQxNm4wb245YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5HBZaMzzVM46c/giphy.gif){.is-horizontal}
