@@ -2,6 +2,7 @@
 title: O til non é un acento
 tags:
   - ortografia
+  - acentuacion
 draft: false
 show_toc: false
 ---
