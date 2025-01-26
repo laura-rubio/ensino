@@ -2,7 +2,7 @@
 title: HIC!
 tags:
   - lexico
-draft: true
+draft: false
 show_toc: false
 summary: Soluços e saloucos
 ---
