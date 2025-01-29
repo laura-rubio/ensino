@@ -5,13 +5,13 @@ tags:
 draft: false
 show_toc: false
 ---
-Neste esquema sintetizamos as regras xerais de uso do acento gráfico en galego.
+Neste esquema sintetizamos as regras xerais de uso do acento gráfico en galego:
 
-| Esdrúxulas                                                               | Graves                                                                                                                           | Agudas                                                                          |
-| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Esdrúxulas | Graves | Agudas|
+|:------------:|:--------:|:--------:|
 | <e-tag color=2>´</e-tag><e-tag color=1>*</e-tag><e-tag color=1>*</e-tag> | <e-tag color=1>*</e-tag><e-tag color=2>´</e-tag><e-tag color=1>*</e-tag>                                                         | <e-tag color=1>*</e-tag><e-tag color=1>*</e-tag><e-tag color=2>´</e-tag>        |
-| As palabras esdrúxulas **acentúanse sempre**                             | Só se acabaren en **ditongo decrecente** (seguido ou non de *\-s)* ou nunha **consoante distinta** de ***\-n*, *\-s* ou *\-ns*** | Cando terminaren en **vogal** ou en vogal seguida de ***\-n*, *\-s* ou *\-ns*** |
-| Exemplo: *médico*                                                        | Exemplo: *amigábeis,* *fácil*                                                                                                    | Exemplo: *verán,* mais *robots*                                                 |
+| **Acentúanse sempre**                             | Acentúanse as terminadas en **ditongo decrecente** (seguido ou non de *\-s)* ou nunha **consoante distinta** de ***\-n*, *\-s* ou *\-ns*** | Acentúanse as acabadas en **vogal** ou en **vogal seguida** de ***\-n*, *\-s* ou *\-ns*** |
+| Exemplo: *médico*                                                 | Exemplo: *amigáb**eis**,* *fáci**l**,* *dóla**r***                | Exemplo: *av**ó**,* *ver**án*** e *canci**óns***, mais *robots*                                                 |
 
 - - -
 
