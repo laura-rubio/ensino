@@ -55,7 +55,7 @@ O i é tonico e vai seguido doutra vogal</div>
 <e-card color="7">
 <div>diminuiu</div>
 <div>diminuíu<br>
-O i é tónico e vai seguido doutra vogal</div>
+O i é tónico e acentúoo para marcar o hiato: di-mi-nu-í-u</div>
 </e-card>
 
 <e-card color="8">
