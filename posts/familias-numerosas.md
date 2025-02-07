@@ -35,7 +35,7 @@ Se os bebés nacidos nun parto foren máis de dous, reciben estes nomes:
 
 👶👶👶👶👶👶👶👶 son  <e-answer>óctuplos</e-answer>
 
-👶👶👶👶👶👶👶👶👶 son  <e-answer>nónuplos</e-answer>
+👶👶👶👶👶👶👶👶👶 son  <e-answer readonly>nónuplos</e-answer>
 
 👶👶👶👶👶👶👶👶👶👶 son <e-answer readonly>décuplos</e-answer>
 
@@ -53,7 +53,7 @@ Se os bebés nacidos nun parto foren máis de dous, reciben estes nomes:
 
 👶👶👶👶👶👶 são <e-answer readonly>sêxtuplos</e-answer>
 
-👶👶👶👶👶👶👶 são <e-answer>séptuplos</e-answer>
+👶👶👶👶👶👶👶 são <e-answer readonly>séptuplos</e-answer>
 
 👶👶👶👶👶👶👶👶 são <e-answer>óctuplos</e-answer>
 
