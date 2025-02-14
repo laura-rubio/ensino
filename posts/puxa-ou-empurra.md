@@ -15,11 +15,11 @@ Como podes ver nestes exemplos, cando empurramos, exercemos unha forza que afast
 
 ### Empurrar
 
-<iframe src="https://giphy.com/embed/3o72FgwyBxqGxxrsRy" width="480" height="263" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVyc2J3dHU2c2t0MXJvMHA4MGV3dmFhanA4ejhxMnp2amsydWtwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72FgwyBxqGxxrsRy/giphy.gif)
 
 ### Puxar
 
-<iframe src="https://giphy.com/embed/Xow09gNMOchH7Nw6Kp" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb252aXBxMGxmYWZqeW5xZGJwNmxla3F6ZGl4eTFwY3I1Y3pkbWM3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xow09gNMOchH7Nw6Kp/giphy.gif)
 
 ## Exercicio
 
@@ -27,97 +27,91 @@ Sabes agora o que andan a facer os protagonistas destes gifs animados?
 
 Completa con *puxa* ou *empurra:*
 
-<iframe src="https://giphy.com/embed/sCTGg6PRu55TlkMd81" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJkODI4aGpyMTVjanRxd2p6OXcwYnd6aGhjNjUyaTFtaXQ5OG5vZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sCTGg6PRu55TlkMd81/giphy.gif)
 
 <e-answer>empurra</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/lQaVvVtrCLqHmuBSkO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx0aXI5b2JkdWNxbXpteHl1MWJmMGEzOHE1dnk5NGkwbmxhaWt4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQaVvVtrCLqHmuBSkO/giphy.gif)
 
 <e-answer>puxa</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/k0O1ORP659yOO2dQQC" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3I1Z2M4ZTlsdjNxbmx2NDl6Zm14YTh0c3BvMmV4YXF3dWo4aDIxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0O1ORP659yOO2dQQC/giphy.gif)
 
 <e-answer>puxa</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/jUfXhq87qFMn4al66c" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNjOWYxeHI3Nml3ZjB3MzBseHRmYnNwNnM0OWd4ajgzY2o3eGFndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUfXhq87qFMn4al66c/giphy.gif)
 
 <e-answer>empurra</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/hTxpseKS3iSTsXbnmT" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IzaGsxY2V2a2QyZmZ4ZXRiM2sza3d6eXNnMzg4czBtMnJka2hkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hTxpseKS3iSTsXbnmT/giphy.gif)
 
 <e-answer>puxa</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/3o6Zt2aRZ4jobek6ze" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJmY2V3MjJ5bW4zN3Fib2E3enp5MjA0cG5nbzVlZnFsMXFiYzNtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt2aRZ4jobek6ze/giphy.gif)
 
 <e-answer>puxa</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/OqtiRTl7ZPUVW" width="480" height="272" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG02dmlvNWxhOXN6b3F5eGI1ODdxeDF0dnZlZDg5NWx2ZGowczBmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6ZOD3aNT3Lxe/giphy.gif)
 
 <e-answer>puxa</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/B6ZOD3aNT3Lxe" width="480" height="284" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVsbTRobHdyOGR0NjF4cXVsbXYwaHI0NXh2eDBmczNzbnpuNHVnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0COI2BgqexLBeZs4/giphy.gif)
 
 <e-answer>puxa</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/l0COI2BgqexLBeZs4" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-<e-answer>puxa</e-answer>
-
-<e-validate>Verifica a resposta</e-validate>
-
-<iframe src="https://giphy.com/embed/eIInxK0dCLLJtkBibR" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdoa3JmazNqOHZtNDEyNHRob2ljcmY2M2c2aHNsM2Z6YnRwa2c3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eIInxK0dCLLJtkBibR/giphy.gif)
 
 <e-answer>empurra</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/1dKU890cjOIfop2Tgb" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJqaXZsdGVwZzF4aWd0Z2EwZ3phNWIyM3Jzd3B3aHFmYmV2cWRtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1dKU890cjOIfop2Tgb/giphy.gif)
 
 <e-answer>puxa</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/knLN7fwiQKtmE" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHo0Ynlhc3k3NHE4YTJ1NmxibnBuOHNhcjA0M2EyMXRmZDRmcG1ueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/knLN7fwiQKtmE/giphy.gif)
 
 Primeiro <e-answer>puxa</e-answer> e despois <e-answer>empurra</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/ACja0dtANKK2XNFMV7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZrdzFnZmY5OWJ6bnRocjV3cjl6YjVodjcwenhveTRtOTJtYmx3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ACja0dtANKK2XNFMV7/giphy.gif)
 
 <e-answer>empurra</e-answer>, mais é <e-answer>puxa</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/10ZuedtImbopos" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlxdzFneHRmc2JvenVodjJwM2Q4cHJqOWx3NGprNm5pamFpcWpxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10ZuedtImbopos/giphy.gif)
 
 <e-answer>puxa</e-answer> ou aperta o gatillo
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/GqOO8PEwZnSafhBhAT" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFoeGg1bXI3ZDg1cGo4c3Roc3J6NHVnYmlnbmN4OXBzemtxZDJ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GqOO8PEwZnSafhBhAT/giphy.gif)
 
 Pula e <e-answer>empurra</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/1K6lhNtqOgS08" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazB3MGZwZjNnZW90bTlzdW9pbmJvNnc5N3plZDhjZnRkdDAwMmx3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1K6lhNtqOgS08/giphy.gif)
 
 <e-answer>puxa</e-answer> e logo beixa
 
