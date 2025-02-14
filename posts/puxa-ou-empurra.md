@@ -33,7 +33,7 @@ Completa con *puxa* ou *empurra:*
 
 <e-validate>Verifica a resposta</e-validate>
 
-![Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx0aXI5b2JkdWNxbXpteHl1MWJmMGEzOHE1dnk5NGkwbmxhaWt4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQaVvVtrCLqHmuBSkO/giphy.gif)
+![Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm14dWNiZzV3NDBxdnVyZDdzYnBzZXJ3NWI4aTNiaGY4ZGplNHhiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQaVvVtrCLqHmuBSkO/giphy.gif)
 
 <e-answer>puxa</e-answer>
 
