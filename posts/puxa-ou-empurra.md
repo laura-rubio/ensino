@@ -63,12 +63,6 @@ Completa con *puxa* ou *empurra:*
 
 <e-validate>Verifica a resposta</e-validate>
 
-![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG02dmlvNWxhOXN6b3F5eGI1ODdxeDF0dnZlZDg5NWx2ZGowczBmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6ZOD3aNT3Lxe/giphy.gif)
-
-<e-answer>puxa</e-answer>
-
-<e-validate>Verifica a resposta</e-validate>
-
 ![Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVsbTRobHdyOGR0NjF4cXVsbXYwaHI0NXh2eDBmczNzbnpuNHVnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0COI2BgqexLBeZs4/giphy.gif)
 
 <e-answer>puxa</e-answer>
