@@ -6,7 +6,8 @@ tags:
 draft: false
 show_toc: false
 ---
-<iframe src="https://giphy.com/embed/H4iTqZzLoxVLp97Ige" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/black-and-white-thebeeshaws-the-bee-shaws-H4iTqZzLoxVLp97Ige"></a></p>
+
+![Image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHY4dGZmYTllMHh5YWd2ZHBwbGhveGlqeGVxNDl1d3p4cmRjbHZ3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4iTqZzLoxVLp97Ige/giphy.gif)
 
 Encher papeis e máis papeis, todo é papelame! Gustemos ou non, infelizmente, esa é a realidade. A burocracia consome cada vez máis tempo, enerxía e diñeiro, por tanto, as accións que presento a seguir están moi presentes no día a día de todas as persoas. Seleccionei algunhas das máis habituais, repara só que o galego ten formas propias para todas estas xestións, logo non uses o castelanismo.
 
