@@ -9,7 +9,7 @@ show_toc: false
 ## O til
 Esta é a cabeza dunha alumna que acaba de descubrir que o *til* non é un acento 👇
 
-<iframe src="https://giphy.com/embed/l4FGvUYI0tETAQwGk" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhyZDVuMWZ2OTlzOWh6eWs3NjVpcmZndzVicjQ2ZGFqenp6cTZ5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGvUYI0tETAQwGk/giphy.gif)
 
 Non estou a exaxerar! Nas miñas aulas, isto é moi habitual!
 
