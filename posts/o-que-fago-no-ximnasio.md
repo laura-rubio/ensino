@@ -36,8 +36,7 @@ E máis agachamentos! O agachamento búlgaro é unha modalidade das moitas que e
 
 O noso seguinte exercicio non son nin as *dominadas* (en español) nin os *pull ups* (en inglés), senón as *elevacións,* con certeza, un dos máis duros de toda esta serie. 
 
-![Image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjg1cjkzaHZ1eG9nZXBnZjB4dXJ0ZWhybWE4azdud2U4ZnFnamY4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1BgRucd74s7erdYs/giphy.gif)
-
+![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3l5OHJreHhuZ215bXd0dng2cW55Z25zemdpMTRiY2hoOTJkYmV0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h5tqACNc9ptdHvYPIi/giphy.gif)
 
 ## 6. Flexións
 
@@ -50,7 +49,7 @@ Deixamos a barra e imos agora para o chan para facermos unhas flexións de brazo
 
 Acabamos cunha prancha, o exercicio que consiste en mantermos o corpo en posición horizontal apoiados unicamente nas puntas dos pés e nas palmas das mans ou nos antebrazos.
 
-![Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxyc3dwdzNydTZlMnF5ZDF3YXd1cDVoZWtqNno0Nm04NnhpcmtwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mlADRlF7SMFQRy/giphy.gif)
+![Image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG11ZGthaG9zcXRvdW00bTZ2NjB0dDJhdTRoYXhyOGJuMms2OW05cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NYhonohpPRCdTfCLTS/giphy.gif)
 
 
 ## 8. Alongamentos
