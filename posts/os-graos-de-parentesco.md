@@ -1,5 +1,5 @@
 ---
-title: Parentes
+title: Os graos de parentesco
 tags:
   - lexico
 draft: false
