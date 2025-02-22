@@ -46,14 +46,14 @@ Ainda que *Brasil* é um desses países com artigo, é o único de todos os paí
 Lembras-te de quais eram os países em que se fala português? 👇
 
 <e-layout>
-<e-tag color=1>Portugal</e-tag>
-<e-tag color=1>Cabo Verde</e-tag>
-<e-tag color=1>Guiné-Bissau</e-tag>
-<e-tag color=1>São Tomé e Príncipe</e-tag>
-<e-tag color=1>Guiné Equatorial</e-tag>
-<e-tag color=1>Angola</e-tag>
-<e-tag color=1>Moçambique</e-tag>
-<e-tag color=1>Timor-Leste</e-tag>
+<e-tag color=2>Portugal</e-tag>
+<e-tag color=2>Cabo Verde</e-tag>
+<e-tag color=2>Guiné-Bissau</e-tag>
+<e-tag color=2>São Tomé e Príncipe</e-tag>
+<e-tag color=2>Guiné Equatorial</e-tag>
+<e-tag color=2>Angola</e-tag>
+<e-tag color=2>Moçambique</e-tag>
+<e-tag color=2>Timor-Leste</e-tag>
 </e-layout>
 
 Agora faz a correspondência de capitais e países. Neste caso sem contração, porque se trata de países que não têm artigo: 
