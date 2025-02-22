@@ -7,7 +7,7 @@ show_toc: false
 ---
 Pode parecer que este é um exercício de Geografia, mas na verdade não é. Este é um exercício para aprenderes que em português é muito habitual os nomes de países irem precedidos de um artigo definido (*o, a, os, as)*.  
 
-Para treinares isto, faz a correspondência de capitais e países. Não te esqueças de contrair o artigo definido com a preposição *de,* porque todos estes países têm artigo:
+Para treinares isto, faz a correspondência entre as capitais e os países. Não te esqueças de contrair o artigo definido com a preposição *de,* porque todos estes países têm artigo:
 
 <e-layout>
 <e-tag color=1>Canadá</e-tag>
@@ -42,7 +42,7 @@ Washington é a capital <e-answer size=3 readonly>dos</e-answer> <e-answer reado
 
 <e-validate>Verifica a resposta</e-validate>
 
-Ainda que *Brasil* é um desses países com artigo, é o único de todos os países lusófonos. Sim, neste caso, o Brasil é uma exceção à regra.
+Ainda que *Brasil* é um desses países com artigo, é o único de todos os países lusófonos que tem artigo. Sim, neste caso, o Brasil é uma exceção à regra.
 Lembras-te de quais eram os países em que se fala português? 👇
 
 <e-layout>
@@ -56,7 +56,7 @@ Lembras-te de quais eram os países em que se fala português? 👇
 <e-tag color=2>Timor-Leste</e-tag>
 </e-layout>
 
-Agora faz a correspondência de capitais e países. Neste caso sem contração, porque se trata de países que não têm artigo: 
+Agora faz a correspondência entre as capitais e os países. Neste caso sem contração, porque se trata de países que não têm artigo: 
 
 **Exemplo:**
 
