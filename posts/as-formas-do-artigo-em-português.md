@@ -1,7 +1,7 @@
 ---
 title: As formas do artigo em português
 tags:
-  - portugues
+  - o_artigo
 draft: false
 show_toc: false
 ---
