@@ -9,7 +9,7 @@ Apesar de todos os alunos e as alunas galegos acharem que os números são muito
 
 Umas vezes é um C no lugar onde devia ir um Z, outras é uma letra a mais ou a menos... Pouco importa o tipo de erro, o motivo por trás é sempre o mesmo: excesso de confiança. Os alunos e as alunas são uns confiançudos, pensam que já sabem tudo e não prestam atenção!
 
-<iframe src="https://giphy.com/embed/R2tImHqP1t5AzFBuzH" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJnOTNod2d2d3BmYjIzbW5sYjJrNmh0bHZ4eXlmZms1NnN0OTNlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R2tImHqP1t5AzFBuzH/giphy.gif)
 
 O melhor é que a solução é simples. Por favor, olha (com atenção) para as letras marcadas a amarelo das seguintes palavras. É aí onde estás a dar os erros!
 
