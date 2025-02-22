@@ -42,8 +42,7 @@ Washington é a capital <e-answer size=3 readonly>dos</e-answer> <e-answer reado
 
 <e-validate>Verifica a resposta</e-validate>
 
-
-Ainda que o Brasil tem artigo, é o único de todos os países lusófonos que tem artigo. Sim, o Brasil é uma exceção à regra.
+Ainda que *Brasil* é um desses países com artigo, é o único de todos os países lusófonos. Sim, neste caso, o Brasil é uma exceção à regra.
 Lembras-te de quais eram os países em que se fala português? 👇
 
 <e-layout>
