@@ -1,7 +1,7 @@
 ---
 title: Os artigos e os nomes dos países
 tags:
-  - o_artigo
+  - O artigo em português
 draft: false
 show_toc: false
 ---
