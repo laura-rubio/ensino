@@ -6,6 +6,8 @@ tags:
 draft: false
 show_toc: false
 ---
+![Image](/img/gato-fofo.png)
+
 A pesar de seren moitas as campañas publicitarias que contribuíron a espallar a idea de os galegos e as galegas seren persoas meigas que están o día todo a dicir *graciñas, [sentidiño](https://portaldaspalabras.gal/lexico/mira-que-din/sentidino/)*, *ruliña...* non é ben así. Para o probar, traio aquí esta lista de palabras que, ao contrario do que acontece en español, non se usan no diminutivo en galego.
 
 ## 1. Banquillo > o banco
