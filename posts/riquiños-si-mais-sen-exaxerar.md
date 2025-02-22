@@ -24,8 +24,6 @@ A peza de roupa interior masculina que cobre a pelve e parte das nádegas, con d
 
 ## 4. Casilla > a casa
 
-![](/img/casas_xadrez.jpg)
-
 Os cadros pintados nos taboleiros de certos xogos de mesa (xadrez, damas...) e tamén os espazos delimitados por liñas en táboas, formularios, cuestionarios e outros impresos non son *\*casillas* nin tampouco *\*casiñas,* o seu nome é **casas**.
 
 Finalmente, aínda que os galegos non podemos "sacar a nadie de sus casillas", somos tan rabudos como calquera e si podemos esgotar a paciencia das persoas e até facer perder a paciencia a un santo.
