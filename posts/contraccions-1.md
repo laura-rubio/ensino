@@ -9,13 +9,13 @@ show_toc: false
 As formas do artigo determinado *(o, a, os, as)* contraen coas preposicións *a,
 con, de, en* e *por* en galego.
 
-| preposicións/artigos | o    | a    | os    | as    |
-| -------------------- | ---- | ---- | ----- | ----- |
-| **a**                | ao   | á    | aos   | ás    |
-| **con**              | co   | coa  | cos   | coas  |
-| **de**               | do   | da   | dos   | das   |
-| **en**               | no   | na   | nos   | nas   |
-| **por**              | polo | pola | polos | polas |
+| preposicións 👇 / artigos 👉 | o    | a    | os    | as    |
+| -------------------------     | ---- | ---- | ----- | ----- |
+| **a**                         | ao   | á    | aos   | ás    |
+| **con**                       | co   | coa  | cos   | coas  |
+| **de**                        | do   | da   | dos   | das   |
+| **en**                        | no   | na   | nos   | nas   |
+| **por**                       | polo | pola | polos | polas |
 
 ### Exercicio 1
 

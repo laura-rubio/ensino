@@ -9,11 +9,11 @@ show_toc: false
 As formas do artigo indeterminado _(un, unha, uns, unhas)_ contraen coas
 preposicións _con, de_ e _en_ en galego.
 
-| preposicións/artigos | un  | unha  | uns  | unhas  |
-| -------------------- | --- | ----- | ---- | ------ |
-| **con**              | cun | cunha | cuns | cunhas |
-| **de**               | dun | dunha | duns | dunhas |
-| **en**               | nun | nunha | nuns | nunhas |
+| preposicións 👇 / artigos 👉 | un  | unha  | uns  | unhas  |
+| -------------------------     | --- | ----- | ---- | ------ |
+| **con**                       | cun | cunha | cuns | cunhas |
+| **de**                        | dun | dunha | duns | dunhas |
+| **en**                        | nun | nunha | nuns | nunhas |
 
 ### Exercicio 1
 
