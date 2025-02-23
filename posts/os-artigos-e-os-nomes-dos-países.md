@@ -49,7 +49,7 @@ Washington é a capital <e-answer size=3 readonly>dos</e-answer> <e-answer reado
 14. São Domingos é a capital <e-answer size=3>da</e-answer> <e-answer>República Dominicana</e-answer>
 15. Brasília é a capital <e-answer size=3>do</e-answer> <e-answer>Brasil</e-answer>
 
-<e-validate>Verifica a resposta</e-validate>
+<e-validate>Verifica as respostas</e-validate>
 
 O caso do <e-tag color=2>Brasil</e-tag> é especial, porque a maioria dos países lusófonos não tem artigo.
 Sabes quais são os outros países em que o português é língua oficial? 👇
@@ -82,7 +82,7 @@ Tem em conta que apenas dous têm artigo. No resto, a contração é desnecessá
 6. Malabo é a capital <e-answer size=3>da</e-answer> <e-answer>Guiné Equatorial</e-answer>
 7. Maputo é a capital <e-answer size=3>de</e-answer> <e-answer>Moçambique</e-answer>
 
-<e-validate>Verifica a resposta</e-validate>
+<e-validate>Verifica as respostas</e-validate>
 
 <article>
 Lembrete para as turmas de galego:
