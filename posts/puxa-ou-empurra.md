@@ -7,7 +7,9 @@ tags:
 draft: false
 show_toc: false
 ---
-En galego/portugués é o contrario do inglés: *puxar* é *pull* e *empurrar* é *push.* 
+En galego/portugués é o contrario do inglés: 
+- empurrar = push
+- puxar = pull
 
 Como podes ver nestes exemplos, cando empurramos, exercemos unha forza que afasta o obxecto de nós. Ao puxarmos facemos o oposto, ou sexa, traemos o obxecto na nosa dirección.
 

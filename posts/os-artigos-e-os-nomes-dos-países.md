@@ -11,16 +11,20 @@ Para treinares isto, faz a correspondência entre as capitais e os países. Não
 
 <e-layout>
 <e-tag color=1>Canadá</e-tag>
-<e-tag color=1>Estados Unidos da América</e-tag>
-<e-tag color=1>Chade</e-tag>
 <e-tag color=1>Peru</e-tag>
+<e-tag color=1>Chade</e-tag>
 <e-tag color=1>Reino Unido</e-tag>
-<e-tag color=1>Alemanha</e-tag>
 <e-tag color=1>Argentina</e-tag>
 <e-tag color=1>Japão</e-tag>
 <e-tag color=1>República Checa</e-tag>
 <e-tag color=1>China</e-tag>
 <e-tag color=1>Países Baixos</e-tag>
+<e-tag color=1>Congo</e-tag>
+<e-tag color=1>Índia</e-tag>
+<e-tag color=1>Uruguai</e-tag>
+<e-tag color=1>República Dominicana</e-tag>
+<e-tag color=1>Líbano</e-tag>
+<e-tag color=1>Estados Unidos da América</e-tag>
 <e-tag color=1>Brasil</e-tag>
 </e-layout>
 
@@ -28,22 +32,27 @@ Para treinares isto, faz a correspondência entre as capitais e os países. Não
 
 Washington é a capital <e-answer size=3 readonly>dos</e-answer> <e-answer readonly>Estados Unidos da América</e-answer>
 
-1. Berlim é a capital <e-answer size=3>da</e-answer> <e-answer>Alemanha</e-answer>
-2. Tóquio é a capital <e-answer size=3>do</e-answer> <e-answer>Japão</e-answer>
-3. Londres é a capital <e-answer size=3>do</e-answer> <e-answer>Reino Unido</e-answer>
-4. Pequim é a capital <e-answer size=3>da</e-answer> <e-answer>China</e-answer>
+
+1. Pequim é a capital <e-answer size=3>da</e-answer> <e-answer>China</e-answer>
+2. Londres é a capital <e-answer size=3>do</e-answer> <e-answer>Reino Unido</e-answer>
+3. Tóquio é a capital <e-answer size=3>do</e-answer> <e-answer>Japão</e-answer>
+4. Nova Déli é a capital <e-answer size=3>da</e-answer> <e-answer>Índia</e-answer> 
 5. Otava é a capital <e-answer size=3>do</e-answer> <e-answer>Canadá</e-answer>
 6. Buenos Aires é a capital <e-answer size=3>da</e-answer> <e-answer>Argentina</e-answer>
-7. Amesterdão é a capital <e-answer size=3>dos</e-answer> <e-answer>Países Baixos</e-answer>
-8. Lima é a capital <e-answer size=3>do</e-answer> <e-answer>Peru</e-answer>
-9. Praga é a capital <e-answer size=3>da</e-answer> <e-answer>República Checa</e-answer>
-10. Jamena é a capital <e-answer size=3>do</e-answer> <e-answer>Chade</e-answer>
-11. Brasília é a capital <e-answer size=3>do</e-answer> <e-answer>Brasil</e-answer>
+7. Montevideu é a capital <e-answer size=3>do</e-answer> <e-answer>Uruguai</e-answer>
+8. Kinshasa é a capital <e-answer size=3>do</e-answer> <e-answer>Congo</e-answer>
+9. Amesterdão é a capital <e-answer size=3>dos</e-answer> <e-answer>Países Baixos</e-answer>
+10. Beirute é a capital <e-answer size=3>do</e-answer> <e-answer>Líbano</e-answer>
+11. Lima é a capital <e-answer size=3>do</e-answer> <e-answer>Peru</e-answer>
+12. Praga é a capital <e-answer size=3>da</e-answer> <e-answer>República Checa</e-answer>
+13. Jamena é a capital <e-answer size=3>do</e-answer> <e-answer>Chade</e-answer>
+14. São Domingos é a capital <e-answer size=3>da</e-answer> <e-answer>República Dominicana</e-answer>
+15. Brasília é a capital <e-answer size=3>do</e-answer> <e-answer>Brasil</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-Ainda que *Brasil* é um desses países com artigo, é o único de todos os países lusófonos que tem artigo. Sim, neste caso, o Brasil é uma exceção à regra.
-Lembras-te de quais eram os países em que se fala português? 👇
+O caso do <e-tag color=2>Brasil</e-tag> é especial, porque a maioria dos países lusófonos não tem artigo.
+Sabes quais são os outros países em que o português é língua oficial? 👇
 
 <e-layout>
 <e-tag color=2>Portugal</e-tag>
@@ -56,24 +65,27 @@ Lembras-te de quais eram os países em que se fala português? 👇
 <e-tag color=2>Timor-Leste</e-tag>
 </e-layout>
 
-Agora faz a correspondência entre as capitais e os países. Neste caso sem contração, porque se trata de países que não têm artigo: 
+Olla o exemplo e faz a correspondência entre as capitais e os países da lusofonia. 
 
 **Exemplo:**
 
 Lisboa é a capital <e-answer size=3 readonly>de</e-answer> <e-answer readonly>Portugal</e-answer>
 
+Tem em conta que apenas dous têm artigo. No resto, a contração é desnecessária: 
+
+
 1. São Tomé é a capital <e-answer size=3>de</e-answer> <e-answer>São Tomé e Príncipe</e-answer>
-2. Bissau é a capital <e-answer size=3>de</e-answer> <e-answer>Guiné-Bissau</e-answer>
+2. Bissau é a capital <e-answer size=3>da</e-answer> <e-answer>Guiné-Bissau</e-answer>
 3. Luanda é a capital <e-answer size=3>de</e-answer> <e-answer>Angola</e-answer>
 4. Praia é a capital <e-answer size=3>de</e-answer> <e-answer>Cabo Verde</e-answer>
 5. Dilí é a capital <e-answer size=3>de</e-answer> <e-answer>Timor-Leste</e-answer>
-6. Malabo é a capital <e-answer size=3>de</e-answer> <e-answer>Guiné Equatorial</e-answer>
+6. Malabo é a capital <e-answer size=3>da</e-answer> <e-answer>Guiné Equatorial</e-answer>
 7. Maputo é a capital <e-answer size=3>de</e-answer> <e-answer>Moçambique</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
 <article>
-Lembrete para os alunos e as alunas de galego:
+Lembrete para as turmas de galego:
 
-O uso ou a omissão do artigo com todos os países deste exercício é exatamente igual em galego.
+O uso ou não do artigo com estes países é exatamente igual em galego. 
 </article>
