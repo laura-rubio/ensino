@@ -5,9 +5,9 @@ tags:
 draft: false
 show_toc: false
 ---
-Pode parecer que este é um exercício de Geografia, mas na verdade não é. Este é um exercício para aprenderes que em português é muito habitual os nomes de países irem precedidos de um artigo definido (*o, a, os, as)*.  
+Pode parecer que este é um exercício de Geografia, mas não é. Este é um exercício para aprenderes que em português é muito habitual os nomes de países irem precedidos de um artigo definido (*o, a, os, as)*.  
 
-Para treinares isto, faz a correspondência entre as capitais e os países. Não te esqueças de contrair o artigo definido com a preposição *de,* porque todos estes países têm artigo:
+Para treinares isto, faz a correspondência entre as capitais e os países. Não te esqueças de contrair o artigo definido com a preposição *de,* porque estes países têm artigo:
 
 <e-layout>
 <e-tag color=1>Canadá</e-tag>
@@ -71,7 +71,7 @@ Olha o exemplo e faz a correspondência entre as capitais e os países da lusofo
 
 Lisboa é a capital <e-answer size=3 readonly>de</e-answer> <e-answer readonly>Portugal</e-answer>
 
-Tem em conta que apenas dois têm artigo. No resto, a contração é desnecessária: 
+Tem em conta que apenas dois têm artigo. Nos restantes, a contração é desnecessária: 
 
 
 1. São Tomé é a capital <e-answer size=3>de</e-answer> <e-answer>São Tomé e Príncipe</e-answer>
