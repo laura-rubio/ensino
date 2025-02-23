@@ -65,13 +65,13 @@ Sabes quais são os outros países em que o português é língua oficial? 👇
 <e-tag color=2>Timor-Leste</e-tag>
 </e-layout>
 
-Olla o exemplo e faz a correspondência entre as capitais e os países da lusofonia. 
+Olha o exemplo e faz a correspondência entre as capitais e os países da lusofonia. 
 
 **Exemplo:**
 
 Lisboa é a capital <e-answer size=3 readonly>de</e-answer> <e-answer readonly>Portugal</e-answer>
 
-Tem em conta que apenas dous têm artigo. No resto, a contração é desnecessária: 
+Tem em conta que apenas dois têm artigo. No resto, a contração é desnecessária: 
 
 
 1. São Tomé é a capital <e-answer size=3>de</e-answer> <e-answer>São Tomé e Príncipe</e-answer>
