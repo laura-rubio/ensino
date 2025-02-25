@@ -6,7 +6,7 @@ draft: false
 show_toc: false
 ---
 ## Artigos definidos + preposições
-As formas do artigo definido *(o, a, os, as)* contraem-se com as preposições *a, de, en* e *por* em português.
+As formas do artigo definido *(o, a, os, as)* contraem-se com as preposições *a, de, em* e *por* em português.
 
 | preposições 👇/ definidos 👉  | o    | a    | os    | as    |
 | -------------------------      | ---- | ---- | ----- | ----- |
@@ -41,5 +41,3 @@ No Brasil, é o contrário. O mais comum é separar *em um, em uma, em uns* e *e
 | ---------------------------     | ----  | ----  | ----- | -----  |
 | **de**                          | dum   | duma  | duns  | dumas  |
 | **em**                          | em um | em uma| em uns| em umas|
-
-
