@@ -24,7 +24,7 @@ As formas do artigo indefinido *(um, uma, uns, umas)* podem contrair-se com as p
 | **de**                           | dum  | duma  | duns  | dumas |
 | **em**                           | num  | numa  | nuns  | numas |
 
-No caso das contrações das preposições *de* e *em* com os artigos indefinidos, existen costumes diferentes em Portugal e no Brasil: 
+No caso das contrações das preposições *de* e *em* com os artigos indefinidos, existem costumes diferentes em Portugal e no Brasil: 
 
 ### Em Portugal
 Em Portugal, preferem escrever separadamente *de um, de uma, de uns* e *de umas.*
