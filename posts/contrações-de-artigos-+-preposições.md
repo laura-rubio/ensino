@@ -5,6 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
+## Artigos definidos + preposições
 As formas do artigo definido *(o, a, os, as)* contraem-se com as preposições *a, de, en* e *por* em português.
 
 | preposições 👇/ definidos 👉  | o    | a    | os    | as    |
@@ -15,10 +16,30 @@ As formas do artigo definido *(o, a, os, as)* contraem-se com as preposições *
 | **por**                        | pelo | pela | pelos | pelas |
 
 
+## Artigos indefinidos + preposições
+As formas do artigo indefinido *(um, uma, uns, umas)* podem contrair-se com as preposições *de* e *em* em português.
 
-As formas do artigo indefinido *(um, uma, uns, umas)* contraem-se com as preposições *de e em* em português.
+| preposições 👇/ indefinidos 👉  | um   | uma   | uns   | umas  |
+| ---------------------------      | ---- | ----  | ----- | ----- |
+| **de**                           | dum  | duma  | duns  | dumas |
+| **em**                           | num  | numa  | nuns  | numas |
 
-| preposições 👇/ indefinidos 👉  | um   | uma  | uns   | umas  |
-| ---------------------------      | ---- | ---- | ----- | ----- |
-| **de**                           | dum  | duma | duns  | dumas |
-| **em**                           | num  | num  | nuns  | numas |
+No caso das contrações das preposições *de* e *em* com os artigos indefinidos, existen costumes diferentes em Portugal e no Brasil: 
+
+### Em Portugal
+Em Portugal, preferem escrever separadamente *de um, de uma, de uns* e *de umas.*
+
+| preposições 👇/ indefinidos 👉 | um    | uma   | uns   | umas   |
+| ---------------------------     | ----  | ----  | ----- | -----  |
+| **de**                          | de um | de uma| de uns| de umas|
+| **em**                          | num   | numa  | nuns  | numas  |
+
+### No Brasil
+No Brasil, é o contrário. O mais comum é separar *em um, em uma, em uns* e *em umas.*
+
+| preposições 👇/ indefinidos 👉 | um    | uma   | uns   | umas   |
+| ---------------------------     | ----  | ----  | ----- | -----  |
+| **de**                          | dum   | duma  | duns  | dumas  |
+| **em**                          | em um | em uma| em uns| em umas|
+
+
