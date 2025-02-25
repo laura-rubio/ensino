@@ -2,9 +2,9 @@
 title: Vogais medias abertas e fechadas
 tags:
   - fonéticagalega
-draft: false
+draft: true
+show_toc: false
 ---
-
 # Aprende a distinguir vogais abertas e fechadas co #DígochoEu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLPJdEqiyl2dDQCP7S74R5yHZvI017RTQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
