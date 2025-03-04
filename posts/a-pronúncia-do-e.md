@@ -1,6 +1,7 @@
 ---
 title: A pronúncia do e
-tags: []
+tags:
+  - A pronúncia de...
 draft: false
 show_toc: false
 summary: (em português)
