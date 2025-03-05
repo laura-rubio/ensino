@@ -15,7 +15,7 @@ Em sílaba tónica, o *e* ou é aberto ou é fechado:
 - <e-moji>🧢</e-moji> bon**é** > [bɔˈnɛ]
 - <e-moji>🦶</e-moji> p**é** > [ˈpɛ]
 - <e-moji>🌍</e-moji> t**e**rra > [ˈtɛʀɐ]
-- <e-moji>💍💍</e-moji> an**é**is  
+- <e-moji>💍💍</e-moji> an**é**is > [ɐˈnɛjʃ]
 - <e-moji>🏆</e-moji> trof**é**u > [truˈfɛw]
 
 ### e fechado [e]
