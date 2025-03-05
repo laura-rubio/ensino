@@ -2,7 +2,7 @@
 title: O tónico aberto
 tags:
   - A pronúncia de...
-draft: true
+draft: false
 show_toc: false
 ---
 ## Série 1

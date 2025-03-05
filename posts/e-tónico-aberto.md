@@ -2,7 +2,7 @@
 title: E tónico aberto
 tags:
   - A pronúncia de...
-draft: true
+draft: false
 show_toc: false
 ---
 ## Série 1
@@ -12,6 +12,8 @@ show_toc: false
 <e-moji>🍯</e-moji> m**e**l
 
 <e-moji>🌨️</e-moji> n**e**ve
+
+<e-moji>👨‍⚕️</e-moji> m**é**dico
 
 <e-moji>🪟</e-moji> jan**e**la
 

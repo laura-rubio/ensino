@@ -2,7 +2,7 @@
 title: O tónico fechado
 tags:
   - A pronúncia de...
-draft: true
+draft: false
 show_toc: false
 ---
 <e-moji>👴</e-moji> av**ô**
