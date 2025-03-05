@@ -15,4 +15,6 @@ show_toc: false
 
 <e-moji>🧅</e-moji> ceb**o**la
 
+<e-moji>🥱</e-moji> s**o**no
+
 <e-moji>💑</e-moji> am**o**r

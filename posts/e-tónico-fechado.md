@@ -9,10 +9,14 @@ show_toc: false
 
 <e-moji>🖊️</e-moji> can**e**ta
 
-<e-moji>🦰</e-moji> cab**e**lo
-
 <e-moji>◼️</e-moji> pr**e**to
+
+<e-moji>🦰</e-moji> cab**e**lo
 
 <e-moji>📽️</e-moji> cin**e**ma
 
+<e-moji>🦺</e-moji> col**e**te
+
 <e-moji>🧊</e-moji> g**e**lo
+
+<e-moji>🧶</e-moji> nov**e**lo
