@@ -6,6 +6,9 @@ draft: true
 show_toc: false
 ---
 ## Série 1
+
+<e-moji>📒</e-moji> cad**e**rno
+
 <e-moji>🍯</e-moji> m**e**l
 
 <e-moji>🌨️</e-moji> n**e**ve
@@ -17,4 +20,3 @@ show_toc: false
 <e-moji>🔟</e-moji> d**e**z
 
 <e-moji>🟨</e-moji> amar**e**lo
-
