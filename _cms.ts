@@ -71,7 +71,40 @@ app
       tags,
       "draft: checkbox",
       "show_toc: checkbox",
-      "content: markdown",
+      {
+        name: "content",
+        type: "markdown",
+        snippets: [
+          {
+            label: "Resposta",
+            value: "<e-answer>{$}</e-answer>",
+          },
+          {
+            label: "Verificar resposta",
+            value: "<e-validate>Verifica as respostas</e-validate>",
+          },
+          {
+            label: "Etiqueta",
+            value: "<e-tag>{$}</e-tag>",
+          },
+          {
+            label: "Pista",
+            value: "<e-tip>{$}</e-tip>",
+          },
+          {
+            label: "Emoji",
+            value: "<e-moji>{$}</e-moji>",
+          },
+          {
+            label: "Imaxe cadrada",
+            value: "{.is-square}",
+          },
+          {
+            label: "Imaxe horizontal",
+            value: "{.is-horizontal}",
+          }
+        ],
+      }
     ],
   })
   .collection("paxinas", "src:pages", [
