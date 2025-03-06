@@ -47,7 +47,7 @@ os homens **e** as mulheres > [i]
 
 #### 2. O *e* átono no início da palavra, seguido de consoante:
 
-**a) E + consoante + vogal**
+**a) E + consoante**
 
 Exemplos:
 
