@@ -20,7 +20,7 @@ Em sílaba tónica, o *e* ou é aberto ou é fechado:
 
 ### e fechado [e]
 
-- <e-moji>3️</e-moji> tr**ê**s >[ˈtreʃ]
+- <e-moji>3️⃣</e-moji> tr**ê**s >[ˈtreʃ]
 - <e-moji>🦋</e-moji> borbol**e**ta >[burbuˈletɐ]
 - <e-moji>🍑</e-moji> p**ê**ssego > [ˈpesəɡu]
 - <e-moji>👸</e-moji> princ**e**sa > [prĩˈsezɐ]
