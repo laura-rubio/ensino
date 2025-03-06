@@ -15,12 +15,18 @@ show_toc: false
 
 <e-moji>👨‍⚕️</e-moji> m**é**dico
 
-<e-moji>🔨</e-moji> mart**e**lo
-
 <e-moji>🪟</e-moji> jan**e**la
+
+## Série 2
+
+<e-moji>🚇</e-moji> m**e**tro (Portugal) - metrô (Brasil)
+
+<e-moji>🟨</e-moji> amar**e**lo
 
 <e-moji>👩</e-moji> mulh**e**r
 
 <e-moji>🔟</e-moji> d**e**z
 
-<e-moji>🟨</e-moji> amar**e**lo
+<e-moji>🔨</e-moji> mart**e**lo
+
+

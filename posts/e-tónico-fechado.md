@@ -5,6 +5,8 @@ tags:
 draft: false
 show_toc: false
 ---
+## Série 1
+
 <e-moji>😨</e-moji> m**e**do
 
 <e-moji>🖊️</e-moji> can**e**ta
@@ -15,8 +17,10 @@ show_toc: false
 
 <e-moji>📽️</e-moji> cin**e**ma
 
-<e-moji>🦺</e-moji> col**e**te
+## Série 2
 
 <e-moji>🧊</e-moji> g**e**lo
+
+<e-moji>🦺</e-moji> col**e**te
 
 <e-moji>🧶</e-moji> nov**e**lo

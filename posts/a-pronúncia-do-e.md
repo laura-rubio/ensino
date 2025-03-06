@@ -47,7 +47,7 @@ os homens **e** as mulheres > [i]
 
 #### 2. O *e* átono no início da palavra, seguido de consoante:
 
-**a) E + consoante**
+**a) E + consoante + vogal**
 
 Exemplos:
 
@@ -60,6 +60,10 @@ Exemplos:
 - <e-moji>🤸</e-moji> **e**xercício > [izərˈsisju]
 
 - <e-moji>🛗</e-moji> **e**levador > [iləvɐˈdor]
+
+**Pode ser precedido de h-**
+
+- <e-moji>🦸</e-moji> h**e**rói > [ˈrɔj]
 
 **b) ES-**
 
