@@ -63,7 +63,7 @@ Exemplos:
 
 **Pode ser precedido de h-**
 
-- <e-moji>🦸</e-moji> h**e**rói > [ˈrɔj]
+- <e-moji>🦸</e-moji> h**e**rói > [iˈrɔj]
 
 **b) ES-**
 
