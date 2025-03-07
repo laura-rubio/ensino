@@ -17,12 +17,7 @@ As palabras homónimas perfectas son as que se escriben e se pronuncian igual.
 * **manga** > Banda deseñada de orixe xaponesa.
 
 <audio src="https://ilg.usc.es/pronuncia/mp3/m/574.mp3" controls></audio>
-- - -
 
-* **metro** > Unidade de medida.
-* **metro** > Medio de transporte.
-
-<mark>As dúas pronúncianse con *e* aberto</mark> > <audio src="https://ilg.usc.es/pronuncia/mp3/m/1936.mp3" controls></audio>
 
 - - -
 
@@ -50,6 +45,13 @@ As palabras homónimas perfectas son as que se escriben e se pronuncian igual.
 * **pena** > 1. Castigo 2. Tristeza.
 
   <mark>As dúas pronúncianse con *e* fechado</mark> > <audio src="https://ilg.usc.es/pronuncia/mp3/p/1543.mp3" controls> </audio>
+
+- - -
+
+* **metro** > Unidade de medida.
+* **metro** > Medio de transporte.
+
+<mark>As dúas pronúncianse con *e* aberto</mark> > <audio src="https://ilg.usc.es/pronuncia/mp3/m/1936.mp3" controls></audio>
 
 - - -
 
