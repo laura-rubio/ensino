@@ -5,6 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
+
 ## Série 1
 
 <e-moji>📒</e-moji> cad**e**rno
@@ -19,7 +20,7 @@ show_toc: false
 
 ## Série 2
 
-<e-moji>🚇</e-moji> m**e**tro (Portugal) - metrô (Brasil)
+<e-moji>🚇</e-moji> m**e**tro (Portugal e Galiza) - metrô (Brasil)
 
 <e-moji>🟨</e-moji> amar**e**lo
 
@@ -28,5 +29,3 @@ show_toc: false
 <e-moji>🔟</e-moji> d**e**z
 
 <e-moji>🔨</e-moji> mart**e**lo
-
-

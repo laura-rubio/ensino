@@ -16,6 +16,14 @@ As palabras homónimas perfectas son as que se escriben e se pronuncian igual.
 * **manga** > Parte dunha peza de roupa que cobre o brazo.
 * **manga** > Banda deseñada de orixe xaponesa.
 
+<audio src="https://ilg.usc.es/pronuncia/mp3/m/574.mp3" controls></audio>
+- - -
+
+* **metro** > Unidade de medida.
+* **metro** > Medio de transporte.
+
+<mark>As dúas pronúncianse con *e* aberto</mark> > <audio src="https://ilg.usc.es/pronuncia/mp3/m/1936.mp3" controls></audio>
+
 - - -
 
 * **cedo** > 1. Ao comezo do día. 2. Antes de tempo.
@@ -28,6 +36,7 @@ As palabras homónimas perfectas son as que se escriben e se pronuncian igual.
 * **ano** > Período de 365 días.
 * **ano** > Orificio localizado na parte final do recto.
 
+<audio src="https://ilg.usc.es/pronuncia/mp3/a/3583.mp3" controls></audio>
 - - -
 
 * **leve** > Que ten pouco peso.
