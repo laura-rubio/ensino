@@ -12,19 +12,19 @@ Em sílaba tónica, o *e* ou é aberto ou é fechado:
 
 ### e aberto [ε]
 
-- <e-moji>🧢</e-moji> bon**é** > [bɔˈnɛ]
-- <e-moji>🦶</e-moji> p**é** > [ˈpɛ]
-- <e-moji>🌍</e-moji> t**e**rra > [ˈtɛʀɐ]
-- <e-moji>💍💍</e-moji> an**é**is > [ɐˈnɛjʃ]
-- <e-moji>🏆</e-moji> trof**é**u > [truˈfɛw]
+- <e-moji>🧢</e-moji> bon**é** > [bɔˈn**ɛ**]
+- <e-moji>🦶</e-moji> p**é** > [ˈp**ɛ**]
+- <e-moji>🌍</e-moji> t**e**rra > [ˈt**ɛ**ʀɐ]
+- <e-moji>💍💍</e-moji> an**é**is > [ɐˈn**ɛ**jʃ]
+- <e-moji>🏆</e-moji> trof**é**u > [truˈf**ɛ**w]
 
 ### e fechado [e]
 
-- <e-moji>3️⃣</e-moji> tr**ê**s >[ˈtreʃ]
-- <e-moji>🦋</e-moji> borbol**e**ta >[burbuˈletɐ]
-- <e-moji>🍑</e-moji> p**ê**ssego > [ˈpesəɡu]
-- <e-moji>👸</e-moji> princ**e**sa > [prĩˈsezɐ]
-- <e-moji>☝️</e-moji> d**e**do > [ˈdedu]
+- <e-moji>3️⃣</e-moji> tr**ê**s >[ˈtr**e**ʃ]
+- <e-moji>🦋</e-moji> borbol**e**ta >[burbuˈl**e**tɐ]
+- <e-moji>🍑</e-moji> p**ê**ssego > [ˈp**e**səɡu]
+- <e-moji>👸</e-moji> princ**e**sa > [prĩˈs**e**zɐ]
+- <e-moji>☝️</e-moji> d**e**do > [ˈd**e**du]
 
 <article>Repara!
 
@@ -43,7 +43,7 @@ Em sílaba átona, normalmente o *e* é pronunciado [i] ou emudece:
 
 Exemplo: 
 
-os homens **e** as mulheres > [i]
+os homens **e** as mulheres > [**i**]
 
 #### 2. O *e* átono no início da palavra, seguido de consoante:
 
@@ -51,19 +51,19 @@ os homens **e** as mulheres > [i]
 
 Exemplos:
 
-- <e-moji>🏢</e-moji> **e**difício > [idiˈfisju]
+- <e-moji>🏢</e-moji> **e**difício > [**i**diˈfisju]
 
-- <e-moji>🐘</e-moji> **e**lefante > [iləˈfɐ̃t(ə)]
+- <e-moji>🐘</e-moji> **e**lefante > [**i**ləˈfɐ̃t(ə)]
 
-- <e-moji>🚃</e-moji> **e**létrico > [iˈlɛtriku]
+- <e-moji>🚃</e-moji> **e**létrico > [**i**ˈlɛtriku]
 
-- <e-moji>🤸</e-moji> **e**xercício > [izərˈsisju]
+- <e-moji>🤸</e-moji> **e**xercício > [**i**zərˈsisju]
 
-- <e-moji>🛗</e-moji> **e**levador > [iləvɐˈdor]
+- <e-moji>🛗</e-moji> **e**levador > [**i**ləvɐˈdor]
 
 **Pode ser precedido de h-**
 
-- <e-moji>🦸</e-moji> h**e**rói > [iˈrɔj]
+- <e-moji>🦸</e-moji> h**e**rói > [**i**ˈrɔj]
 
 **b) ES-**
 
@@ -82,8 +82,8 @@ Também é pronunciado como [i] o *e* átono no meio da palavra, e seguido de *a
 
 Exemplos:
 
-- <e-moji>🦁</e-moji> l**e**ão > [ljˈɐ̃w̃]
-- <e-moji>🤢</e-moji> náus**e**a > [ˈnawzjɐ]
-- <e-moji>😲</e-moji> surpr**e**endido > [surprjẽˈdidu]
-- <e-moji>🛢️</e-moji> petról**e**o > [pəˈtrɔlju]
-- <e-moji>👯‍♂️</e-moji> gém**e**os > [ˈʒɛmjuʃ]
+- <e-moji>🦁</e-moji> l**e**ão > [l**j**ˈɐ̃w̃]
+- <e-moji>🤢</e-moji> náus**e**a > [ˈnawz**j**ɐ]
+- <e-moji>😲</e-moji> surpr**e**endido > [surpr**j**ẽˈdidu]
+- <e-moji>🛢️</e-moji> petról**e**o > [pəˈtrɔl**j**u]
+- <e-moji>👯‍♂️</e-moji> gém**e**os > [ˈʒɛm**j**uʃ]
