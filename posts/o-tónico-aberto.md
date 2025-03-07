@@ -34,7 +34,7 @@ show_toc: false
 
 <e-moji>🛞</e-moji> r**o**da
 
-<e-moji>⌚</e-moji> relógio
+<e-moji>⌚</e-moji> rel**ó**gio
 
 <e-moji>🥛</e-moji> c**o**po
 
