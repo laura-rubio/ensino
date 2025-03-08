@@ -44,3 +44,5 @@ show_toc: false
 <e-moji>🚁</e-moji> o helicóptero
 
 <e-moji>🚀</e-moji> o foguetão
+
+<e-moji>🛸</e-moji> o óvni ou o disco voador
