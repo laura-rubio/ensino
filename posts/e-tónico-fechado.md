@@ -14,7 +14,7 @@ summary: 'e fechado > [e]'
 
 <e-moji>◼️</e-moji> pr**e**to > [ˈpr**e**tu]
 
-<e-moji>🦰</e-moji> cab**e**lo > [kɐˈb**e**lu]
+<e-moji>💇‍♀️</e-moji> cab**e**lo > [kɐˈb**e**lu]
 
 <e-moji>🧼</e-moji> sabon**e**te > [sɐbuˈn**e**t(ə)]
 
