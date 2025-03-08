@@ -55,7 +55,7 @@ Exemplos:
 
 - <e-moji>🐘</e-moji> **e**lefante > [**i**ləˈfɐ̃t(ə)]
 
-- <e-moji>🚃</e-moji> **e**létrico > [**i**ˈlɛtriku]
+- <e-moji>🚋</e-moji> **e**létrico > [**i**ˈlɛtriku]
 
 - <e-moji>🤸</e-moji> **e**xercício > [**i**zərˈsisju]
 

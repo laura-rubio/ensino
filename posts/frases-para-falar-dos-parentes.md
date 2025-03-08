@@ -16,7 +16,7 @@ show_toc: false
 </e-card>
 
 <e-card color="3">
-  <div>Unha nai coida de cen fillos, cen fillos non coidan dunha nai.</div>
+  <div>Unha nai coida de cen fillos, cen fillos non coidan dunha nai</div>
   <div>As nais coidan moito mellor dos fillos do que os fillos coidan delas</div>
 </e-card>
 
