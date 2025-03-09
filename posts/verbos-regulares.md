@@ -1,7 +1,7 @@
 ---
 title: Verbos regulares
 tags:
-  - Verbos
+  - Os verbos
 draft: false
 show_toc: false
 ---
