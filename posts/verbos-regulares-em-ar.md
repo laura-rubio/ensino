@@ -21,7 +21,7 @@ summary: Presente do indicativo
  
 ## Série 1
 
-Conjuga os seguintes verbos:
+Conjuga os verbos:
 
 Presente do indicativo de [morar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#622:morar/1)
 
@@ -35,7 +35,7 @@ Presente do indicativo do verbo [lavar](https://www.verbos-portugueses.info/pt/p
 
 ## Série 2
 
-Conjuga os seguintes verbos:
+Conjuga os verbos:
 
 Presente do indicativo do verbo [apanhar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#635:apanhar/1)
 
@@ -75,4 +75,3 @@ Presente do indicativo do verbo [ganhar](https://www.verbos-portugueses.info/pt/
 
 Presente do indicativo do verbo [tocar
 ](https://www.verbos-portugueses.info/pt/praticar/tempos.html#202:tocar/1)
-
