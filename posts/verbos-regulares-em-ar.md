@@ -80,8 +80,7 @@ Conjuga os verbos:
 
 4. Presente do indicativo do verbo [ganhar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#278:ganhar/1)
 
-5. Presente do indicativo do verbo [tocar
-](https://www.verbos-portugueses.info/pt/praticar/tempos.html#202:tocar/1)
+5. Presente do indicativo do verbo [praticar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#333:praticar/1)
 
 ### Série 5
 
@@ -93,6 +92,6 @@ Conjuga os verbos:
 
 3. Presente do indicativo do verbo [usar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#179:usar/1)
 
-4. Presente do indicativo do verbo [praticar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#333:praticar/1)
+4. Presente do indicativo do verbo [tocar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#202:tocar/1)
 
 5. Presente do indicativo do verbo [cozinhar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#221:cozinhar/1)
