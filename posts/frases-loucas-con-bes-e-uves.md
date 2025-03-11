@@ -14,7 +14,7 @@ Un bo truco para teres menos erros de bes e uves é inventares frases coas palab
 
 👉 Canto máis extravagante for a frase, máis fácil será de memorizar!
 
-![Image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTV2MGhtZWEwbzhnaXJ6cmswODV6NjZmbGw2MHhoc2JpdHY5dDF6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qw4X3FDRolaUzXnPLNK/giphy.gif)
+![Image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZyZGszMG9tbGo3b2h2d2Zya3RuMWtrbjZ3aWc2dzV1bjB6dmZxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XB43a39jYFT6JxjVtR/giphy.gif)
 
 ### Exemplos
 
