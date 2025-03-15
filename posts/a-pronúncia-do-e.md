@@ -4,7 +4,7 @@ tags:
   - A pronúncia de...
 draft: false
 show_toc: false
-summary: (em português)
+summary: (em português europeu)
 ---
 ## O *e* tónico
 

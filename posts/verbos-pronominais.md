@@ -31,7 +31,7 @@ A conjugação destes verbos não é complicada, só presta atenção a estes do
 - chamádesvos
 - chámanse
 
-   Em português, o pronome vai separado por um hífen do verbo 👇
+   Em português, o pronome coloca-se depois do verbo separado por um hífen 👇
 - chamo<mark>-</mark>me
 - chamas<mark>-</mark>te
 - chama<mark>-</mark>se
