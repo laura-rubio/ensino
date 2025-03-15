@@ -6,6 +6,8 @@ tags:
 draft: true
 show_toc: false
 ---
+Os verbos pronominais são aqueles conjugados em conjunto com um pronome. As formas do pronome que tens de acrescentar ao verbo são: *me, te, se, nos, vos* ou *se.* 
+
 <article>
   
   Presente do indicativo do verbo *chamar-se* 
@@ -18,11 +20,33 @@ show_toc: false
 
 </article>
 
-## Conjugação de um verbo regular no presente do indicativo
+A conjugação destes verbos não é complicada, só presta atenção a estes dois pormenores:
 
-Conjugar um verbo regular é facílimo, só tens de:
-1. Eliminar a terminação *-ar* e ficar com a raiz > Ex.: *and-*
-2. Acrescestar à raiz as terminações a negrito das diferentes pessoas. > Ex.: *and-amos*
+1) Em galego, o pronome vai colado ao verbo 👇  
+
+- chámome
+- chámaste
+- chámase
+- chamámonos
+- chamádesvos
+- chámanse
+
+   Em português, o pronome vai separado por um hífen do verbo 👇
+- chamo<mark>-</mark>me
+- chamas<mark>-</mark>te
+- chama<mark>-</mark>se
+- chamamo<mark>-</mark>nos
+- chamais<mark>-</mark>vos
+- chamam<mark>-</mark>se
+
+2. A P4, a 2ª persoa do plural (*chamamos),* perde o *-s* final, quando seguida do pronome *nos.*
+
+   Não é ~~chamamos-nos~~ 👎, é chamam<mark>o-nos</mark> 👍
+
+   Isto é igual em galego: 
+
+   ~~Chamámosnos~~ 👎 está errado, o correto é
+   chamám<mark>onos</mark> 👍
 
 ## Um pouco de prática!
  
@@ -34,38 +58,38 @@ Conjuga os verbos:
    
 2. Presente do indicativo do verbo [deitar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#1611:deitar-se/1)
 
-3. Presente do indicativo do verbo [divertir-se
-](https://www.verbos-portugueses.info/pt/praticar/tempos.html#440:divertir-se/1)
+3. Presente do indicativo do verbo [lembrar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#1402:lembrar-se/1)
 
-4. Presente do indicativo do verbo [lembrar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#1402:lembrar-se/1)
+4. Presente do indicativo do verbo [calar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#851:calar-se/1)
 
-5. Presente do indicativo do verbo [calar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#851:calar-se/1)
+5. Presente do indicativo do verbo [assustar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#851:calar-se/1)
+
 
 ### Série 2
 
 Conjuga os verbos:
 
-1. Presente do indicativo do verbo [assustar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#851:calar-se/1)
+1. Presente do indicativo do verbo [comportar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#1815:comportar-se/1)
 
-2. Presente do indicativo do verbo [comportar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#1815:comportar-se/1)
+2. Presente do indicativo do verbo [esquecer-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#1712:esquecer-se/1) 
 
-3. Presente do indicativo do verbo [esquecer-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#1712:esquecer-se/1) 
+3. Presente do indicativo do verbo [levantar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#362:levantar-se/1)
 
-4. Presente do indicativo do verbo [levantar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#362:levantar-se/1)
+4. Presente do indicativo do verbo [alegrar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#816:alegrar-se/1)
 
-5. Presente do indicativo do verbo [vestir-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#994:vestir-se/1)
+5. Presente do indicativo do verbo [esconder-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#787:esconder-se/1)
+
 
 ### Série 3
 
 Conjuga os verbos:
 
-1. Presente do indicativo do verbo [alegrar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#816:alegrar-se/1)
+1. Presente do indicativo do verbo [equivocar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#1841:equivocar-se/1)
 
-2. Presente do indicativo do verbo [esconder-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#787:esconder-se/1)
+2. Presente do indicativo do verbo [desculpar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#1507:desculpar-se/1)
 
-3. Presente do indicativo do verbo [equivocar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#1841:equivocar-se/1)
+3. Presente do indicativo do verbo [preocupar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#832:preocupar-se/1)
 
-4. Presente do indicativo do verbo [preocupar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#832:preocupar-se/1)
+4. Presente do indicativo do verbo [relaxar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#823:relaxar-se/1)
 
-5. Presente do indicativo do verbo [relaxar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#823:relaxar-se/1)
-
+5. Presente do indicativo do verbo [zangar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#1832:zangar-se/1)
