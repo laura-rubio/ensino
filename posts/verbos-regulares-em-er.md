@@ -8,7 +8,7 @@ show_toc: false
 ---
 <article>
   
-  Presente do indicativo do verbo *andar* 
+  Presente do indicativo do verbo *varrer* 
 - eu varr**o**
 - tu varr**es**
 - ele, ela, você varr**e**
@@ -122,5 +122,4 @@ Conjuga os verbos:
 
 4. Presente do indicativo do verbo [encher](https://www.verbos-portugueses.info/pt/praticar/tempos.html#505:encher/1)
 
-5. Presente do indicativo do verbo [sofrer](https://www.verbos-portugueses.info/pt/praticar/tempos.html#453:sofrer/1) 
-
+5. Presente do indicativo do verbo [sofrer](https://www.verbos-portugueses.info/pt/praticar/tempos.html#453:sofrer/1)
