@@ -17,9 +17,11 @@ show_toc: false
 
 <e-moji>🏍️</e-moji> a mota
 
-<e-moji>🛴</e-moji> a trotinete
+<e-moji>🛴</e-moji> a trotinete (Portugal) - o/a patinete (Brasil)
 
 <e-moji>🛹</e-moji> o skate
+
+<e-moji>🛼</e-moji> os patins
 
 <e-moji>🚲</e-moji> a bicicleta
 
