@@ -62,7 +62,7 @@ Conjuga os verbos:
 
 4. Presente do indicativo do verbo [calar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#851:calar-se/1)
 
-5. Presente do indicativo do verbo [assustar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#851:calar-se/1)
+5. Presente do indicativo do verbo [assustar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#1043:assustar-se/1)
 
 
 ### Série 2
