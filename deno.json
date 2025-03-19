@@ -9,7 +9,7 @@
     "build": "deno task lume",
     "serve": "deno task lume -s",
     "cms": "deno task lume cms",
-    "cms:prod": "deno serve -Ar https://cdn.jsdelivr.net/gh/lumeland/lume-cms-adapter@latest/mod.ts --show-terminal"
+    "cms:prod": "deno serve -Ar https://deno.land/x/lume_cms_adapter/mod.ts --show-terminal"
   },
   "compilerOptions": {
     "types": [
