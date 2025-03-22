@@ -8,7 +8,7 @@ show_toc: false
 ---
 En galego é complicado sabermos cando unha palabra se escribe con *b* e cando con *v,* porque a pronunciamos sempre da mesma maneira.
 
-Non lles sucede así aos falantes doutras linguas románicas como portugueses, franceses ou italianos. Mais non é porque eles sexan máis espelidos ca nós, <e-moji>🙅‍♀️</e-moji>.
+Non lles sucede así aos falantes doutras linguas románicas como portugueses, franceses ou italianos. Mais non é porque eles sexan máis espelidos ca nós, 🙅‍♀️.
 
 Para eles é moito máis fácil, dado que pronuncian de modo diferente o *b* e o *v.* De acordo con isto:
 
