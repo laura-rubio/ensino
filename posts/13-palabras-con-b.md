@@ -1,8 +1,8 @@
 ---
-title: 10 palabras con b
+title: 13 palabras con b
 tags:
   - problemas_be_uve
-draft: true
+draft: false
 show_toc: false
 ---
 Olla a imaxe e, a continuación, escribe o nome. Todos eles teñen B. 
@@ -20,7 +20,6 @@ Non te preocupes polas maiúsculas, mais si polos acentos. Algunhas destas palab
 - <e-moji> 🧼 </e-moji>  <e-answer>xabón</e-answer>
 - <e-moji> ☃️ </e-moji>  <e-answer>boneco</e-answer>
 - <e-moji> 🦋 </e-moji>  <e-answer>bolboreta</e-answer>
-- <e-moji> 🎫 </e-moji>  <e-answer>billete</e-answer>
 - <e-moji> 👢 </e-moji>  <e-answer>bota</e-answer> 
 - <e-moji> 🇧🇷  </e-moji>  <e-answer>bandeira</e-answer>
 
