@@ -6,26 +6,20 @@ tags:
 draft: false
 show_toc: false
 ---
-En galego é complicado sabermos cando unha palabra se escribe con *b* e
-cando con *v,* porque a pronunciamos sempre da mesma maneira.
+En galego é complicado sabermos cando unha palabra se escribe con *b* e cando con *v,* porque a pronunciamos sempre da mesma maneira.
 
-Non lles sucede así aos falantes doutras linguas románicas como portugueses,
-franceses ou italianos. Mais non é porque eles sexan máis espelidos ca nós,
-🙅‍♀️.
+Non lles sucede así aos falantes doutras linguas románicas como portugueses, franceses ou italianos. Mais non é porque eles sexan máis espelidos ca nós, <e-moji>🙅‍♀️</e-moji>.
 
-Para eles é moito máis fácil, dado que pronuncian de modo diferente o *b* e o
-*v.* De acordo con isto:
+Para eles é moito máis fácil, dado que pronuncian de modo diferente o *b* e o *v.* De acordo con isto:
 
-* Escriben *b* cando pronuncian o mesmo son ca nós, e que nós escribimos unhas
-  veces con *b* e outras con *v.*
+* Escriben *b* cando pronuncian o mesmo son ca nós, e que nós escribimos unhas veces con *b* e outras con *v.*
 * Escriben *v* cando pronuncian un son parecido ao do *f,* mais sonoro.
 
 Queres saber por que acontece isto? Atento ao vídeo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8O_K3bGuLsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Como podes ver, acertarmos se unha palabra leva *b* ou *v* non é tan simple e
-require un certo adestramento pola nosa parte.
+Como podes ver, acertarmos se unha palabra leva *b* ou *v* non é tan simple e require un certo adestramento pola nosa parte.
 
 ## Recursos
 
@@ -34,10 +28,6 @@ Aínda ben que na rede hai moitos sitios con consellos e actividades para mellor
 Primeiro comeza por veres este vídeo do #DígochoEu:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/neJadbc70Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-E despois podes continuar o teu adestramento no site: [Ortografía: O uso do b e do v](http://cotovia.org/proxecto/ort/ort_ud3_01.html?orix=ort&tema=ort_ud3_01.html)
-
-[](https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1326967726/contido/ortografia/ortografia/o_uso_do_bv.html)
 
 - - -
 
@@ -103,3 +93,9 @@ Sabías que hai un canción moi coñecida en que se brinca coas semellanzas fon�
 Desde hai pouco podemos gozar tamén [destoutra versión da canción](https://www.tiktok.com/@digochoeu/video/6932072589334564102?is_copy_url=1&is_from_webapp=v3) realizada por Esther Estévez e mais as [Tanxugueiras](https://tanxugueiras.com/) para o TikTok.
 
 En Bueu teñen moi claro como hai que ir, mais como irías ti. Sabes o que é un *bou* con *b?*
+
+### Práctica extra
+
+Continúa practicando no site: [Ortografía: O uso do b e do v](http://cotovia.org/proxecto/ort/ort_ud3_01.html?orix=ort&tema=ort_ud3_01.html)
+
+[](https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1326967726/contido/ortografia/ortografia/o_uso_do_bv.html)
