@@ -101,7 +101,8 @@ Desde hai pouco podemos gozar tamén [destoutra versión da canción](https://ww
 
 En Bueu teñen moi claro como hai que ir, mais como irías ti. Sabes o que é un *bou* con *b?*
 
-Ao acabares, podes continuar o teu adestramento no site: [Ortografía: O uso do b e do v](http://cotovia.org/proxecto/ort/ort_ud3_01.html?orix=ort&tema=ort_ud3_01.html)
+## Continúas a ter moitos erros de bes e uves?
+
+Entón practica no site: [Ortografía: O uso do b e do v](http://cotovia.org/proxecto/ort/ort_ud3_01.html?orix=ort&tema=ort_ud3_01.html)
 
 [](https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1326967726/contido/ortografia/ortografia/o_uso_do_bv.html)
-
