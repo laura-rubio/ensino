@@ -2,11 +2,11 @@
 title: O prefixo bi- é con b
 tags:
   - problemas_be_uve
-draft: true
+draft: false
 show_toc: false
 ---
 <article>
-O prefixo BI- significa "dous"
+O prefixo BI- significa "dous ou dúas"
 
 Este prefixo é sempre con *b.*
 </article>
@@ -33,9 +33,13 @@ O molusco que ten unha cuncha con dúas valvas é un <e-answer readonly>bivalvo<
 
 Usa as palabras do exercicio anterior para completar as seguintes oracións: 
 
-1. Brazo é unha palabra <e-answer>bisílaba</e-answer>
+1. A bandeira suíza é <e-answer>bicolor</e-answer>: vermella e branca.
 2. O ciclista caeu da <e-answer>bicicleta</e-answer> un quilómetro antes de meta.
-3. Non é homosexual, namorou con homes e mulleres, por tanto, é <e-answer>bisexual</e-answer>
-4. Todos os bisnetos estamos a preparar unha sorpresa para a festa de aniversario do noso <e-answer>bisavó</e-answer>
+3. O actor explicou que é <e-answer>bisexual</e-answer> e tivo relacións con homes e con mulleres.
+4. Os bisnetos están a preparar unha festa sorpresa para o aniversario do <e-answer>bisavó</e-answer>.
+5. Brazo é unha palabra <e-answer>bisílaba</e-answer>.
+6. Queren unha persoa <e-answer>bilingüe</e-answer>, que fale francés e alemán.
+7. O equipo tornouse <e-answer>bicampión</e-answer> despois de gañar este ano o campionato por segundo ano consecutivo.
+8. A avestruz é o animal <e-answer>bípede</e-answer> máis rápido do planeta.
 
 <e-validate>Verifica as respostas</e-validate>
