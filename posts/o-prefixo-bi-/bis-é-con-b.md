@@ -1,12 +1,12 @@
 ---
-title: O prefixo bi- é con b
+title: O prefixo bi-/bis- é con b
 tags:
   - problemas_be_uve
 draft: false
 show_toc: false
 ---
 <article>
-O prefixo BI- significa "dous ou dúas"
+O prefixo BI-/BIS- significa "dous ou dúas"
 
 Este prefixo é sempre con *b.*
 </article>

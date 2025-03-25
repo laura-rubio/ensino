@@ -21,6 +21,6 @@ Non te preocupes polas maiúsculas, mais si polos acentos. Algunhas destas palab
 - <e-moji> ☃️ </e-moji>  <e-answer>boneco</e-answer>
 - <e-moji> 🦋 </e-moji>  <e-answer>bolboreta</e-answer>
 - <e-moji> 👢 </e-moji>  <e-answer>bota</e-answer> 
-- <e-moji> 🇧🇷  </e-moji>  <e-answer>bandeira</e-answer>
+- <e-moji> 🏳️ </e-moji>  <e-answer>bandeira</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
