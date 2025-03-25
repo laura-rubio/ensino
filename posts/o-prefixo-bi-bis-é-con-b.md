@@ -13,7 +13,7 @@ Este prefixo é sempre con *b.*
 
 ## Exercicio 1
 
-Le as definicións e completa coa palabra con *bi-* que falta:
+Le as definicións e completa cunha palabra co prefixo *bi-* ou *bis-*:
 
 Exemplo:
 O molusco que ten unha cuncha con dúas valvas é un <e-answer readonly>bivalvo</e-answer>
