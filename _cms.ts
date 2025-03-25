@@ -63,7 +63,7 @@ app
   .collection({
     name: "posts",
     store: "src:posts/*.md",
-    nameField: "title",
+    documentName: "{title}.md",
     fields: [
       "title: text",
       "summary: textarea",
