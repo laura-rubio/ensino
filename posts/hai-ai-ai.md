@@ -30,4 +30,4 @@ Completa as oracións con _hai_, _aí_ ou _ai:_
 11. <e-answer>Ai</e-answer>, ten coidado! Case me pisas un pé!
 12. <e-answer>Hai</e-answer> leite no frigorífico.
 
-<e-validate>Corrixe as respostas</evalidate>
+<e-validate>Verifica as respostas</evalidate>
