@@ -1,5 +1,5 @@
 ---
-title: 13 palabras con b
+title: 15 palabras con b
 tags:
   - problemas_be_uve
 draft: false
@@ -22,5 +22,7 @@ Non te preocupes polas maiúsculas, mais si polos acentos. Algunhas destas palab
 - <e-moji> 🦋 </e-moji>  <e-answer>bolboreta</e-answer>
 - <e-moji> 👢 </e-moji>  <e-answer>bota</e-answer> 
 - <e-moji> 🏳️ </e-moji>  <e-answer>bandeira</e-answer>
+- <e-moji> 🐝 </e-moji>  <e-answer>abella</e-answer>
+- <e-moji> ⚖️ </e-moji>  <e-answer>balanza</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
