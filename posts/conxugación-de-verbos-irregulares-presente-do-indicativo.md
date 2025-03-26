@@ -199,7 +199,7 @@ Conxuga no presente do indicativo os seguintes verbos:
 
 ## Vir
 - Eu <e-answer>veño</e-answer>
-- Ti <e-answer>ves</e-answer>
+- Ti <e-answer>vés</e-answer>
 - El, ele, vostede <e-answer>vén</e-answer>
 - Nós <e-answer>vimos</e-answer>
 - Vós <e-answer readonly>vindes</e-answer> ou <e-answer>vides</e-answer>
