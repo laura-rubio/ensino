@@ -2,17 +2,30 @@
 title: Olhares
 tags:
   - portugues
-draft: true
+  - lexico
+draft: false
 show_toc: false
 ---
-Arregalar os olhos
+#### Fitar
 
-![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Qwb3BteGd0dWU1MGVlankyc2diNHlxMXBlano0djh2amtpenZ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LJPfWhMCs9Rks/giphy.gif)
+![Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNpc2RyeHIyYm5mcnc3Nmp0NjFnNHI5ZnVwMHYzenU5dGpjeDJ0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MO63iA3hL0hAFHoxsj/giphy.gif)
 
-![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczIxbW0wMDU4OG0zdXdwdzVzZWVhb2tueTZ6cm51YXljOTdmemFhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xfQk67w5fRRx6/giphy.gif)
+#### Pestanexar (gl) ~ Pestanejar (pt)
 
-Fitar
+![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjN2bHNtYnM1YnNiNWlibnNjcjNzZGswdmplMHFhZ29lbjV5MW94cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S8qvDfOIdDQQjnOsZs/giphy.gif)
 
-![Image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFvNWpnam9iMWR3aGl6Z3IyOHU3b3lidWI5cG1mY29jcnI0eTkxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/enpHHmG3vgZ0ovzOlF/giphy.gif)
+#### Albiscar ~ enxergar (gl) ~ Enxergar (pt)
 
-![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlkb2JtZnF6bDJvOTkzOHo1Znl4a2Ywd3lzZHY1empsb3hqNGxzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0rcau2TlTlMAzGeRVa/giphy.gif)
+![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Y5eHVkbm03azlneG80amdmbG5rNGRjM3A0bHAyZTkzemduaDM5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XgGb7ehCnLUkbt5ibY/giphy.gif)
+
+#### Ollar de esguello (gl) ~ Olhar de esguelha/lado (pt)
+
+![Image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5jaGZrMWUyY3dyZjlpbGRoYjYzNWk2Z3RoNm5janhoZjJidGJubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EE76uxIjgB3pnDU9by/giphy.gif)
+
+#### Chiscar/choscar o ollo (gl) ~ Piscar o olho (pt)
+
+![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2puOHhpYmozNnRtaW11OXpqbzhkbm03aDFieDkwMHAxcGhkMjF4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BI3bNv1NJMC7YzatXd/giphy.gif)
+
+#### Arregalar os ollos (gl) ~ Arregalar os olhos (pt)
+
+![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnM3NDAybWp5N3lkbjFjNXU3aGR5M2RhNjlrOGFheGhuM3Y5eHdyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n4bX4y5Aw9gvu3f65/giphy.gif)
