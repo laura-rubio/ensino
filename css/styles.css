@@ -274,6 +274,15 @@ e-card {
 e-moji {
   font-size: 6rem;
 }
+/* Destacar tachados */
+s {
+  padding: 0 .1em;
+  text-decoration: none;
+  background-image: linear-gradient(red, red);
+  background-size: auto 3px;
+  background-repeat: repeat-x;
+  background-position: center 60%;
+}
 
 /* Helpers */
 img.is-square {
