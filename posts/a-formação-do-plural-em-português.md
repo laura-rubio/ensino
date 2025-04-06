@@ -18,11 +18,11 @@ show_toc: false
 
 ### 1.2 As palavras terminadas no ditongo nasal *-ão*
 
-Partimos do plural em castelhano destas palavras
+Para formar estes plurais, partimos do plural em castelhano destas palavras 👇
 
 *mão > mano*
 
-Feito isto, tiramos o *-n-* e escrevemos no seu lugar um til
+Feito isto, tiramos o *-n-* e escrevemos no seu lugar um til 👇
 
 *manos > maos > mãos*
 
@@ -30,6 +30,17 @@ Feito isto, tiramos o *-n-* e escrevemos no seu lugar um til
 
 - irmão > irmãos
 - alemão > alemães
+
+<article>
+Atenta nisto!
+
+Caso o plural em castelhano tenha -i-, esquece-te dele. Não o necessitas em português: 
+
+- canc~~i~~ones > canções > canções 
+- emoc~~i~~ones > emoçoes > emoções
+
+</article>
+
 
 ## 2. Palavras acabadas em consoante, exceto *-l* e *-m,* acrescentam *-es*
 

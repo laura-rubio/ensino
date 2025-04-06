@@ -19,6 +19,17 @@ Aprende  o plural das palavras acabadas em -ão em dois simples passos:
 * Panes > paes > pães
 * Razones > razoes > razões
 
+<article>
+Atenta nisto!
+
+Caso o plural em castelhano tenha -i-, esquece-te dele. Não o necessitas em português: 
+
+- canc~~i~~ones > canções > canções 
+- emoc~~i~~ones > emoçoes > emoções
+
+</article>
+
+
 É canja! Agora é a tua vez! Passa para o plural as seguintes palavras:
 
 Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal
@@ -26,7 +37,7 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 ## Série 1
 1. limão > <e-answer>limões</e-answer>
 2. alemão > <e-answer>alemães</e-answer>
-3. canção > <e-answer>canções</e-answer>
+3. ação > <e-answer>ações</e-answer>
 4. irmão > <e-answer>irmãos</e-answer>
 5. ladrão > <e-answer>ladrões</e-answer>
 6. calção > <e-answer>calções</e-answer>
