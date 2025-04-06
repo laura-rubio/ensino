@@ -15,6 +15,7 @@ show_toc: false
 - pai > pais
 - irmã > irmãs
 - céu > céus
+- lagoa > lagoas
 
 ### 1.2 As palavras terminadas no ditongo nasal *-ão*
 
