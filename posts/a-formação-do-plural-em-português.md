@@ -35,16 +35,16 @@ Feito isto, tiramos o *-n-* e escrevemos no seu lugar um til
 
 #### Exemplos:
 
-- gás > gases
+- país > países
 - mulher > mulheres
-- vez > vezes
-- líder > líderes
-- português > portugueses
-
-
+- rapaz > rapazes
+- abdómen > abdómenes
+  
 ### Exceções: 
 - o lápis > os lápis
 - o ténis > os ténis
+- o clímax > os clímax
+- o tórax > os tórax
 
 
 ## 3. Palavras acabadas em *-m,* trocam o *-m* por *-ns*
