@@ -67,7 +67,12 @@ show_toc: false
 - <e-moji>🧢</e-moji> boné > <e-answer>bonés</e-answer>
 - <e-moji>🖌️</e-moji> pincel > <e-answer>pincéis</e-answer>
 - <e-moji>🎧</e-moji> auscultador > <e-answer>auscultadores</e-answer>
+- <e-moji>🐉</e-moji> dragão > <e-answer>dragões</e-answer>
+- <e-moji>🌜</e-moji> lua > <e-answer>luas</e-answer>
 - <e-moji>✈️</e-moji> avião > <e-answer>aviões</e-answer>
+- <e-moji>🥜</e-moji> amendoim > <e-answer> amendoins</e-answer>
 - <e-moji>🫁</e-moji> pulmão > <e-answer>pulmões</e-answer>
 - <e-moji>👰</e-moji> véu > <e-answer>véus</e-answer>
 - <e-moji>🌷</e-moji> tulipa > <e-answer>tulipas</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>

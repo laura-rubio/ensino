@@ -52,7 +52,7 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 
 ## Série 2
 
-11. lião > <e-answer>liões</e-answer>
+11. leão > <e-answer>leões</e-answer>
 12. avião > <e-answer>aviões</e-answer>
 13. botão > <e-answer>botões</e-answer>
 14. grão > <e-answer>grãos</e-answer>
