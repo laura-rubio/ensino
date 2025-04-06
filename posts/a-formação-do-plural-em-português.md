@@ -35,7 +35,7 @@ Feito isto, tiramos o *-n-* e escrevemos no seu lugar um til 👇
 <article>
 Atenta nisto!
 
-Apesar de haver um *-i-* no plural em castelhano, muitas vezes não há *-i-* no plural em português. A razão é que não há *-i-* no singular em português (*canção, emoção).* 👇
+Apesar de haver um *-i-* no plural em castelhano, a forma do plural em português não tem *-i-* nestes casos, porque também não há *-i-* no singular (*canç-ão, emoç-ão).* 👇
 
 - canc~~i~~ones > cançoes > canções 
 - emoc~~i~~ones > emoçoes > emoções
