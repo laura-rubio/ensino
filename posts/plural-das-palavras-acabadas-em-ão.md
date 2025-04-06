@@ -22,10 +22,17 @@ Aprende  o plural das palavras acabadas em -ão em dois simples passos:
 <article>
 Atenta nisto!
 
-Caso o plural em castelhano tenha -i-, esquece-te dele. Não o necessitas em português: 
+Caso o plural em castelhano tenha *-i-,* esquece-te dele nestes casos:
 
-- canc~~i~~ones > canções > canções 
+- canc~~i~~ones > cançoes > canções 
 - emoc~~i~~ones > emoçoes > emoções
+
+Porque as formas em singular não têm *-i-* em português *(canção* e *emoção)*
+
+Para haver um *-i-* no plural, tem de haver um *i* no singular (*religião):* 
+
+- religiones > religioes > religiões
+
 
 </article>
 
