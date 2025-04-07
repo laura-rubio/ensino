@@ -19,11 +19,11 @@ show_toc: false
 
 ### 1.2 As palavras terminadas no ditongo nasal *-ão*
 
-Neste caso, partimos do plural destas palavras em castelhano 👇
+Neste caso, partimos do plural das palavras em castelhano 👇
 
 *mão > mano*
 
-Feito isto, tiramos o *-n-* e escrevemos no seu lugar um til 👇
+Feito isto, tiramos o *-n-* e escrevemos no seu lugar um til sobre a vogal anterior 👇
 
 *manos > maos > mãos*
 
@@ -35,14 +35,16 @@ Feito isto, tiramos o *-n-* e escrevemos no seu lugar um til 👇
 <article>
 Atenta nisto!
 
-Apesar de haver um *-i-* no plural em castelhano, a forma do plural em português não tem *-i-* nestes casos, porque também não há *-i-* no singular (*canç-ão, emoç-ão).* 👇
+Apesar de haver um *-i-* no plural em castelhano, a forma do plural em português não tem *-i-* a maioria das vezes, porque também não há *-i-* no singular (*canç-ão, emoç-ão):* 
 
 - canc~~i~~ones > cançoes > canções 
 - emoc~~i~~ones > emoçoes > emoções
 
-Para haver um *-i-* no plural, tem de haver um *i* também no singular (*relig<mark>i</mark>ão):* 
+Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<mark>i</mark>-ão, ocas<mark>i</mark>-ão):* 
 
 - religiones > religioes > relig<mark>i</mark>ões
+- ocasiones > ocasioes > ocas<mark>i</mark>ões
+  
 </article>
 
 ## 2. Palavras acabadas em consoante, exceto *-l* e *-m,* acrescentam *-es*

@@ -54,12 +54,12 @@ show_toc: false
 - <e-moji>🪝</e-moji> anzol > <e-answer>anzóis</e-answer>
 - <e-moji>☮️</e-moji> paz > <e-answer>pazes</e-answer>
 - <e-moji>👟</e-moji> ténis > <e-answer>ténis</e-answer>
-- <e-moji>☀️</e-moji> sol > <e-answer>sóis</e-answer>
-- <e-moji>💡</e-moji> lâmpada > <e-answer>lâmpadas</e-answer>
-- <e-moji>🛑</e-moji> sinal > <e-answer>sinais</e-answer>
+- <e-moji>⚽</e-moji> bola > <e-answer>bolas</e-answer>
+- <e-moji>🐿️</e-moji> esquilo > <e-answer>esquilos</e-answer>
 - <e-moji>🧣</e-moji> cachecol > <e-answer>cachecóis</e-answer>
 - <e-moji>🍍</e-moji> ananás > <e-answer>ananases</e-answer>
 - <e-moji>💍</e-moji> anel > <e-answer>anéis</e-answer>
+- <e-moji>🐤</e-moji> pinto > <e-answer>pintos</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -79,3 +79,9 @@ show_toc: false
 
 6. Passa para o plural
 - <e-moji>✈️</e-moji> avião > <e-answer>aviões</e-answer>
+- <e-moji>💉</e-moji> seringa > <e-answer>seringas</e-answer>
+- <e-moji>💡</e-moji> lâmpada > <e-answer>lâmpadas</e-answer>
+- <e-moji>☀️</e-moji> sol > <e-answer>sóis</e-answer>
+- <e-moji>🐧</e-moji> pinguim > <e-answer>pinguins</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
