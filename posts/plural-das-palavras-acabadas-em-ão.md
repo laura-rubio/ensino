@@ -5,7 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-Aprende o plural das palavras acabadas em -ão em dois simples passos:
+Aprende o plural das palavras acabadas em *-ão* em dois simples passos:
 
 1º Vemos qual é o plural da palavra em castelhano:
 
@@ -13,7 +13,7 @@ Aprende o plural das palavras acabadas em -ão em dois simples passos:
 * pan > panes
 * razón > razones
 
-2º Feito isto, só temos que tirar o N e escrever no seu lugar um til sobre a vogal anterior:
+2º Feito isto, só temos que tirar o *-n-* e escrever no seu lugar um til sobre a vogal anterior:
 
 * manos > maos > mãos
 * panes > paes > pães
