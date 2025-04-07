@@ -15,9 +15,9 @@ Aprende o plural das palavras acabadas em -ão em dois simples passos:
 
 2º Feito isto, só temos que tirar o N e escrever no seu lugar um til sobre a vogal anterior:
 
-* Manos > maos > mãos
-* Panes > paes > pães
-* Razones > razoes > razões
+* manos > maos > mãos
+* panes > paes > pães
+* razones > razoes > razões
 
 <article>
 Atenta nisto!
