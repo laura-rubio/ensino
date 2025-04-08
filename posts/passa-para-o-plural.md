@@ -11,7 +11,7 @@ Antes de começares, consulta o *post* sobre a formação do plural 👇
 ](https://laurarubio.net/posts/a-formacao-do-plural-em-portugues/)
 
 
-Como muitas palavras têm til. Eis a dica!  👇
+Como muitas palavras têm til, eis a dica!  👇
 
 <article> 
 Como colocar o til de nasalidade?
