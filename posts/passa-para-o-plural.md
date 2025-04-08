@@ -96,18 +96,21 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>☀️</e-moji> sol > <e-answer>sóis</e-answer>
 - <e-moji>🐧</e-moji> pinguim > <e-answer>pinguins</e-answer>
 - <e-moji>🌵</e-moji> cato > <e-answer>catos</e-answer>
-- <e-moji>🪁</e-moji> papagaio <e-answer>papagaios</e-answer>
-- <e-moji>📌</e-moji> pionés <e-answer>pioneses</e-answer>
-- <e-moji>🩹</e-moji> penso <e-answer>pensos</e-answer>
-- <e-moji>🚽</e-moji> sanita <e-answer>sanitas</e-answer>
+- <e-moji>🪁</e-moji> papagaio > <e-answer>papagaios</e-answer>
+- <e-moji>📌</e-moji> pionés > <e-answer>pioneses</e-answer>
+- <e-moji>🩹</e-moji> penso > <e-answer>pensos</e-answer>
+- <e-moji>🚽</e-moji> sanita > <e-answer>sanitas</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
 ## Série 7
-- <e-moji>🛝</e-moji> escorrega <e-answer>escorregas</e-answer>
-- <e-moji>👦</e-moji> jovem <e-answer>jovens</e-answer>
-- <e-moji>🐟</e-moji> peixe <e-answer>peixes</e-answer>
-- <e-moji>🫘</e-moji> feijão <e-answer>feijões</e-answer>
-- <e-moji>💑</e-moji> casal <e-answer>casais</e-answer>
-- <e-moji>🎈</e-moji> balão <e-answer>balões</e-answer>
+- <e-moji>🛝</e-moji> escorrega > <e-answer>escorregas</e-answer>
+- <e-moji>👨‍🦱</e-moji> jovem > <e-answer>jovens</e-answer>
+- <e-moji>🐟</e-moji> peixe > <e-answer>peixes</e-answer>
+- <e-moji>🫘</e-moji> feijão > <e-answer>feijões</e-answer>
+- <e-moji>💑</e-moji> casal > <e-answer>casais</e-answer>
+- <e-moji>🎈</e-moji> balão > <e-answer>balões</e-answer>
+- <e-moji>🚌</e-moji> autocarro > <e-answer>autocarros</e-answer>
+- <e-moji>❔</e-moji> interrogação > <e-answer>interrogações></e-answer>
+- <e-moji>🍓</e-moji> morango > <e-answer>morangos</e-answer>
 <e-validate>Verifica as respostas</e-validate>
