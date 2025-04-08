@@ -1,11 +1,24 @@
 ---
 title: Passa para o plural
 tags: []
-draft: true
+draft: false
 show_toc: false
 ---
-1. Passa para o plural
+Antes de começares, consulta o *post* sobre a formação do plural 👇
 
+[A formação do plural em português
+](https://laurarubio.net/posts/a-formacao-do-plural-em-portugues/)
+
+
+Como muitas palavras têm til. Eis a dica!  👇
+
+<article> 
+Como colocar o til de nasalidade?
+
+Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
+</article>
+
+## Série 1
 - <e-moji>🐭</e-moji> rato > <e-answer readonly>ratos</e-answer>
 - <e-moji>🍏</e-moji> maçã > <e-answer>maçãs</e-answer>
 - <e-moji>🌸</e-moji> flor > <e-answer>flores</e-answer>
@@ -19,8 +32,7 @@ show_toc: false
 
 <e-validate>Verifica as respostas</e-validate>
 
-2. Passa para o plural
-   
+## Série 2
 - <e-moji>🚗</e-moji> carro > <e-answer>carros</e-answer>
 - <e-moji>🐌</e-moji> caracol > <e-answer>caracóis</e-answer>
 - <e-moji>🖥️</e-moji> computador > <e-answer>computadores</e-answer>
@@ -34,8 +46,7 @@ show_toc: false
 
 <e-validate>Verifica as respostas</e-validate>
 
-3. Passa para o plural
-   
+## Série 3
 - <e-moji>➡️</e-moji> seta >  <e-answer>setas</e-answer>
 - <e-moji>🍄</e-moji> cogumelo > <e-answer>cogumelos</e-answer>
 - <e-moji>📗</e-moji> livro > <e-answer>livros</e-answer>
@@ -49,7 +60,7 @@ show_toc: false
 
 <e-validate>Verifica as respostas</e-validate>
 
-4. Passa para o plural
+## Série 4
 - <e-moji>🧥</e-moji> casaco > <e-answer>casacos</e-answer>
 - <e-moji>🪝</e-moji> anzol > <e-answer>anzóis</e-answer>
 - <e-moji>☮️</e-moji> paz > <e-answer>pazes</e-answer>
@@ -63,7 +74,7 @@ show_toc: false
 
 <e-validate>Verifica as respostas</e-validate>
 
-5. Passa para o plural
+## Série 5
 - <e-moji>🧢</e-moji> boné > <e-answer>bonés</e-answer>
 - <e-moji>🖌️</e-moji> pincel > <e-answer>pincéis</e-answer>
 - <e-moji>🎧</e-moji> auscultador > <e-answer>auscultadores</e-answer>
@@ -77,7 +88,7 @@ show_toc: false
 
 <e-validate>Verifica as respostas</e-validate>
 
-6. Passa para o plural
+## Série 6
 - <e-moji>✈️</e-moji> avião > <e-answer>aviões</e-answer>
 - <e-moji>💉</e-moji> seringa > <e-answer>seringas</e-answer>
 - <e-moji>💡</e-moji> lâmpada > <e-answer>lâmpadas</e-answer>

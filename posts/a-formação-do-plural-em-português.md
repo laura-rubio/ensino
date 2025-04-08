@@ -23,7 +23,7 @@ Neste caso, partimos do plural das palavras em castelhano 👇
 
 *mão > mano*
 
-Feito isto, tiramos o *-n-* e escrevemos no seu lugar um til sobre a vogal anterior 👇
+A seguir, tiramos o *-n-* e escrevemos no seu lugar um til sobre a vogal anterior 👇
 
 *manos > maos > mãos*
 
