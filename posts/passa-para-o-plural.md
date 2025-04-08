@@ -78,7 +78,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 ## Série 5
 - <e-moji>🧢</e-moji> boné > <e-answer>bonés</e-answer>
 - <e-moji>🖌️</e-moji> pincel > <e-answer>pincéis</e-answer>
-- <e-moji>🎧</e-moji> auscultador > <e-answer>auscultadores</e-answer>
+- <e-moji>⛹🏿‍♂️</e-moji> jogador > <e-answer>jogadores</e-answer>
 - <e-moji>🐉</e-moji> dragão > <e-answer>dragões</e-answer>
 - <e-moji>🌜</e-moji> lua > <e-answer>luas</e-answer>
 - <e-moji>🧳</e-moji> mala > <e-answer>malas</e-answer>
