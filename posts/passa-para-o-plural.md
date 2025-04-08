@@ -113,4 +113,5 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🚌</e-moji> autocarro > <e-answer>autocarros</e-answer>
 - <e-moji>❔</e-moji> interrogação > <e-answer>interrogações</e-answer>
 - <e-moji>🍓</e-moji> morango > <e-answer>morangos</e-answer>
+- <e-moji>🍞</e-moji> pão > <e-answer>pães</e-answer>
 <e-validate>Verifica as respostas</e-validate>
