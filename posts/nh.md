@@ -50,4 +50,8 @@ Dou-te duas dicas:
 
 <e-answer>dinheiro</e-moji>
 
+<e-moji>🥇</e-moji>
+
+<e-answer>medalha</e-answer>
+
 <e-validate>Verifica as respostas</e-validate>

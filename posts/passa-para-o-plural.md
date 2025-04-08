@@ -84,8 +84,8 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🧳</e-moji> mala > <e-answer>malas</e-answer>
 - <e-moji>🥜</e-moji> amendoim > <e-answer> amendoins</e-answer>
 - <e-moji>🫁</e-moji> pulmão > <e-answer>pulmões</e-answer>
-- <e-moji>👰</e-moji> véu > <e-answer>véus</e-answer>
-- <e-moji>🌷</e-moji> tulipa > <e-answer>tulipas</e-answer>
+- <e-moji>🐎</e-moji> cavalo > <e-answer>cavalos</e-answer>
+- <e-moji>🥕</e-moji> cenoura > <e-answer>cenouras</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -95,5 +95,15 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>💡</e-moji> lâmpada > <e-answer>lâmpadas</e-answer>
 - <e-moji>☀️</e-moji> sol > <e-answer>sóis</e-answer>
 - <e-moji>🐧</e-moji> pinguim > <e-answer>pinguins</e-answer>
+- <e-moji>🌵</e-moji> cato > <e-answer>catos</e-answer>
+- <e-moji>🪁</e-moji> papagaio <e-answer>papagaios</e-answer>
+- <e-moji>📌</e-moji> pionés <e-answer>pioneses</e-answer>
+- <e-moji>🩹</e-moji> penso <e-answer>pensos</e-answer>
+- <e-moji>🚽</e-moji> sanita <e-answer>sanitas</e-answer>
 
+<e-validate>Verifica as respostas</e-validate>
+
+## Série 7
+
+- <e-moji>🛝</e-moji> escorrega <e-answer>escorregas</e-answer>
 <e-validate>Verifica as respostas</e-validate>
