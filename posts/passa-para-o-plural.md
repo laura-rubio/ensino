@@ -104,9 +104,10 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 <e-validate>Verifica as respostas</e-validate>
 
 ## Série 7
-
 - <e-moji>🛝</e-moji> escorrega <e-answer>escorregas</e-answer>
 - <e-moji>👦</e-moji> jovem <e-answer>jovens</e-answer>
 - <e-moji>🐟</e-moji> peixe <e-answer>peixes</e-answer>
+- <e-moji>🫘</e-moji> feijão <e-answer>feijões</e-answer>
 - <e-moji>💑</e-moji> casal <e-answer>casais</e-answer>
+- <e-moji>🎈</e-moji> balão <e-answer>balões</e-answer>
 <e-validate>Verifica as respostas</e-validate>
