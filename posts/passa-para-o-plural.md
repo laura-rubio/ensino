@@ -1,6 +1,7 @@
 ---
 title: Passa para o plural
-tags: []
+tags:
+  - portugues
 draft: false
 show_toc: false
 ---
