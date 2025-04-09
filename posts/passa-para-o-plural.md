@@ -116,3 +116,12 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🍞</e-moji> pão: <e-answer>pães</e-answer>
   
 <e-validate>Verifica as respostas</e-validate>
+
+## 8. Passa para o plural
+- <e-moji>🛤️</e-moji> carril: <e-answer>carris</e-answer>
+- <e-moji>🦴</e-moji> osso: <e-answer>ossos</e-answer>
+- <e-moji>🐳</e-moji> baleia: <e-answer>baleias</e-answer>
+- <e-moji>🍋</e-moji> limão: <e-answer>limões</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
