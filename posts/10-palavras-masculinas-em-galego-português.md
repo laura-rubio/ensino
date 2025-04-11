@@ -7,8 +7,8 @@ draft: false
 show_toc: false
 ---
 1. <e-moji>🥛</e-moji> o leite
-2. <e-moji>🍯</e-moji> o mel
-3. <e-moji>🩸</e-moji> o sangue
+2. <e-moji>🩸</e-moji> o sangue
+3. <e-moji>🍯</e-moji> o mel
 4. <e-moji>☺️</e-moji> o sorriso
 5. <e-moji>👃🏼</e-moji> o nariz
 6. <e-moji>🧂</e-moji> o sal
