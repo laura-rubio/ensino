@@ -137,6 +137,6 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>⛲</e-moji> chafariz: <e-answer>chafarizes</e-answer>
 - <e-moji>🟦</e-moji> azul: <e-answer>azuis</e-answer>
 - <e-moji>💄</e-moji> batom: <e-answer>batons</e-answer>
-
+- <e-moji>🍸</e-moji> coquetel: <e-answer>coquetéis</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
