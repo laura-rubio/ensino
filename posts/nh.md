@@ -14,31 +14,39 @@ Dou-te duas dicas:
 1. Todos têm o dígrafo nh.
 2. Saberes galego ajuda muito.
 
-<e-moji> 🕷️ </e-moji>
+<e-moji>🕷️</e-moji>
 
 <e-answer>aranha</e-answer>
 
-<e-moji> 🐔 </e-moji>
+<e-moji>🪞</e-moji>
+
+<e-answer>espelho</e-answer>
+
+<e-moji>🐔</e-moji>
 
 <e-answer>galinha</e-answer>
 
-<e-moji> ✊ </e-moji>
+<e-moji>✊</e-moji>
 
 <e-answer>punho</e-answer>
 
-<e-moji> 🐬 </e-moji>
+<e-moji>🐬</e-moji>
 
 <e-answer>golfinho</e-answer>
 
-<e-moji> 🪹 </e-answer>
+<e-moji>🥇</e-moji>
+
+<e-answer>medalha</e-answer>
+
+<e-moji>🪹</e-answer>
 
 <e-answer>ninho</e-answer>
 
-<e-moji> ⛰️ </e-answer>
+<e-moji>⛰️</e-answer>
 
-<e-answer> montanha </e-answer>
+<e-answer>montanha</e-answer>
 
-<e-moji> 🪱 </e-moji>
+<e-moji>🪱</e-moji>
 
 <e-answer>minhoca</e-answer>
 
@@ -46,12 +54,8 @@ Dou-te duas dicas:
 
 <e-answer>cegonha</e-answer>
 
-<e-moji> 💰 </e-moji>
+<e-moji>💰</e-moji>
 
 <e-answer>dinheiro</e-moji>
-
-<e-moji>🥇</e-moji>
-
-<e-answer>medalha</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>

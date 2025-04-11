@@ -83,7 +83,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🌜</e-moji> lua: <e-answer>luas</e-answer>
 - <e-moji>🧳</e-moji> mala: <e-answer>malas</e-answer>
 - <e-moji>🥜</e-moji> amendoim: <e-answer> amendoins</e-answer>
-- <e-moji>🫁</e-moji> pulmão: <e-answer>pulmões</e-answer>
+- <e-moji>📺</e-moji> televisão: <e-answer>televisões</e-answer>
 - <e-moji>🐎</e-moji> cavalo: <e-answer>cavalos</e-answer>
 - <e-moji>🥕</e-moji> cenoura: <e-answer>cenouras</e-answer>
 
@@ -122,6 +122,11 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🦴</e-moji> osso: <e-answer>ossos</e-answer>
 - <e-moji>🐳</e-moji> baleia: <e-answer>baleias</e-answer>
 - <e-moji>🍋</e-moji> limão: <e-answer>limões</e-answer>
+- <e-moji>🦇</e-moji> morcego: <e-answer>morcegos</e-answer>
+- <e-moji>👮</e-moji>polícia: <e-answer>polícias</e-answer>
+- <e-moji>🧂</e-moji> sal: <e-answer>sais</e-answer>
+- <e-moji>🚛</e-moji> camião: <e-answer>camiões</e-answer>
+- <e-moji>🟰</e-moji> igual: <e-answer>iguais</e-answer>
+- <e-moji>⛲</e-moji> chafariz: <e-answer>chafarizes</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
-
