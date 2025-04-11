@@ -69,7 +69,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>⚽</e-moji> bola: <e-answer>bolas</e-answer>
 - <e-moji>🐿️</e-moji> esquilo: <e-answer>esquilos</e-answer>
 - <e-moji>🧣</e-moji> cachecol: <e-answer>cachecóis</e-answer>
-- <e-moji>🍍</e-moji> ananás: <e-answer>ananases</e-answer>
+- <e-moji>👦</e-moji> rapaz: <e-answer>rapazes</e-answer>
 - <e-moji>💍</e-moji> anel: <e-answer>anéis</e-answer>
 - <e-moji>🐤</e-moji> pinto: <e-answer>pintos</e-answer>
 
@@ -127,6 +127,16 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🧂</e-moji> sal: <e-answer>sais</e-answer>
 - <e-moji>🚛</e-moji> camião: <e-answer>camiões</e-answer>
 - <e-moji>🟰</e-moji> igual: <e-answer>iguais</e-answer>
+- <e-moji>👃🏻</e-moji> nariz: <e-answer>narizes</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## 9. Passa para o plural
+- <e-moji>🐒</e-moji> macaco: <e-answer>macacos</e-answer>
+- <e-moji>🍈</e-moji> melão: <e-answer>melões</e-answer>
 - <e-moji>⛲</e-moji> chafariz: <e-answer>chafarizes</e-answer>
+- <e-moji>🟦</e-moji> azul: <e-answer>azuis</e-answer>
+- <e-moji>💄</e-moji> batom: <e-answer>batons</e-answer>
+
 
 <e-validate>Verifica as respostas</e-validate>
