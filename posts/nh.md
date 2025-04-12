@@ -18,10 +18,6 @@ Dou-te duas dicas:
 
 <e-answer>aranha</e-answer>
 
-<e-moji>🪞</e-moji>
-
-<e-answer>espelho</e-answer>
-
 <e-moji>🐔</e-moji>
 
 <e-answer>galinha</e-answer>
@@ -33,10 +29,6 @@ Dou-te duas dicas:
 <e-moji>🐬</e-moji>
 
 <e-answer>golfinho</e-answer>
-
-<e-moji>🥇</e-moji>
-
-<e-answer>medalha</e-answer>
 
 <e-moji>🪹</e-answer>
 

@@ -68,7 +68,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>👟</e-moji> ténis: <e-answer>ténis</e-answer>
 - <e-moji>⚽</e-moji> bola: <e-answer>bolas</e-answer>
 - <e-moji>🐿️</e-moji> esquilo: <e-answer>esquilos</e-answer>
-- <e-moji>🧣</e-moji> cachecol: <e-answer>cachecóis</e-answer>
+- <e-moji>🥁</e-moji> tambor: <e-answer>tambores</e-answer>
 - <e-moji>👦</e-moji> rapaz: <e-answer>rapazes</e-answer>
 - <e-moji>💍</e-moji> anel: <e-answer>anéis</e-answer>
 - <e-moji>🐤</e-moji> pinto: <e-answer>pintos</e-answer>
@@ -135,9 +135,26 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🐒</e-moji> macaco: <e-answer>macacos</e-answer>
 - <e-moji>🍈</e-moji> melão: <e-answer>melões</e-answer>
 - <e-moji>⛲</e-moji> chafariz: <e-answer>chafarizes</e-answer>
+- <e-moji>🎀</e-moji> laço: <e-answer>laços</e-answer>
 - <e-moji>🟦</e-moji> azul: <e-answer>azuis</e-answer>
-- <e-moji>💄</e-moji> batom: <e-answer>batons</e-answer>
+- <e-moji>🛼</e-moji> patim: <e-answer>patins</e-answer>
 - <e-moji>🍸</e-moji> coquetel: <e-answer>coquetéis</e-answer>
 - <e-moji>🍔</e-moji> hambúrguer: <e-answer>hambúrgueres</e-answer>
+- <e-moji>✉️</e-moji> envelope: <e-answer>envelopes</e-answer>
+- <e-moji>⌚</e-moji> relógio: </e-answer>relógios</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## 10. Passa para o plural
+- <e-moji>♰</e-moji> cruz: <e-answer>cruzes</e-answer>
+- <e-moji>🍍</e-moji> ananás: <e-answer>ananases</e-answer>
+- <e-moji>💄</e-moji> batom: <e-answer>batons</e-answer>
+- <e-moji>☘️</e-moji> trevo: <e-answer>trevos</e-answer>
+- <e-moji>🧲</e-moji> íman: <e-answer>ímanes</e-answer>
+- <e-moji>🦂</e-moji> escorpião: <e-answer>escorpiões</e-answer>
+- <e-moji>🧣</e-moji> cachecol: <e-answer>cachecóis</e-answer>
+- <e-moji>🤖</e-moji> robô: <e-answer>robôs</e-answer>
+- <e-moji>🪠</e-moji> desentupidor: <e-answer>desentupidores</e-answer>
+- <e-moji>🧜‍♀️</e-moji>sereia: <e-answer>sereias</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
