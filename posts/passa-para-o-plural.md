@@ -141,7 +141,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🍸</e-moji> coquetel: <e-answer>coquetéis</e-answer>
 - <e-moji>🍔</e-moji> hambúrguer: <e-answer>hambúrgueres</e-answer>
 - <e-moji>✉️</e-moji> envelope: <e-answer>envelopes</e-answer>
-- <e-moji>⌚</e-moji> relógio: </e-answer>relógios</e-answer>
+- <e-moji>⌚</e-moji> relógio: <e-answer>relógios</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
