@@ -1,7 +1,7 @@
 ---
 title: A formación do plural en galego
 tags:
-  - morfoloxia
+  - Singular e plural en galego
 draft: true
 show_toc: false
 ---
