@@ -6,6 +6,8 @@ draft: false
 show_toc: false
 summary: Verbos irregulares
 ---
+## Série 1
+
 <e-card color="2">
   <div>Pretérito perfeito do indicativo de ser</div>
   <div>
@@ -45,6 +47,18 @@ summary: Verbos irregulares
   </div>
 </e-card>
 
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de haver</div>
+  <div>
+    <ul>
+      <li>eu houve </li>
+      <li>tu houveste </li>
+      <li>ele, ela, você houve </li>
+      <li>nós houvemos </li>
+      <li>eles, elas, vocês houveram </li>
+    </ul>
+  </div>
+</e-card>
 
 <e-card color="2">
   <div>Pretérito perfeito do indicativo de fazer</div>
@@ -55,110 +69,6 @@ summary: Verbos irregulares
       <li>ele, ela, você fez </li>
       <li>nós fizemos </li>
       <li>eles, elas, vocês fizeram </li>
-    </ul>
-  </div>
-</e-card>
-
-<e-card color="2">
-  <div>Pretérito perfeito do indicativo de subir</div>
-  <div>
-    <ul>
-      <li>eu subi </li>
-      <li>tu subiste </li>
-      <li>ele, ela, você subiu </li>
-      <li>nós subimos </li>
-      <li>eles, elas, vocês subiram </li>
-    </ul>
-  </div>
-</e-card>
-
-<e-card color="2">
-  <div>Pretérito perfeito do indicativo de pedir</div>
-  <div>
-    <ul>
-      <li>eu pedi </li>
-      <li>tu pediste </li>
-      <li>ele, ela, você pediu </li>
-      <li>nós pedimos </li>
-      <li>eles, elas, vocês pediram </li>
-    </ul>
-  </div>
-</e-card>
-
-<e-card color="2">
-  <div>Pretérito perfeito do indicativo de descer</div>
-  <div>
-    <ul>
-      <li>eu desci </li>
-      <li>tu desceste </li>
-      <li>ele, ela, você desceu </li>
-      <li>nós descemos </li>
-      <li>eles, elas, vocês desceram </li>
-    </ul>
-  </div>
-</e-card>
-
-<e-card color="2">
-  <div>Pretérito perfeito do indicativo de medir</div>
-  <div>
-    <ul>
-      <li>eu medi </li>
-      <li>tu mediste </li>
-      <li>ele, ela, você mediu </li>
-      <li>nós medimos </li>
-      <li>eles, elas, vocês mediram </li>
-    </ul>
-  </div>
-</e-card>
-
-<e-card color="2">
-  <div>Pretérito perfeito do indicativo de ir</div>
-  <div>
-    <ul>
-      <li>eu fui </li>
-      <li>tu foste </li>
-      <li>ele, ela, você foi </li>
-      <li>nós fomos </li>
-      <li>eles, elas, vocês foram </li>
-    </ul>
-  </div>
-</e-card>
-
-<e-card color="2">
-  <div>Pretérito perfeito do indicativo de ver</div>
-  <div>
-    <ul>
-      <li>eu vi </li>
-      <li>tu viste </li>
-      <li>ele, ela, você viu </li>
-      <li>nós vimos </li>
-      <li>eles, elas, vocês viram </li>
-    </ul>
-  </div>
-</e-card>
-
-<e-card color="2">
-  <div>Pretérito perfeito do indicativo de vir</div>
-  <div>
-    <ul>
-      <li>eu vim </li>
-      <li>tu vieste </li>
-      <li>ele, ela, você veio </li>
-      <li>nós viemos </li>
-      <li>eles, elas, vocês vieram </li>
-    </ul>
-  </div>
-</e-card>
-
-<e-card color="2">
-  <div>Pretérito perfeito do indicativo de dar</div>
-  <div>
-    <ul>
-      <li>eu dei</li>
-      <li>tu deste</li>
-      <li>ele, ela, você deu</li>
-      <li>nós demos</li>
-      <li>eles, elas, vocês deram </li>
     </ul>
   </div>
 </e-card>
@@ -175,6 +85,8 @@ summary: Verbos irregulares
     </ul>
   </div>
 </e-card>
+
+## Série 2
 
 <e-card color="2">
   <div>Pretérito perfeito do indicativo de poder</div>
@@ -214,3 +126,284 @@ summary: Verbos irregulares
     </ul>
   </div>
 </e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de ver</div>
+  <div>
+    <ul>
+      <li>eu vi </li>
+      <li>tu viste </li>
+      <li>ele, ela, você viu </li>
+      <li>nós vimos </li>
+      <li>eles, elas, vocês viram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de ir</div>
+  <div>
+    <ul>
+      <li>eu fui </li>
+      <li>tu foste </li>
+      <li>ele, ela, você foi </li>
+      <li>nós fomos </li>
+      <li>eles, elas, vocês foram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de vir</div>
+  <div>
+    <ul>
+      <li>eu vim </li>
+      <li>tu vieste </li>
+      <li>ele, ela, você veio </li>
+      <li>nós viemos </li>
+      <li>eles, elas, vocês vieram </li>
+    </ul>
+  </div>
+</e-card>
+
+## Série 3
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de ouvir</div>
+  <div>
+    <ul>
+      <li>eu ouvi </li>
+      <li>tu ouviste </li>
+      <li>ele, ela, você ouviu </li>
+      <li>nós ouvimos </li>
+      <li>eles, elas, vocês ouviram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de querer</div>
+  <div>
+    <ul>
+      <li>eu quis </li>
+      <li>tu quiseste </li>
+      <li>ele, ela, você quis </li>
+      <li>nós quisemos </li>
+      <li>eles, elas, vocês quiseram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de vestir</div>
+  <div>
+    <ul>
+      <li>eu vesti </li>
+      <li>tu vestiste </li>
+      <li>ele, ela, você vestiu </li>
+      <li>nós vestimos </li>
+      <li>eles, elas, vocês vestiram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de despir</div>
+  <div>
+    <ul>
+      <li>eu despi </li>
+      <li>tu despiste </li>
+      <li>ele, ela, você despiu </li>
+      <li>nós despimos </li>
+      <li>eles, elas, vocês despiram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de pôr</div>
+  <div>
+    <ul>
+      <li>eu pus </li>
+      <li>tu puseste </li>
+      <li>ele, ela, você pôs </li>
+      <li>nós pusemos </li>
+      <li>eles, elas, vocês puseram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de dormir</div>
+  <div>
+    <ul>
+      <li>eu dormi </li>
+      <li>tu dormiste </li>
+      <li>ele, ela, você dormiu </li>
+      <li>nós dormimos </li>
+      <li>eles, elas, vocês dormiram </li>
+    </ul>
+  </div>
+</e-card>
+
+## Série 4
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de conseguir</div>
+  <div>
+    <ul>
+      <li>eu consegui </li>
+      <li>tu conseguiste </li>
+      <li>ele, ela, você conseguiu </li>
+      <li>nós conseguimos </li>
+      <li>eles, elas, vocês conseguiram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de pedir</div>
+  <div>
+    <ul>
+      <li>eu pedi</li>
+      <li>tu pediste </li>
+      <li>ele, ela, você pediu </li>
+      <li>nós pedimos </li>
+      <li>eles, elas, vocês pediram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de saber</div>
+  <div>
+    <ul>
+      <li>eu soube</li>
+      <li>tu soubeste </li>
+      <li>ele, ela, você soube </li>
+      <li>nós soubemos </li>
+      <li>eles, elas, vocês souberam </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de sair</div>
+  <div>
+    <ul>
+      <li>eu saí </li>
+      <li>tu saíste </li>
+      <li>ele, ela, você saiu </li>
+      <li>nós saímos </li>
+      <li>eles, elas, vocês saíram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de rir</div>
+  <div>
+    <ul>
+      <li>eu ri </li>
+      <li>tu riste </li>
+      <li>ele, ela, você riu </li>
+      <li>nós ristes </li>
+      <li>eles, elas, vocês riram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de sorrir</div>
+  <div>
+    <ul>
+      <li>eu sorri </li>
+      <li>tu sorriste </li>
+      <li>ele, ela, você sorriu </li>
+      <li>nós sorrimos </li>
+      <li>eles, elas, vocês sorriram </li>
+    </ul>
+  </div>
+</e-card>
+
+## Série 5
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de passear</div>
+  <div>
+    <ul>
+      <li>eu passeei </li>
+      <li>tu passeaste </li>
+      <li>ele, ela, você passeou </li>
+      <li>nós passeamos </li>
+      <li>eles, elas, vocês passearam </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de planear</div>
+  <div>
+    <ul>
+      <li>eu planeei </li>
+      <li>tu planeaste </li>
+      <li>ele, ela, você planeou </li>
+      <li>nós planeámos </li>
+      <li>eles, elas, vocês planearam </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de perder</div>
+  <div>
+    <ul>
+      <li>eu perdi </li>
+      <li>tu perdeste </li>
+      <li>ele, ela, você perdeu </li>
+      <li>nós perdemos </li>
+      <li>eles, elas, vocês perderam </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de fugir</div>
+  <div>
+    <ul>
+      <li>eu fugi </li>
+      <li>tu fugiste </li>
+      <li>ele, ela, você fugiu </li>
+      <li>nós fugimos </li>
+      <li>eles, elas, vocês fugiram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de preferir</div>
+  <div>
+    <ul>
+      <li>eu preferi </li>
+      <li>tu preferiste </li>
+      <li>ele, ela, você preferiu </li>
+      <li>nós preferimos </li>
+      <li>eles, elas, vocês preferiram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito do indicativo de cair</div>
+  <div>
+    <ul>
+      <li>eu caí </li>
+      <li>tu caíste </li>
+      <li>ele, ela, você caiu </li>
+      <li>nós caímos </li>
+      <li>eles, elas, vocês caíram </li>
+    </ul>
+  </div>
+</e-card>
+
+
