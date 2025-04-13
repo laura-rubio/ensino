@@ -158,3 +158,18 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🧜‍♀️</e-moji>sereia: <e-answer>sereias</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## 11. Passa para o plural
+
+- <e-moji>🍮</e-moji>pudim: <e-answer>pudins</e-answer>
+- <e-moji>🧯</e-moji>extintor: <e-answer>extintores</e-answer>
+- <e-moji>🦈</e-moji>tubarão: <e-answer>tubarões</e-answer>
+- <e-moji>⛪</e-moji>igreja: <e-answer>igrejas</e-answer>
+- <e-moji>🗣️</e-moji>voz: <e-answer>vozes</e-answer>
+- <e-moji>🏖️</e-moji>praia: <e-answer>praias</e-answer>
+- <e-moji>🦎</e-moji>réptil: <e-answer>répteis</e-answer>
+- <e-moji>⛑️</e-moji>capacete: <e-answer>capacetes</e-answer>
+- <e-moji>🧦</e-moji>meia: <e-answer>meias</e-answer>
+- <e-moji>🪶</e-moji>pena: <e-answer>penas</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>

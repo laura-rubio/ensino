@@ -147,3 +147,10 @@ Antes de comezares, consulta o *post* sobre a formación do plural 👇
 - <e-moji>🧜‍♀️</e-moji>serea: <e-answer>sereas</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## 11. Pasa para o plural
+
+- <e-moji>🌇</e-moji>solpor: <e-answer>solpores</solpores>
+
+<e-validate>Verifica as respostas</e-validate>
+
