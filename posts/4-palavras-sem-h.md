@@ -2,8 +2,8 @@
 title: '4 palavras sem h '
 summary: (nem em galego nem em português)
 tags:
-  - portugues
   - o-h
+  - O agá
 draft: false
 show_toc: false
 ---

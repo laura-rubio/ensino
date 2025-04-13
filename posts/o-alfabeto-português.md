@@ -1,7 +1,7 @@
 ---
 title: O alfabeto português
 tags:
-  - portugues
+  - Ortografia portuguesa
 draft: false
 show_toc: false
 ---
