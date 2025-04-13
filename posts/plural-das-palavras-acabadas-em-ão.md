@@ -1,7 +1,7 @@
 ---
 title: O plural das palavras acabadas em ão
 tags:
-  - portugues
+  - O plural em português
 draft: false
 show_toc: false
 ---
