@@ -1,7 +1,7 @@
 ---
 title: A formação do plural em português
 tags:
-  - O plural em português
+  - O número em português
 draft: false
 show_toc: false
 ---

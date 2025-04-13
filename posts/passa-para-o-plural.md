@@ -1,7 +1,7 @@
 ---
 title: Passa para o plural
 tags:
-  - O plural em português
+  - O número em português
 draft: false
 show_toc: false
 ---
