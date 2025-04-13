@@ -1,10 +1,13 @@
 ---
-title: Cartões modalidades desportivas
+title: 24 modalidades desportivas
 tags:
-  - portugues
+  - O desporto
 draft: false
 show_toc: false
+summary: Cartões de estudo
 ---
+Vira o cartão para descobrires o nome do desporto:
+
 <e-card color="1">
 <div>
 

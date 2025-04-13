@@ -1,8 +1,8 @@
 ---
 title: 'Os dias da semana: galego > português'
 tags:
-  - portugues
   - lexico
+  - O tempo
 draft: false
 show_toc: false
 ---

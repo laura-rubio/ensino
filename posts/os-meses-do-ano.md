@@ -1,10 +1,11 @@
 ---
 title: Os meses do ano
 tags:
-  - portugues
   - lexico
+  - O tempo
 draft: false
 show_toc: false
+summary: Cartões de estudo
 ---
 <e-card color="1">
 <div>janeiro</div>
