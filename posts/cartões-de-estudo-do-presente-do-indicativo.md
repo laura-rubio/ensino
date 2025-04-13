@@ -341,3 +341,67 @@ show_toc: false
   </div>
 </e-card>
 
+<e-card color="1">
+<div>Presente do indicativo de planear</div>
+  <div>
+    <ul>
+      <li>eu planeio </li>
+      <li>tu planeias </li>
+      <li>ele, ela, você planeia </li>
+      <li>nós planeamos </li>
+      <li>eles, elas, vocês planeiam </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+<div>Presente do indicativo de perder</div>
+  <div>
+    <ul>
+      <li>eu perco </li>
+      <li>tu perdes </li>
+      <li>ele, ela, você perde </li>
+      <li>nós perdemos </li>
+      <li>eles, elas, vocês perdem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+<div>Presente do indicativo de fugir</div>
+  <div>
+    <ul>
+      <li>eu fujo </li>
+      <li>tu foges </li>
+      <li>ele, ela, você foge </li>
+      <li>nós fugimos </li>
+      <li>eles, elas, vocês fogem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+<div>Presente do indicativo de preferir</div>
+  <div>
+    <ul>
+      <li>eu prefiro </li>
+      <li>tu preferes </li>
+      <li>ele, ela, você prefere </li>
+      <li>nós preferimos </li>
+      <li>eles, elas, vocês preferem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+<div>Presente do indicativo de cair</div>
+  <div>
+    <ul>
+      <li>eu caio </li>
+      <li>tu cais </li>
+      <li>ele, ela, você cai </li>
+      <li>nós caímos </li>
+      <li>eles, elas, vocês caem </li>
+    </ul>
+  </div>
+</e-card>
