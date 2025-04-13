@@ -1,8 +1,8 @@
 ---
 title: 10 palavras masculinas em galego/português
 tags:
-  - portugues
   - o_substantivo
+  - O género em português
 draft: false
 show_toc: false
 ---

@@ -1,7 +1,7 @@
 ---
-title: O género em português
+title: Põe no feminino
 tags:
-  - portugues
+  - O género em português
 draft: true
 show_toc: false
 ---
