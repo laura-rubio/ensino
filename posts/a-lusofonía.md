@@ -2,7 +2,7 @@
 title: A lusofonia
 tags:
   - sociolinguistica
-  - portugues
+  - O português no mundo
 draft: false
 show_toc: false
 ---
