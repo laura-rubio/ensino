@@ -1,8 +1,9 @@
 ---
 title: Os lenços dos namorados
 tags:
-  - portugues
+  - Cultura dos países lusófonos
 draft: false
+show_toc: false
 ---
 [Passa a palavra de São Valentim](https://es.educaplay.com/recursos-educativos/11221139-sao_valentim.html) criado por Carme Saborido
 

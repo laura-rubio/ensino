@@ -1,7 +1,7 @@
 ---
 title: 'Treino de verbos - 1º ESO: presente do indicativo'
 tags:
-  - portugues
+  - Conjugações verbais
 draft: false
 show_toc: false
 ---

@@ -1,8 +1,9 @@
 ---
 title: O Carnaval brasileiro
 tags:
-  - portugues
+  - Cultura dos países lusófonos
 draft: false
+show_toc: false
 ---
 A sua  é uma festa muito diferente da nossa. A primeira diferença é que eles festejam o Carnaval no verão e está calor. Outra é que os disfarces não são assim tão importantes, o que importa é a música e a dança. Pode-se dizer que tocar e dançar o samba é o jeito de festejar deles. O samba é um género musical que tem a sua origem nas comunidades afro-brasileiras da cidade do Rio de Janeiro a começos do século XX. Durante a época do Carnaval toca-se e dança-se samba-enredo, que é uma modalidade específica de samba criada para desfilar.
 

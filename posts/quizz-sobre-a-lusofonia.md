@@ -1,7 +1,7 @@
 ---
 title: Quizz sobre a lusofonia
 tags:
-  - portugues
+  - Cultura dos países lusófonos
 draft: false
 show_toc: false
 ---

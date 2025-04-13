@@ -1,7 +1,7 @@
 ---
 title: A sequência qua
 tags:
-  - portugues
+  - Ortografia portuguesa
 draft: false
 show_toc: false
 ---

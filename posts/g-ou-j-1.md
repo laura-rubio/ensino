@@ -1,8 +1,9 @@
 ---
 title: G ou J?
 tags:
-  - portugues
+  - Ortografia portuguesa
 draft: false
+show_toc: false
 ---
 As seguintes palavras são praticamente igual em galego e em português, só muda uma letra.
 

@@ -1,8 +1,9 @@
 ---
 title: Adivinha as palavras
 tags:
-  - portugues
+  - O xis
 draft: false
+show_toc: false
 ---
 Dou-te apenas duas dicas:
 
