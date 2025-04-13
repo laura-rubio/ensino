@@ -7,6 +7,7 @@ show_toc: false
 ---
 Antes de comezares, consulta o *post* sobre a formación do plural 👇
 
+[A formación do plural en galego](https://laurarubio.net/posts/a-formacion-do-plural-en-galego/)
 
 ## 1. Pasa para o plural
 - <e-moji>🐭</e-moji> rato: <e-answer readonly>ratos</e-answer>
@@ -86,7 +87,7 @@ Antes de comezares, consulta o *post* sobre a formación do plural 👇
 - <e-moji>🐧</e-moji> pinguín: <e-answer>pinguíns</e-answer>
 - <e-moji>🌵</e-moji> cacto: <e-answer>cactos</e-answer>
 - <e-moji>🦜</e-moji> papagaio: <e-answer>papagaios</e-answer>
-- <e-moji>👓</e-moji> lentes: <e-answer>lentes</e-answer>
+- <e-moji>🧚‍♀️</e-moji> fada: <e-answer>fadas</e-answer>
 - <e-moji>🚬</e-moji> cigarro: <e-answer>cigarros</e-answer>
 - <e-moji>🧴</e-moji> xel: <e-answer>xeles</e-answer>
 
@@ -139,7 +140,7 @@ Antes de comezares, consulta o *post* sobre a formación do plural 👇
 - <e-moji>☘️</e-moji> trebo: <e-answer>trebos</e-answer>
 - <e-moji>🧹</e-moji> vasoira: <e-answer>vasoiras</e-answer>
 - <e-moji>🦂</e-moji> escorpión: <e-answer>escorpións</e-answer>
-- <e-moji>🧯</e-moji> extintor: extintores <e-answer></e-answer>
+- <e-moji>🧯</e-moji> extintor: <e-answer>extintores</e-answer>
 - <e-moji>🤖</e-moji> robot: <e-answer>robots</e-answer>
 - <e-moji>🪠</e-moji> desentupidor: <e-answer>desentupidores</e-answer>
 - <e-moji>💀</e-moji>caveira: <e-answer>caveiras</e-answer>
