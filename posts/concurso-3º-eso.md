@@ -1,8 +1,9 @@
 ---
 title: Concurso 3º ESO
 tags:
-  - portugues
-draft: false
+  - Concursos
+draft: true
+show_toc: false
 ---
 Descobre o intruso. Qual não usamos para falar de...
 

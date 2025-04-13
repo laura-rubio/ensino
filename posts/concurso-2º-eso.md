@@ -1,8 +1,8 @@
 ---
 title: Concurso 2º ESO
 tags:
-  - portugues
-draft: false
+  - Concursos
+draft: true
 show_toc: false
 ---
 1. Qual destas formas não se usa em português para dizer "I love you"?
