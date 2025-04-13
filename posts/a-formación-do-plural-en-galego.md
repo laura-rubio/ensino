@@ -2,7 +2,7 @@
 title: A formación do plural en galego
 tags:
   - Singular e plural en galego
-draft: true
+draft: false
 show_toc: false
 ---
 ## 1. As palabras terminadas en vogal acrecentan un *-s* ao singular
