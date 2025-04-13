@@ -2,7 +2,7 @@
 title: Verbos regulares em -ir
 summary: Presente do indicativo
 tags:
-  - Os verbos
+  - Conjugações verbais
 draft: false
 show_toc: false
 ---
@@ -96,4 +96,3 @@ Conjuga os verbos:
 4. Presente do indicativo do verbo [exigir](https://www.verbos-portugueses.info/pt/praticar/tempos.html#594:exigir/1)
 
 5. Presente do indicativo do verbo [unir](https://www.verbos-portugueses.info/pt/praticar/tempos.html#367:unir/1)
-

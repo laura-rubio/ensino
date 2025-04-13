@@ -1,8 +1,9 @@
 ---
-title: "Treino de verbos: pretérito perfeito do indicativo"
+title: 'Treino de verbos: pretérito perfeito do indicativo'
 tags:
-  - portugues
+  - Conjugações verbais
 draft: false
+show_toc: false
 ---
 Conjuga no pretérito perfeito do indicativo os seguintes verbos: 
 
@@ -197,4 +198,3 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 - Eles, elas, vocês <e-answer>disseram</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
-

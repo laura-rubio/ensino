@@ -1,7 +1,7 @@
 ---
 title: Verbos regulares em -ar
 tags:
-  - O verbo em português
+  - Conjugações verbais
 draft: false
 show_toc: false
 summary: Presente do indicativo

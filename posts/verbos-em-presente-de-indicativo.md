@@ -1,7 +1,7 @@
 ---
 title: 'Cartões de estudo - 1º da ESO: presente do indicativo'
 tags:
-  - portugues
+  - Conjugações verbais
 draft: false
 show_toc: false
 ---

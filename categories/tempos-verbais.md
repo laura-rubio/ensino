@@ -2,5 +2,6 @@
 title: Tempos verbais
 id: tempos_verbais
 tags:
-  - o_verbo
+  - O verbo en galego
 ---
+

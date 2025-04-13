@@ -1,8 +1,9 @@
 ---
-title: "Cartões de estudo - 2º ESO e 3º ESO: verbos"
+title: 'Cartões de estudo - 2º ESO e 3º ESO: verbos'
 tags:
-  - portugues
+  - Conjugações verbais
 draft: false
+show_toc: false
 ---
 <e-card color="1">
   <div>Presente do indicativo de ser</div>

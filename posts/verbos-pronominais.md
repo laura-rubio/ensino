@@ -2,7 +2,7 @@
 title: Verbos pronominais
 summary: Presente do indicativo
 tags:
-  - Os verbos
+  - Conjugações verbais
 draft: true
 show_toc: false
 ---

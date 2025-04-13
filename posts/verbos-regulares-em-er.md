@@ -2,7 +2,7 @@
 title: Verbos regulares em -er
 summary: Presente do indicativo
 tags:
-  - Os verbos
+  - Conjugações verbais
 draft: false
 show_toc: false
 ---
