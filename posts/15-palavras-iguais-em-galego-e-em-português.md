@@ -1,7 +1,7 @@
 ---
 title: 15 palavras iguais em galego e em português
 tags:
-  - portugues
+  - Vocabulário
 draft: false
 show_toc: false
 ---

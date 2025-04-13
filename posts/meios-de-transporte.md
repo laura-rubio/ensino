@@ -1,7 +1,7 @@
 ---
 title: Meios de transporte
 tags:
-  - portugues
+  - Viagens e deslocações
 draft: false
 show_toc: false
 ---

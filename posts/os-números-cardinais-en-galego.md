@@ -3,7 +3,6 @@ title: Os números cardinais en galego
 tags:
   - O numeral
 draft: false
-summary: ''
 show_toc: false
 ---
 Aprenderes os números en galego é moi fácil. Segundo Esther Estévez, só é preciso 1 minuto:

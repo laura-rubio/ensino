@@ -1,8 +1,8 @@
 ---
 title: Olhares
 tags:
-  - portugues
   - lexico
+  - Vocabulário
 draft: false
 show_toc: false
 ---
