@@ -15,7 +15,7 @@ show_toc: false
 - pai > pais
 - irmã > irmãs
 - céu > céus
-- lagoa > lagoas
+- pessoa > pessoas
 
 ### 1.2 As palavras terminadas no ditongo nasal *-ão*
 
@@ -47,7 +47,7 @@ Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<m
   
 </article>
 
-## 2. Palavras acabadas em consoante, exceto *-l* e *-m,* acrescentam *-es*
+## 2. As palavras acabadas em consoante, exceto *-l* e *-m,* acrescentam *-es*
 
 #### Exemplos:
 
@@ -63,7 +63,7 @@ Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<m
 - o tórax > os tórax
 
 
-## 3. Palavras acabadas em *-m,* trocam o *-m* por *-ns*
+## 3. As palavras acabadas em *-m,* trocam o *-m* por *-ns*
 
 #### Exemplos:
 
@@ -72,7 +72,7 @@ Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<m
 - bom > bons
 
 
-## 4. Palavras terminadas em *-l*
+## 4. As palavras terminadas em *-l*
 
 ### 4.1 Regra geral > Eliminam o *-l* e acrescentam *-is*
 
