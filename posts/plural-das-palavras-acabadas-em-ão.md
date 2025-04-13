@@ -19,6 +19,11 @@ Aprende o plural das palavras acabadas em *-ão* em dois simples passos:
 * panes > paes > pães
 * razones > razoes > razões
 
+#### Exceções:
+
+- cirurgião: cirurgiões
+- furação: furações
+
 <article>
 Atenta nisto!
 
@@ -39,77 +44,121 @@ Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<m
 Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal
 
 ## Série 1
-1. limão > <e-answer>limões</e-answer>
-2. alemão > <e-answer>alemães</e-answer>
-3. ação > <e-answer>ações</e-answer>
-4. irmão > <e-answer>irmãos</e-answer>
-5. ladrão > <e-answer>ladrões</e-answer>
-6. calção > <e-answer>calções</e-answer>
-7. cidadão > <e-answer>cidadãos</e-answer>
-8. decisão > <e-answer>decisões</e-answer>
-9. melão > <e-answer>melões</e-answer>
-10. cão > <e-answer>cães</e-answer>
+1. limão: <e-answer>limões</e-answer>
+2. alemão: <e-answer>alemães</e-answer>
+3. ação: <e-answer>ações</e-answer>
+4. irmão: <e-answer>irmãos</e-answer>
+5. ladrão: <e-answer>ladrões</e-answer>
+6. calção: <e-answer>calções</e-answer>
+7. cidadão: <e-answer>cidadãos</e-answer>
+8. decisão: <e-answer>decisões</e-answer>
+9. melão: <e-answer>melões</e-answer>
+10. cão: <e-answer>cães</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
 ## Série 2
 
-11. leão > <e-answer>leões</e-answer>
-12. avião > <e-answer>aviões</e-answer>
-13. botão > <e-answer>botões</e-answer>
-14. grão > <e-answer>grãos</e-answer>
-15. capitão > <e-answer>capitães</e-answer>
-16. estação > <e-answer>estações</e-answer>
-17. dragão > <e-answer>dragões</e-answer>
-18. coração > <e-answer>corações</e-answer>
-19. camião > <e-answer>camiões</e-answer>
-20. pulmão > <e-answer>pulmões</e-answer>
+11. leão: <e-answer>leões</e-answer>
+12. avião: <e-answer>aviões</e-answer>
+13. botão: <e-answer>botões</e-answer>
+14. grão: <e-answer>grãos</e-answer>
+15. capitão: <e-answer>capitães</e-answer>
+16. estação: <e-answer>estações</e-answer>
+17. dragão: <e-answer>dragões</e-answer>
+18. coração: <e-answer>corações</e-answer>
+19. camião: <e-answer>camiões</e-answer>
+20. pulmão: <e-answer>pulmões</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
 ## Série 3
 
-21. televisão > <e-answer>televisões</e-answer>
-22. inscrição > <e-answer>inscrições</e-answer>
-23. verão > <e-answer>verãos</e-answer> Esta palavra tem dois plurais, o outro é *verões*
-24. função > <e-answer>funções</e-answer>
-25. opinião > <e-answer>opiniões</e-answer>
-26. definição > <e-answer>definições</e-answer>
-27. condição > <e-answer>condições</e-answer>
-28. questão > <e-answer>questões</e-answer>
-29. confissão > <e-answer>confissões</e-answer>
-30. exposição > <e-answer>exposições</e-answer>
+21. televisão: <e-answer>televisões</e-answer>
+22. inscrição: <e-answer>inscrições</e-answer>
+23. verão: <e-answer>verãos</e-answer> Esta palavra tem dois plurais, o outro é *verões*
+24. função: <e-answer>funções</e-answer>
+25. opinião: <e-answer>opiniões</e-answer>
+26. definição: <e-answer>definições</e-answer>
+27. condição: <e-answer>condições</e-answer>
+28. questão: <e-answer>questões</e-answer>
+29. confissão: <e-answer>confissões</e-answer>
+30. exposição: <e-answer>exposições</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
 ## Série 4
 
-31. revolução > <e-answer>revoluções</e-answer>
-32. atuação > <e-answer>atuações</e-answer>
-33. lição > <e-answer>lições</e-answer>
-34. direção >  <e-answer>direções</e-answer>
-35. prisão > <e-answer>prisões</e-answer>
-36. flexão > <e-answer>flexões</e-answer>
-37. coleção > <e-answer>coleções</e-answer>
-38. tubarão > <e-answer>tubarões</e-answer>
-39. eleição > <e-answer>eleições</e-answer>
-40. salão > <e-answer>salões</e-answer>
+31. revolução: <e-answer>revoluções</e-answer>
+32. atuação: <e-answer>atuações</e-answer>
+33. lição: <e-answer>lições</e-answer>
+34. direção: <e-answer>direções</e-answer>
+35. prisão: <e-answer>prisões</e-answer>
+36. flexão: <e-answer>flexões</e-answer>
+37. coleção: <e-answer>coleções</e-answer>
+38. tubarão: <e-answer>tubarões</e-answer>
+39. eleição: <e-answer>eleições</e-answer>
+40. salão: <e-answer>salões</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
 ## Série 5
 
-40. repetição > <e-answer>repetições</e-answer>
-41. construção > <e-answer>construções</e-answer>
-42. apresentação > <e-answer>apresentações</e-answer>
-43. agressão > <e-answer>agressões</e-answer>
-44. votação > <e-answer>votações</e-answer>
-45. instituição > <e-answer>instituições</e-answer>
-46. desaparição > <e-answer>desaparições</e-answer>
-47. pinhão > <e-answer>pinhões</e-answer>
-48. tradição > <e-answer>tradições</e-answer>
-49. balão > <e-answer>balões</e-answer>
-50. anão > <e-answer>anãos</e-answer> *Anão* também tem dois plurais, a outra forma é *anões*
+40. repetição: <e-answer>repetições</e-answer>
+41. construção: <e-answer>construções</e-answer>
+42. apresentação: <e-answer>apresentações</e-answer>
+43. agressão: <e-answer>agressões</e-answer>
+44. votação: <e-answer>votações</e-answer>
+45. instituição: <e-answer>instituições</e-answer>
+46. desaparição: <e-answer>desaparições</e-answer>
+47. pinhão: <e-answer>pinhões</e-answer>
+48. tradição: <e-answer>tradições</e-answer>
+49. balão: <e-answer>balões</e-answer>
+50. anão: <e-answer>anãos</e-answer> *Anão* também tem dois plurais, a outra forma é *anões*
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Série 6
+
+51. mexilhão: <e-answer>mexilhões</e-answer>
+52. região: <e-answer>regiões</e-answer>
+53. operação: <e-answer>operações</e-answer>
+54. intenção: <e-answer>intenções</e-answer>
+55. reunião: <e-answer>reuniões</e-answer>
+56. atração: <e-answer>atrações</e-answer>
+57. biberão: <e-answer>biberões</e-answer>
+58. animação: <e-answer>animações</e-answer>
+59. anfitrião: <e-answer>anfitriões</e-answer>
+60. reclamação: <e-answer>reclamações</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Série 7
+
+61. missão: <e-answer>missões</e-answer>
+62. união: <e-answer>uniões</e-answer>
+63. foguetão: <e-answer>foguetões</e-answer>
+64. rebelião: <e-answer>rebeliões</e-answer>
+65. exceção: <e-answer>exceções</e-answer>
+66. cirurgião: <e-answer>cirurgiões</e-answer>
+67. descrição: <e-answer>descrições</e-answer>
+68. situação: <e-answer>situações</e-answer>
+69. ressurreição: <e-answer>ressurreições</e-answer>
+70. solução: <e-answer>soluções</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Série 8
+71. emissão: <e-answer>emissões</e-answer>
+72. resolução: <e-answer>resoluções</e-answer>
+73. civilização: <e-answer>civilizações</e-answer>
+74. reivindicação: <e-answer>reivindicações</e-answer>
+75. instrução: <e-answer>instruções</e-answer>
+76. geração: <e-answer>gerações</e-answer>
+77. formação: <e-answer>formações</e-answer>
+78. opção: <e-answer>opções</e-answer>
+79. avaliação: <e-answer>avaliações</e-answer>
+80. discussão: <e-answer>discussões</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
