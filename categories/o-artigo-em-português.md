@@ -1,7 +1,7 @@
 ---
 title: O artigo em português
 tags:
-  - portugues
+  - Classes de palavras
 id: O artigo em português
 ---
 

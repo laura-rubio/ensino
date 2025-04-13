@@ -1,6 +1,7 @@
 ---
 title: O verbo
-id: o_verbo
+id: O verbo em português
 tags:
-  - morfoloxia
+  - Classes de palavras
 ---
+
