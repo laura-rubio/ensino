@@ -1,10 +1,10 @@
 ---
-title: 'Cartões de estudo: verbos irregulares'
+title: Cartões de estudo do pretérito perfeito do indicativo
 tags:
   - Conjugações verbais
 draft: false
 show_toc: false
-summary: Pretérito perfeito do indicativo
+summary: Verbos irregulares
 ---
 <e-card color="2">
   <div>Pretérito perfeito do indicativo de ser</div>
