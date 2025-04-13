@@ -1,7 +1,7 @@
 ---
 title: Quando for grande
 tags:
-  - portugues
+  - O trabalho
 draft: false
 show_toc: false
 summary: quero ser...

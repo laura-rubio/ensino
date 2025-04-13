@@ -1,7 +1,7 @@
 ---
-title: As cores
+title: As cores em português e galego
 tags:
-  - portugues
+  - As cores
 draft: false
 show_toc: false
 ---
@@ -239,4 +239,3 @@ Em Portugal só usam <e-answer> Castanho </e-answer> mas no Brasil também se di
 <e-validate>Verifica as respostas</e-validate>
 
 - - -
-

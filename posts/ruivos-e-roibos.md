@@ -1,7 +1,7 @@
 ---
 title: Ruivos e roibos
 tags:
-  - portugues
+  - As cores
 draft: false
 show_toc: false
 ---

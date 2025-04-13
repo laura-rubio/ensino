@@ -1,7 +1,7 @@
 ---
 title: O roxo é a cor...
 tags:
-  - portugues
+  - As cores
 draft: false
 show_toc: false
 ---

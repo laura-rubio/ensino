@@ -1,7 +1,7 @@
 ---
 title: Um mundo a cores
 tags:
-  - portugues
+  - As cores
 draft: false
 show_toc: false
 ---
