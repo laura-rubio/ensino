@@ -25,7 +25,7 @@ Aprende o plural das palavras acabadas em *-ão* em dois simples passos:
 - *verão:* *verões*
 - *anão:* *anões*
 
-No caso das dúas últimas, *verãos* e *anãos* são formas corretas, mas muito pouco usadas.
+*Verãos* e *anãos* são formas corretas, mas muito pouco usadas.
 
 <article>
 Atenta nisto!

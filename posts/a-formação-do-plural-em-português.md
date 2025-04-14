@@ -38,7 +38,7 @@ A seguir, tiramos o *-n-* e escrevemos no seu lugar um til sobre a vogal anterio
 - *verão:* *verões*
 - *anão:* *anões*
 
-No caso das dúas últimas, *verãos* e *anãos* são formas corretas, mas muito pouco usadas.
+*Verãos* e *anãos* são formas corretas, mas muito pouco usadas.
 
 <article>
 Atenta nisto!
