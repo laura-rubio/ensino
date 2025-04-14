@@ -173,3 +173,18 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🪶</e-moji>pena: <e-answer>penas</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## 12. Passa para o plural
+
+- <e-moji>🛗</e-moji>elevador: <e-answer>elevadores</e-answer>
+- <e-moji>🧄</e-moji>alho: <e-answer>alhos</e-answer>
+- <e-moji>🩳</e-moji>calção: <e-answer>calções</e-answer>
+- <e-moji>📏</e-moji>régua: <e-answer>réguas</e-answer>
+- <e-moji>🏞️</e-moji>paisagem: <e-answer>paisagens</e-answer>
+- <e-moji>👙</e-moji>biquíni: <e-answer>biquínis</e-answer>
+- <e-moji>🐕</e-moji>cão: <e-answer>cães</e-answer>
+- <e-moji>🍦</e-moji>gelado: <e-answer>gelados</e-answer>
+- <e-moji>🔌</e-moji>ficha: <e-answer>fichas</e-answer>
+- <e-moji>🍚</e-moji>arroz: <e-answer>arrozes</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>

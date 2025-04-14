@@ -35,6 +35,7 @@ A seguir, tiramos o *-n-* e escrevemos no seu lugar um til sobre a vogal anterio
 #### Exceções:
 - *cirurgião:* *cirurgiões*
 - *furacão:* *furacões*
+- *vulcão:* *vulcões*
 - *verão:* *verões*
 - *anão:* *anões*
 

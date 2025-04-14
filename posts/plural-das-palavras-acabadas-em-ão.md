@@ -22,6 +22,7 @@ Aprende o plural das palavras acabadas em *-ão* em dois simples passos:
 #### Exceções:
 - *cirurgião:* *cirurgiões*
 - *furacão:* *furacões*
+- *vulcão:* *vulcões*
 - *verão:* *verões*
 - *anão:* *anões*
 
