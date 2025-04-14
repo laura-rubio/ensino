@@ -30,43 +30,45 @@ Conjugar um verbo regular é facílimo, só tens de:
 
 Conjuga os verbos:
 
-1. Presente do indicativo de [morar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#622:morar/1)
+1. Presente do indicativo do verbo [falar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#141:falar/1)
 
-2. Presente do indicativo do verbo [voltar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#214:voltar/1)
+2. Presente do indicativo de [morar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#622:morar/1)
 
-3. Presente do indicativo do verbo [telefonar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#1110:telefonar/1)
+3. Presente do indicativo do verbo [ficar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#181:ficar/1)
 
-4. Presente do indicativo do verbo [falar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#141:falar/1)
+4. Presente do indicativo do verbo [voltar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#214:voltar/1)
 
-5. Presente do indicativo do verbo [lavar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#282:lavar/1)
+6. Presente do indicativo do verbo [lavar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#282:lavar/1)
 
 ### Série 2
 
 Conjuga os verbos:
 
-1. Presente do indicativo do verbo [apanhar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#635:apanhar/1)
+1. Presente do indicativo do verbo [achar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#516:achar/1)
 
-2. Presente do indicativo do verbo [ficar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#181:ficar/1)
+2. Presente do indicativo do verbo [estudar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#468:estudar/1) 
 
-3. Presente do indicativo do verbo [almoçar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#1100:almocar/1)
+3. Presente do indicativo do verbo [chegar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#206:chegar/1)
 
 4. Presente do indicativo do verbo [jogar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#223:jogar/1)
 
-5. Presente do indicativo do verbo [começar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#263:comecar/1)
+5. Presente do indicativo do verbo [brincar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#790:brincar/1)
 
+   
 ### Série 3
 
 Conjuga os verbos:
 
-1. Presente do indicativo do verbo [estudar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#468:estudar/1) 
+1. Presente do indicativo do verbo [adorar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#462:adorar/1)
 
-2. Presente do indicativo do verbo [brincar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#790:brincar/1)
+2. Presente do indicativo do verbo [detestar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#1174:detestar/1)
 
-3. Presente do indicativo do verbo [trabalhar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#155:trabalhar/1)
+3. Presente do indicativo do verbo [apanhar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#635:apanhar/1)
 
-4. Presente do indicativo do verbo [gostar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#169:gostar/1)
+4. Presente do indicativo do verbo [trabalhar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#155:trabalhar/1)
 
-5. Presente do indicativo do verbo [comprar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#267:comprar/1)
+5. Presente do indicativo do verbo [gostar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#169:gostar/1)
+
 
 ### Série 4
 
@@ -86,7 +88,7 @@ Conjuga os verbos:
 
 Conjuga os verbos:
 
-1. Presente do indicativo do verbo [dançar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#149:dancar/1)
+1. Presente do indicativo do verbo [comprar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#267:comprar/1)
 
 2. Presente do indicativo do verbo [pagar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#167:pagar/1)
 
