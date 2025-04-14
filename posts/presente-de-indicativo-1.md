@@ -64,12 +64,12 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Subir
-- Eu <e-answer>subo</e-answer>
-- Tu <e-answer>sobes</e-answer>
-- Ele, ela, você <e-answer>sobe</e-answer>
-- Nós <e-answer>subimos</e-answer>
-- Eles, elas, vocês <e-answer>sobem</e-answer>
+## Preferir
+- Eu <e-answer>prefiro</e-answer>
+- Tu <e-answer>preferes</e-answer>
+- Ele, ela, você <e-answer>prefere</e-answer>
+- Nós <e-answer>preferimos</e-answer>
+- Eles, elas, vocês <e-answer>preferem</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -100,21 +100,21 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Descer
-- Eu <e-answer>desço</e-answer>
-- Tu <e-answer>desces</e-answer>
-- Ele, ela, você <e-answer>desce</e-answer>
-- Nós <e-answer>descemos</e-answer>
-- Eles, elas, vocês <e-answer>descem</e-answer>
+## Ouvir
+- Eu <e-answer>ouço</e-answer> ou <e-answer>oiço</e-answer>
+- Tu <e-answer>ouves</e-answer>
+- Ele, ela, você <e-answer>ouve</e-answer>
+- Nós <e-answer>ouvimos</e-answer>
+- Eles, elas, vocês <e-answer>ouvem</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Medir
-- Eu <e-answer>meço</e-answer>
-- Tu <e-answer>medes</e-answer>
-- Ele, ela, você <e-answer>mede</e-answer>
-- Nós <e-answer>medimos</e-answer>
-- Eles, elas, vocês <e-answer>medem</e-answer>
+## Sair
+- Eu <e-answer>saio</e-answer>
+- Tu <e-answer>sais</e-answer>
+- Ele, ela, você <e-answer>sai</e-answer>
+- Nós <e-answer>saímos</e-answer>
+- Eles, elas, vocês <e-answer>saem</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -154,12 +154,12 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Começar
-- Eu <e-answer>começo</e-answer>
-- Tu <e-answer>começas</e-answer>
-- Ele, ela, você <e-answer>começa</e-answer>
-- Nós <e-answer>começamos</e-answer>
-- Eles, elas, vocês <e-answer>começam</e-answer>
+## Dormir
+- Eu <e-answer>durmo</e-answer>
+- Tu <e-answer>dormes</e-answer>
+- Ele, ela, você <e-answer>dorme</e-answer>
+- Nós <e-answer>dormimos</e-answer>
+- Eles, elas, vocês <e-answer>dormem</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
