@@ -9,33 +9,36 @@ Aprende o plural das palavras acabadas em *-ão* em dois simples passos:
 
 1º Vemos qual é o plural da palavra em castelhano:
 
-* mano > manos
-* pan > panes
-* razón > razones
+* *mano* > *manos*
+* *pan* > *panes*
+* *razón* > *razones*
 
 2º Feito isto, só temos que tirar o *-n-* e escrever no seu lugar um til sobre a vogal anterior:
 
-* manos > maos > mãos
-* panes > paes > pães
-* razones > razoes > razões
+* *manos* > *maos* > *mãos*
+* *panes* > *paes* > *pães*
+* *razones* > *razoes* > *razões*
 
 #### Exceções:
+- *cirurgião:* *cirurgiões*
+- *furacão:* *furacões*
+- *verão:* *verões*
+- *anão:* *anões*
 
-- cirurgião: cirurgiões
-- furação: furações
+No caso das dúas últimas, *verãos* e *anãos* são formas corretas, mas muito pouco usadas.
 
 <article>
 Atenta nisto!
 
 Apesar de haver um *-i-* no plural em castelhano, a forma do plural em português não tem *-i-* a maioria das vezes, porque também não há *-i-* no singular (*canç-ão, emoç-ão):* 
 
-- canc~~i~~ones > cançoes > canções 
-- emoc~~i~~ones > emoçoes > emoções
+- *canc~~i~~ones* > *cançoes* > *canções* 
+- *emoc~~i~~ones* > *emoçoes* > *emoções*
 
-Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<mark>i</mark>-ão, ocas<mark>i</mark>-ão):*
+Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<mark>i</mark>-ão, ocas<mark>i</mark>-ão):* 
 
-- religiones > religioes > relig<mark>i</mark>ões
-- ocasiones > ocasioes > ocas<mark>i</mark>ões
+- *religiones* > *religioes* > *relig<mark>i</mark>ões*
+- *ocasiones* > *ocasioes* > *ocas<mark>i</mark>ões*
   
 </article>
 
@@ -76,7 +79,7 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 
 21. televisão: <e-answer>televisões</e-answer>
 22. inscrição: <e-answer>inscrições</e-answer>
-23. verão: <e-answer>verãos</e-answer> Esta palavra tem dois plurais, o outro é *verões*
+23. verão: <e-answer>verões</e-answer> (*verãos* é pouco usada)
 24. função: <e-answer>funções</e-answer>
 25. opinião: <e-answer>opiniões</e-answer>
 26. definição: <e-answer>definições</e-answer>
@@ -114,7 +117,7 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 47. pinhão: <e-answer>pinhões</e-answer>
 48. tradição: <e-answer>tradições</e-answer>
 49. balão: <e-answer>balões</e-answer>
-50. anão: <e-answer>anãos</e-answer> *Anão* também tem dois plurais, a outra forma é *anões*
+50. anão: <e-answer>anões</e-answer> (*anãos* é pouco usada) 
 
 <e-validate>Verifica as respostas</e-validate>
 

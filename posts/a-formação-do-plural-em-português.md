@@ -10,12 +10,12 @@ show_toc: false
 ### 1.1 Regra geral > Acrescentam um *-s* ao singular
 
 #### Exemplos:
-- caderno > cadernos
-- sofá > sofás
-- pai > pais
-- irmã > irmãs
-- céu > céus
-- pessoa > pessoas
+- *caderno* > *cadernos*
+- *sofá* > *sofás*
+- *pai* > *pais*
+- *irmã* > *irmãs*
+- *céu* > *céus*
+- *pessoa* > *pessoas*
 
 ### 1.2 As palavras terminadas no ditongo nasal *-ão*
 
@@ -29,21 +29,29 @@ A seguir, tiramos o *-n-* e escrevemos no seu lugar um til sobre a vogal anterio
 
 #### Exemplos:
 
-- irmão > irmãos
-- alemão > alemães
+- *irmão* > *irmãos*
+- *alemão* > *alemães*
+
+#### Exceções:
+- *cirurgião:* *cirurgiões*
+- *furacão:* *furacões*
+- *verão:* *verões*
+- *anão:* *anões*
+
+No caso das dúas últimas, *verãos* e *anãos* são formas corretas, mas muito pouco usadas.
 
 <article>
 Atenta nisto!
 
 Apesar de haver um *-i-* no plural em castelhano, a forma do plural em português não tem *-i-* a maioria das vezes, porque também não há *-i-* no singular (*canç-ão, emoç-ão):* 
 
-- canc~~i~~ones > cançoes > canções 
-- emoc~~i~~ones > emoçoes > emoções
+- *canc~~i~~ones* > *cançoes* > *canções* 
+- *emoc~~i~~ones* > *emoçoes* > *emoções*
 
 Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<mark>i</mark>-ão, ocas<mark>i</mark>-ão):* 
 
-- religiones > religioes > relig<mark>i</mark>ões
-- ocasiones > ocasioes > ocas<mark>i</mark>ões
+- *religiones* > *religioes* > *relig<mark>i</mark>ões*
+- *ocasiones* > *ocasioes* > *ocas<mark>i</mark>ões*
   
 </article>
 
@@ -51,25 +59,25 @@ Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<m
 
 #### Exemplos:
 
-- país > países
-- mulher > mulheres
-- rapaz > rapazes
-- abdómen > abdómenes
+- *país* > *países*
+- *mulher* > *mulheres*
+- *rapaz* > *rapazes*
+- *abdómen* > *abdómenes*
   
 ### Exceções: 
-- o lápis > os lápis
-- o ténis > os ténis
-- o clímax > os clímax
-- o tórax > os tórax
+- *o lápis* > *os lápis*
+- *o ténis* > *os ténis*
+- *o clímax* > *os clímax*
+- *o tórax* > *os tórax*
 
 
 ## 3. As palavras acabadas em *-m,* trocam o *-m* por *-ns*
 
 #### Exemplos:
 
-- jardim > jardins
-- homem > homens
-- bom > bons
+- *jardim* > *jardins*
+- *homem* > *homens*
+- *bom* > *bons*
 
 
 ## 4. As palavras terminadas em *-l*
@@ -78,21 +86,22 @@ Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<m
 
 #### Exemplos:
 
-- igual >  iguais
-- telemóvel > telemóveis
-- infantil > infantis
-- espanhol > espanhóis
-- azul > azuis
+- *igual* >  *iguais*
+- *telemóvel* > *telemóveis*
+- *infantil* > *infantis*
+- *espanhol* > *espanhóis*
+- *azul* > *azuis*
 
 #### Exceções: 
 
-- o cônsul > os cônsules 
-- o mal > os males
-- o til > os tiles
+- *cônsul* > *cônsules* 
+- *mal* > *males*
+- *til* > *tiles*
+- *mel* > *meles* e também *méis*
 
 ### 4.2 As palavras graves acabadas em *-il,* trocam o *-il* por -*eis*
 
 #### Exemplos:
 
-- fácil > fáceis
-- réptil > répteis
+- *fácil* > *fáceis*
+- *réptil* > *répteis*
