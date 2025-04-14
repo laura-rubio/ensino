@@ -335,7 +335,7 @@ summary: Verbos irregulares
       <li>eu passeei </li>
       <li>tu passeaste </li>
       <li>ele, ela, você passeou </li>
-      <li>nós passeamos </li>
+      <li>nós passeámos </li>
       <li>eles, elas, vocês passearam </li>
     </ul>
   </div>
@@ -405,5 +405,3 @@ summary: Verbos irregulares
     </ul>
   </div>
 </e-card>
-
-
