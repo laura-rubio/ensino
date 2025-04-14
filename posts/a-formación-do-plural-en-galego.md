@@ -8,32 +8,33 @@ show_toc: false
 ## 1. As palabras terminadas en vogal acrecentan un *-s* ao singular
 
 #### Exemplos:
-- caderno > cadernos
-- sofá > sofás
-- pai > pais
-- chapeu > chapeus
-- persoa > persoas
+- *caderno* > *cadernos*
+- *sofá* > *sofás*
+- *pai* > *pais*
+- *chapeu* > *chapeus*
+- *persoa* > *persoas*
 
 
 ## 2. As palabras acabadas en consoante *-r,* *-s* ou *-z* acrecentan *-es*
 
 #### Exemplos:
-- muller > mulleres
-- país > países
-- rapaz > rapaces
+- *muller* > *mulleres*
+- *país* > *países*
+- *rapaz* > *rapaces*
 
-### Excepcións: 
-- o lapis > os lapis
-- o tenis > os tenis
-- o clímax > os clímax
-- o tórax > os tórax
+#### Excepcións: 
+- *o lapis* > *os lapis*
+- *o tenis* > *os tenis*
+- *o clímax* > *os clímax*
+- *o tórax* > *os tórax*
 
 
 ## 3. As palabras acabadas em *-n,* trocan o *-n* por *-ns*
 
 #### Exemplos:
 
-- canción > cancións
+- *atención* > *atencións*
+- *canción* > *cancións*
 
 ## 4. As palabras terminadas en *-l*
 
@@ -41,29 +42,29 @@ show_toc: false
 
 #### Exemplos:
 
-- fel > feles
-- mol > moles
+- *pel* > *peles*
+- *mol* > *moles*
 
 As palabras compostas en que o 2º elemento é un monosílabo acabado en *-l* tamén acrecentan *-es*
 
 #### Exemplos:
 
-- ollomol > ollomoles
+- *ollomol* > *ollomoles*
 
 ### 4.2 As palabras agudas polisílabas trocam o *-l* por *-is*
 
-- igual > iguais
-- español > españois
-- azul > azuis
+- *igual* > *iguais*
+- *español* > *españois*
+- *azul* > *azuis*
 
 <article> 
 
 Presta atención!
 
-As acabadas em *-il* perden o *-i* da antiga secuencia *-iis*
+As acabadas em *-il* perden o *-i* da antiga secuencia *-iis:*
 
-- infantil > infantís
-- cadril > cadrís
+- *infantil* > *infantís*
+- *cadril* > *cadrís*
 
 </article>
 
@@ -71,19 +72,20 @@ As acabadas em *-il* perden o *-i* da antiga secuencia *-iis*
 
 #### Exemplos:
 
-- fácil > fáciles
-- téxtil > téxtiles
+- *fácil* > *fáciles*
+- *téxtil* > *téxtiles*
 
 <article>
 Presta atención!
 
-A terminación *-bel,* fai o plural en *-beis*
+A terminación *-bel,* fai o plural en *-beis:*
 
-amigábel > amigábeis
+- *amigábel* > *amigábeis*
+- *incríbel* > *incríbeis*
 </article>
 
 ## 5. As palabras terminadas noutras consoantes distintas das xa vistas acrecentan -s
 
 #### Exemplos:
-- club: clubs
-- pub: pubs
+- *club:* *clubs*
+- *pub:* *pubs*
