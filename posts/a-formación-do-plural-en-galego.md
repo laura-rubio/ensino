@@ -29,7 +29,7 @@ show_toc: false
 - *o tórax* > *os tórax*
 
 
-## 3. As palabras acabadas em *-n,* trocan o *-n* por *-ns*
+## 3. As palabras acabadas en *-n,* trocan o *-n* por *-ns*
 
 #### Exemplos:
 
@@ -51,7 +51,7 @@ As palabras compostas en que o 2º elemento é un monosílabo acabado en *-l* ta
 
 - *ollomol* > *ollomoles*
 
-### 4.2 As palabras agudas polisílabas trocam o *-l* por *-is*
+### 4.2 As palabras agudas polisílabas trocan o *-l* por *-is*
 
 - *igual* > *iguais*
 - *español* > *españois*
