@@ -9,7 +9,7 @@ Todo o mundo sabe que o artigo e o substantivo non poden estar afastados un do o
 
 O artigo antecede sempre o substantivo e, como acontece coas relacións, a unión só será harmoniosa se ambos concordaren en xénero e número.
 
-Ten en conta isto, e acaba coa soidade dos substantivos das seguintes series xuntando cada un co seu par perfecto: 
+Ten en conta isto, acaba coa soidade dos substantivos das seguintes series xuntando cada un co seu par perfecto: 
 
 
 # Serie 1
