@@ -168,6 +168,20 @@ Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4
 
 <e-validate>Verifica as respostas</e-validate>
 
+## Série 9
+81. alteração: <e-answer>alterações</e-answer>
+82. campeão: <e-answer>campeões</e-answer>
+83. órgão: <e-answer>órgãos</e-answer>
+84. cirurgião: <e-answer>cirurgiões</e-answer>
+85. vulcão: <e-answer>vulcões</e-answer>
+86. paixão: <e-answer>paixões</e-answer>
+87. ração: <e-answer>rações</e-answer>
+88. pressão: <e-answer>pressões</e-answer>
+89. catalão: <e-answer>catalães</e-answer>
+90. sabão: <e-answer>sabões</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
 A regra que acabamos de aprender também a podemos aplicar a alguns aumentativos: 
 
 Exemplo: *narigão* > *narigões*
