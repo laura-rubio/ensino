@@ -69,6 +69,7 @@ Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<m
 #### Exceções: 
 - *o lápis:* *os lápis*
 - *o ténis:* *os ténis*
+- *o vírus:* *os vírus*
 - *o clímax:* *os clímax*
 - *o tórax:* *os tórax*
 
@@ -77,9 +78,9 @@ Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<m
 
 #### Exemplos:
 
-- *jardim:* *jardins*
-- *homem:* *homens*
-- *bom:* *bons*
+- *jardim:* *jardi~~m~~* + *-ns* > *jardins*
+- *homem:* *home~~m~~* + *-ns* >*homens*
+- *bom:* *bo~~m~~* + *-ns* >*bons*
 
 
 ## 4. As palavras terminadas em *-l*
@@ -88,11 +89,11 @@ Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<m
 
 #### Exemplos:
 
-- *qual:* *quais*
-- *telemóvel:* *telemóveis*
-- *infantil:* *infantis*
-- *espanhol:* *espanhóis*
-- *azul:* *azuis*
+- *qual:* *qua~~l~~* + *-is* > *quais*
+- *telemóvel:* *telemóve~~l~~* + *-is* > *telemóveis*
+- *infantil:* *infanti~~l~~* + *-is* > *infantis*
+- *espanhol:* *espanho~~l~~* + *-is* > *espanhóis*
+- *azul:* *azu~~l~~* + *-is* > *azuis*
 
 #### Exceções: 
 
@@ -111,5 +112,5 @@ Há ainda um pequeno grupo de palavras com mais do que um plural:
 
 #### Exemplos:
 
-- *fácil:* *fáceis*
-- *réptil:* *répteis*
+- *fácil:* *fác~~il~~* + *-eis* > *fáceis*
+- *réptil:* *répt~~il~~* + *-eis* > *répteis*
