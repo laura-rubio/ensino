@@ -20,13 +20,15 @@ Aprende o plural das palavras acabadas em *-ão* em dois simples passos:
 * *razones* > *razoes* > *razões*
 
 #### Exceções:
+- *bênção:* *bênçãos*
 - *cirurgião:* *cirurgiões*
 - *furacão:* *furacões*
 - *vulcão:* *vulcões*
 - *verão:* *verões*
 - *anão:* *anões*
+- *corrimão:* *corrimões*
 
-*Verãos* e *anãos* são formas corretas, mas muito pouco usadas.
+*Verãos,* *anãos* e *corrimãos* são formas corretas, mas muito pouco usadas.
 
 <article>
 Atenta nisto!
@@ -40,7 +42,7 @@ Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<m
 
 - *religiones* > *religioes* > *relig<mark>i</mark>ões*
 - *ocasiones* > *ocasioes* > *ocas<mark>i</mark>ões*
-
+  
 </article>
 
 É canja! Agora é a tua vez! Passa para o plural as seguintes palavras:

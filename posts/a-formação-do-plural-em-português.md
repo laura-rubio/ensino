@@ -10,12 +10,12 @@ show_toc: false
 ### 1.1 Regra geral > Acrescentam um *-s* ao singular
 
 #### Exemplos:
-- *caderno* > *cadernos*
-- *sofá* > *sofás*
-- *pai* > *pais*
-- *irmã* > *irmãs*
-- *céu* > *céus*
-- *pessoa* > *pessoas*
+- *caderno:* *cadernos*
+- *sofá:* *sofás*
+- *pai:* *pais*
+- *irmã:* *irmãs*
+- *céu:* *céus*
+- *pessoa:* *pessoas*
 
 ### 1.2 As palavras terminadas no ditongo nasal *-ão*
 
@@ -28,18 +28,19 @@ A seguir, tiramos o *-n-* e escrevemos no seu lugar um til sobre a vogal anterio
 *manos > maos > mãos*
 
 #### Exemplos:
-
-- *irmão* > *irmãos*
-- *alemão* > *alemães*
+- *irmão:* *irmãos*
+- *alemão:* *alemães*
 
 #### Exceções:
+- *bênção:* *bênçãos*
 - *cirurgião:* *cirurgiões*
 - *furacão:* *furacões*
 - *vulcão:* *vulcões*
 - *verão:* *verões*
 - *anão:* *anões*
+- *corrimão:* *corrimões*
 
-*Verãos* e *anãos* são formas corretas, mas muito pouco usadas.
+*Verãos,* *anãos* e *corrimãos* são formas corretas, mas muito pouco usadas.
 
 <article>
 Atenta nisto!
@@ -60,25 +61,25 @@ Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<m
 
 #### Exemplos:
 
-- *país* > *países*
-- *mulher* > *mulheres*
-- *rapaz* > *rapazes*
-- *abdómen* > *abdómenes*
+- *país:* *países*
+- *mulher:* *mulheres*
+- *rapaz:* *rapazes*
+- *abdómen:* *abdómenes*
   
 #### Exceções: 
-- *o lápis* > *os lápis*
-- *o ténis* > *os ténis*
-- *o clímax* > *os clímax*
-- *o tórax* > *os tórax*
+- *o lápis:* *os lápis*
+- *o ténis:* *os ténis*
+- *o clímax:* *os clímax*
+- *o tórax:* *os tórax*
 
 
 ## 3. As palavras acabadas em *-m,* trocam o *-m* por *-ns*
 
 #### Exemplos:
 
-- *jardim* > *jardins*
-- *homem* > *homens*
-- *bom* > *bons*
+- *jardim:* *jardins*
+- *homem:* *homens*
+- *bom:* *bons*
 
 
 ## 4. As palavras terminadas em *-l*
@@ -87,22 +88,28 @@ Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<m
 
 #### Exemplos:
 
-- *igual* >  *iguais*
-- *telemóvel* > *telemóveis*
-- *infantil* > *infantis*
-- *espanhol* > *espanhóis*
-- *azul* > *azuis*
+- *qual:* *quais*
+- *telemóvel:* *telemóveis*
+- *infantil:* *infantis*
+- *espanhol:* *espanhóis*
+- *azul:* *azuis*
 
 #### Exceções: 
 
 - *cônsul* > *cônsules* 
 - *mal* > *males*
-- *til* > *tiles*
-- *mel* > *meles* e também *méis*
+
+Há ainda um pequeno grupo de palavras com mais do que um plural:
+
+- *aval:* *avais* ou *avales*
+- *cal:* *cais* ou *cales*
+- *gel:* *géis* ou *geles*
+- *mel:* *méis* ou *meles*
+- *til:* *tis* ou *tiles*
 
 ### 4.2 As palavras graves acabadas em *-il,* trocam o *-il* por -*eis*
 
 #### Exemplos:
 
-- *fácil* > *fáceis*
-- *réptil* > *répteis*
+- *fácil:* *fáceis*
+- *réptil:* *répteis*
