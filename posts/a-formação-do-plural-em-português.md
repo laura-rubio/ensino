@@ -74,7 +74,7 @@ Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<m
 - *o tórax:* *os tórax*
 
 
-## 3. As palavras acabadas em *-m,* trocam o *-m* por *-ns*
+## 3. As palavras acabadas em *-m* trocam esse *-m* por *-ns*
 
 #### Exemplos:
 
@@ -108,7 +108,7 @@ Há ainda um pequeno grupo de palavras com mais do que um plural:
 - *mel:* *méis* ou *meles*
 - *til:* *tis* ou *tiles*
 
-### 4.2 As palavras graves acabadas em *-il,* trocam o *-il* por -*eis*
+### 4.2 As palavras graves acabadas em *-il* trocam o *-il* por -*eis*
 
 #### Exemplos:
 
