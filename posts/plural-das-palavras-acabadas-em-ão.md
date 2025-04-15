@@ -183,4 +183,4 @@ Bora! Tenta tu agora! Qual é o plural de:
 
 <e-validate>Verifica as respostas</e-validate>
 
-Como *verão* e *anão, charlatão* é uma dessas palavras que admiten duas formas para o plural, olha o vídeo da RTP ensina para saberes quais são essas duas formas: [charlatão](https://ensina.rtp.pt/artigo/plural-de-palavras-terminadas-em-ao/)
+Como *verão* e *anão, charlatão* é uma dessas palavras que admitem duas formas para o plural, olha o vídeo da RTP ensina para saberes quais são essas duas formas: [charlatão](https://ensina.rtp.pt/artigo/plural-de-palavras-terminadas-em-ao/)
