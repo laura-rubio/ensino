@@ -73,7 +73,6 @@ Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<m
 - *o clímax:* *os clímax*
 - *o tórax:* *os tórax*
 
-
 ## 3. As palavras acabadas em *-m* trocam esse *-m* por *-ns*
 
 #### Exemplos:

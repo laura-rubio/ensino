@@ -30,6 +30,8 @@ show_toc: false
 - *alemão:* *alemã*
 - *catalão:* *catalã*
 - *capitão:* *capitã*
+- *órfão:* *órfã*
+- *campeão:* *campeã*
 
 ### 3.2 Trocam *-ão* por *-ona*
 #### Exemplos
@@ -39,6 +41,7 @@ show_toc: false
 ### 3.3 Trocam *-ão* por *-oa*
 #### Exemplos: 
 - *leão:* *leoa*
+- *leitão:* *leitoa*
 - *patrão:* *patroa*
 - *anfitrião:* *anfitrioa* Também anfitriã
 
@@ -47,10 +50,21 @@ show_toc: false
 - *ladrão:* *ladra*
 
 ## 4. Os nomes terminados em *-eu* substituem *-eu* por *-eia:* 
-
 #### Exemplos:
 - *europeu:* *europeia*
+- *ateu:* *ateia*
 - *plebeu:* *plebeia*
+- *pigmeu:* *pigmeia*
 
 #### Exceções: 
 - *judeu:* *judia*
+- *sandeu:* *sandia*
+
+## 5. Os nomes terminados em *-u* acrescentam um -a 
+#### Exemplos:
+- *cru:* *crua*
+- *nu:* *nua*
+- *peru:* *perua*
+
+#### Exceções:
+- *mau:* *má*
