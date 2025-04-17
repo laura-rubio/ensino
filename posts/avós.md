@@ -6,16 +6,16 @@ draft: false
 show_toc: false
 ---
 <e-moji>👴🏻</e-moji> + <e-moji>👴🏻</e-moji>
-## avô + avô = avôs
+## o avô + o avô = os avôs
 ---
 <e-moji>👵🏻</e-moji> + <e-moji>👵🏻</e-moji>
-## avó + avó = avós
+## a avó + a avó = as avós
 ---
 <e-moji>👴🏻</e-moji> + <e-moji>👵🏻</e-moji> 
-## avô + avó = avós
+## o avô + a avó = os avós
 ---
 <e-moji>👴🏻</e-moji> + <e-moji>👴🏻</e-moji> + <e-moji>👵🏻</e-moji> + <e-moji>👵🏻</e-moji>
-## avô + avô + avó + avó = avós
+## o avô + o avô + a avó + a avó = os avós
 
 
 <article>
