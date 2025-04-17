@@ -188,3 +188,18 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🍚</e-moji>arroz: <e-answer>arrozes</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## 12. Passa para o plural
+
+- <e-moji>🐸</e-moji>rã: <e-answer>rãs</e-answer>
+- <e-moji>🚬</e-moji>cigarro: <e-answer>cigarros</e-answer>
+- <e-moji>🦸‍♂️</e-moji>herói: <e-answer>heróis</e-answer>
+- <e-moji>🪭</e-moji>leque: <e-answer>leques</e-answer>
+- <e-moji>💳</e-moji>cartão: <e-answer>cartões</e-answer>
+- <e-moji>🤰🏻</e-moji>gravidez: <e-answer>gravidezes</e-answer>
+- <e-moji>🔦</e-moji>lanterna: <e-answer>lanternas</e-answer>
+- <e-moji>🧑‍🎨</e-moji>pintor: <e-answer>pintores</e-answer>
+- <e-moji>🍉</e-moji>melancia: <e-answer>melancias</e-answer>
+- <e-moji>🍗</e-moji>coxa: <e-answer>coxas</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>

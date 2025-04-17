@@ -18,21 +18,21 @@ Forma o feminino destes substantivos epicenos, conforme o exemplo:
 
 <e-moji>🐜</e-moji> a formiga macho: a <e-answer>formiga</e-answer><e-answer>fêmea</e-answer>
 
+<e-moji>🦔</e-moji> o ouriço-cacheiro macho: o <e-answer>ouriço-cacheiro</e-answer><e-answer>fêmea</e-answer>
+
+<e-moji>🐢</e-moji> a tartaruga macho: a <e-answer>tartaruga</e-answer><e-answer>fêmea</e-answer>
+
+<e-moji>🐬</e-moji> o golfinho macho: o <e-answer>golfinho</e-answer><e-answer>fêmea</e-answer>
+
+<e-moji>🦅</e-moji> a águia macho: a <e-answer>águia</e-answer><e-answer>fêmea</e-answer>
+
 <e-moji>🐊</e-moji> o crocodilo macho: o <e-answer>crocodilo</e-answer><e-answer>fêmea</e-answer>
 
 <e-moji>🦒</e-moji> a girafa macho: a <e-answer>girafa</e-answer><e-answer>fêmea</e-answer>
 
-<e-moji>🐬</e-moji> o golfinho macho: o <e-answer>golfinho</e-answer><e-answer>fêmea</e-answer>
-
-<e-moji>🦓</e-moji> a zebra macho: a <e-answer>zebra</e-answer><e-answer>fêmea</e-answer>
-
 <e-moji>🐧</e-moji> o pinguim macho: o <e-answer>pinguim</e-answer><e-answer>fêmea</e-answer>
 
-<e-moji>🦅</e-moji> a águia macho: a <e-answer>águia</e-answer><e-answer>fêmea</e-answer>
-
-<e-moji>🐢</e-moji> a tartaruga macho: a <e-answer>tartaruga</e-answer><e-answer>fêmea</e-answer>
-
-<e-moji>🦔</e-moji> o ouriço-cacheiro macho: o <e-answer>ouriço-cacheiro</e-answer><e-answer>fêmea</e-answer>
+<e-moji>🦓</e-moji> a zebra macho: a <e-answer>zebra</e-answer><e-answer>fêmea</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
