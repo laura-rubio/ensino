@@ -21,6 +21,8 @@ show_toc: false
 <article>
 Repara!
 
+*Avô* e *avó* não têm a mesma pronúncia:
+
 - O *o* com acento circunflexo <ô> é um *o* fechado [o] 
   
 - O *o* com acento agudo <ó> é um *o* aberto [ɔ]
