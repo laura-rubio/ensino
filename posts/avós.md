@@ -19,10 +19,11 @@ show_toc: false
 
 
 <article>
-O acento é importante!
+Repara!
 
-- Este *ô* é um *o* fechado
+- O *o* com acento circunflexo <ô> é um *o* fechado [o] 
   
-- Este *ó* é um *o* aberto
+- O *o* com acento agudo <ó> é um *o* aberto [ɔ]
 
+O acento é importante!
 </article>
