@@ -1,8 +1,10 @@
 ---
-title: Pan, pan
+title: 'Pan, pan'
 summary: Todas as palabras necesarias para falares do pan
 tags:
   - lexico
+draft: false
+show_toc: false
 ---
 ## Exercicio 1
 
@@ -126,19 +128,20 @@ Na seguinte serie hai catro palabras intrusas que non usamos para falar de porci
 <e-tag color=7>toro</e-tag>
 <e-tag color=7>pedazo</e-tag>
 <e-tag color=7>codelo</e-tag>
-<e-tag color=7>cubo</e-tag>
+<e-tag color=7>pedra</e-tag>
 <e-tag color=7>faragulla</e-tag>
 <e-tag color=7>anaco</e-tag>
 <e-tag color=7>dente</e-tag>
 <e-tag color=7>rocho</e-tag>
-<e-tag color=7>filete</e-tag>
+<e-tag color=7>costeleta</e-tag>
 </e-layout>
 
 Completa os espazos coas palabras intrusas:
 
-1. un <e-answer>filete</e-answer> de porco
-2. un <e-answer>cubo</e-answer> de xeo
-3. un <e-answer>toro</e-answer> de pescada
-4. un <e-answer>dente</e-answer> de allo
+1. unha <e-answer>costeleta</e-answer> de porco
+2. un <e-answer>dente</e-answer> de allo
+3. unha <e-answer>pedra</e-answer> de xeo
+4. un <e-answer>toro</e-answer> de pescada
+
 
 <e-validate>Verifica as respostas</e-validate>
