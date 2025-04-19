@@ -203,3 +203,33 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🍗</e-moji>coxa: <e-answer>coxas</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## 13. Passa para o plural
+
+- <e-moji>🛑</e-moji>sinal: <e-answer>sinais</e-answer>
+- <e-moji>🫧</e-moji>bolha: <e-answer>bolhas</e-answer>
+- <e-moji>🦡</e-moji>texugo: <e-answer>texugos</e-answer>
+- <e-moji>🌋</e-moji>vulcão: <e-answer>vulcões</e-answer>
+- <e-moji>🤱</e-moji>mãe: <e-answer>mães</e-answer>
+- <e-moji>🖨️</e-moji>impressora: <e-answer>impressoras</e-answer>
+- <e-moji>🧀</e-moji>queijo: <e-answer>queijos</e-answer>
+- <e-moji>🪧</e-moji>cartaz: <e-answer>cartazes</e-answer>
+- <e-moji>🪱</e-moji>minhoca: <e-answer>minhocas</e-answer>
+- <e-moji>🧴</e-moji>gel: <e-answer readonly>géis</e-answer> ou <e-answer>geles</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## 14. Passa para o plural
+
+- <e-moji>☕</e-moji>café: <e-answer>cafés</e-answer>
+- <e-moji>🛢️</e-moji>barril: <e-answer>barris</e-answer>
+- <e-moji>🔨</e-moji>martelo: <e-answer>martelos</e-answer>
+- <e-moji>⚡</e-moji>raio: <e-answer>raios</e-answer>
+- <e-moji>👨‍🏫</e-moji>professor: <e-answer>professores</e-answer>
+- <e-moji>👒</e-moji>chapéu: <e-answer>chapéus</e-answer>
+- <e-moji>😃</e-moji>feliz: <e-answer>felizes</e-answer>
+- <e-moji>🚀</e-moji>foguetão: <e-answer>foguetões</e-answer>
+- <e-moji>🥑</e-moji>abacate: <e-answer>abacates</e-answer>
+- <e-moji>🎿</e-moji>esqui: <e-answer>esquis</e-answer>
+<e-validate>Verifica as respostas</e-validate>
+
