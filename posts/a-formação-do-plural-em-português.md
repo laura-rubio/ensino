@@ -60,12 +60,11 @@ Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<m
 ## 2. As palavras acabadas em consoante, exceto *-l* e *-m,* acrescentam *-es*
 
 #### Exemplos:
-
-- *país:* *países*
-- *mulher:* *mulheres*
-- *rapaz:* *rapazes*
 - *abdómen:* *abdómenes*
-  
+- *dor:* *dores*
+- *país:* *países*
+- *rapaz:* *rapazes*
+
 #### Exceções: 
 - *o lápis:* *os lápis*
 - *o ténis:* *os ténis*
@@ -76,11 +75,9 @@ Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<m
 ## 3. As palavras acabadas em *-m* trocam esse *-m* por *-ns*
 
 #### Exemplos:
-
-- *jardim:* *jardi~~m~~* + *-ns* > *jardins*
-- *homem:* *home~~m~~* + *-ns* >*homens*
 - *bom:* *bo~~m~~* + *-ns* >*bons*
-
+- *jardim:* *jardi~~m~~* + *-ns* > *jardins*
+- *viagem:* *viage~~m~~* + *-ns* >*viagens*
 
 ## 4. As palavras terminadas em *-l*
 

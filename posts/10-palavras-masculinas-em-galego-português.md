@@ -6,13 +6,15 @@ tags:
 draft: false
 show_toc: false
 ---
-1. <e-moji>🥛</e-moji> o leite
-2. <e-moji>🩸</e-moji> o sangue
-3. <e-moji>🍯</e-moji> o mel
-4. <e-moji>☺️</e-moji> o sorriso
-5. <e-moji>👃🏼</e-moji> o nariz
-6. <e-moji>🧂</e-moji> o sal
-7. <e-moji>🇱</e-moji> o ele
-8. <e-moji>🫏</e-moji> o couce
-9. <e-moji>🛑</e-moji> o sinal
-10. <e-moji>🫛</e-moji> o legume
+Eis mais uma lista para acabar com **o costume** de atribuir género feminino a 10 palavras (+1) que são masculinas.
+
+1. <e-moji>🥛</e-moji> **o leite**
+2. <e-moji>🩸</e-moji> **o sangue**
+3. <e-moji>🍯</e-moji> **o mel**
+4. <e-moji>☺️</e-moji> **o sorriso** e também <e-moji>😄</e-moji> **o riso**
+6. <e-moji>👃🏼</e-moji> **o nariz**
+7. <e-moji>🧂</e-moji> **o sal**
+8. <e-moji>🇱</e-moji> **o ele**
+9. <e-moji>🫏</e-moji> **o couce/coice**
+10. <e-moji>🛑</e-moji> **o sinal**
+11. <e-moji>🫛</e-moji> **o legume**
