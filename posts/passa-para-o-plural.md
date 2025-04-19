@@ -230,6 +230,22 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>😃</e-moji>feliz: <e-answer>felizes</e-answer>
 - <e-moji>🚀</e-moji>foguetão: <e-answer>foguetões</e-answer>
 - <e-moji>🥑</e-moji>abacate: <e-answer>abacates</e-answer>
+- <e-moji>🐦</e-moji>pássaro: <e-answer>pássaros</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## 15. Passa para o plural
+
+- <e-moji>🚏</e-moji>paragem: <e-answer>paragens</e-answer>
+- <e-moji>🔔</e-moji>sino: <e-answer>sinos</e-answer>
+- <e-moji>🍖</e-moji>pernil: <e-answer>pernis</e-answer>
+- <e-moji>🌊</e-moji>onda: <e-answer>ondas</e-answer>
+- <e-moji>🪸</e-moji>coral: <e-answer>corais</e-answer>
+- <e-moji>🧹</e-moji>vassoura: <e-answer>vassouras</e-answer>
 - <e-moji>🎿</e-moji>esqui: <e-answer>esquis</e-answer>
+- <e-moji>🧑‍🎤</e-moji>cantor: <e-answer>cantores</e-answer>
+- <e-moji>🫁</e-moji>pulmão: <e-answer>pulmões</e-answer>
+- <e-moji>🛴</e-moji>trotinete: <e-answer>trotinetes</e-answer>
+
 <e-validate>Verifica as respostas</e-validate>
 
