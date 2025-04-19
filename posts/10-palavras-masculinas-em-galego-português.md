@@ -10,11 +10,11 @@ Eis mais uma lista para acabar com **o costume** de atribuir género feminino a 
 
 1. <e-moji>🥛</e-moji> **o leite**
 2. <e-moji>🩸</e-moji> **o sangue**
-3. <e-moji>🍯</e-moji> **o mel**
+3. <e-moji>👃🏼</e-moji> **o nariz**
 4. <e-moji>☺️</e-moji> **o sorriso** e também <e-moji>😄</e-moji> **o riso**
-6. <e-moji>👃🏼</e-moji> **o nariz**
-7. <e-moji>🧂</e-moji> **o sal**
-8. <e-moji>🇱</e-moji> **o ele**
-9. <e-moji>🫏</e-moji> **o couce/coice**
-10. <e-moji>🛑</e-moji> **o sinal**
-11. <e-moji>🫛</e-moji> **o legume**
+5. <e-moji>🧂</e-moji> **o sal**
+6. <e-moji>🛑</e-moji> **o sinal**
+7. <e-moji>🇱</e-moji> **o ele**
+8. <e-moji>🫛</e-moji> **o legume**
+9. <e-moji>🍯</e-moji> **o mel**
+10. <e-moji>🫏</e-moji> **o couce/coice**
