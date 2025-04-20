@@ -108,7 +108,7 @@ Antes de comezares, consulta o *post* sobre a formación do plural 👇
 
 ## 8. Pasa para o plural
 - <e-moji>🛤️</e-moji> carril: <e-answer>carrís</e-answer>
-- <e-moji>🦴</e-moji> oso: <e-answer>osos</e-answer>
+- <e-moji>🦴</e-moji> óso: <e-answer>ósos</e-answer>
 - <e-moji>🐳</e-moji> balea: <e-answer>baleas</e-answer>
 - <e-moji>🍋</e-moji> limón: <e-answer>limóns</e-answer>
 - <e-moji>🦇</e-moji> morcego: <e-answer>morcegos</e-answer>
