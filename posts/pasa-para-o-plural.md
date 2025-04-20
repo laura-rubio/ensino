@@ -137,7 +137,7 @@ Antes de comezares, consulta o *post* sobre a formación do plural 👇
 ## 10. Pasa para o plural
 - <e-moji>✝️</e-moji> cruz: <e-answer>cruces</e-answer>
 - <e-moji>🍍</e-moji> ananás: <e-answer>ananases</e-answer>
-- <e-moji>☘️</e-moji> trebo: <e-answer>trebos</e-answer>
+- <e-moji>☘️</e-moji> trevo: <e-answer>trevos</e-answer>
 - <e-moji>🧹</e-moji> vasoira: <e-answer>vasoiras</e-answer>
 - <e-moji>🦂</e-moji> escorpión: <e-answer>escorpións</e-answer>
 - <e-moji>🧯</e-moji> extintor: <e-answer>extintores</e-answer>
