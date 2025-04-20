@@ -146,7 +146,6 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 <e-validate>Verifica as respostas</e-validate>
 
 ## 10. Passa para o plural
-- <e-moji>♰</e-moji> cruz: <e-answer>cruzes</e-answer>
 - <e-moji>✝️</e-moji> cruz: <e-answer>cruzes</e-answer>
 - <e-moji>🍍</e-moji> ananás: <e-answer>ananases</e-answer>
 - <e-moji>💄</e-moji> batom: <e-answer>batons</e-answer>

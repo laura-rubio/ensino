@@ -135,7 +135,7 @@ Antes de comezares, consulta o *post* sobre a formación do plural 👇
 <e-validate>Verifica as respostas</e-validate>
 
 ## 10. Pasa para o plural
-- <e-moji>♰</e-moji> cruz: <e-answer>cruces</e-answer>
+- <e-moji>✝️</e-moji> cruz: <e-answer>cruces</e-answer>
 - <e-moji>🍍</e-moji> ananás: <e-answer>ananases</e-answer>
 - <e-moji>☘️</e-moji> trebo: <e-answer>trebos</e-answer>
 - <e-moji>🧹</e-moji> vasoira: <e-answer>vasoiras</e-answer>
@@ -151,6 +151,6 @@ Antes de comezares, consulta o *post* sobre a formación do plural 👇
 ## 11. Pasa para o plural
 
 - <e-moji>🌇</e-moji>solpor: <e-answer>solpores</solpores>
+- <e-moji>⛔</e-moji>sinal: <e-answer>sinais</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
-
