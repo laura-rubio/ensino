@@ -2,7 +2,7 @@
 title: Focinho
 tags:
   - O ene-agá
-draft: false
+draft: true
 show_toc: false
 ---
 <e-moji>🐽</e-moji> focinho
