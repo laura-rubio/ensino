@@ -64,7 +64,7 @@ Soletra as seguintes palavras:
 
 - galinha : o <e-answer size=3>guê</e-answer>, o <e-answer size=3>á</e-answer>, o <e-answer size=3>ele</e-answer>, o <e-answer size=3>i</e-answer>,  o <e-answer size=3>ene-agá</e-answer>,  o <e-answer size=3>á</e-answer>
 
-- karate:  o <e-answer size=3>capa</e-answer>, o <e-answer size=3>á</e-answer>, o <e-answer size=3>erre</e-answer>,  o <e-answer size=3>á</e-answer>,  o <e-answer size=3>tê</e-answer>, o <e-answer size=3>é</e-answer>
+- karaté:  o <e-answer size=3>capa</e-answer>, o <e-answer size=3>á</e-answer>, o <e-answer size=3>erre</e-answer>,  o <e-answer size=3>á</e-answer>,  o <e-answer size=3>tê</e-answer>, o <e-answer size=3>é</e-answer>
 
 - professor: o <e-answer size=3>pê</e-answer>, o <e-answer size=3>erre</e-answer>, o <e-answer size=3>ó</e-answer>, o <e-answer size=3>efe</e-answer>,  o <e-answer size=3>é</e-answer>,  o <e-answer size=3>esse duplo</e-answer>,  o <e-answer size=3>ó</e-answer>, o <e-answer size=3>erre</e-answer>
 

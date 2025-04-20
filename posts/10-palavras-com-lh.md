@@ -11,10 +11,11 @@ show_toc: false
 2. <e-moji>🧄</e-moji> alho
 3. <e-moji>🪡</e-moji> agulha
 4. <e-moji>🪞</e-moji> espelho
-5. <e-moji>🍂</e-moji> folhas
+5. <e-moji>🍁</e-moji> folha
 6. <e-moji>👁️</e-moji> olho
 7. <e-moji>🌽</e-moji> milho
 8. <e-moji>🟥</e-moji> vermelho
 9. <e-moji>👂🏻</e-moji> orelha
-10. <e-moji>👴🏻</e-moji> velho
-11. <e-moji>👤</e-moji> silhueta + repolho + espantalho + metralhadora
+10. <e-moji>🏝️</e-moji> ilha
+11. <e-moji>👴🏻</e-moji> velho
+12. <e-moji>👤</e-moji> silhueta + repolho + espantalho + metralhadora

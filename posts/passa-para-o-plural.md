@@ -147,6 +147,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 ## 10. Passa para o plural
 - <e-moji>♰</e-moji> cruz: <e-answer>cruzes</e-answer>
+- <e-moji>✝️</e-moji> cruz: <e-answer>cruzes</e-answer>
 - <e-moji>🍍</e-moji> ananás: <e-answer>ananases</e-answer>
 - <e-moji>💄</e-moji> batom: <e-answer>batons</e-answer>
 - <e-moji>☘️</e-moji> trevo: <e-answer>trevos</e-answer>
@@ -206,7 +207,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 ## 13. Passa para o plural
 
-- <e-moji>🛑</e-moji>sinal: <e-answer>sinais</e-answer>
+- <e-moji>⛔</e-moji>sinal: <e-answer>sinais</e-answer>
 - <e-moji>🫧</e-moji>bolha: <e-answer>bolhas</e-answer>
 - <e-moji>🦡</e-moji>texugo: <e-answer>texugos</e-answer>
 - <e-moji>🌋</e-moji>vulcão: <e-answer>vulcões</e-answer>
@@ -248,4 +249,3 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🛴</e-moji>trotinete: <e-answer>trotinetes</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
-

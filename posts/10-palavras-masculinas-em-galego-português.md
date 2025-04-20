@@ -13,7 +13,7 @@ Eis mais uma lista para acabar com **o costume** de atribuir género feminino a 
 3. <e-moji>👃🏼</e-moji> **o nariz**
 4. <e-moji>☺️</e-moji> **o sorriso** e também <e-moji>😄</e-moji> **o riso**
 5. <e-moji>🧂</e-moji> **o sal**
-6. <e-moji>🛑</e-moji> **o sinal**
+6. <e-moji>🚭</e-moji> **o sinal**
 7. <e-moji>🇱</e-moji> **o ele**
 8. <e-moji>🫛</e-moji> **o legume**
 9. <e-moji>🍯</e-moji> **o mel**
