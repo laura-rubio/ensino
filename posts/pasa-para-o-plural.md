@@ -150,7 +150,15 @@ Antes de comezares, consulta o *post* sobre a formación do plural 👇
 
 ## 11. Pasa para o plural
 
-- <e-moji>🌇</e-moji>solpor: <e-answer>solpores</solpores>
+- <e-moji>☕</e-moji>café: <e-answer>cafés</solpores>
 - <e-moji>⛔</e-moji>sinal: <e-answer>sinais</e-answer>
-
+- <e-moji>🧄</e-moji>allo: <e-answer>allos</e-answer>
+- <e-moji>🦎</e-moji>réptil: <e-answer>réptiles</e-answer>
+- <e-moji>🍗</e-moji>coxa: <e-answer>coxas</e-answer>
+- <e-moji>🏞️</e-moji>paisaxe: <e-answer>paisaxes</e-answer>
+- <e-moji>🩳</e-moji>calzón: <e-answer>calzóns</e-answer>
+- <e-moji>🤱🏻</e-moji>nai: <e-answer>nais</e-answer>
+- <e-moji>🍯</e-moji>mel: <e-answer>meles</e-answer>
+- <e-moji>🌇</e-moji>solpor: <e-answer>solpores</solpores>
+- 
 <e-validate>Verifica as respostas</e-validate>
