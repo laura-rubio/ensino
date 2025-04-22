@@ -157,8 +157,8 @@ Antes de comezares, consulta o *post* sobre a formación do plural 👇
 - <e-moji>🍗</e-moji>coxa: <e-answer>coxas</e-answer>
 - <e-moji>🏞️</e-moji>paisaxe: <e-answer>paisaxes</e-answer>
 - <e-moji>🛢️</e-moji>barril: <e-answer>barrís</e-answer>
-- <e-moji>🤱🏻</e-moji>nai: <e-answer>nais</e-answer>
 - <e-moji>🍯</e-moji>mel: <e-answer>meles</e-answer>
+- <e-moji>🤱🏻</e-moji>nai: <e-answer>nais</e-answer>
 - <e-moji>🌇</e-moji>solpor: <e-answer>solpores</solpores>
   
 <e-validate>Verifica as respostas</e-validate>
