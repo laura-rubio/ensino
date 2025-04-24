@@ -22,9 +22,9 @@ Completa com as letras os nomes dos países onde o português é língua oficial
 
 <e-moji> 🇬🇶 </e-moji> <e-answer size=3 readonly>G</e-answer> <e-answer size=3>U</e-answer> <e-answer size=3>I</e-answer> <e-answer size=3 readonly>N</e-answer>  <e-answer size=3>É</e-answer> &nbsp;&nbsp; <e-answer size=3>E</e-answer> <e-answer size=3>Q</e-answer> <e-answer size=3>U</e-answer> <e-answer size=3 readonly>A</e-answer> <e-answer size=3>T</e-answer> <e-answer size=3>O</e-answer> <e-answer size=3 readonly>R</e-answer> <e-answer size=3>I</e-answer> <e-answer size=3>A</e-answer> <e-answer size=3>L</e-answer>
 
-<e-moji> 🇲🇿 </e-moji> <e-answer size=3 readonly>A</e-answer><e-answer size=3>N</e-answer> <e-answer size=3>G</e-answer> <e-answer size=3 readonly>O</e-answer> <e-answer size=3>L</e-answer> <e-answer size=3>A</e-answer>
+<e-moji> 🇦🇴 </e-moji> <e-answer size=3 readonly>A</e-answer><e-answer size=3>N</e-answer> <e-answer size=3>G</e-answer> <e-answer size=3 readonly>O</e-answer> <e-answer size=3>L</e-answer> <e-answer size=3>A</e-answer>
 
-<e-moji> 🇦🇴 </e-moji> <e-answer size=3>M</e-answer>  <e-answer size=3>O</e-answer>  <e-answer size=3 readonly>Ç</e-answer> <e-answer size=3>A</e-answer> <e-answer size=3>M</e-answer>  <e-answer size=3>B</e-answer> <e-answer size=3 readonly>I</e-answer> <e-answer size=3>Q</e-answer> <e-answer size=3>U</e-answer> <e-answer size=3>E</e-answer>
+<e-moji> 🇲🇿 </e-moji> <e-answer size=3>M</e-answer>  <e-answer size=3>O</e-answer>  <e-answer size=3 readonly>Ç</e-answer> <e-answer size=3>A</e-answer> <e-answer size=3>M</e-answer>  <e-answer size=3>B</e-answer> <e-answer size=3 readonly>I</e-answer> <e-answer size=3>Q</e-answer> <e-answer size=3>U</e-answer> <e-answer size=3>E</e-answer>
 
 
 ## Na Ásia 

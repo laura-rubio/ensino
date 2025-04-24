@@ -13,4 +13,3 @@ Além de nestes países, o português é língua oficial em **Macau**, uma regi�
 
 Imagem tirada de [Geo5 International](http://geo5.net/tag/portugues/) 
 
-[Consegues identificar as bandeiras da Comunidade de Países de Língua Portuguesa?](https://aulasgalegas.org/2020/06/02/bandeiras-da-cplp/)
