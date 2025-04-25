@@ -84,7 +84,7 @@ Antes de comezares, consulta o *post* sobre a formación do plural 👇
 - <e-moji>💉</e-moji> xiringa: <e-answer>xiringas</e-answer>
 - <e-moji>💡</e-moji> lámpada: <e-answer>lámpadas</e-answer>
 - <e-moji>☀️</e-moji> sol: <e-answer>soles</e-answer>
-- <e-moji>🐧</e-moji> pinguín: <e-answer>pinguíns</e-answer>
+- <e-moji>🐧</e-moji> pingüín: <e-answer>pingüíns</e-answer>
 - <e-moji>🌵</e-moji> cacto: <e-answer>cactos</e-answer>
 - <e-moji>🦜</e-moji> papagaio: <e-answer>papagaios</e-answer>
 - <e-moji>🧚‍♀️</e-moji> fada: <e-answer>fadas</e-answer>
