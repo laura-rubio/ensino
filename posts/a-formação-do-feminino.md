@@ -9,6 +9,10 @@ show_toc: false
 
 #### Exemplos:
 - *aluno:* *aluna*
+- *empregado:* *empregada*
+- *gato:* *gata*
+- *cozinheiro:* *cozinheira*
+- *engraçado:* *engraçada*
 #### Exceções: 
 - *maestro:* *maestrina*
 
@@ -17,9 +21,14 @@ show_toc: false
 #### Exemplos:
 - *professor:* *professora*
 - *deus:* *deusa*
+- *inovador:* *inovadora*
+- *lutador:* *lutadora*
 
 #### Exceções:
-- *ator: atriz*
+- *ator:* *atriz*
+- *juiz:* *juíza*
+- *herói:* *heroína*
+- *javali:* *javalina*
   
 ## 3. Os nomes terminados em *-ão:*
 
@@ -37,17 +46,19 @@ show_toc: false
 #### Exemplos
 - *brincalhão:* *brincalhona*
 - *comilão:* *comilona*
+- *solteirão:* *solteirona*
+- *sabichão:* *sabichona*
 
 ### 3.3 Trocam *-ão* por *-oa*
 #### Exemplos: 
 - *leão:* *leoa*
 - *leitão:* *leitoa*
 - *patrão:* *patroa*
-- *anfitrião:* *anfitrioa* Também anfitriã
+- *anfitrião:* *anfitrioa* Também *anfitriã*
 
 ### 3.4. Trocam *-ão* por *-a*
 #### Exemplos:
-- *ladrão:* *ladra*
+- *ladrão:* *ladra* Também *ladrona*
 
 ## 4. Os nomes terminados em *-eu* substituem *-eu* por *-eia:* 
 #### Exemplos:
