@@ -5,7 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-## 1. A maioria substituem o *-o* do final por *-a:* 
+## 1. A maioria das palavras substituem o *-o* do final por *-a:* 
 
 #### Exemplos:
 - *alun**o**:* *alun**a***
@@ -16,7 +16,7 @@ show_toc: false
 #### Exceções: 
 - *av**ô**:* *av**ó***
 
-## 2. Há muitas que adicionam um *-a* ao masculino
+## 2. Há muitas palavras que adicionam um *-a* ao masculino
 
 #### Exemplos:
 - *professor:* *professor**a***
@@ -31,7 +31,7 @@ show_toc: false
 #### Exceções:
 - *m**au**:* *m**á***
 
-## 3. As terminadas em *-ão:* formam o feminino em *-ã,* *-ona* ou -õa: 
+## 3. As palavras terminadas em *-ão* formam o feminino em *-ã,* *-ona* ou -õa: 
 
 ### 3.1 Trocam *-ão* por *-ã*
 #### Exemplos:
@@ -60,7 +60,7 @@ show_toc: false
 - *pav**ão**:* *pav**oa***
 
 
-## 4. As terminadas em *-eu* substituem *-eu* por *-eia:* 
+## 4. As palavras terminadas em *-eu* substituem *-eu* por *-eia:* 
 #### Exemplos:
 - *europ**eu**:* *europ**eia***
 - *at**eu**:* *at**eia***
@@ -71,7 +71,7 @@ show_toc: false
 - *jud**eu**:* *jud**ia***
 - *sand**eu**:* *sand**ia***
 
-## 5. Algumas têm uma terminação diferente para o masculino e o feminino:
+## 5. Algumas palavras têm uma terminação diferente para o masculino e o feminino:
 #### Exemplos:
 - *cão:* *cadela*
 - *galo:* *galinha*
@@ -84,7 +84,7 @@ show_toc: false
 - *ator:* *atriz*
 - *imperador:* *imperatriz* Também *imperadora*
 
-## 6. Algumas têm formas distintas para o masculino e o feminino:
+## 6. Algumas palavras têm formas distintas para o masculino e o feminino:
 #### Exemplos:
 - *homem:* *mulher*
 - *pai:* *mãe*
