@@ -2,7 +2,7 @@
 title: A formação do feminino
 tags:
   - O género em português
-draft: true
+draft: false
 show_toc: false
 ---
 ## 1. A maioria substituem o *-o* do final por *-a:* 

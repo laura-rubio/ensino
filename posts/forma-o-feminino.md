@@ -2,7 +2,7 @@
 title: Forma o feminino
 tags:
   - O género em português
-draft: true
+draft: false
 show_toc: false
 ---
 Forma o feminino das seguintes palavras: 
@@ -16,6 +16,8 @@ Forma o feminino das seguintes palavras:
 <e-moji>🤵🏻‍♂️</e-moji>: <e-answer readonly>noivo</e-answer> <e-moji>👰🏻</e-moji>: <e-answer>noiva</e-answer>
 
 <e-moji>🦸</e-moji>: <e-answer readonly>herói</e-answer> <e-moji>🦸‍♀️</e-moji>: <e-answer>heroína</e-answer>
+
+<e-moji>😈</e-moji>: <e-answer readonly>mau</e-answer> <e-moji>😈</e-moji>: <e-answer>má</e-answer>
 
 <e-moji>🧑🏻‍⚖️</e-moji>: <e-answer readonly>juiz</e-answer> <e-moji>👩🏻‍⚖️</e-moji>: <e-answer>juíza</e-answer>
 
@@ -42,6 +44,8 @@ Forma o feminino das seguintes palavras:
 <e-moji>🧑🏻‍🦯</e-moji>: <e-answer readonly>cego</e-answer> <e-moji>👩🏻‍🦯</e-moji>: <e-answer>cega</e-answer>
 
 <e-moji>🧙‍♂️</e-moji>: <e-answer readonly>feiticeiro</e-answer> <e-moji>🧙‍♀️</e-moji>: <e-answer>feiticeira</e-answer>
+
+<e-moji>🧐</e-moji>: <e-answer readonly>sabichão</e-answer> <e-moji>🧐</e-moji>: <e-answer>sabichona</e-answer>
 
 <e-moji>🇪🇺</e-moji>: <e-answer readonly>europeu</e-answer> <e-moji>🇪🇺</e-moji>: <e-answer>europeia</e-answer>
 

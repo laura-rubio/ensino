@@ -2,7 +2,7 @@
 title: O género e os animais
 tags:
   - O género em português
-draft: true
+draft: false
 show_toc: false
 ---
 Dos animais podemos aprender muitas coisas. Hoje, vamos aprender as regras de formação do feminino:  
