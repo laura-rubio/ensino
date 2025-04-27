@@ -49,4 +49,8 @@ Forma o feminino das seguintes palavras:
 
 <e-moji>🇪🇺</e-moji>: <e-answer readonly>europeu</e-answer> <e-moji>🇪🇺</e-moji>: <e-answer>europeia</e-answer>
 
+<e-moji>👨🏻‍🏭</e-moji>: <e-answer readonly>operário</e-answer> <e-moji>👩🏻‍🏭</e-moji>: <e-answer>operária</e-answer>
+
+<e-moji>🦋</e-moji>: <e-answer readonly>borboleta macho</e-answer> <e-moji>🦋</e-moji>: <e-answer>borboleta fêmea</e-answer>
+
 <e-validate>Verifica as respostas</e-validate>
