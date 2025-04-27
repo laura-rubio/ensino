@@ -15,12 +15,13 @@ show_toc: false
 #### Exceções: 
 - *av**ô**:* *av**ó***
 
-## 2. Ha muitos que adicionam um *-a* ao masculino
+## 2. Há muitas que adicionam um *-a* ao masculino
 
 #### Exemplos:
 - *professor:* *professor**a***
 - *deus:* *deus**a***
 - *português:* *portugues**a***
+- *juiz:* *juíz**a***
 - *inovador:* *inovador**a***
 - *cru:* *cru**a***
 - *nu:* *nu**a***
@@ -29,47 +30,47 @@ show_toc: false
 #### Exceções:
 - *m**au**:* *m**á***
 
-## 3. Os terminados em *-ão:* formam o feminino em *-ã,* *-ona* ou -õa: 
+## 3. As terminadas em *-ão:* formam o feminino em *-ã,* *-ona* ou -õa: 
 
 ### 3.1 Trocam *-ão* por *-ã*
 #### Exemplos:
-- *cidadão:* *cidadã*
-- *irmão:* *irmã*
-- *alemão:* *alemã*
-- *catalão:* *catalã*
-- *capitão:* *capitã*
-- *órfão:* *órfã*
-- *campeão:* *campeã*
+- *cidad**ão:*** *cidad**ã***
+- *irm**ão**:* *irm**ã***
+- *alem**ão**:* *alem**ã***
+- *catal**ão**:* *catal**ã***
+- *capit**ão**:* *capit**ã***
+- *órf**ão**:* *órf**ã***
+- *campe**ão**:* *campe**ã***
 
 ### 3.2 Trocam *-ão* por *-ona*
 #### Exemplos:
-- *brincalhão:* *brincalhona*
-- *comilão:* *comilona*
-- *solteirão:* *solteirona*
-- *sabichão:* *sabichona*
-- *ladrão:* *ladrona* Também *ladra*
+- *brincalh**ão**:* *brincalh**ona***
+- *comil**ão**:* *comil**ona***
+- *solteir**ão**:* *solteir**ona***
+- *sabich**ão**:* *sabich**ona***
+- *ladr**ão**:* *ladr**ona*** Também *ladr**a***
 
 ### 3.3 Trocam *-ão* por *-oa*
 #### Exemplos: 
-- *leão:* *leoa*
-- *leitão:* *leitoa*
-- *patrão:* *patroa*
-- *anfitrião:* *anfitrioa* Também *anfitriã*
-- *pavão:* *pavoa*
+- *le**ão**:* *le**oa***
+- *leit**ão**:* *leit**oa***
+- *patr**ão**:* *patr**oa***
+- *anfitri**ão**:* *anfitri**oa*** Também *anfitri**ã***
+- *pav**ão**:* *pav**oa***
 
 
-## 4. Os terminados em *-eu* substituem *-eu* por *-eia:* 
+## 4. As terminadas em *-eu* substituem *-eu* por *-eia:* 
 #### Exemplos:
-- *europeu:* *europeia*
-- *ateu:* *ateia*
-- *plebeu:* *plebeia*
-- *pigmeu:* *pigmeia*
+- *europ**eu**:* *europ**eia***
+- *at**eu**:* *at**eia***
+- *pleb**eu**:* *pleb**eia***
+- *pigm**eu**:* *pigm**eia***
 
 #### Exceções: 
-- *judeu:* *judia*
-- *sandeu:* *sandia*
+- *jud**eu**:* *jud**ia***
+- *sand**eu**:* *sand**ia***
 
-## 5. Alguns têm uma terminação diferente para o masculino e o feminino:
+## 5. Algumas têm uma terminação diferente para o masculino e o feminino:
 #### Exemplos:
 - *cão:* *cadela*
 - *galo:* *galinha*
@@ -80,14 +81,16 @@ show_toc: false
 - *príncipe:* *princesa*
 - *conde:* *condessa*
 - *ator:* *atriz*
-- *juiz:* *juíza*
 - *imperador:* *imperatriz* Também *imperadora*
 
-## 6. Alguns têm formas distintas para o masculino e o feminino:
+## 6. Algumas têm formas distintas para o masculino e o feminino:
 #### Exemplos:
 - *homem:* *mulher*
 - *pai:* *mãe*
+- *padrasto:* *madrasta*
 - *genro:* *nora*
+- *cavaleiro:* *amazona*
 - *macho:* *fêmea*
 - *boi:* *vaca*
 - *cavalo:* *égua*
+- *zangão:* *abelha*

@@ -79,8 +79,6 @@ Existem dois tipos:
 
 <e-moji>🐗</e-moji>javali: <e-answer>javalina</e-answer>
 
-<e-moji>🐅</e-moji>tigre: <e-answer>tigresa</e-answer>
-
 <e-validate>Verifica as respostas</e-validate> 
 
 ### 2. Nomes que têm formas completamente diferentes para o masculino e o feminino:
@@ -96,5 +94,3 @@ Existem dois tipos:
 <e-moji>🐝</e-moji>zangão: <e-answer>abelha</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
-
-
