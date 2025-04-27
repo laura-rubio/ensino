@@ -10,6 +10,7 @@ show_toc: false
 #### Exemplos:
 - *alun**o**:* *alun**a***
 - *empregad**o**:* *empregad**a***
+- *muçulman**o**:* *muçulman**a***
 - *cozinheir**o**:* *cozinheir**a***
 - *engraçad**o**:* *engraçad**a***
 #### Exceções: 
