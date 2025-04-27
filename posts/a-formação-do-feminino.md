@@ -5,32 +5,31 @@ tags:
 draft: true
 show_toc: false
 ---
-## 1. Os nomes terminados em *-o* substituem o *-o* por *-a:* 
+## 1. A maioria substituem o *-o* do final por *-a:* 
 
 #### Exemplos:
-- *aluno:* *aluna*
-- *empregado:* *empregada*
-- *gato:* *gata*
-- *cozinheiro:* *cozinheira*
-- *engraçado:* *engraçada*
+- *alun**o**:* *alun**a***
+- *empregad**o**:* *empregad**a***
+- *cozinheir**o**:* *cozinheir**a***
+- *engraçad**o**:* *engraçad**a***
 #### Exceções: 
-- *maestro:* *maestrina*
+- *av**ô**:* *av**ó***
 
-## 2. Os nomes terminados em consoante acrescentam um *-a:*
+## 2. Ha muitos que adicionam um *-a* ao masculino
 
 #### Exemplos:
-- *professor:* *professora*
-- *deus:* *deusa*
-- *inovador:* *inovadora*
-- *lutador:* *lutadora*
+- *professor:* *professor**a***
+- *deus:* *deus**a***
+- *português:* *portugues**a***
+- *inovador:* *inovador**a***
+- *cru:* *cru**a***
+- *nu:* *nu**a***
+- *peru:* *peru**a***
 
 #### Exceções:
-- *ator:* *atriz*
-- *juiz:* *juíza*
-- *herói:* *heroína*
-- *javali:* *javalina*
-  
-## 3. Os nomes terminados em *-ão:*
+- *m**au**:* *m**á***
+
+## 3. Os terminados em *-ão:* formam o feminino em *-ã,* *-ona* ou -õa: 
 
 ### 3.1 Trocam *-ão* por *-ã*
 #### Exemplos:
@@ -43,11 +42,12 @@ show_toc: false
 - *campeão:* *campeã*
 
 ### 3.2 Trocam *-ão* por *-ona*
-#### Exemplos
+#### Exemplos:
 - *brincalhão:* *brincalhona*
 - *comilão:* *comilona*
 - *solteirão:* *solteirona*
 - *sabichão:* *sabichona*
+- *ladrão:* *ladrona* Também *ladra*
 
 ### 3.3 Trocam *-ão* por *-oa*
 #### Exemplos: 
@@ -55,12 +55,10 @@ show_toc: false
 - *leitão:* *leitoa*
 - *patrão:* *patroa*
 - *anfitrião:* *anfitrioa* Também *anfitriã*
+- *pavão:* *pavoa*
 
-### 3.4. Trocam *-ão* por *-a*
-#### Exemplos:
-- *ladrão:* *ladra* Também *ladrona*
 
-## 4. Os nomes terminados em *-eu* substituem *-eu* por *-eia:* 
+## 4. Os terminados em *-eu* substituem *-eu* por *-eia:* 
 #### Exemplos:
 - *europeu:* *europeia*
 - *ateu:* *ateia*
@@ -71,11 +69,25 @@ show_toc: false
 - *judeu:* *judia*
 - *sandeu:* *sandia*
 
-## 5. Os nomes terminados em *-u* acrescentam um -a 
+## 5. Alguns têm uma terminação diferente para o masculino e o feminino:
 #### Exemplos:
-- *cru:* *crua*
-- *nu:* *nua*
-- *peru:* *perua*
+- *cão:* *cadela*
+- *galo:* *galinha*
+- *rei:* *rainha*
+- *javali:* *javalina*
+- *herói:* *heroína*
+- *maestro:* *maestrina*
+- *príncipe:* *princesa*
+- *conde:* *condessa*
+- *ator:* *atriz*
+- *juiz:* *juíza*
+- *imperador:* *imperatriz* Também *imperadora*
 
-#### Exceções:
-- *mau:* *má*
+## 6. Alguns têm formas distintas para o masculino e o feminino:
+#### Exemplos:
+- *homem:* *mulher*
+- *pai:* *mãe*
+- *genro:* *nora*
+- *macho:* *fêmea*
+- *boi:* *vaca*
+- *cavalo:* *égua*
