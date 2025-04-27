@@ -27,4 +27,4 @@ show_toc: false
 
 11. <e-moji>🎠</e-moji> carrossel
 
-12. <e-moji>📼</e-moji> videocassette
+12. <e-moji>📼</e-moji> videocassete
