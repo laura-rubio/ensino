@@ -21,7 +21,7 @@ Forma o feminino das seguintes palavras:
 
 <e-moji>🧑🏻‍⚖️</e-moji>: <e-answer readonly>juiz</e-answer> <e-moji>👩🏻‍⚖️</e-moji>: <e-answer>juíza</e-answer>
 
-<e-moji>🏇</e-moji>: <e-answer readonly>cavaleiro</e-answer> <e-moji>🏇</e-moji>: <e-answer>amazona</e-answer>
+<e-moji>🏇</e-moji>: <e-answer readonly>cavaleiro</e-answer> <e-moji>🏇</e-moji>: <e-answer>cavaleira</e-answer> Também <e-answer readonly>amazona</e-answer>
 
 <e-moji>🦉</e-moji>: <e-answer readonly>coruja macho</e-answer><e-moji>🦉</e-moji>: <e-answer>coruja fêmea</e-answer>
 

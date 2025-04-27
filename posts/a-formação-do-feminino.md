@@ -90,7 +90,7 @@ show_toc: false
 - *pai:* *mãe*
 - *padrasto:* *madrasta*
 - *genro:* *nora*
-- *cavaleiro:* *amazona*
+- *cavalheiro:* *dama*
 - *macho:* *fêmea*
 - *boi:* *vaca*
 - *cavalo:* *égua*
