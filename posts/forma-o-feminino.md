@@ -6,6 +6,13 @@ draft: false
 show_toc: false
 ---
 Forma o feminino das seguintes palavras: 
+<article>
+Dica para o til de nasalidade 👇
+
+Digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal
+</article>
+
+<e-moji>👨🏻‍🍼</e-moji>: <e-answer readonly>pai</e-answer> <e-moji>🤱🏻</e-moji>: <e-answer>mãe</e-answer> 
 
 <e-moji>🐂</e-moji>: <e-answer readonly>boi</e-answer> <e-moji>🐄</e-moji>: <e-answer>vaca</e-answer> 
 
@@ -52,5 +59,7 @@ Forma o feminino das seguintes palavras:
 <e-moji>👨🏻‍🏭</e-moji>: <e-answer readonly>operário</e-answer> <e-moji>👩🏻‍🏭</e-moji>: <e-answer>operária</e-answer>
 
 <e-moji>🦋</e-moji>: <e-answer readonly>borboleta macho</e-answer> <e-moji>🦋</e-moji>: <e-answer>borboleta fêmea</e-answer>
+
+<e-moji>👩‍👦</e-moji>: <e-answer readonly>filho</e-answer> <e-moji>👩‍👧</e-moji>: <e-answer>filha</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
