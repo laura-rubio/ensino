@@ -26,6 +26,6 @@ show_toc: false
 
 ![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2puOHhpYmozNnRtaW11OXpqbzhkbm03aDFieDkwMHAxcGhkMjF4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BI3bNv1NJMC7YzatXd/giphy.gif)
 
-#### Arregalar os ollos (gl) ~ Arregalar os olhos (pt)
+#### Arregalar os ollos (gl) ~ Arregalar os olhos  (pt)
 
 ![Image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnM3NDAybWp5N3lkbjFjNXU3aGR5M2RhNjlrOGFheGhuM3Y5eHdyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n4bX4y5Aw9gvu3f65/giphy.gif)
