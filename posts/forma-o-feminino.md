@@ -24,9 +24,11 @@ Digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal
 
 <e-moji>🦸</e-moji>: <e-answer readonly>herói</e-answer> <e-moji>🦸‍♀️</e-moji>: <e-answer>heroína</e-answer>
 
-<e-moji>😈</e-moji>: <e-answer readonly>mau</e-answer> <e-moji>😈</e-moji>: <e-answer>má</e-answer>
+<e-moji>🦹‍♂️</e-moji>: <e-answer readonly>vilão</e-answer> <e-moji>🦹‍♂️</e-moji>: <e-answer>vilã</e-answer> Também <e-answer readonly>viloa</e-answer>
 
 <e-moji>🧑🏻‍⚖️</e-moji>: <e-answer readonly>juiz</e-answer> <e-moji>👩🏻‍⚖️</e-moji>: <e-answer>juíza</e-answer>
+
+<e-moji>😈</e-moji>: <e-answer readonly>mau</e-answer> <e-moji>😈</e-moji>: <e-answer>má</e-answer>
 
 <e-moji>🏇</e-moji>: <e-answer readonly>cavaleiro</e-answer> <e-moji>🏇</e-moji>: <e-answer>cavaleira</e-answer> Também <e-answer readonly>amazona</e-answer>
 
