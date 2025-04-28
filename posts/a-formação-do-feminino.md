@@ -42,6 +42,7 @@ show_toc: false
 - *capit**ão**:* *capit**ã***
 - *órf**ão**:* *órf**ã***
 - *campe**ão**:* *campe**ã***
+- *vil**ão**:* *vil**ã*** Também *vil**oa***
 
 ### 3.2 Trocam *-ão* por *-ona*
 #### Exemplos:
