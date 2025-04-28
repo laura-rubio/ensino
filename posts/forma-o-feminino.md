@@ -60,7 +60,7 @@ Digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal
 
 <e-moji>🦋</e-moji>: <e-answer readonly>borboleta macho</e-answer> <e-moji>🦋</e-moji>: <e-answer>borboleta fêmea</e-answer>
 
-<e-moji>👩‍👦</e-moji>: <e-answer readonly>filho</e-answer> <e-moji>👩‍👧</e-moji>: <e-answer>filha</e-answer>
+<e-moji>👨‍👩‍👦</e-moji>: <e-answer readonly>filho</e-answer> <e-moji>👨‍👩‍👧</e-moji>: <e-answer>filha</e-answer>
 
 <e-moji>🤾‍♂️</e-moji>: <e-answer readonly>jogador</e-answer> <e-moji>🤾‍♀️</e-moji>: <e-answer>jogadora</e-answer>
 
