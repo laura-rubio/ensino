@@ -2,7 +2,7 @@
 title: Palavras com esse duplo
 tags:
   - O esse duplo
-draft: true
+draft: false
 show_toc: false
 ---
 1. <e-moji>👩🏻‍🏫</e-moji> professora
