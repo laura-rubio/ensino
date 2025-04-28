@@ -2,7 +2,7 @@
 title: 10 palavras com ele-agá
 tags:
   - O ele-agá
-draft: true
+draft: false
 show_toc: false
 ---
 10 palavras com ele-agá que para um galego não têm mistério nenhum, pois não? 
