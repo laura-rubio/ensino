@@ -1,7 +1,7 @@
 ---
 title: 'Não ceceiem, sesseiem!'
 tags:
-  - A pronúncia de...
+  - 'O som [s]'
 draft: true
 show_toc: false
 ---
