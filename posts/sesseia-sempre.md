@@ -28,11 +28,11 @@ Eis duas listas de palavras para começares o teu treino:
 
 1. <e-moji>🏙️</e-moji>: **c**idade [**s**iˈdad(ə)]
 2. <e-moji>🚲</e-moji>: bi**c**icleta [bi**s**iˈklɛtɐ]
-3. <e-moji>👏</e-moji>: feli**c**itar [fələ**s**iˈtar]
+3. <e-moji>👏</e-moji>: feli**c**itar [fəli**s**iˈtar]
 4. <e-moji>⚕️</e-moji>: medi**c**ina [mədəˈ**s**inɐ]
-5. <e-moji>🎦</e-moji>: **c**inema [**s**iˈnemɐ]
-6. <e-moji>50</e-moji>: **c**inquenta [**s**ĩˈkwẽtɐ]
-7. <e-moji>🚑</e-moji>: ambulân**c**ia [ɐ̃buˈlɐ̃**s**jɐ]
-8. <e-moji>♻️</e-moji>: re**c**iclar [ʀə**s**iˈklar]
-9. <e-moji>😋</e-moji>: delí**c**ia [dəˈlisjɐ]
-
+5. <e-moji>🇸🇪</e-moji>: Sué**c**ia [ˈ**s**wɛsjɐ]
+6. <e-moji>🎦</e-moji>: **c**inema [**s**iˈnemɐ]
+7. <e-moji>50</e-moji>: **c**inquenta [**s**ĩˈkwẽtɐ]
+8. <e-moji>🚑</e-moji>: ambulân**c**ia [ɐ̃buˈlɐ̃**s**jɐ]
+9. <e-moji>♻️</e-moji>: re**c**iclar [ʀə**s**iˈklar]
+10. <e-moji>😋</e-moji>: delí**c**ia [dəˈlisjɐ]
