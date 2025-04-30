@@ -7,7 +7,7 @@ show_toc: false
 ---
 Um dos maiores desafios do português para um estudante galego é a sonoridade desta língua. A razão é que se vai deparar com muitos sons novos para ele, sons que vai ter de aprender a reconhecer e também a produzir. 
 
-Sendo isto verdade, o meu primeiro pedido não vai ser para aprenderem um som novo: vou pedir o contrário, para se esquecerem de um. O som que têm de esquecer é este marcado a negrito nas palavras *nature**z**a,* *apare**c**er* e ***c**inco.*
+Sendo isto verdade, o meu primeiro pedido não vai ser para aprenderem um som novo: vou pedir o contrário, para se esquecerem de um. O som que têm de esquecer é este marcado a negrito nas palavras *nature**z**a,* *con**c**erto* e ***c**inco.*
 
 A razão é que o som [θ] (assim é como o representam os linguistas) não existe em português. A pronúncia do *c* antes de *e* ou de *i* é sempre [s]. A pronúncia da letra *z* não é nem [θ] nem [s], mas isso fica para outro dia. Hoje o foco vai ser a pronúncia de *c* + *e*  e *c* + *i.* 
 
