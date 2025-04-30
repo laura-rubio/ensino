@@ -1,14 +1,17 @@
 ---
-title: Sesseia sempre
+title: 'Não ceceiem, sesseiem!'
 tags:
   - A pronúncia de...
 draft: true
 show_toc: false
 ---
-Se fores um galego do bloco ocidental e sesseias, continua na mesma. 
-Se não tiveste essa sorte, chegou a hora de começares. A razão é que em português não existe o som  [θ], portanto, a pronúncia do *c* antes de *e* ou de *i* é sempre [s]
- 
-Eis duas listas de palavras para começares o teu treino:
+Um dos maiores desafios do português para um estudante galego é a sonoridade desta língua. A razão é que se vai deparar com muitos sons novos para ele, sons que vai ter de aprender a reconhecer e também a produzir. 
+
+Sendo isto verdade, o meu primeiro pedido não vai ser para aprenderem um som novo: vou pedir o contrário, para se esquecerem de um. O som que têm de esquecer é este marcado a negrito nas palavras *nature**z**a,* *apare**c**er* e ***c**inco.*
+
+A razão é que o som [θ] (assim é como o representam os linguistas) não existe em português. A pronúncia do *c* antes de *e* ou de *i* é sempre [s]. A pronúncia da letra *z* não é nem [θ] nem [s], mas isso fica para outro dia. Hoje o foco vai ser a pronúncia de *c* + *e*  e *c* + *i.* 
+
+Se pensarem bem, não se trata de uma pronúncia assim tão estranha para muito galegos. Se forem do bloco ocidental e [sesseiam](https://gl.wikipedia.org/wiki/Isoglosa#/media/Ficheiro:Seseo_idioma_gallego.png), só têm de continuar na mesma. Se não tiveram essa sorte, chegou a hora de começarem. Eis duas listas de palavras para treinarem:
 
 ## c + e > [s] + e
 
