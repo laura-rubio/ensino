@@ -1,17 +1,17 @@
 ---
-title: 'Não ceceiem, sesseiem!'
+title: Cecear? Nem pensar!
 tags:
   - 'O som [s]'
 draft: true
 show_toc: false
 ---
-Um dos maiores desafios do português para um estudante galego é a sonoridade desta língua. A razão é que se vai deparar com muitos sons novos para ele, sons que vai ter de aprender a reconhecer e também a produzir. 
+Não há dúvida de que um dos maiores desafios do português para um estudante galego é a sonoridade desta lingua. São muitos os sons novos com que te vais deparar nesta viagem que começa agora, sons que vais ter de aprender a reconhecer e a pronunciar.
 
-Sendo isto verdade, o meu primeiro pedido não vai ser para aprenderem um som novo: vou pedir o contrário, para se esquecerem de um. O som que têm de esquecer é este marcado a negrito nas palavras *nature**z**a,* *con**c**erto* e ***c**inco.*
+Sendo isto verdade, neste primeiro contacto com a fonética portuguesa não te vou pedir para aprenderes som nenhum. Vais fazer o contrário: desaprenderes um. O som que deves esquecer é este marcado a negrito nas palavras: *nature**z**a,* *con**c**erto* e ***c**inco.*
 
-A razão é que o som [θ] (assim é como o representam os linguistas) não existe em português. A pronúncia do *c* antes de *e* ou de *i* é sempre [s]. A pronúncia da letra *z* não é nem [θ] nem [s], mas isso fica para outro dia. Hoje o foco vai ser a pronúncia de *c* + *e*  e *c* + *i.* 
+A razão é que o som [θ] (assim é como o representam os linguistas) não existe em português. A pronúncia do *c* antes de *e* ou de *i* é sempre [s]. A pronúncia da letra *z* não é nem [θ] nem [s], mas agora não interessa. Hoje o foco vai ser a pronúncia de *c* + *e*  e *c* + *i.* 
 
-Se pensarem bem, não se trata de uma pronúncia assim tão estranha para muito galegos. Se forem do bloco ocidental e [sesseiam](https://gl.wikipedia.org/wiki/Isoglosa#/media/Ficheiro:Seseo_idioma_gallego.png), só têm de continuar na mesma. Se não tiveram essa sorte, chegou a hora de começarem. Eis duas listas de palavras para treinarem:
+Se pensares bem, não se trata de uma pronúncia assim tão estranha para muito galegos. Se fores do bloco ocidental e [sesseias](https://gl.wikipedia.org/wiki/Isoglosa#/media/Ficheiro:Seseo_idioma_gallego.png), só tens de continuar na mesma. Se não tiveres essa sorte, chegou a hora de começares. Eis duas listas de palavras para treinares:
 
 ## c + e > [s] + e
 
