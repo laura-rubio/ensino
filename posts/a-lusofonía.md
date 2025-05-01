@@ -2,7 +2,7 @@
 title: A lusofonia
 tags:
   - sociolinguistica
-  - O português no mundo
+  - Cultura dos países lusófonos
 draft: false
 show_toc: false
 ---
@@ -11,5 +11,4 @@ Além de nestes países, o português é língua oficial em **Macau**, uma regi�
 
 [![](/img/mapa-lusofonia-bandeiras.png)](https://laurarubio.net/img/mapa-lusofonia-bandeiras.png)
 
-Imagem tirada de [Geo5 International](http://geo5.net/tag/portugues/) 
-
+Imagem tirada de [Geo5 International](http://geo5.net/tag/portugues/)
