@@ -1,7 +1,7 @@
 ---
 title: 'O som [s]'
 tags:
-  - A pronúncia de...
+  - As consoantes
 id: 'O som [s]'
 ---
 
