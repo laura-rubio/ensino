@@ -1,7 +1,7 @@
 ---
 title: A pronúncia do o átono
 tags:
-  - A pronúncia de...
+  - As vogais
 draft: false
 show_toc: false
 ---
