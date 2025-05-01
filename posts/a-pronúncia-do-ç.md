@@ -1,7 +1,7 @@
 ---
 title: A pronúncia do ç
 tags:
-  - A pronúncia de...
+  - As consoantes
 draft: false
 show_toc: false
 ---
