@@ -1,7 +1,7 @@
 ---
 title: E tónico fechado
 tags:
-  - A pronúncia de...
+  - As vogais
 draft: false
 show_toc: false
 summary: 'e fechado > [e]'

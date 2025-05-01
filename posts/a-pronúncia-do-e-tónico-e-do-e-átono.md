@@ -1,7 +1,7 @@
 ---
-title: A pronúncia do e
+title: A pronúncia do e tónico e do e átono
 tags:
-  - A pronúncia de...
+  - As vogais
 draft: false
 show_toc: false
 summary: (em português europeu)

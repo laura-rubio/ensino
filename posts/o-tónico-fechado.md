@@ -1,7 +1,7 @@
 ---
 title: O tónico fechado
 tags:
-  - A pronúncia de...
+  - As vogais
 draft: false
 show_toc: false
 summary: 'o fechado > [o]'

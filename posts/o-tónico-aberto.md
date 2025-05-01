@@ -1,7 +1,7 @@
 ---
 title: O tónico aberto
 tags:
-  - A pronúncia de...
+  - As vogais
 draft: false
 show_toc: false
 summary: 'o aberto > [ɔ]'

@@ -1,7 +1,7 @@
 ---
 title: E tónico aberto
 tags:
-  - A pronúncia de...
+  - As vogais
 draft: false
 show_toc: false
 summary: 'e aberto > [ε]'
