@@ -2,6 +2,7 @@
 title: Avós
 tags:
   - O número em português
+  - As vogais
 draft: false
 show_toc: false
 ---
