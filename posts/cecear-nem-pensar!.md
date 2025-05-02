@@ -5,13 +5,17 @@ tags:
 draft: true
 show_toc: false
 ---
-Não há dúvida de que um dos maiores desafios do português para um estudante galego é a sonoridade desta lingua. São muitos os sons novos com que te vais deparar nesta viagem que começa agora, sons que vais ter de aprender a reconhecer e a pronunciar.
+Não há dúvida de que um dos maiores desafios do português para um estudante galego é a sonoridade desta lingua. São muitos os sons novos com que te vais deparar e que vais ter de aprender.
 
-Sendo isto verdade, neste primeiro contacto com a fonética portuguesa não te vou pedir para aprenderes som nenhum. Vais fazer o contrário: desaprenderes um. O som que deves esquecer é este marcado a negrito nas palavras: *nature**z**a,* *con**c**erto* e ***c**inco.*
+Sendo isto verdade, acho que a melhor forma de começares a tua viagem pela fonética portuguesa não é aprenderes um som novo. A melhor forma é desaprenderes um som que não existe em português: o  [θ] 😯
 
-A razão é que o som [θ] (assim é como o representam os linguistas) não existe em português. A pronúncia do *c* antes de *e* ou de *i* é sempre [s]. A pronúncia da letra *z* não é nem [θ] nem [s], mas agora não interessa. Hoje o foco vai ser a pronúncia de *c* + *e*  e *c* + *i.* 
+Calma! [θ] é a forma em que o representam os linguistas. Podes encontrá-lo em palavras como *nature**z**a,* *con**c**erto* e ***c**inco.* A partir de agora, esquece-te dele, tens de o substituir por outros sons: 👇
 
-Se pensares bem, não se trata de uma pronúncia assim tão estranha para muito galegos. Se fores do bloco ocidental e [sesseias](https://gl.wikipedia.org/wiki/Isoglosa#/media/Ficheiro:Seseo_idioma_gallego.png), só tens de continuar na mesma. Se não tiveres essa sorte, chegou a hora de começares. Eis duas listas de palavras para treinares:
+- No caso das palavras *con**c**erto* e ***c**inco,* deves trocar o ceceio pelo sesseio. A pronúncia  *c* + *e* ou *i* é sempre [s]. 
+- Quanto à pronúncia da letra *z,* a sua pronúncia não é [θ] nem [s]. Tens de aprender um som novo, sim, mas isto fica para outro dia!
+
+Se pensares bem, pronunciar como [s] o *c* quando a seguir tem um *e* ou um *i,* não é assim tão estranho para muito galegos. Se fores do bloco ocidental e [sesseias](https://gl.wikipedia.org/wiki/Isoglosa#/media/Ficheiro:Seseo_idioma_gallego.png), só tens de continuar na mesma. Se não tiveres essa sorte, chegou a hora de começares. Eis duas listas de palavras para treinares:
+
 
 ## c + e > [s] + e
 
