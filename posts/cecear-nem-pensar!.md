@@ -2,7 +2,7 @@
 title: Cecear? Nem pensar!
 tags:
   - 'O som [s]'
-draft: true
+draft: false
 show_toc: false
 ---
 Não há dúvida de que um dos maiores desafios do português para um estudante galego é a sonoridade desta língua. São muitos os sons novos com que se vai deparar e que vai ter de aprender.
