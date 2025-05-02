@@ -2,9 +2,11 @@
 title: A pronúncia do esse duplo
 tags:
   - 'O som [s]'
-draft: true
+draft: false
 show_toc: false
 ---
+A pronúncia do esse duplo em português é [s]. Pratica com as seguintes palavras:
+
 1. <e-moji>👩🏻‍🏫</e-moji> professora
 
 2. <e-moji>🍝</e-moji> massa
