@@ -2,7 +2,7 @@
 title: 'As refeições '
 tags:
   - Vocabulário
-draft: true
+draft: false
 show_toc: false
 ---
 | Português             | Galego            | Castelhano       |
