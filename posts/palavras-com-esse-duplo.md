@@ -5,6 +5,8 @@ tags:
 draft: false
 show_toc: false
 ---
+A pronuncia do esse duplo em português é [s]. Pratica com as seguintes palavras:
+
 1. <e-moji>👩🏻‍🏫</e-moji> professora
 
 2. <e-moji>🍝</e-moji> massa
