@@ -1,7 +1,7 @@
 ---
 title: Cecear? Nem pensar!
 tags:
-  - 'O som [s]'
+  - O /s/
 draft: false
 show_toc: false
 ---
@@ -15,7 +15,7 @@ Calma! [θ] é a forma em que o representam os linguistas, mas encontramos este 
 
 - No caso de *nature**z**a,* a pronúncia não é [s]. Precisas aprender um som novo para pronunciares a letra *z,* e fica para outro dia. Hoje o foco é  *c* + *e, i.*
 
-Se pensares bem, pronunciar como [s] o *c* quando a seguir tem um *e* ou um *i,* não é assim tão estranho para muito galegos, os do bloco ocidental com [sesseio total](https://gl.wikipedia.org/wiki/Isoglosa#/media/Ficheiro:Seseo_idioma_gallego.png), por exemplo. Se não for este o teu caso, chegou a hora de começares a sessear! Eis duas listas de palavras para treinares:
+Se pensares bem, pronunciar como [s] o *c* quando a seguir tem um *e* ou um *i,* não é assim tão estranho para muitos galegos, os do bloco ocidental com [sesseio total](https://gl.wikipedia.org/wiki/Isoglosa#/media/Ficheiro:Seseo_idioma_gallego.png), por exemplo. Se não for este o teu caso, chegou a hora de começares a sessear! Eis duas listas de palavras para treinares:
 
 ## c + e > [s] + e
 

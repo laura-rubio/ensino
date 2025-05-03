@@ -1,7 +1,7 @@
 ---
 title: A pronúncia do ç
 tags:
-  - 'O som [s]'
+  - O /s/
 draft: false
 show_toc: false
 ---
