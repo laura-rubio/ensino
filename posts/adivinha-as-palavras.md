@@ -125,3 +125,24 @@ Dou-te apenas duas dicas:
 - - -
 
 <e-validate>Verifica as respostas</e-validate>
+
+
+Qual não sabes? Clica no link abaixo: <details> <summary>Respostas</summary>
+<ol>
+<li>ameixa </li>
+<li>bruxa </li>
+<li>Bruxelas </li>
+<li>caixa </li>
+<li>coxa </li>
+<li>enxame </li>
+<li>graxa </li>
+<li>lixo </li>
+<li>mexicano </li>
+<li>peixe </li>
+<li>queixo </li>
+<li>seixo </li>
+<li>xadrez </li>
+<li>xarope </li>
+
+  
+</details>
