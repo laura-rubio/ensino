@@ -108,3 +108,24 @@ Bora! Tenta adivinhar qual é a letra por que temos que substituir o nosso xis p
 Bob <e-answer> Esponja </e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+Qual não sabes? Clica no link abaixo: <details> <summary>Respostas</summary>
+<ol>
+<li>janela </li>
+<li>agenda </li>
+<li>giz </li>
+<li>anjo </li>
+<li>gema </li>
+<li>azulejo </li>
+<li>beijo </li>
+<li>gente </li>
+<li>jornal </li>
+<li>caranguejo </li>
+<li>janeiro </li>
+<li>girafa </li>
+<li>laranja </li>
+<li>joaninha </li>
+<li>página </li>
+<li>esponja </li>
+  
+</details>
