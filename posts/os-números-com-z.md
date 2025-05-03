@@ -1,7 +1,7 @@
 ---
 title: Os números com z
 tags:
-  - A pronúncia do fonema /z/
+  - O /z/
   - Os números em português
 draft: false
 show_toc: false

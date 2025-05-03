@@ -1,7 +1,7 @@
 ---
 title: 10 palavras com zê
 tags:
-  - A pronúncia do fonema /z/
+  - O /z/
 draft: false
 show_toc: false
 ---

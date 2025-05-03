@@ -1,7 +1,7 @@
 ---
 title: Treino do fonema /z/
 tags:
-  - A pronúncia do fonema /z/
+  - O /z/
 draft: false
 show_toc: false
 ---
