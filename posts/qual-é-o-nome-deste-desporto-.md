@@ -31,7 +31,7 @@ show_toc: false
 
 ![](/img/icons8-basquetebol-100.png)
 
-<e-answer> Basquetebol </e-answer> ou <e-answer> basquete </e-answe>
+<e-answer> Basquetebol </e-answer> ou <e-answer readonly> basquete </e-answe>
 
 <e-validate> Verifica as respostas </e-validate>
 
@@ -55,7 +55,7 @@ show_toc: false
 
 ![](/img/icons8-voleibol-100.png)
 
-<e-answer> Voleibol </e-answer> ou <e-answer> Vólei </e-answer>
+<e-answer> Voleibol </e-answer> ou <e-answer readonly> vólei </e-answer>
 
 <e-validate> Verifica as respostas </e-validate>
 
@@ -95,7 +95,7 @@ show_toc: false
 
 ![](/img/karate.png)
 
-<e-answer> Karaté </e-answer> ou  <e-answer> caraté </e-answer> (PT) / <e-answer> Karatê </e-answer> <e-answer> caratê </e-answer> (BR)
+<e-answer> Karaté </e-answer> ou  <e-answer readonly> caraté </e-answer> (PT) / <e-answer> Karatê </e-answer> <e-answer readonly> caratê </e-answer> (BR)
 
 <e-validate> Verifica as respostas </e-validate>
 
@@ -111,7 +111,7 @@ show_toc: false
 
 ![](/img/icons8-levantamento-de-peso-100.png)
 
-<e-answer> Halterofilismo </e-answer> ou <e-answer> levantamento </e-answer> <e-answer> de </e-answer> <e-answer> peso </e-anwer>
+<e-answer> Halterofilismo </e-answer> ou <e-answer readonly> levantamento </e-answer> <e-answer readonly> de </e-answer> <e-answer readonly> peso </e-anwer>
 
 <e-validate> Verifica as respostas </e-validate>
 
@@ -127,7 +127,7 @@ show_toc: false
 
 ![](/img/icons8-pingue-pongue-100.png)
 
-<e-answer> Pingue </e-answer> - <e-answer> pongue </e-answer> ou <e-answer> Ténis </e-answer> <e-answer> de </e-answer> <e-answer> mesa </e-answer>
+<e-answer> Pingue </e-answer> - <e-answer> pongue </e-answer> ou <e-answer readonly> ténis </e-answer> <e-answer readonly> de </e-answer> <e-answer readonly> mesa </e-answer>
 
 <e-validate> Verifica as respostas </e-validate>
 
@@ -135,7 +135,7 @@ show_toc: false
 
 ![](/img/icons8-patinagem100.png)
 
-<e-answer> Patinagem </e-answer>(PT) / <e-answer> Patinação </e-answer>(BR)
+<e-answer> Patinagem </e-answer>(PT) / <e-answer readonly> patinação </e-answer>(BR)
 
 <e-validate> Verifica as respostas </e-validate>
 
@@ -143,7 +143,7 @@ show_toc: false
 
 ![](/img/icons8-basebol-100.png)
 
-<e-answer> Beisebol </e-answer> ou <e-answer> Basebol </e-answer>
+<e-answer> Beisebol </e-answer> ou <e-answer readonly> basebol </e-answer>
 
 <e-validate> Verifica as respostas </e-validate>
 
@@ -175,7 +175,7 @@ show_toc: false
 
 ![](/img/icons8-raguebi-100.png)
 
-<e-answer> râguebi </e-answer> (PT) / <e-answer> rúgbi </e-answer> (BR)
+<e-answer> râguebi </e-answer> (PT) / <e-answer readonly> rúgbi </e-answer> (BR)
 
 <e-validate> Verifica as respostas </e-validate>
 
