@@ -7,7 +7,7 @@ show_toc: false
 summary: Exercício
 ---
 ## Série 1
-Completa a série com a palavra que falta: 
+Completa a série com a palavra adequada: 
 
 <e-layout>
 <e-tag color=1>Rússia</e-tag>
@@ -40,7 +40,7 @@ Completa a série com a palavra que falta:
 
 ## Série 2
 
-Completa a série com a palavra que falta:  
+Completa a série com a palavra adequada:  
 
 <e-layout>
 <e-tag color=2>massagem</e-tag>
