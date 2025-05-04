@@ -1,11 +1,13 @@
 ---
-title: Quando for grande
+title: 'Quando for grande, quero ser...'
 tags:
   - O trabalho
 draft: false
 show_toc: false
-summary: quero ser...
+summary: Exercício
 ---
+Completa com a palavra adequada: 
+
 <e-layout> 
 <e-tag color=1>agricultora</e-tag>
 <e-tag color=2>astronauta</e-tag>

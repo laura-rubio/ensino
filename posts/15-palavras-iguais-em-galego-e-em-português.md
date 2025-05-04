@@ -7,7 +7,13 @@ show_toc: false
 ---
 E que não usas quando falas galego
 
+## Exercício
+
+Completa com a palavra adequada:
+
 - - -
+
+
 
 ![](/img/caderno.jpg)
 

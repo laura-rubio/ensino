@@ -4,8 +4,10 @@ tags:
   - Vocabulário
 draft: false
 show_toc: false
-summary: O que é isto?
+summary: Exercício
 ---
+## O que é isto?
+
 Observa os desenhos e completa com a palavra adequada: 
 
 <e-layout> 

@@ -4,6 +4,7 @@ tags:
   - As cores
 draft: false
 show_toc: false
+summary: Exercício
 ---
 Aprende as cores em português a partir do galego! 
 
