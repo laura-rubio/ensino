@@ -38,8 +38,8 @@ A pronúncia do esse duplo em português é [s]. Pratica com as seguintes série
 
 5. <e-moji>🧭</e-moji> bú**ss**ola [ˈbu**s**ulɐ]
 
-6. <e-moji>💆🏻</e-moji> ma**ss**agem [mɐˈsaʒɐ̃j̃]
+6. <e-moji>💆🏻</e-moji> ma**ss**agem [mɐˈ**s**aʒɐ̃j̃]
 
 7. <e-moji>🎠</e-moji> carro**ss**el [kɐʀɔˈ**s**ɛɫ]
 
-8. <e-moji>📼</e-moji> videoca**ss**ete [vidjɔkaˈsɛt(ə)]
+8. <e-moji>📼</e-moji> videoca**ss**ete [vidjɔkaˈ**s**ɛt(ə)]
