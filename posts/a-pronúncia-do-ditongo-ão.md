@@ -7,34 +7,36 @@ show_toc: false
 ---
 ## Série 1
 
-<e-moji> 🙅 </e-moji> não
+1. <e-moji> 🙅 </e-moji> não [ˈn**ɐ̃w̃**]
 
-<e-moji> ✋ </e-moji> mão
+2. <e-moji> ✋ </e-moji> mão [ˈm**ɐ̃w̃**]
 
-<e-moji> ❤️ </e-moji> coração
+3. <e-moji> ❤️ </e-moji> coração [kurɐˈs**ɐ̃w̃**]
 
-<e-moji> 🍋 </e-moji> limão
+4. <e-moji> 🍋 </e-moji> limão [liˈm**ɐ̃w̃**]
 
-<e-moji> 🚛 </e-moji> camião
+5. <e-moji> 🚛 </e-moji> camião [kaˈmj**ɐ̃w̃**]
 
-<e-moji> 🍞 </e-moji>  pão
+6. <e-moji> 🍞 </e-moji>  pão [ˈp**ɐ̃w̃**]
 
-<e-moji> 🍈 </e-moji> melão
+7. <e-moji> 🍈 </e-moji> melão [məˈl**ɐ̃w̃**]
 
-<e-moji> 🐕 </e-moji> cão
+8. <e-moji> 🐕 </e-moji> cão [ˈk**ɐ̃w̃**]
 
 ## Série 2
 
-<e-moji> 📺 </e-moji> televisão
+1. <e-moji> 📺 </e-moji> televisão [tələviˈz**ɐ̃w̃**]
 
-<e-moji> 🫘 </e-moji> feijão
+2. <e-moji> 🫘 </e-moji> feijão [fɐjˈʒ**ɐ̃w̃**]
 
-<e-moji> 🫁 </e-moji> pulmão
+3. <e-moji> 🩳 </e-moji> calção [kaɫˈs**ɐ̃w̃**]
 
-<e-moji> ✈️ </e-moji> avião
+4. <e-moji> ✈️ </e-moji> avião [ɐˈvj**ɐ̃w̃**]
 
-<e-moji> 🦈 </e-moji> tubarão
+5. <e-moji> 🦈 </e-moji> tubarão [tubɐˈr**ɐ̃w̃**]
 
-<e-moji> 🎈 </e-moji> balão
+6. <e-moji> 🎈 </e-moji> balão [bɐˈl**ɐ̃w̃**]
 
-<e-moji> 🦚 </e-moji> pavão
+7. <e-moji> 💳 </e-moji> cartão [kɐrˈt**ɐ̃w̃**]
+
+8. <e-moji> 🦚 </e-moji> pavão [pɐˈv**ɐ̃w̃**]
