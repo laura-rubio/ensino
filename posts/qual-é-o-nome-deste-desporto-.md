@@ -4,6 +4,7 @@ tags:
   - O desporto
 draft: false
 show_toc: false
+summary: Exercício
 ---
 ![](/img/icons8-running-100.png)
 
