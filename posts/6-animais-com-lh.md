@@ -1,30 +1,28 @@
 ---
-title: 6 animais com lh
+title: 2. 6 animais com lh
 tags:
   - O ele-agá
-draft: true
+draft: false
 show_toc: false
 ---
-Em português existem dígrafos, mas nem sempre coincidem com os do castelhano.
 
-<article>
-Lembra-te!
+## Exercício 
 
-Um dígrafo é um grupo de duas letras que representam um único som.
-</article>
+Todos os galegos sabem (ou deveriam saber) os nomes destes 6 animais. Basta trocares o dígrafo *ll* pelo dígrafo *lh* para a palavra ficar em português👇
 
-Todos os galegos sabem (ou deveriam saber) os nomes dos animais a seguir. São igual em galego, só há que trocar o dígrafo *ll* pelo dígrafo *lh* para a palavra ficar em português👇
+Completa com a palavra adequada: 
 
 #### Exemplo: 
-
-<article>
 
 1.<e-moji>🐦‍⬛</e-answer>
 
 <e-answer readonly>gralha</e-answer>
 
-O nome deste pássaro, parente do corvo, é usado, ainda, para falarmos de erros tipográficos, esses que cometemos ao escrever num teclado (omissão e repetição de letras ou troca da posição delas numa palavra).
 
+<article>
+Importante!
+
+O nome deste pássaro, parente do corvo, é usado, ainda, para falarmos de erros tipográficos, esses que cometemos ao escrever num teclado (omissão, repetição ou troca da posição de letras numa palavra).
 </article>
 
 2. <e-moji> 🐇 </e-moji>
