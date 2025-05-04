@@ -7,22 +7,22 @@ show_toc: false
 ---
 10 palavras com zê para treinares a pronúncia do som que a abelha faz: 
 
-<e-moji> 🦓 </e-moji> <b>z</b>ebra
+1. <e-moji> 🦓 </e-moji> <b>z</b>ebra [ˈ**z**ebrɐ]
 
-<e-moji> 👩‍🍳 </e-moji> co<b>z</b>inheira
+2. <e-moji> 👩‍🍳 </e-moji> co<b>z</b>inheira [ku**z**iˈɲɐjrɐ]
 
-<e-moji> 🧟 </e-moji> <b>z</b>umbi
+3. <e-moji> 🧟 </e-moji> <b>z</b>umbi [**z**ũˈbi]
 
-<e-moji> 🥅 </e-moji> bali<b>z</b>a
+4. <e-moji> 🥅 </e-moji> bali<b>z</b>a [bɐˈli**z**ɐ]
 
-<e-moji> 🫒 </e-moji> a<b>z</b>eitona
+5. <e-moji> 🫒 </e-moji> a<b>z</b>eitona [ɐ**z**ɐjˈtonɐ]
 
-<e-moji> 🙋‍♂️ </e-moji> vi<b>z</b>inho
+6. <e-moji> 🙋‍♂️ </e-moji> vi<b>z</b>inho [vəˈ**z**iɲu] ou [viˈ**z**iɲu]
 
-<e-moji> 🐚 </e-moji> bú<b>z</b>io
+7. <e-moji> 🐚 </e-moji> bú<b>z</b>io [ˈbu**z**ju]
 
-<e-moji> 😞 </e-moji> triste<b>z</b>a 
+8. <e-moji> 😞 </e-moji> triste<b>z</b>a [triʃˈte**z**ɐ]
 
-<e-moji> 🙏🏼 </e-moji> re<b>z</b>ar 
+9. <e-moji> 🙏🏼 </e-moji> re<b>z</b>ar [ʀəˈ**z**ar]
 
-<e-moji> 🪝 </e-moji> an<b>z</b>ol
+10. <e-moji> 🪝 </e-moji> an<b>z</b>ol [ɐ̃ˈ**z**ɔɫ]

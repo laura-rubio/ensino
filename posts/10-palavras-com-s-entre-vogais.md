@@ -7,22 +7,22 @@ show_toc: false
 ---
 10 palavras com -s- entre vogais para treinares a pronúncia do som que a abelha faz:
 
-<e-moji> 🏠 </e-moji> ca**s**a
+1. <e-moji> 🏠 </e-moji> ca**s**a [ˈka**z**ɐ]
 
-<e-moji> ⏸️ </e-moji> pau**s**a
+2. <e-moji> ⏸️ </e-moji> pau**s**a [ˈpaw**z**ɐ]
 
-<e-moji> 🦊 </e-moji> rapo**s**o
+3. <e-moji> 🦊 </e-moji> rapo**s**o [ʀɐˈpo**z**u]
 
-<e-moji> 💑 </e-moji> ca**s**al
+4. <e-moji> 💑 </e-moji> ca**s**al [kɐˈzaɫ]
 
-<e-moji> 🪽 </e-moji> a**s**a
+5. <e-moji> 🪽 </e-moji> a**s**a [ˈa**z**ɐ]
 
-<e-moji> ✂️ </e-moji> te**s**oura
+6. <e-moji> ✂️ </e-moji> te**s**oura [təˈ**z**o(w)rɐ]
 
-<e-moji> 🌹 </e-moji> ro**s**a
+7. <e-moji> 🌹 </e-moji> ro**s**a [ˈʀɔ**z**ɐ]
 
-<e-moji> ☺️ </e-moji> sorri**s**o
+8. <e-moji> ☺️ </e-moji> sorri**s**o [suˈʀi**z**u]
 
-<e-moji> 🎁 </e-moji> pre**s**ente
+9. <e-moji> 🎁 </e-moji> pre**s**ente [prəˈ**z**ẽt(ə)]
 
-<e-moji> 🧥 </e-moji> ca**s**aco
+10. <e-moji> 🧥 </e-moji> ca**s**aco [kɐˈ**z**aku]

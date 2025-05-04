@@ -4,29 +4,42 @@ tags:
   - O /s/
 draft: false
 show_toc: false
+summary: A pronúncia do -ss-
 ---
-A pronúncia do esse duplo em português é [s]. Pratica com as seguintes palavras:
+A pronúncia do esse duplo em português é [s]. Pratica com as seguintes séries:
 
-1. <e-moji>👩🏻‍🏫</e-moji> professora
+## Série 1
 
-2. <e-moji>🍝</e-moji> massa
+1. <e-moji>👩🏻‍🏫</e-moji> profe**ss**ora [prufəˈ**s**orɐ]
 
-3. <e-moji>🧭</e-moji> bússola
+2. <e-moji>🍝</e-moji> ma**ss**a [ˈma**s**ɐ]
 
-4. <e-moji>🦕</e-moji> dinossauro
+3. <e-moji>🐦</e-moji> pássaro [ˈpa**s**ɐru]
 
-5. <e-moji>🦴</e-moji> osso
+4. <e-moji>🖨️</e-moji> impre**ss**ora [ĩprəˈ**s**orɐ]
 
-6. <e-moji>🖨️</e-moji> impressora
+5. <e-moji>🚶🏻‍♀️</e-moji> pa**ss**ear [pɐˈ**s**jar]
 
-7. <e-moji>🌻</e-moji> girassol
+6. <e-moji>🇷🇺</e-moji> Rú**ss**ia [ˈʀu**s**jɐ]
 
-8. <e-moji>🍑</e-moji> pêssego
+7. <e-moji>🦴</e-moji> o**ss**o [ˈo**s**u]
 
-9. <e-moji>🇷🇺</e-moji> Rússia
+8. <e-moji>🪪</e-moji> pa**ss**aporte [pa**s**ɐˈpɔrt(ə)]
 
-10. <e-moji>🧹</e-moji> vassoura
+## Série 2
 
-11. <e-moji>🎠</e-moji> carrossel
+1. <e-moji>🧹</e-moji> va**ss**oura [vɐˈ**s**o(w)rɐ]
 
-12. <e-moji>📼</e-moji> videocassete
+2. <e-moji>🌻</e-moji> gira**ss**ol [ʒirɐˈ**s**ɔɫ]
+
+3. <e-moji>🍑</e-moji> pê**ss**ego [ˈpe**s**əɡu]
+
+4. <e-moji>🦕</e-moji> dino**ss**auro [dinɔˈ**s**awru]
+
+5. <e-moji>🧭</e-moji> bú**ss**ola [ˈbu**s**ulɐ]
+
+6. <e-moji>💆🏻</e-moji> ma**ss**agem [mɐˈsaʒɐ̃j̃]
+
+7. <e-moji>🎠</e-moji> carro**ss**el [kɐʀɔˈ**s**ɛɫ]
+
+8. <e-moji>📼</e-moji> videoca**ss**ete [vidjɔkaˈsɛt(ə)]

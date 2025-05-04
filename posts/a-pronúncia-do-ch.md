@@ -5,34 +5,34 @@ tags:
 draft: false
 show_toc: false
 ---
-O dígrafo cê-agá <ch> é pronunciado como o x do galego. 
+O dígrafo cê-agá <ch> é pronunciado como o *x* do galego. 
 
 Treina a pronúncia com as seguintes séries:
 
 ## Série 1
 
-<e-moji> 🔑 </e-moji>  a **ch**ave
+1. <e-moji> 🔑 </e-moji>  a **ch**ave [ɐ ˈ**ʃ**av(ə)]
 
-<e-moji> 🎒 </e-moji>  a mo**ch**ila
+2. <e-moji> 🎒 </e-moji>  a mo**ch**ila [ɐ muˈ**ʃ**ilɐ]
 
-<e-moji> 🍫 </e-moji>  o **ch**ocolate
+3. <e-moji> 🍫 </e-moji>  o **ch**ocolate [u **ʃ**ukuˈlat(ə)]
 
-<e-moji> 🍪 </e-moji>  a bola**ch**a
+4. <e-moji> 🍪 </e-moji>  a bola**ch**a [ɐ buˈla**ʃ**ɐ]
 
-<e-moji> 😢 </e-moji>  **ch**orar
+5. <e-moji> 😢 </e-moji>  **ch**orar [**ʃ**uˈrar]
 
-<e-moji> 🪳 </e-moji>  o bi**ch**o
+6. <e-moji> 🪳 </e-moji>  o bi**ch**o [u ˈbi**ʃ**u]
 
 ## Série 2
 
-<e-moji> ⛆  </e-moji>  a **ch**uva
+1. <e-moji> ⛆  </e-moji>  a **ch**uva [ɐ ˈ**ʃ**uvɐ] 
 
-<e-moji> ☂️ </e-moji>  o guarda-**ch**uva
+2. <e-moji> ☂️ </e-moji>  o guarda-**ch**uva [u ɡwardɐˈ**ʃ**uvɐ]
 
-<e-moji> 👒 </e-moji>  o **ch**apéu
+3. <e-moji> 👒 </e-moji>  o **ch**apéu [u **ʃ**ɐˈpɛw]
 
-<e-moji> 🇨🇳  </e-moji>  a **Ch**ina
+4. <e-moji> 🇨🇳  </e-moji>  a **Ch**ina [ɐ ˈ**ʃ**inɐ]
 
-<e-moji> 🧣 </e-moji>  o ca**ch**ecol
+5. <e-moji> 🧣 </e-moji>  o ca**ch**ecol [u ka**ʃ**əˈkɔɫ]
 
-<e-moji> 🍵 </e-moji>  o **ch**á
+6. <e-moji> 🍵 </e-moji>  o **ch**á [u ˈ**ʃ**a]

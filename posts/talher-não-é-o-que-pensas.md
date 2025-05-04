@@ -9,7 +9,7 @@ show_toc: false
 
 ![Image](/img/talheres_2.jpeg)
 
-A peça usada à mesa para comer é o talher. Os talheres principais são a colher, o garfo e a faca. 
+A peça usada à mesa para comer é o talher. Os talheres principais são o garfo, a faca e a colher. 
 
 ## Oficina
 
