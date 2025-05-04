@@ -51,8 +51,4 @@ Conxuga os verbos:
 
 4. Presente do indicativo do verbo equivocarse
 
-5. Presente do indicativo do verbo suicidarse
-
-6. Presente do indicativo do verbo dignarse
-
 
