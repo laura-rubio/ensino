@@ -4,6 +4,7 @@ tags:
   - Viagens e deslocações
 draft: false
 show_toc: false
+summary: Glossário
 ---
 <e-moji>🚗</e-moji> o carro
 
