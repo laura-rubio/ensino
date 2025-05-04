@@ -1,5 +1,5 @@
 ---
-title: As cores em português e galego
+title: 2. As cores em português e galego
 tags:
   - As cores
 draft: false

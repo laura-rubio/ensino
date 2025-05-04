@@ -1,5 +1,5 @@
 ---
-title: Um mundo a cores
+title: 1. Um mundo a cores
 tags:
   - As cores
 draft: false
