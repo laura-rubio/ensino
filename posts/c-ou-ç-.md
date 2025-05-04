@@ -48,11 +48,11 @@ Repara!
 
 2. Responde às perguntas. A resposta é, em todos os casos, uma palavra com *c* ou com *ç.*
 
-- Segundo dia da semana: <e-answer>terça-feira</e-answer>
+- Segundo dia da semana: <e-answer>terça</e-answer>-<e-answer>feira</e-answer>
 - Sinal para marcar a pronúncia das vogais ou a sílaba tónica: <e-answer>acento</e-answer> 
 - Pessoa que está a receber cuidados médicos num hospital: <e-answer>paciente</e-answer>
 - Terceiro mês do ano: <e-answer>março</e-answer>
-- Pessoa que perdeu a visão: <e-answer>cego</e-answer>
+- Uma pessoa que perdeu a visão é: <e-answer>cega</e-answer>
 - Cada um dos membros superiores do corpo: <e-answer>braço</e-answer>
 - Animal que serviu de inspiração para criar o Batman: <e-answer>morcego</e-answer>
 - Vegetal que nos faz chorar ao ser cortado: <e-answer>cebola</e-answer>
