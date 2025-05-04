@@ -5,6 +5,7 @@ tags:
   - O tempo
 draft: false
 show_toc: false
+summary: Cartões de estudo
 ---
 Em galego existem duas formas para nomearmos os dias da semana. Em português só há uma. Vira o cartão para conheceres a forma portuguesa:
 
