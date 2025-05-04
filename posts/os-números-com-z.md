@@ -6,7 +6,7 @@ tags:
 draft: false
 show_toc: false
 ---
-Todos estes números têm a letra zê. Como sabes, o som desta letra lembra muito o som que a abelha faz. Pronuncia cada número e não te esqueças de zumbir: 
+Todos estes números têm a letra zê. O som desta letra no início de sílaba lembra muito o som que a abelha faz. Pronuncia cada número e não te esqueças de zumbir: 
 
 <e-tag color=1>0</e-tag> <b>z</b>ero [ˈ**z**ɛru]
 

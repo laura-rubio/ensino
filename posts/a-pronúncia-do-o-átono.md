@@ -13,42 +13,42 @@ Agora que sabes isto, treina a tua pronúncia com as seguintes séries:
 
 ## Série 1
 
-<e-moji> 📒 </e-moji>     **o** cadern**o** 
+1. <e-moji> 📒 </e-moji>     **o** cadern**o** 
 
-<e-moji> 🥛 </e-moji>     **o** cop**o** 
+2. <e-moji> 🥛 </e-moji>     **o** cop**o** 
 
-<e-moji> 👦🏽👦 </e-moji>   **o**s menin**o**s 
+3. <e-moji> 👦🏽👦 </e-moji>   **o**s menin**o**s 
 
-<e-moji>  🇵🇹  </e-moji>     P**o**rtugal
+4. <e-moji>  🇵🇹  </e-moji>     P**o**rtugal
 
-<e-moji> 🛋️  </e-moji>    **o** s**o**fá 
+5. <e-moji> 🛋️  </e-moji>    **o** s**o**fá 
 
-<e-moji> 🐈  </e-moji>    **o** gat**o** 
+6. <e-moji> 🐈  </e-moji>    **o** gat**o** 
 
 ##  Série 2
 
-<e-moji> 4️⃣ </e-moji>       **o** quatr**o** 
+1. <e-moji> 4️⃣ </e-moji>       **o** quatr**o** 
  
-<e-moji> 🐺 </e-moji>     **o** lob**o** 
+2. <e-moji> 🐺 </e-moji>     **o** lob**o** 
 
-<e-moji> 🍓 </e-moji>     **o** m**o**rang**o** 
+3. <e-moji> 🍓 </e-moji>     **o** m**o**rang**o** 
 
-<e-moji> 👞 </e-moji>     **o** sapat**o** 
+4. <e-moji> 👞 </e-moji>     **o** sapat**o** 
 
-<e-moji> 👩‍🏫 </e-moji> a pr**o**fessora
+5. <e-moji> 👩‍🏫 </e-moji> a pr**o**fessora
 
-<e-moji> 🦟 </e-moji>     **o** m**o**squit**o** 
+6. <e-moji> 🦟 </e-moji>     **o** m**o**squit**o** 
 
 ##  Série 3
 
-<e-moji> 🎂  </e-moji> **o** bol**o** 
+1. <e-moji> 🎂  </e-moji> **o** bol**o** 
 
-<e-moji> 🐻  </e-moji> **o** urs**o** 
+2. <e-moji> 🐻  </e-moji> **o** urs**o** 
 
-<e-moji> 🚦 </e-moji> **o** semáf**o**r**o** 
+3. <e-moji> 🚦 </e-moji> **o** semáf**o**r**o** 
 
-<e-moji> 🔔 </e-moji> **o** sin**o** 
+4. <e-moji> 🔔 </e-moji> **o** sin**o** 
 
-<e-moji> 🥥 </e-moji> **o** coc**o** 
+5. <e-moji> 🥥 </e-moji> **o** coc**o** 
 
-<e-moji> 🥄 </e-moji>  a c**o**lher
+6. <e-moji> 🥄 </e-moji>  a c**o**lher

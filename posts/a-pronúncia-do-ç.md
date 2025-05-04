@@ -5,7 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-A pronuncia do cê cedilhado em português é [s]. Pratica com as seguintes palavras: 
+A pronuncia do cê cedilhado em português é [s]. Pratica com as seguintes séries: 
 
 ## Série 1
 
