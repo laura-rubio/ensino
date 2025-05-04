@@ -4,6 +4,7 @@ tags:
   - O xis
 draft: false
 show_toc: false
+summary: Exercício
 ---
 Dou-te apenas duas dicas:
 
