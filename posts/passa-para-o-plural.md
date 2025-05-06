@@ -5,11 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-Antes de começares, revê o *post* sobre a formação do plural 👇
-
-[A formação do plural em português
-](https://laurarubio.net/posts/a-formacao-do-plural-em-portugues/)
-
+Antes de começares, revê o *post* 👉 [A formação do plural em português](https://laurarubio.net/posts/a-formacao-do-plural-em-portugues/)
 
 Como muitas palavras têm til, eis a dica!  👇
 
