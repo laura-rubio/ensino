@@ -50,7 +50,7 @@ Completa a série com a palavra adequada:
 <e-tag color=2>girassol</e-tag>
 <e-tag color=2>vassoura</e-tag>
 <e-tag color=2>dinossauro</e-tag>
-<e-tag color=2>carrosel</e-tag>
+<e-tag color=2>carrossel</e-tag>
 </e-layout>
 
 1. <e-moji>🧹</e-moji> <e-answer>vassoura</e-answer>
