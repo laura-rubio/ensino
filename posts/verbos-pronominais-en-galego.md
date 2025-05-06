@@ -10,13 +10,13 @@ Os verbos pronominais son aqueles que se conxugan cun pronome. As formas do pron
 
 <article>
   
-Presente do indicativo do verbo *chamarse* 
-- eu chámome
-- ti chámaste
-- ele, ela chámase
-- nós chamámonos
-- vós chamádesvos
-- eles, elas chámanse
+Presente do indicativo do verbo *atreverse* 
+- eu atrévome
+- ti atréveste
+- ele, ela, vostede atrévese
+- nós atrevémonos
+- vós atrevédesvos
+- eles, elas, vostedes atrévense
 
 </article>
 
@@ -24,17 +24,17 @@ A conxugación destes verbos non é complicada, só presta atención a estes dou
 
 1) A adición do pronome causa mudanzas na acentuación. Neste caso, as formas verbais eran graves e pasan a ser esdrúxulas. Como sabes, as palabras esdrúxulas acentúanse sempre  👇  
 
-- **cha**mo > **chá**mome
-- **cha**mas > **chá**maste
-- **cha**ma > **chá**mase 
-- cha**ma**mos > cha**má**monos
-- cha**ma**des > cha**má**desvos
-- cha**man** > **chá**manse
+- a**tre**vo > a**tré**vome
+- a**tre**ves > a**tré**veste
+- a**tre**ve > a**tré**vese
+- atre**ve**mos > atre**vé**monos
+- atre**ve**des > atre**vé**desvos
+- a**tre**ven > a**tré**vense
 
 
-2. A P4, a 2ª persoa do plural (*chamamos),* perde o *-s* final, seguida do pronome *nos.*
+2. A P4, a 2ª persoa do plural (*atrevemos),* perde o *-s* final, seguida do pronome *nos.*
 
-   Non é ~~chamámosnos~~ 👎, é  chamám<mark>onos</mark> 👍
+   Non é ~~atrevémosnos~~ 👎, é  atrevém<mark>onos</mark> 👍
 
 
 ## Un pouco de práctica!
@@ -51,4 +51,4 @@ Conxuga os verbos:
 
 4. Presente do indicativo do verbo equivocarse
 
-
+5. Presente do indicativo do verbo espreguizarse
