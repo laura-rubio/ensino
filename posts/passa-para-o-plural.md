@@ -5,7 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-Antes de começares, consulta o *post* sobre a formação do plural 👇
+Antes de começares, revê o *post* sobre a formação do plural 👇
 
 [A formação do plural em português
 ](https://laurarubio.net/posts/a-formacao-do-plural-em-portugues/)

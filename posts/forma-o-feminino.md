@@ -5,7 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-Antes de começares, consulta o *post* sobre a formação do feminino 👇
+Antes de começares, revê o *post* sobre a formação do feminino 👇
 
 [A formação do feminino](https://laurarubio.net/posts/a-formacao-do-feminino/)
 
