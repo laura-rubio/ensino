@@ -5,9 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-Antes de comezares, consulta o *post* sobre a formación do plural 👇
-
-[A formación do plural en galego](https://laurarubio.net/posts/a-formacion-do-plural-en-galego/)
+Antes de comezares, revé o *post* 👉 [A formación do plural en galego](https://laurarubio.net/posts/a-formacion-do-plural-en-galego/)
 
 ## 1. Pasa para o plural
 - <e-moji>🐭</e-moji> rato: <e-answer readonly>ratos</e-answer>
