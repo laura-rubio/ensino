@@ -3,7 +3,7 @@ title: Verbos pronominais
 summary: Presente do indicativo
 tags:
   - Conjugações verbais
-draft: true
+draft: false
 show_toc: false
 ---
 Os verbos pronominais são aqueles conjugados em conjunto com um pronome. As formas do pronome que tens de acrescentar ao verbo são: *me, te, se, nos, vos* ou *se.* 
@@ -22,16 +22,7 @@ Os verbos pronominais são aqueles conjugados em conjunto com um pronome. As for
 
 A conjugação destes verbos não é complicada, só presta atenção a estes dois pormenores:
 
-1) Em galego, o pronome vai colado ao verbo 👇  
-
-- chámome
-- chámaste
-- chámase
-- chamámonos
-- chamádesvos
-- chámanse
-
-   Em português, o pronome coloca-se depois do verbo separado por um hífen 👇
+1. Em português, o pronome coloca-se depois do verbo separado por um hífen 👇
 - chamo<mark>-</mark>me
 - chamas<mark>-</mark>te
 - chama<mark>-</mark>se
@@ -39,7 +30,7 @@ A conjugação destes verbos não é complicada, só presta atenção a estes do
 - chamais<mark>-</mark>vos
 - chamam<mark>-</mark>se
 
-2. A P4, a 2ª persoa do plural (*chamamos),* perde o *-s* final, quando seguida do pronome *nos.*
+2. A P4, a 2ª pessoa do plural (*chamamos),* perde o *-s* final, quando seguida do pronome *nos.*
 
    Não é ~~chamamos-nos~~ 👎, é chamam<mark>o-nos</mark> 👍
 

@@ -97,4 +97,3 @@ Conjuga os verbos:
 4. Presente do indicativo do verbo [compreender](https://www.verbos-portugueses.info/pt/praticar/tempos.html#273:compreender/1)
 
 5. Presente do indicativo do verbo [sofrer](https://www.verbos-portugueses.info/pt/praticar/tempos.html#453:sofrer/1)
-
