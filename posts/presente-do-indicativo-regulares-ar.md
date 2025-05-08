@@ -13,7 +13,6 @@ summary: Presente do indicativo
 - tu and**as**
 - ele, ela, você and**a**
 - nós and**amos**
-- vós and**ais**
 - eles, elas, vocês and**am**
 
 </article>

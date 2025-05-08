@@ -13,7 +13,6 @@ show_toc: false
 - tu part**es**
 - ele, ela, você part**e**
 - nós part**imos**
-- vós part**is**
 - eles, elas, vocês part**em**
 
 </article>

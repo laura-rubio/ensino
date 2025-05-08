@@ -15,7 +15,6 @@ Os verbos pronominais são aqueles conjugados em conjunto com um pronome. As for
 - tu chamas-te
 - ele, ela, você chama-se
 - nós chamamo-nos
-- vós chamais-vos
 - eles, elas, vocês chamam-se
 
 </article>
@@ -27,7 +26,6 @@ A conjugação destes verbos não é complicada, só presta atenção a estes do
 - chamas<mark>-</mark>te
 - chama<mark>-</mark>se
 - chamamo<mark>-</mark>nos
-- chamais<mark>-</mark>vos
 - chamam<mark>-</mark>se
 
 2. A P4, a 2ª pessoa do plural (*chamamos),* perde o *-s* final, quando seguida do pronome *nos.*

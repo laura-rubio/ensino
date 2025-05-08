@@ -13,7 +13,6 @@ show_toc: false
 - tu varr**es**
 - ele, ela, você varr**e**
 - nós varr**emos**
-- vós varr**eis**
 - eles, elas, vocês varr**em**
 
 </article>
