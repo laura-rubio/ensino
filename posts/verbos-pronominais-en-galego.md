@@ -52,3 +52,5 @@ Conxuga os verbos:
 4. Presente do indicativo do verbo equivocarse
 
 5. Presente do indicativo do verbo espreguizarse
+
+6. Presente do indicativo do verbo esforzarse
