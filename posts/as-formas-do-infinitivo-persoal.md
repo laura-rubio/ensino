@@ -16,11 +16,11 @@ En galego distinguimos dous tipos de infinitivo:
 2. Un infinitivo persoal ou variábel, que ten flexión e presenta formas diferentes para cada unha das persoas. As formas deste segundo son:
 
 * P1 andar
-* P2 anda**res**
+* P2 andar**es**
 * P3 andar
 * P4 andar**mos**
 * P5 andar**des**
-* P6 anda**ren**
+* P6 andar**en**
 
 Como podes observar, a 1ª persoa (P1) e a 3ª persoa (P3) do singular coinciden coa forma do infinitivo non persoal. O resto de formas obtéñense colando a ese infinitivo as terminacións: *\-res* (P2), *\-mos* (P4), *\-des* (P5) e *\-ren* (P6). 
 
