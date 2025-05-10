@@ -252,10 +252,40 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🦺</e-moji>colete: <e-answer>coletes</e-answer>
 - <e-moji>🕸️</e-moji>teia: <e-answer>teias</e-answer>
 - <e-moji>🪣</e-moji>balde: <e-answer>baldes</e-answer>
-- <e-moji>🎠</e-moji>carrossel: <e-answer>carrosséis</e-answer>
-- <e-moji>♻️</e-moji>reciclagem: <e-answer>reciclagens</e-answer>
+- <e-moji>🪓</e-moji>machado: <e-answer>machados</e-answer>
+- <e-moji>💆🏻‍♀️</e-moji>massagem: <e-answer>massagens</e-answer>
 - <e-moji>♟️</e-moji>peão: <e-answer>peões</e-answer>
 - <e-moji>🦘</e-moji>canguru: <e-answer>cangurus</e-answer>
 - <e-moji>🍯</e-moji>mel: <e-answer readonly>méis</e-answer> ou <e-answer>meles</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## 17. Passa para o plural
+
+- <e-moji>🍆</e-moji>beringela: <e-answer>beringelas</e-answer>
+- <e-moji>📁</e-moji>pasta: <e-answer>pastas</e-answer>
+- <e-moji>🌻</e-moji>girassol: <e-answer>girassóis</e-answer>
+- <e-moji>♻️</e-moji>reciclagem: <e-answer>reciclagens</e-answer>
+- <e-moji>💣</e-moji>bomba: <e-answer>bombas</e-answer>
+- <e-moji>🛷</e-moji>trenó: <e-answer>trenós</e-answer>
+- <e-moji>🦦</e-moji>lontra: <e-answer>lontras</e-answer>
+- <e-moji>🍼</e-moji>biberão: <e-answer>biberões</e-answer>
+- <e-moji>👣</e-moji>pegada: <e-answer>pegadas</e-answer>
+- <e-moji>☎️</e-moji>telefone: <e-answer>telefones</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## 18. Passa para o plural
+
+- <e-moji>👅</e-moji>língua: <e-answer>línguas</e-answer>
+- <e-moji>🌾</e-moji>cereal: <e-answer>cereais</e-answer>
+- <e-moji>🐻</e-moji>urso: <e-answer>ursos</e-answer>
+- <e-moji>👨‍⚖️</e-moji>juíz: <e-answer>juízes</e-answer>
+- <e-moji>🍅</e-moji>tomate: <e-answer>tomates</e-answer>
+- <e-moji>⚰️</e-moji>caixão: <e-answer>caixões</e-answer>
+- <e-moji>🕳️</e-moji>buraco: <e-answer>buracos</e-answer>
+- <e-moji>⚙️</e-moji>engrenagem: <e-answer>engrenagens</e-answer>
+- <e-moji>🩲</e-moji>cueca: <e-answer>cuecas</e-answer>
+- <e-moji>⛷️</e-moji>esquiador: <e-answer>esquiadores</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
