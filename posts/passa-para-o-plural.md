@@ -244,3 +244,18 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🛴</e-moji>trotinete: <e-answer>trotinetes</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## 16. Passa para o plural
+
+- <e-moji>ℹ️</e-moji>informação: <e-answer>informações</e-answer>
+- <e-moji>🥔</e-moji>batata: <e-answer>batatas</e-answer>
+- <e-moji>🦺</e-moji>colete: <e-answer>coletes</e-answer>
+- <e-moji>🕸️</e-moji>teia: <e-answer>teias</e-answer>
+- <e-moji>🪣</e-moji>balde: <e-answer>baldes</e-answer>
+- <e-moji>🎠</e-moji>carrossel: <e-answer>carroséis</e-answer>
+- <e-moji>♻️</e-moji>reciclagem: <e-answer>reciclagens</e-answer>
+- <e-moji>♟️</e-moji>peão: <e-answer>peões</e-answer>
+- <e-moji>🦘</e-moji>canguru: <e-answer>cangurus</e-answer>
+- <e-moji>🍯</e-moji>mel: <e-answer readonly>méis</e-answer> ou <e-answer>meles</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
