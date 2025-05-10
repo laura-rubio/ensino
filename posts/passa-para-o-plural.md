@@ -289,3 +289,19 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>⛷️</e-moji>esquiador: <e-answer>esquiadores</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## 19. Passa para o plural
+
+
+- <e-moji>🐍</e-moji>cobra: <e-answer>cobras</e-answer>
+- <e-moji>🔟</e-moji>dez: <e-answer>dezes</e-answer>
+- <e-moji>🧃</e-moji>sumo: <e-answer>sumos</e-answer>
+- <e-moji>❗</e-moji>exclamação: <e-answer>exclamações</e-answer>
+- <e-moji>📐</e-moji>esquadro: <e-answer>esquadros</e-answer>
+- <e-moji>👨🏻‍🏭</e-moji>operário: <e-answer>operários</e-answer>
+- <e-moji>🚜</e-moji>trator: <e-answer>tratores</e-answer>
+- <e-moji>🔋</e-moji>pilha: <e-answer>pilhas</e-answer>
+- <e-moji>🧠</e-moji>cérebro: <e-answer>cérebros</e-answer>
+- <e-moji>🔪</e-moji>faca: <e-answer>facas</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>

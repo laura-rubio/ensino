@@ -67,4 +67,3 @@ O *-z* no plural é pronunciado com o som da abelha [z]
 
 
 </article>
-
