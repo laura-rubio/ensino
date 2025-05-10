@@ -252,7 +252,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🦺</e-moji>colete: <e-answer>coletes</e-answer>
 - <e-moji>🕸️</e-moji>teia: <e-answer>teias</e-answer>
 - <e-moji>🪣</e-moji>balde: <e-answer>baldes</e-answer>
-- <e-moji>🎠</e-moji>carrossel: <e-answer>carroséis</e-answer>
+- <e-moji>🎠</e-moji>carrossel: <e-answer>carrosséis</e-answer>
 - <e-moji>♻️</e-moji>reciclagem: <e-answer>reciclagens</e-answer>
 - <e-moji>♟️</e-moji>peão: <e-answer>peões</e-answer>
 - <e-moji>🦘</e-moji>canguru: <e-answer>cangurus</e-answer>
