@@ -5,6 +5,7 @@ tags:
   - As vogais
 draft: false
 show_toc: false
+summary: 'Os plurais de avô, avó...'
 ---
 <e-moji>👴🏻</e-moji> + <e-moji>👴🏻</e-moji>
 ## o avô + o avô = os avôs
