@@ -280,7 +280,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>👅</e-moji>língua: <e-answer>línguas</e-answer>
 - <e-moji>🌾</e-moji>cereal: <e-answer>cereais</e-answer>
 - <e-moji>🐻</e-moji>urso: <e-answer>ursos</e-answer>
-- <e-moji>👨‍⚖️</e-moji>juíz: <e-answer>juízes</e-answer>
+- <e-moji>👨‍⚖️</e-moji>juiz: <e-answer>juízes</e-answer>
 - <e-moji>🍅</e-moji>tomate: <e-answer>tomates</e-answer>
 - <e-moji>⚰️</e-moji>caixão: <e-answer>caixões</e-answer>
 - <e-moji>🕳️</e-moji>buraco: <e-answer>buracos</e-answer>
@@ -291,7 +291,6 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 <e-validate>Verifica as respostas</e-validate>
 
 ## 19. Passa para o plural
-
 
 - <e-moji>🐍</e-moji>cobra: <e-answer>cobras</e-answer>
 - <e-moji>🔟</e-moji>dez: <e-answer>dezes</e-answer>
