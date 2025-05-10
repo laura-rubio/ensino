@@ -1,5 +1,5 @@
 ---
-title: O plural das palavras acabadas em ão
+title: O plural das palavras acabadas em -ão
 tags:
   - O número em português
 draft: false
