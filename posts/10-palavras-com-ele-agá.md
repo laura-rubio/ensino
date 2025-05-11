@@ -27,3 +27,17 @@ Um dígrafo é um grupo de duas letras que representam um único som.
 10. <e-moji>🏝️</e-moji> <e-answer>ilha</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+Qual não sabes? Clica no link abaixo: <details> <summary>Respostas</summary>
+<ol>
+<li>mulher </li>
+<li>alho </li>
+<li>agulha </li>
+<li>espelho </li>
+<li>folha </li>
+<li>olho </li>
+<li>milho </li>
+<li>vermelho </li>
+<li>orelha </li>
+<li>ilha </li>
+</details>
