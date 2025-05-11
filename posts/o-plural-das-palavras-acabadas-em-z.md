@@ -38,13 +38,15 @@ Passa para o plural as seguintes palavras finalizadas em *-z:*
 
 9. <e-moji>👨‍⚖️</e-moji>juiz: <e-answer>juízes</e-answer>
 
-10. <e-moji>♟️</e-moji>xadrez: <e-answer>xadrezes</e-answer>
+10. <e-moji>🚨</e-moji>luz: <e-answer>luzes</e-answer>
 
-11. <e-moji>🪧</e-moji>cartaz: <e-answer>cartazes</e-answer>
+11. <e-moji>♟️</e-moji>xadrez: <e-answer>xadrezes</e-answer>
 
-12. <e-moji>🤰🏻</e-moji>gravidez: <e-answer>gravidezes</e-answer>
+12. <e-moji>🪧</e-moji>cartaz: <e-answer>cartazes</e-answer>
 
-13. <e-moji>⛲</e-moji>chafariz: <e-answer>chafarizes</e-answer>
+13. <e-moji>🤰🏻</e-moji>gravidez: <e-answer>gravidezes</e-answer>
+
+14. <e-moji>⛲</e-moji>chafariz: <e-answer>chafarizes</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
