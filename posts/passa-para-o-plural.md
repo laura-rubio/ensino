@@ -304,3 +304,18 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🔪</e-moji>faca: <e-answer>facas</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## 20. Passa para o plural
+
+- <e-moji> ~ </e-moji>til: <e-answer>tiles</e-answer>
+- <e-moji>🛟</e-moji>boia: <e-answer>boias</e-answer>
+- <e-moji>🗾</e-moji>país: <e-answer>países</e-answer>
+- <e-moji>🦒</e-moji>girafa: <e-answer>girafas</e-answer>
+- <e-moji>👨‍🌾</e-moji>agricultor: <e-answer>agricultores</e-answer>
+- <e-moji>🥇</e-moji>campeão: <e-answer>campeões</e-answer>
+- <e-moji>👩‍🔬</e-moji>cientista: <e-answer>cientistas</e-answer>
+- <e-moji>🥖</e-moji>baguete: <e-answer>baguetes</e-answer>
+- <e-moji>🚨</e-moji>luz: <e-answer>luzes</e-answer>
+- <e-moji>🦌</e-moji>cervo: <e-answer>cervos</e-answer>
+<e-validate>Verifica as respostas</e-validate>
+
