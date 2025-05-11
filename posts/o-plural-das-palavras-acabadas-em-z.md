@@ -36,7 +36,7 @@ Passa para o plural as seguintes palavras finalizadas em *-z:*
 
 8. <e-moji>☮️</e-moji>paz: <e-answer>pazes</e-answer>
 
-9. <e-moji>👨‍⚖️</e-moji>juíz: <e-answer>juízes</e-answer>
+9. <e-moji>👨‍⚖️</e-moji>juiz: <e-answer>juízes</e-answer>
 
 10. <e-moji>♟️</e-moji>xadrez: <e-answer>xadrezes</e-answer>
 
