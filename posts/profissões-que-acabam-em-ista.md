@@ -4,6 +4,7 @@ tags:
   - O trabalho
 draft: false
 show_toc: false
+summary: Exercício
 ---
 O sufixo *-ista* é usado para criar nomes de profissões a partir de substantivos em castelhano e também em português. Basta conferires a lista de profissionais abaixo 👇
 
