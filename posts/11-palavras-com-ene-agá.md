@@ -1,5 +1,5 @@
 ---
-title: 10 palavras com ene-agá
+title: 11 palavras com ene-agá
 tags:
   - O ene-agá
 draft: false
@@ -56,6 +56,10 @@ Dou-te duas dicas:
 
 <e-answer>dinheiro</e-moji>
 
+11. <e-moji>🐽</e-moji>
+
+<e-answer>focinho</e-moji>
+
 <e-validate>Verifica as respostas</e-validate>
 
 Qual não sabes? Clica no link abaixo: <details> <summary>Respostas</summary>
@@ -70,4 +74,5 @@ Qual não sabes? Clica no link abaixo: <details> <summary>Respostas</summary>
 <li>minhoca </li>
 <li>cegonha </li>
 <li>dinheiro </li>
+<li>focinho</li>
 </details>
