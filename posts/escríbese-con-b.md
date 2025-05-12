@@ -7,13 +7,13 @@ show_toc: false
 ---
 <article> 
 
-1. Escríbense con *b* as terminacións do copretérito do indicativo dos verbos da 1ª conxugación (*\-ar): andaba, cociñabas, cantaba, tocabamos, viaxabades, almorzaban...*
+1. Escríbese con *b* a terminación do copretérito do indicativo dos verbos da 1ª conxugación (*\-ar): andaba, cociñabas, cantaba, tocabamos, viaxabades, almorzaban...*
 
 </article>
 
 <article>
 
-2. Escríbense con *b* os grupos *br-: abrir, branco, brando, branquear, brasa, febre, nobre, nubrado, obriga...*
+2. Escríbese con *b* o grupo *br-: abrir, branco, brando, branquear, brasa, febre, nobre, nubrado, obriga...*
 
    Excepto *acivro, ávrego* e *avreguía.*
 
@@ -21,7 +21,7 @@ show_toc: false
 
 <article>
 
-3. Escríbense con *b* os grupos *bl-: blasfemia, blindar, bloqueo, blusa, problema, publicar, república...*
+3. Escríbese con *b* o grupo *bl-: blasfemia, blindar, bloqueo, blusa, problema, publicar, república...*
 
 </article>
 
