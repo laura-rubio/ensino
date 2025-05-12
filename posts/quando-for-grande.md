@@ -20,12 +20,19 @@ Completa com a palavra adequada:
 <e-tag color=9>médico</e-tag>
 <e-tag color=10>polícia</e-tag>
 <e-tag color=1>professor</e-tag>
+<e-tag color=2>cabeleireira</e-tag>
 </e-layout> 
 
 
 <e-moji> 🧑‍⚖️ </e-moji>
 
 <e-answer> juiz </e-answer>
+
+<e-validate> Verifica as respostas </e-validate>
+
+<e-moji> 💇🏻‍♀️ </e-moji>
+
+<e-answer> cabeleireira </e-answer>
 
 <e-validate> Verifica as respostas </e-validate>
 
