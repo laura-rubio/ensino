@@ -33,7 +33,7 @@ Faz a correspondência entre os nomes e as definições:
 
 <e-validate>Verifica as respostas</e-validate>
 
-Eis outra lista de profissões que acabam  *-ista* em português 👇
+Eis outra lista de profissões que também acabam em *-ista* em português 👇
 
 <e-layout> 
 <e-tag color=2>cientista</e-tag>
