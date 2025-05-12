@@ -2,10 +2,10 @@
 title: Profissões que acabam em -ista
 tags:
   - O trabalho
-draft: true
+draft: false
 show_toc: false
 ---
-O sufixo *-ista* é usado para criar nomes de profissões a partir de substantivos em castelhano. Em português é igual, basta conferires a lista de nomes de profissão abaixo 👇
+O sufixo *-ista* é usado para criar nomes de profissões a partir de substantivos em castelhano e também em português. Basta conferires a lista de profissionais abaixo 👇
 
 <e-layout> 
 <e-tag color=1>eletricista</e-tag>
@@ -33,7 +33,7 @@ Faz a correspondência entre os nomes e as definições:
 
 <e-validate>Verifica as respostas</e-validate>
 
-Eis outra lista de profissões que também acabam em *-ista* em português 👇
+Para além dos profissionais anteriores, em português existem outros com esta mesma terminação. Eis a lista 👇
 
 <e-layout> 
 <e-tag color=2>cientista</e-tag>
@@ -45,7 +45,7 @@ Eis outra lista de profissões que também acabam em *-ista* em português 👇
 <e-tag color=2>meteorologista</e-tag>
 </e-layout> 
 
-Ao contrário da lista anterior, o nome destas profissões não é formado com o sufixo *-ista* em castelhano.
+Repara em que, ao contrário da lista anterior, o nome destas profissões não é formado com o sufixo *-ista* em castelhano. Em português, sim, todos têm a terminação *-ista.*
 
 Faz a correspondência entre os nomes e as definições:
 
