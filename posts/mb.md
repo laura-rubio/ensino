@@ -30,3 +30,5 @@ Exemplos: *setembro, embigo, solombo.*
 <e-validate>Verifica as respostas</e-validate>
 
 Outras: *setembro, novembro, decembro, ombro, ombreira, embigo, embebedarse, chumbo, bombo, lomba* (sinal de tránsito), *solombo, cambra, rombo, framboesa, Mozambique, Colombia, sonámbulo, embaixador, ambiente, asombroso.*
+
+

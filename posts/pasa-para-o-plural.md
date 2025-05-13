@@ -161,7 +161,7 @@ Antes de comezares, revé o *post* 👉 [A formación do plural en galego](https
   
 <e-validate>Verifica as respostas</e-validate>
 
-## 12. Passa para o plural
+## 12. Pasa para o plural
 
 - <e-moji> ~ </e-moji>til: <e-answer>tiles</e-answer>
 - <e-moji>🔪</e-moji>coitelo: <e-answer>coitelos</e-answer>
@@ -173,5 +173,20 @@ Antes de comezares, revé o *post* 👉 [A formación do plural en galego](https
 - <e-moji>🧃</e-moji>zume: <e-answer>zumes</e-answer>
 - <e-moji>🚨</e-moji>luz: <e-answer>luces</e-answer>
 - <e-moji>🦌</e-moji>cervo: <e-answer>cervos</e-answer>
+  
+<e-validate>Verifica as respostas</e-validate>
+
+## 12. Pasa para o plural
+
+- <e-moji> 🗳️ </e-moji>elección: <e-answer>eleccións</e-answer>
+- <e-moji>💅🏻</e-moji>uña: <e-answer>uñass</e-answer>
+- <e-moji>💪</e-moji>bíceps: <e-answer>bíceps</e-answer>
+- <e-moji>🦢</e-moji>cisne: <e-answer>cisnes</e-answer>
+- <e-moji>🔒</e-moji>cadeado: <e-answer>cadeados</e-answer>
+- <e-moji>🫑</e-moji>pemento: <e-answer>pementos</e-answer>
+- <e-moji>🎂</e-moji>bolo: <e-answer>bolos</e-answer>
+- <e-moji>🕯️</e-moji>candea: <e-answer>candeas</e-answer>
+- <e-moji>🛣️</e-moji>autoestrada: <e-answer>autoestradas</e-answer>
+- <e-moji>🦛</e-moji>hipopótamo: <e-answer>hipopótamos</e-answer>
   
 <e-validate>Verifica as respostas</e-validate>

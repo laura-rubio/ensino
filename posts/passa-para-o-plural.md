@@ -324,7 +324,13 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 - <e-moji> 🗳️ </e-moji>eleição: <e-answer>eleições</e-answer>
 - <e-moji>💅🏻</e-moji>unha: <e-answer>unhas</e-answer>
-- <e-moji>🦛</e-moji>hipopótamo: <e-answer>hipopótamos</e-answer>
 - <e-moji>💪</e-moji>bíceps: <e-answer>bíceps</e-answer>
-
+- <e-moji>🦢</e-moji>cisne: <e-answer>cisnes</e-answer>
+- <e-moji>🔒</e-moji>cadeado: <e-answer>cadeados</e-answer>
+- <e-moji>🫑</e-moji>pimento: <e-answer>pimentos</e-answer>
+- <e-moji>🎂</e-moji>bolo: <e-answer>bolos</e-answer>
+- <e-moji>🕯️</e-moji>vela: <e-answer>velas</e-answer>
+- <e-moji>🛣️</e-moji>autoestrada: <e-answer>autoestradas</e-answer>
+- <e-moji>🦛</e-moji>hipopótamo: <e-answer>hipopótamos</e-answer>
+  
 <e-validate>Verifica as respostas</e-validate>
