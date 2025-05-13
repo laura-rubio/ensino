@@ -179,13 +179,13 @@ Antes de comezares, revé o *post* 👉 [A formación do plural en galego](https
 ## 12. Pasa para o plural
 
 - <e-moji> 🗳️ </e-moji>elección: <e-answer>eleccións</e-answer>
-- <e-moji>💅🏻</e-moji>uña: <e-answer>uñass</e-answer>
+- <e-moji>💅🏻</e-moji>uña: <e-answer>uñas</e-answer>
+- <e-moji>🎂</e-moji>bolo: <e-answer>bolos</e-answer>
+- <e-moji>🕯️</e-moji>candea: <e-answer>candeas</e-answer>
 - <e-moji>💪</e-moji>bíceps: <e-answer>bíceps</e-answer>
 - <e-moji>🦢</e-moji>cisne: <e-answer>cisnes</e-answer>
 - <e-moji>🔒</e-moji>cadeado: <e-answer>cadeados</e-answer>
 - <e-moji>🫑</e-moji>pemento: <e-answer>pementos</e-answer>
-- <e-moji>🎂</e-moji>bolo: <e-answer>bolos</e-answer>
-- <e-moji>🕯️</e-moji>candea: <e-answer>candeas</e-answer>
 - <e-moji>🛣️</e-moji>autoestrada: <e-answer>autoestradas</e-answer>
 - <e-moji>🦛</e-moji>hipopótamo: <e-answer>hipopótamos</e-answer>
   
