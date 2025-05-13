@@ -48,6 +48,8 @@ Passa para o plural as seguintes palavras finalizadas em *-z:*
 
 14. <e-moji>⛲</e-moji>chafariz: <e-answer>chafarizes</e-answer>
 
+15. <e-moji>💅🏻</e-moji>verniz: <e-answer>vernizes</e-answer>
+
 <e-validate>Verifica as respostas</e-validate>
 
 

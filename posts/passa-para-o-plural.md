@@ -317,5 +317,14 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🥖</e-moji>baguete: <e-answer>baguetes</e-answer>
 - <e-moji>🚨</e-moji>luz: <e-answer>luzes</e-answer>
 - <e-moji>🦌</e-moji>cervo: <e-answer>cervos</e-answer>
+  
 <e-validate>Verifica as respostas</e-validate>
 
+## 21. Passa para o plural
+
+- <e-moji> 🗳️ </e-moji>eleição: <e-answer>eleições</e-answer>
+- <e-moji>💅🏻</e-moji>unha: <e-answer>unhas</e-answer>
+- <e-moji>🦛</e-moji>hipopótamo: <e-answer>hipopótamos</e-answer>
+- <e-moji>💪</e-moji>bíceps: <e-answer>bíceps</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
