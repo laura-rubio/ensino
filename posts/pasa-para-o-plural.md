@@ -160,3 +160,18 @@ Antes de comezares, revé o *post* 👉 [A formación do plural en galego](https
 - <e-moji>🌇</e-moji>solpor: <e-answer>solpores</solpores>
   
 <e-validate>Verifica as respostas</e-validate>
+
+## 12. Passa para o plural
+
+- <e-moji> ~ </e-moji>til: <e-answer>tiles</e-answer>
+- <e-moji>🔪</e-moji>coitelo: <e-answer>coitelos</e-answer>
+- <e-moji>🗾</e-moji>país: <e-answer>países</e-answer>
+- <e-moji>🦒</e-moji>xirafa: <e-answer>xirafas</e-answer>
+- <e-moji>👨‍🌾</e-moji>agricultor: <e-answer>agricultores</e-answer>
+- <e-moji>🥇</e-moji>campión: <e-answer>campións</e-answer>
+- <e-moji>👣</e-moji>pegada: <e-answer>pegadas</e-answer>
+- <e-moji>🧃</e-moji>zume: <e-answer>zumes</e-answer>
+- <e-moji>🚨</e-moji>luz: <e-answer>luces</e-answer>
+- <e-moji>🦌</e-moji>cervo: <e-answer>cervos</e-answer>
+  
+<e-validate>Verifica as respostas</e-validate>
