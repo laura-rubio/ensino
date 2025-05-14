@@ -1,7 +1,7 @@
 ---
 title: '-MB-'
 tags:
-  - Letras que xogan en equipo
+  - Letras que traballan en equipo
 draft: true
 show_toc: false
 ---
