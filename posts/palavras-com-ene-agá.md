@@ -80,6 +80,7 @@ Exemplo:
 
 Qual não sabes? Clica no link abaixo: <details> <summary>Respostas</summary>
 <ol>
+<li>senhor</li>
 <li>aranha </li>
 <li>montanha </li>
 <li>punho </li>
