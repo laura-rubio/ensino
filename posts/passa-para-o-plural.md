@@ -334,3 +334,33 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🦛</e-moji>hipopótamo: <e-answer>hipopótamos</e-answer>
   
 <e-validate>Verifica as respostas</e-validate>
+
+## 22. Passa para o plural
+
+- <e-moji>⛽</e-moji>combustível: <e-answer>combustíveis</e-answer>
+- <e-moji>🧔🏻‍♂️</e-moji>senhor: <e-answer>senhores</e-answer>
+- <e-moji>🧻</e-moji>rolo: <e-answer>rolos</e-answer>
+- <e-moji>🍾</e-moji>garrafa: <e-answer>garrafas</e-answer>
+- <e-moji>😜</e-moji>brincalhão: <e-answer>brincalhões</e-answer>
+- <e-moji>🎻</e-moji>violino: <e-answer>violinos</e-answer>
+- <e-moji>🦉</e-moji>coruja: <e-answer>corujas</e-answer>
+- <e-moji> % </e-moji>percentagem: <e-answer>percentagens</e-answer>
+- <e-moji>🥝</e-moji>kiwi: <e-answer>kiwis</e-answer>
+- <e-moji>🚆</e-moji>comboio: <e-answer>comboios</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## 23. Passa para o plural
+
+- <e-moji>🌲</e-moji>pinheiro: <e-answer>pinheiros</e-answer>
+- <e-moji>🐞</e-moji>joaninha: <e-answer>joaninhas</e-answer>
+- <e-moji>🎠</e-moji>carrossel: <e-answer>carrosséis</e-answer>
+- <e-moji>🧼</e-moji>sabonete: <e-answer>sabonetes</e-answer>
+- <e-moji>🫒</e-moji>azeitona: <e-answer>azeitonas</e-answer>
+- <e-moji>🖱️</e-moji>rato: <e-answer>ratos</e-answer>
+- <e-moji>📳</e-moji>vibração:<e-answer>vibrações</e-answer>
+- <e-moji>🧕</e-moji>muçulmana: <e-answer>muçulmanas</e-answer>
+- <e-moji>🪟</e-moji>janela: <e-answer>janelas</e-answer>
+- <e-moji>🤡</e-moji>palhaço: <e-answer>palhaços</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
