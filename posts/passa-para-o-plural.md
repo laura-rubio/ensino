@@ -364,3 +364,33 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🤡</e-moji>palhaço: <e-answer>palhaços</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## 24. Passa para o plural
+
+- <e-moji>🥱</e-moji>bocejo: <e-answer>bocejos</e-answer>
+- <e-moji>🦑</e-moji>lula: <e-answer>lulas</e-answer>
+- <e-moji>🛁</e-moji>banheira: <e-answer>banheiras</e-answer>
+- <e-moji>🤼‍♂️</e-moji>lutador: <e-answer>lutadores</e-answer>
+- <e-moji>🎫</e-moji>bilhete: <e-answer>bilhetes</e-answer>
+- <e-moji>🪈</e-moji>flauta: <e-answer>flautas</e-answer>
+- <e-moji>🎡</e-moji>roda: <e-answer>rodas</e-answer>
+- <e-moji>🍛</e-moji>caril: <e-answer>caris</e-answer>
+- <e-moji>🐫</e-moji>dromedário: <e-answer>dromedários</e-answer>
+- <e-moji>💂</e-moji>guarda: <e-answer>guardas</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## 25. Passa para o plural
+
+- <e-moji>🐪</e-moji>camelo: <e-answer>camelos</e-answer>
+- <e-moji>🪼</e-moji>alforreca: <e-answer>alforrecas</e-answer>
+- <e-moji>💀</e-moji>caveira: <e-answer>caveiras</e-answer>
+- <e-moji>🪰</e-moji>mosca: <e-answer>moscas</e-answer>
+- <e-moji>❄️</e-moji>floco: <e-answer>flocos</e-answer>
+- <e-moji>🥳</e-moji>diversão: <e-answer>diversões</e-answer>
+- <e-moji>🍒</e-moji>cereja: <e-answer>cerejas</e-answer>
+- <e-moji>🎺</e-moji>trompete: <e-answer>trompetes</e-answer>
+- <e-moji>🔑</e-moji>chave: <e-answer>chaves</e-answer>
+- <e-moji>🥗</e-moji>salada: <e-answer>saladas</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>

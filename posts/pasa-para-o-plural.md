@@ -190,3 +190,18 @@ Antes de comezares, revé o *post* 👉 [A formación do plural en galego](https
 - <e-moji>🦛</e-moji>hipopótamo: <e-answer>hipopótamos</e-answer>
   
 <e-validate>Verifica as respostas</e-validate>
+
+## 13. Pasa para o plural
+
+- <e-moji>🧻</e-moji>rolo: <e-answer>rolos</e-answer>
+- <e-moji>🌾</e-moji>cereal: <e-answer>cereais</e-answer>
+- <e-moji>🌲</e-moji>piñeiro: <e-answer>piñeiros</e-answer>
+- <e-moji>🧔🏻‍♂️</e-moji>señor: <e-answer>señores</e-answer>
+- <e-moji>🏖️</e-moji>praia: <e-answer>praias</e-answer>
+- <e-moji>🥝</e-moji>kiwi: <e-answer>kiwis</e-answer>
+- <e-moji>🫁</e-moji>pulmón: </e-answer>pulmóns</e-answer>
+- <e-moji>🔗</e-moji>cadea: <e-answer>cadeas</e-answer>
+- <e-moji>🦥</e-moji>preguiza: <e-answer>preguizas</e-answer>
+- <e-moji>🔨</e-moji>martelo: <e-answer>martelos</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
