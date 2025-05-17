@@ -199,9 +199,20 @@ Antes de comezares, revé o *post* 👉 [A formación do plural en galego](https
 - <e-moji>🧔🏻‍♂️</e-moji>señor: <e-answer>señores</e-answer>
 - <e-moji>🏖️</e-moji>praia: <e-answer>praias</e-answer>
 - <e-moji>🥝</e-moji>kiwi: <e-answer>kiwis</e-answer>
-- <e-moji>🫁</e-moji>pulmón: </e-answer>pulmóns</e-answer>
+- <e-moji>🫁</e-moji>pulmón: <e-answer>pulmóns</e-answer>
 - <e-moji>🔗</e-moji>cadea: <e-answer>cadeas</e-answer>
 - <e-moji>🦥</e-moji>preguiza: <e-answer>preguizas</e-answer>
 - <e-moji>🔨</e-moji>martelo: <e-answer>martelos</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## 14. Pasa para o plural
+
+- <e-moji>❄️</e-moji>folerpa: <e-answer>folerpas</e-answer>
+- <e-moji>⛄</e-moji>boneco: <e-answer>bonecos</e-answer>
+- <e-moji>🎿</e-moji>esquí: <e-answer>esquís</e-answer>
+- <e-moji>⛷️</e-moji>esquiador: <e-answer>esquiadores</e-answer>
+- <e-moji>🦕</e-moji>dinosauro: <e-answer>dinosauro</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+

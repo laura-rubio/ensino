@@ -238,7 +238,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🌊</e-moji>onda: <e-answer>ondas</e-answer>
 - <e-moji>🪸</e-moji>coral: <e-answer>corais</e-answer>
 - <e-moji>🧹</e-moji>vassoura: <e-answer>vassouras</e-answer>
-- <e-moji>🎿</e-moji>esqui: <e-answer>esquis</e-answer>
+- <e-moji>🪰</e-moji>mosca: <e-answer>moscas</e-answer>
 - <e-moji>🧑‍🎤</e-moji>cantor: <e-answer>cantores</e-answer>
 - <e-moji>🫁</e-moji>pulmão: <e-answer>pulmões</e-answer>
 - <e-moji>🛴</e-moji>trotinete: <e-answer>trotinetes</e-answer>
@@ -247,14 +247,14 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 ## 16. Passa para o plural
 
-- <e-moji>ℹ️</e-moji>informação: <e-answer>informações</e-answer>
-- <e-moji>🥔</e-moji>batata: <e-answer>batatas</e-answer>
 - <e-moji>🦺</e-moji>colete: <e-answer>coletes</e-answer>
+- <e-moji>🕷️</e-moji>aranha: <e-answer>aranhas</e-answer>
 - <e-moji>🕸️</e-moji>teia: <e-answer>teias</e-answer>
+- <e-moji>ℹ️</e-moji>informação: <e-answer>informações</e-answer>
 - <e-moji>🪣</e-moji>balde: <e-answer>baldes</e-answer>
 - <e-moji>🪓</e-moji>machado: <e-answer>machados</e-answer>
 - <e-moji>💆🏻‍♀️</e-moji>massagem: <e-answer>massagens</e-answer>
-- <e-moji>♟️</e-moji>peão: <e-answer>peões</e-answer>
+- <e-moji>🎿</e-moji>esqui: <e-answer>esquis</e-answer>
 - <e-moji>🦘</e-moji>canguru: <e-answer>cangurus</e-answer>
 - <e-moji>🍯</e-moji>mel: <e-answer readonly>méis</e-answer> ou <e-answer>meles</e-answer>
 
@@ -296,12 +296,12 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🔟</e-moji>dez: <e-answer>dezes</e-answer>
 - <e-moji>🧃</e-moji>sumo: <e-answer>sumos</e-answer>
 - <e-moji>❗</e-moji>exclamação: <e-answer>exclamações</e-answer>
-- <e-moji>📐</e-moji>esquadro: <e-answer>esquadros</e-answer>
 - <e-moji>👨🏻‍🏭</e-moji>operário: <e-answer>operários</e-answer>
+- <e-moji>📐</e-moji>esquadro: <e-answer>esquadros</e-answer>
+- <e-moji>🔪</e-moji>faca: <e-answer>facas</e-answer>
 - <e-moji>🚜</e-moji>trator: <e-answer>tratores</e-answer>
 - <e-moji>🔋</e-moji>pilha: <e-answer>pilhas</e-answer>
 - <e-moji>🧠</e-moji>cérebro: <e-answer>cérebros</e-answer>
-- <e-moji>🔪</e-moji>faca: <e-answer>facas</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -322,11 +322,11 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 ## 21. Passa para o plural
 
-- <e-moji> 🗳️ </e-moji>eleição: <e-answer>eleições</e-answer>
 - <e-moji>💅🏻</e-moji>unha: <e-answer>unhas</e-answer>
 - <e-moji>💪</e-moji>bíceps: <e-answer>bíceps</e-answer>
 - <e-moji>🦢</e-moji>cisne: <e-answer>cisnes</e-answer>
 - <e-moji>🔒</e-moji>cadeado: <e-answer>cadeados</e-answer>
+- <e-moji> 🗳️ </e-moji>eleição: <e-answer>eleições</e-answer>
 - <e-moji>🫑</e-moji>pimento: <e-answer>pimentos</e-answer>
 - <e-moji>🎂</e-moji>bolo: <e-answer>bolos</e-answer>
 - <e-moji>🕯️</e-moji>vela: <e-answer>velas</e-answer>
@@ -370,7 +370,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🥱</e-moji>bocejo: <e-answer>bocejos</e-answer>
 - <e-moji>🦑</e-moji>lula: <e-answer>lulas</e-answer>
 - <e-moji>🛁</e-moji>banheira: <e-answer>banheiras</e-answer>
-- <e-moji>🤼‍♂️</e-moji>lutador: <e-answer>lutadores</e-answer>
+- <e-moji>🥳</e-moji>diversão: <e-answer>diversões</e-answer>
 - <e-moji>🎫</e-moji>bilhete: <e-answer>bilhetes</e-answer>
 - <e-moji>🪈</e-moji>flauta: <e-answer>flautas</e-answer>
 - <e-moji>🎡</e-moji>roda: <e-answer>rodas</e-answer>
@@ -382,15 +382,15 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 ## 25. Passa para o plural
 
+- <e-moji>❄️</e-moji>floco: <e-answer>flocos</e-answer>
 - <e-moji>🐪</e-moji>camelo: <e-answer>camelos</e-answer>
 - <e-moji>🪼</e-moji>alforreca: <e-answer>alforrecas</e-answer>
 - <e-moji>💀</e-moji>caveira: <e-answer>caveiras</e-answer>
-- <e-moji>🪰</e-moji>mosca: <e-answer>moscas</e-answer>
-- <e-moji>❄️</e-moji>floco: <e-answer>flocos</e-answer>
-- <e-moji>🥳</e-moji>diversão: <e-answer>diversões</e-answer>
+- <e-moji>♟️</e-moji>peão: <e-answer>peões</e-answer>
+- <e-moji>🔑</e-moji>chave: <e-answer>chaves</e-answer>
+- <e-moji>🤼‍♂️</e-moji>lutador: <e-answer>lutadores</e-answer>
 - <e-moji>🍒</e-moji>cereja: <e-answer>cerejas</e-answer>
 - <e-moji>🎺</e-moji>trompete: <e-answer>trompetes</e-answer>
-- <e-moji>🔑</e-moji>chave: <e-answer>chaves</e-answer>
 - <e-moji>🥗</e-moji>salada: <e-answer>saladas</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
