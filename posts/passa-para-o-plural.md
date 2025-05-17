@@ -394,3 +394,13 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🥗</e-moji>salada: <e-answer>saladas</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## 26. Passa para o plural
+
+- <e-moji>🥭</e-moji>manga: <e-answer>mangas</e-answer>
+- <e-moji>0,5</e-moji>decimal: <e-answer>decimais</e-answer>
+- <e-moji>👨🏻‍🦲</e-moji>careca: <e-answer>carecas</e-answer>
+- <e-moji>🚖</e-moji>táxi: <e-answer>táxis</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
