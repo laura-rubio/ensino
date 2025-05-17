@@ -26,7 +26,13 @@ show_toc: false
 - fazer desporto
 - lavar a louça
 - limpar o pó
-- arrumar o quarto
+- varrer o chão
+- aspirar os tapetes
+- colocar a roupa suja no cesto
+- guardar os brinquedos
+- pôr a mesa / levantar a mesa
+- alimentar os animais de estimação
+- fazer a cama e arrumar o quarto
 - fazer o TPC
 - ver televisão
 - navegar na Internet
@@ -34,6 +40,3 @@ show_toc: false
 - comer brócolos
 - cortar a relva
 - cozinhar
-
-
-

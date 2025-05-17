@@ -220,3 +220,20 @@ Antes de comezares, revé o *post* 👉 [A formación do plural en galego](https
 - <e-moji>🫑</e-moji>pemento: <e-answer>pementos</e-answer>
   
 <e-validate>Verifica as respostas</e-validate>
+
+## 15. Pasa para o plural
+
+- <e-moji>🪸</e-moji>coral: <e-answer>corais</e-answer>
+- <e-moji>🎒</e-moji>mochila: <e-answer>mochilas</e-answer>
+- <e-moji>🍼</e-moji>biberón: <e-answer>biberóns</e-answer>
+- <e-moji>🥱</e-moji>bocexo: <e-answer>bocexos</e-answer>
+- <e-moji>🕸️</e-moji>tea: <e-answer>teas</e-answer>
+- <e-moji>🕷️</e-moji>araña: <e-answer>arañas</e-answer>
+- <e-moji>🥭</e-moji>manga: <e-answer>mangas</e-answer>
+- <e-moji>🤼‍♂️</e-moji>loitador: <e-answer>loitadores</e-answer>
+- <e-moji>🤥</e-moji>mentireiro: <e-answer>mentireiros</e-answer>
+- <e-moji>🌩️</e-moji>raio: <e-answer>raios</e-answer>
+  
+<e-validate>Verifica as respostas</e-validate>
+
+
