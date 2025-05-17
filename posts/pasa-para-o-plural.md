@@ -185,7 +185,7 @@ Antes de comezares, revé o *post* 👉 [A formación do plural en galego](https
 - <e-moji>💪</e-moji>bíceps: <e-answer>bíceps</e-answer>
 - <e-moji>🦢</e-moji>cisne: <e-answer>cisnes</e-answer>
 - <e-moji>🔒</e-moji>cadeado: <e-answer>cadeados</e-answer>
-- <e-moji>🫑</e-moji>pemento: <e-answer>pementos</e-answer>
+- <e-moji>🍖</e-moji>pernil: <e-answer>pernís</e-answer>
 - <e-moji>🛣️</e-moji>autoestrada: <e-answer>autoestradas</e-answer>
 - <e-moji>🦛</e-moji>hipopótamo: <e-answer>hipopótamos</e-answer>
   
@@ -213,6 +213,10 @@ Antes de comezares, revé o *post* 👉 [A formación do plural en galego](https
 - <e-moji>🎿</e-moji>esquí: <e-answer>esquís</e-answer>
 - <e-moji>⛷️</e-moji>esquiador: <e-answer>esquiadores</e-answer>
 - <e-moji>🦕</e-moji>dinosauro: <e-answer>dinosauros</e-answer>
+- <e-moji>💳</e-moji>cartón: <e-answer>cartóns</e-answer>
 - <e-moji>🧑🏻‍🏭</e-moji>operario: <e-answer>operarios</e-answer>
+- <e-moji>🦑</e-moji>lura: <e-answer>luras</e-answer>
+- <e-moji>⛽</e-moji>combustíbel: <e-answer>combustíbeis</e-answer>
+- <e-moji>🫑</e-moji>pemento: <e-answer>pementos</e-answer>
   
 <e-validate>Verifica as respostas</e-validate>
