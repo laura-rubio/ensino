@@ -213,6 +213,6 @@ Antes de comezares, revé o *post* 👉 [A formación do plural en galego](https
 - <e-moji>🎿</e-moji>esquí: <e-answer>esquís</e-answer>
 - <e-moji>⛷️</e-moji>esquiador: <e-answer>esquiadores</e-answer>
 - <e-moji>🦕</e-moji>dinosauro: <e-answer>dinosauro</e-answer>
-
+- <e-moji>🧑🏻‍🏭</e-moji>operario: <e-answer>operarios</e-answer>
+  
 <e-validate>Verifica as respostas</e-validate>
-
