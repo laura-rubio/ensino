@@ -398,9 +398,14 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 ## 26. Passa para o plural
 
 - <e-moji>🥭</e-moji>manga: <e-answer>mangas</e-answer>
+- <e-moji>🛍️</e-moji>saco: <e-answer>sacos</e-answer>
 - <e-moji>0,5</e-moji>decimal: <e-answer>decimais</e-answer>
 - <e-moji>👨🏻‍🦲</e-moji>careca: <e-answer>carecas</e-answer>
 - <e-moji>🚖</e-moji>táxi: <e-answer>táxis</e-answer>
+- <e-moji>❤️‍🔥</e-moji>paixão: <e-answer>paixões</e-answer>
+- <e-moji>🦊</e-moji>raposo: <e-answer>raposos</e-answer>
+- <e-moji>🤕</e-moji>dor: <e-answer>dores</e-answer>
+- <e-moji>💥</e-moji>explosão: <e-answer>explosões</e-answer>
+- <e-moji>-</e-moji>hífen: <e-answer>hífenes</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
-
