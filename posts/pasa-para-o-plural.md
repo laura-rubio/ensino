@@ -236,4 +236,17 @@ Antes de comezares, revé o *post* 👉 [A formación do plural en galego](https
   
 <e-validate>Verifica as respostas</e-validate>
 
+## 16. Pasa para o plural
 
+- <e-moji>🔘</e-moji>botón: <e-answer>botóns</e-answer>
+- <e-moji>🎨</e-moji>cor: <e-answer>cores</e-answer>
+- <e-moji>😘</e-moji>bico: <e-answer>bicos</e-answer>
+- <e-moji>0,5</e-moji>decimal: <e-answer>decimais</e-answer>
+- <e-moji>🦊</e-moji>raposo: <e-answer>raposos</e-answer>
+- <e-moji>🧍‍♂️</e-moji>cidadán: <e-answer>cidadáns</e-answer>
+- <e-moji>🧤</e-moji>luva: <e-answer>luvas</e-answer>
+- <e-moji>💊</e-moji>comprimido: <e-answer>comprimidos</e-answer>
+- <e-moji>📃</e-moji>papel: <e-answer>papeis</e-answer>
+- <e-moji>👑</e-moji>coroa: <e-answer>coroas</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
