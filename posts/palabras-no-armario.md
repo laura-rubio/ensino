@@ -37,7 +37,7 @@ Se non souberes o significado, clica no cartón para descubrires ese sinónimo q
 
 <e-card color="6">
   <div>Cartón</div>
-  <div>Tarxeta <br>Si, en galego tamén podes dicir cartón amarelo,  cartón de crédito, cartón de embarque, cartón de estudo, cartón de visita.</div>
+  <div>Tarxeta <br>Si, en galego tamén podes dicir cartón amarelo, cartón de crédito, cartón SIM, cartón de embarque, cartón de estudo, cartón de visita.</div>
 </e-card>
 
 <e-card color="7">
