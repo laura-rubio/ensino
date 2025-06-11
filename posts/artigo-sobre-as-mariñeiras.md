@@ -3,6 +3,8 @@ title: As mariñeiras
 summary: Comprensión de textos escritos
 tags:
   - actividades_para_o_ensino_secundario
+draft: false
+show_toc: false
 ---
 <article>
 
@@ -123,7 +125,7 @@ Artigo, con algunha pequena modificación, de Víctor López publicado en
 
 Procura no texto a palabra que corresponde a cada unha das seguintes definicións:
 
-1. Investir o capital en negocios para o aumentar:
+1. Pór diñeiro en negocios para obter ganancias:
 2. Alga comestíbel moi usada na culinaria xaponesa en sopas e ensaladas:
 3. Cousa de comer, de pequeno tamaño e de pouco alimento, mais que sabe moi ben:
 4. Parte interior do pan:
