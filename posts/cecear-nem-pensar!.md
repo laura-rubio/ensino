@@ -32,7 +32,7 @@ Se pensares bem, pronunciar como [s] o *c* quando a seguir tem um *e* ou um *i,*
 10. <e-moji>🤒</e-moji> pa**c**iente [pɐˈ**s**jẽt(ə)]
 11. <e-moji>💪</e-moji> bí**c**eps [ˈbi**s**ɛpʃ]
 
-## c + e > [s] + i
+## c + i > [s] + i
 
 1. <e-moji>🏙️</e-moji> **c**idade [**s**iˈdad(ə)]
 2. <e-moji>🚲</e-moji> bi**c**icleta [bi**s**iˈklɛtɐ]
