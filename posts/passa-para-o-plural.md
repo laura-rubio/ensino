@@ -185,7 +185,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 <e-validate>Verifica as respostas</e-validate>
 
-## 12. Passa para o plural
+## 13. Passa para o plural
 
 - <e-moji>🐸</e-moji>rã: <e-answer>rãs</e-answer>
 - <e-moji>🚬</e-moji>cigarro: <e-answer>cigarros</e-answer>
@@ -200,7 +200,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 <e-validate>Verifica as respostas</e-validate>
 
-## 13. Passa para o plural
+## 14. Passa para o plural
 
 - <e-moji>⛔</e-moji>sinal: <e-answer>sinais</e-answer>
 - <e-moji>🫧</e-moji>bolha: <e-answer>bolhas</e-answer>
@@ -215,7 +215,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 <e-validate>Verifica as respostas</e-validate>
 
-## 14. Passa para o plural
+## 15. Passa para o plural
 
 - <e-moji>☕</e-moji>café: <e-answer>cafés</e-answer>
 - <e-moji>🛢️</e-moji>barril: <e-answer>barris</e-answer>
@@ -230,7 +230,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 <e-validate>Verifica as respostas</e-validate>
 
-## 15. Passa para o plural
+## 16. Passa para o plural
 
 - <e-moji>🚏</e-moji>paragem: <e-answer>paragens</e-answer>
 - <e-moji>🔔</e-moji>sino: <e-answer>sinos</e-answer>
@@ -245,7 +245,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 <e-validate>Verifica as respostas</e-validate>
 
-## 16. Passa para o plural
+## 17. Passa para o plural
 
 - <e-moji>🦺</e-moji>colete: <e-answer>coletes</e-answer>
 - <e-moji>🕷️</e-moji>aranha: <e-answer>aranhas</e-answer>
@@ -260,7 +260,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 <e-validate>Verifica as respostas</e-validate>
 
-## 17. Passa para o plural
+## 18. Passa para o plural
 
 - <e-moji>🍆</e-moji>beringela: <e-answer>beringelas</e-answer>
 - <e-moji>📁</e-moji>pasta: <e-answer>pastas</e-answer>
@@ -275,7 +275,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 <e-validate>Verifica as respostas</e-validate>
 
-## 18. Passa para o plural
+## 19. Passa para o plural
 
 - <e-moji>👅</e-moji>língua: <e-answer>línguas</e-answer>
 - <e-moji>🌾</e-moji>cereal: <e-answer>cereais</e-answer>
@@ -290,7 +290,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 <e-validate>Verifica as respostas</e-validate>
 
-## 19. Passa para o plural
+## 20. Passa para o plural
 
 - <e-moji>🐍</e-moji>cobra: <e-answer>cobras</e-answer>
 - <e-moji>🔟</e-moji>dez: <e-answer>dezes</e-answer>
@@ -305,7 +305,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 <e-validate>Verifica as respostas</e-validate>
 
-## 20. Passa para o plural
+## 21. Passa para o plural
 
 - <e-moji> ~ </e-moji>til: <e-answer>tiles</e-answer>
 - <e-moji>🛟</e-moji>boia: <e-answer>boias</e-answer>
@@ -320,7 +320,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
   
 <e-validate>Verifica as respostas</e-validate>
 
-## 21. Passa para o plural
+## 22. Passa para o plural
 
 - <e-moji>💅🏻</e-moji>unha: <e-answer>unhas</e-answer>
 - <e-moji>💪</e-moji>bíceps: <e-answer>bíceps</e-answer>
@@ -335,7 +335,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
   
 <e-validate>Verifica as respostas</e-validate>
 
-## 22. Passa para o plural
+## 23. Passa para o plural
 
 - <e-moji>⛽</e-moji>combustível: <e-answer>combustíveis</e-answer>
 - <e-moji>🧔🏻‍♂️</e-moji>senhor: <e-answer>senhores</e-answer>
@@ -350,7 +350,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 <e-validate>Verifica as respostas</e-validate>
 
-## 23. Passa para o plural
+## 24. Passa para o plural
 
 - <e-moji>🌲</e-moji>pinheiro: <e-answer>pinheiros</e-answer>
 - <e-moji>🐞</e-moji>joaninha: <e-answer>joaninhas</e-answer>
@@ -365,7 +365,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 <e-validate>Verifica as respostas</e-validate>
 
-## 24. Passa para o plural
+## 25. Passa para o plural
 
 - <e-moji>🥱</e-moji>bocejo: <e-answer>bocejos</e-answer>
 - <e-moji>🦑</e-moji>lula: <e-answer>lulas</e-answer>
@@ -380,7 +380,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 <e-validate>Verifica as respostas</e-validate>
 
-## 25. Passa para o plural
+## 26. Passa para o plural
 
 - <e-moji>❄️</e-moji>floco: <e-answer>flocos</e-answer>
 - <e-moji>🐪</e-moji>camelo: <e-answer>camelos</e-answer>
@@ -395,7 +395,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 <e-validate>Verifica as respostas</e-validate>
 
-## 26. Passa para o plural
+## 27. Passa para o plural
 
 - <e-moji>🥭</e-moji>manga: <e-answer>mangas</e-answer>
 - <e-moji>🛍️</e-moji>saco: <e-answer>sacos</e-answer>

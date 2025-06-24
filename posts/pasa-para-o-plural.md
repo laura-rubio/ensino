@@ -176,7 +176,7 @@ Antes de comezares, revé o *post* 👉 [A formación do plural en galego](https
   
 <e-validate>Verifica as respostas</e-validate>
 
-## 12. Pasa para o plural
+## 13. Pasa para o plural
 
 - <e-moji> 🗳️ </e-moji>elección: <e-answer>eleccións</e-answer>
 - <e-moji>💅🏻</e-moji>uña: <e-answer>uñas</e-answer>
@@ -191,7 +191,7 @@ Antes de comezares, revé o *post* 👉 [A formación do plural en galego](https
   
 <e-validate>Verifica as respostas</e-validate>
 
-## 13. Pasa para o plural
+## 14. Pasa para o plural
 
 - <e-moji>🧻</e-moji>rolo: <e-answer>rolos</e-answer>
 - <e-moji>🌾</e-moji>cereal: <e-answer>cereais</e-answer>
@@ -206,7 +206,7 @@ Antes de comezares, revé o *post* 👉 [A formación do plural en galego](https
 
 <e-validate>Verifica as respostas</e-validate>
 
-## 14. Pasa para o plural
+## 15. Pasa para o plural
 
 - <e-moji>❄️</e-moji>folerpa: <e-answer>folerpas</e-answer>
 - <e-moji>⛄</e-moji>boneco: <e-answer>bonecos</e-answer>
@@ -221,7 +221,7 @@ Antes de comezares, revé o *post* 👉 [A formación do plural en galego](https
   
 <e-validate>Verifica as respostas</e-validate>
 
-## 15. Pasa para o plural
+## 16. Pasa para o plural
 
 - <e-moji>🪸</e-moji>coral: <e-answer>corais</e-answer>
 - <e-moji>🎒</e-moji>mochila: <e-answer>mochilas</e-answer>
@@ -236,7 +236,7 @@ Antes de comezares, revé o *post* 👉 [A formación do plural en galego](https
   
 <e-validate>Verifica as respostas</e-validate>
 
-## 16. Pasa para o plural
+## 17. Pasa para o plural
 
 - <e-moji>🔘</e-moji>botón: <e-answer>botóns</e-answer>
 - <e-moji>🎨</e-moji>cor: <e-answer>cores</e-answer>
