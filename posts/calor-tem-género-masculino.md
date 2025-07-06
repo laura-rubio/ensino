@@ -1,5 +1,5 @@
 ---
-title: Calor tem género feminino
+title: Calor tem género masculino
 tags:
   - O género em português
 draft: true

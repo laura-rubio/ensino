@@ -41,7 +41,7 @@ Além destas letras do alfabeto, no português usam-se <e-tag color=4 desc="o c�
 ## Dígrafos
 
 <e-layout>
-  <e-tag color=5 desc="o rr duplo">rr</e-tag>
+  <e-tag color=5 desc="o erre duplo">rr</e-tag>
   <e-tag color=5 desc="o esse duplo">ss</e-tag>
   <e-tag color=5 desc="o cê-agá">ch</e-tag>
   <e-tag color=5 desc="o ele-agá">lh</e-tag>
