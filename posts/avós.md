@@ -16,8 +16,8 @@ summary: 'Os plurais de avô, avó...'
 <e-moji>👴🏻</e-moji> + <e-moji>👵🏻</e-moji> 
 ## o avô + a avó = os avós
 ---
-<e-moji>👴🏻</e-moji> + <e-moji>👴🏻</e-moji> + <e-moji>👵🏻</e-moji> + <e-moji>👵🏻</e-moji>
-## o avô + o avô + a avó + a avó = os avós
+<e-moji>👴🏻</e-moji> + <e-moji>👵🏻</e-moji> + <e-moji>👴🏻</e-moji> + <e-moji>👵🏻</e-moji>
+## o avô + a avó + o avô + a avó = os avós
 
 
 <article>
