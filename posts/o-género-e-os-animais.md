@@ -14,6 +14,8 @@ Dos animais podemos aprender muitas coisas. Hoje, vamos aprender as regras de fo
 
 <e-moji>🐈</e-moji> gato: <e-answer readonly>gata</e-answer>
 
+<e-moji>🐁</e-moji>rato: <e-answer>rata</e-answer>
+
 <e-moji>🐖</e-moji>porco: <e-answer>porca</e-answer>
 
 <e-moji>🦆</e-moji>pato: <e-answer>pata</e-answer>
@@ -31,8 +33,6 @@ Dos animais podemos aprender muitas coisas. Hoje, vamos aprender as regras de fo
 <e-moji>🦊</e-moji>raposo: <e-answer>raposa</e-answer>
 
 <e-moji>🦌</e-moji>cervo: <e-answer>cerva</e-answer>
-
-<e-moji>🐁</e-moji>rato: <e-answer>rata</e-answer>
 
 <e-moji>🐻</e-moji>urso: <e-answer>ursa</e-answer>
 
