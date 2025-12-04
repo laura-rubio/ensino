@@ -66,7 +66,10 @@ Para haver um *-i-* no plural, tem de haver um *i* também no singular *(relig<m
 - *rapaz:* *rapazes*
 
 #### Exceções: 
+- *o atlas:* *os atlas*
 - *o lápis:* *os lápis*
+- *o oásis:* *os oásis*
+- *o pires:* *os pires*
 - *o ténis:* *os ténis*
 - *o vírus:* *os vírus*
 - *o bíceps:* *os bíceps*

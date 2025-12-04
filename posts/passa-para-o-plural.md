@@ -409,3 +409,10 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>-</e-moji>hífen: <e-answer>hífenes</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## 28. Passa para o plural
+
+- <e-moji>🧵</e-moji>retrós: <e-answer>retroses</e-answer>
+- <e-moji>🎄</e-moji>natal: <e-answer>natais</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
