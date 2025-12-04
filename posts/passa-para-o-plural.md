@@ -209,7 +209,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🤱</e-moji>mãe: <e-answer>mães</e-answer>
 - <e-moji>🖨️</e-moji>impressora: <e-answer>impressoras</e-answer>
 - <e-moji>🧀</e-moji>queijo: <e-answer>queijos</e-answer>
-- <e-moji>🪧</e-moji>cartaz: <e-answer>cartazes</e-answer>
+- <e-moji>🪧</e-moji>cartaz: <e-answer>cartazes</e-answer> 
 - <e-moji>🪱</e-moji>minhoca: <e-answer>minhocas</e-answer>
 - <e-moji>🧴</e-moji>gel: <e-answer readonly>géis</e-answer> ou <e-answer>geles</e-answer>
 
@@ -413,6 +413,8 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 ## 28. Passa para o plural
 
 - <e-moji>🧵</e-moji>retrós: <e-answer>retroses</e-answer>
+- <e-moji>🫐</e-moji>mirtilo: <e-answer>mirtilos</e-answer>
 - <e-moji>🎄</e-moji>natal: <e-answer>natais</e-answer>
+- <e-moji>⛓️</e-moji>cadeia: <e-answer>cadeias</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
