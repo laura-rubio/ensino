@@ -416,5 +416,6 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🫐</e-moji>mirtilo: <e-answer>mirtilos</e-answer>
 - <e-moji>🎄</e-moji>natal: <e-answer>natais</e-answer>
 - <e-moji>⛓️</e-moji>cadeia: <e-answer>cadeias</e-answer>
+- <e-moji>🪏</e-moji>pá: <e-answer>pás</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
