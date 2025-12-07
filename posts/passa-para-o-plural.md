@@ -412,11 +412,15 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 ## 28. Passa para o plural
 
+- <e-moji>🐹</e-moji>hámster: <e-answer>hámsteres</e-answer>
+- <e-moji>⛓️</e-moji>cadeia: <e-answer>cadeias</e-answer>
+- <e-moji>🧌 </e-moji>trol: <e-answer>tróis</e-answer>
+- <e-moji>🎄</e-moji>natal: <e-answer>natais</e-answer>
+- <e-moji>⛏️</e-moji>picareta: <e-answer>picaretas</e-answer>
+- <e-moji>🪏</e-moji>pá: <e-answer>pás</e-answer>
+- <e-moji>🦥</e-moji>preguiça: <e-answer>preguiças</e-answer>
 - <e-moji>🧵</e-moji>retrós: <e-answer>retroses</e-answer>
 - <e-moji>🫐</e-moji>mirtilo: <e-answer>mirtilos</e-answer>
-- <e-moji>🎄</e-moji>natal: <e-answer>natais</e-answer>
-- <e-moji>⛓️</e-moji>cadeia: <e-answer>cadeias</e-answer>
-- <e-moji>🪏</e-moji>pá: <e-answer>pás</e-answer>
 - <e-moji>💝</e-moji>bombom: <e-answer>bombons</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
