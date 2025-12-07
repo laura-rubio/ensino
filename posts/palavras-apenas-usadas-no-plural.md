@@ -11,3 +11,4 @@ show_toc: false
 4. <e-moji>💩</e-moji> as fezes
 5. <e-moji>👓</e-moji> os óculos
 6. <e-moji>👏</e-moji> os parabéns
+7. <e-moji>…</e-moji> as reticências
