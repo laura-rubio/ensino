@@ -8,7 +8,7 @@ summary: Glossário
 ---
 <e-moji>🚗</e-moji> o carro
 
-<e-moji>🚌</e-moji> o autocarro (Portugal) - o ônibus (Brasil)
+<e-moji>🚌</e-moji> o autocarro (Portugal) - o ônibus (Brasil) - o machimbombo (Angola e Moçambique)
 
 <e-moji>🚖</e-moji> o táxi
 
@@ -34,7 +34,7 @@ summary: Glossário
 
 <e-moji>🚑</e-moji> a ambulância
 
-<e-moji>🚆</e-moji> o comboio (Portugal) - o trem (Brasil)
+<e-moji>🚆</e-moji> o comboio (Portugal) - o trem (Brasil)  
 
 <e-moji>🚇</e-moji> o metro (Portugal) - o metrô (Brasil)
 
