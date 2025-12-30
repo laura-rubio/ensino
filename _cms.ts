@@ -107,7 +107,7 @@ app
       }
     ],
   })
-  .collection("paxinas", "src:pages", [
+  .collection("paxinas", "src:pages/*.md", [
     "title: text",
     "url: text",
     "content: markdown",
