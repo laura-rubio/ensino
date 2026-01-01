@@ -4,6 +4,7 @@ tags:
   - Vocabulário
 draft: true
 show_toc: false
+summary: 'Na verdade, são muitos!'
 ---
 ![Image](/img/sacos_batatas.jpg)
 
@@ -31,15 +32,15 @@ Lembrares-te de que, além desses sacos, em português, temos estoutros:
 
 ![Image](/img/saco_super.jpg)
 
+![Image](/img/sacos_das_compras.jpg)
 
+![Image](/img/sacos_reutilizáveis.jpg)
 
-Imagem
-
-Imagem
+![Image](/img/sacos_compras_reutilizaveis.jpg)
 
 **O saco de desporto**
 
-Imagem
+![Imagem](/img/saco_de_desporto.jpg)
 
 <article>
 Dica para falantes de galego 👇
