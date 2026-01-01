@@ -9,7 +9,7 @@ show_toc: false
 
 Já sei que sabes isto, é igual em castelhano!
 
-Usamo-lo para guardar alimentos como batatas, café..., adubo para as plantas etc. 
+Usamo-lo para transportar alimentos como batatas, café..., adubo para as plantas etc. 
 
 Também para brincarmos, caso participemos duma **corrida de sacos**.
 
