@@ -15,7 +15,7 @@ Também para brincarmos, caso participemos duma **corrida de sacos**.
 
 ![Image](/img/corrida_de_sacos.jpg){.is-horizontal}
 
-E temos, ainda, um tipo de saco muito útil para uma escapadinha na natureza: **o saco-cama** (Portugal) ou **saco de dormir** (Brasil)
+E temos, ainda, um tipo de saco muito útil para uma escapadinha na natureza: **o saco-cama** (Portugal) ou **saco de dormir** (Brasil).
 
 ![Image](/img/sacos_de_dormir.jpg){.is-horizontal}
 
@@ -42,5 +42,5 @@ Lembrares-te de que, além desses sacos, em português, temos estoutros:
 <article>
 Dica para galegos 👇
 
-Que tal trocares as *bolsas* pelos **sacos** também no teu galego?
+Que tal trocares, nestes casos, as *bolsas* pelos **sacos** também no teu galego?
 </article>
