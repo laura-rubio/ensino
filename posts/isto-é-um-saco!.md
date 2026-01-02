@@ -11,7 +11,7 @@ Já sei que sabes isto, é igual em castelhano!
 
 Usamo-lo para transportar alimentos como batatas, café..., adubo para as plantas etc. 
 
-Também para brincarmos, caso participemos duma **corrida de sacos**.
+Também para brincarmos, caso participemos numa **corrida de sacos**.
 
 ![Image](/img/corrida_de_sacos.jpg){.is-horizontal}
 
