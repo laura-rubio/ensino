@@ -22,9 +22,9 @@ Pon as seguintes oracións en pasado.
 
    Cando <e-answer readonly>viñestes</e-answer>?
 
-2. A roupa non me cabe no armario.
+2. A roupa non cabe no armario.
 
-   A roupa non me <e-answer>coubo</e-answer> no armario.
+   A roupa non <e-answer>coubo</e-answer> no armario.
 
 3. Acordo cedo para ter tempo de almorzar.
 
