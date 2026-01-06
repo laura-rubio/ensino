@@ -428,12 +428,14 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 ## 29. Passa para o plural
 
 - <e-moji>🥒</e-moji>pepino: <e-answer>pepinos</e-answer>
-- <e-moji>🇪🇸</e-moji>espanhol: <e-answer>espanhóis</e-answer>
 - <e-moji>🎩</e-moji>cartola: <e-answer>cartolas</e-answer>
 - <e-moji>🫆</e-moji>impressão digital: <e-answer>impressões</e-answer> <e-answer>digitais</e-answer>
 - <e-moji>🦀</e-moji>caranguejo: <e-answer>caranguejos</e-answer>
 - <e-moji>🎷</e-moji>saxofone: <e-answer>saxofones</e-answer>
+- <e-moji>🇪🇸</e-moji>espanhol: <e-answer>espanhóis</e-answer>
 - <e-moji>🩴</e-moji>chinelo: <e-answer>chinelos</e-answer>
 - <e-moji>💦</e-moji>suor: <e-answer>suores</e-answer>
+- <e-moji>🛫</e-moji>descolagem: <e-answer>descolagens</e-answer>
+- <e-moji>🛬</e-moji>aterragem: <e-answer>aterragens</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
