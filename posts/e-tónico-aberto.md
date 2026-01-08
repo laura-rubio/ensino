@@ -20,7 +20,7 @@ summary: 'e aberto > [ε]'
 
 ## Série 2
 
-1. <e-moji>🚇</e-moji> m**e**tro (Portugal e Galiza) > [ˈm**ɛ**tru] - metrô (Brasil)
+1. <e-moji>🚇</e-moji> m**e**tro (Portugal) > [ˈm**ɛ**tru] - metrô (Brasil) > [mɛˈtro]
 
 2. <e-moji>🧠</e-moji> c**é**rebro > [ˈs**ɛ**rəbru]
 
@@ -35,7 +35,7 @@ summary: 'e aberto > [ε]'
 
 1. <e-moji>🔟</e-moji> d**e**z > [ˈd**ɛ**ʃ]
 
-2. <e-moji>👶</e-moji> beb**é** (Portugal) > [bɛˈb**ɛ**]  - bebê (Brasil)
+2. <e-moji>👶</e-moji> beb**é** (Portugal) > [bɛˈb**ɛ**]  - bebê (Brasil)> [beˈbe]
 
 3. <e-moji>🎾</e-moji> raqu**e**te > [ʀaˈk**ɛ**t(ə)]
 
