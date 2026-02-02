@@ -27,7 +27,7 @@ Lembrares-te de que, além desses sacos, em português, temos estoutros:
 
 ![Image](/img/saco_do_lixo_novo.jpg){.is-horizontal}
 
-**O saco das compras** e tanto faz o material (plástico, papel, pano…), o tamanho ou o tipo (de uso único ou reutilizável)
+**O saco das compras** e tanto faz o material (plástico, papel, pano…), o tamanho ou o tipo de uso (único ou reutilizável)
 
 ![Image](/img/saco_plastico_cheio.jpg){.is-horizontal}
 
