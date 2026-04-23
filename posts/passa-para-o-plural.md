@@ -211,7 +211,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🧀</e-moji>queijo: <e-answer>queijos</e-answer>
 - <e-moji>🪧</e-moji>cartaz: <e-answer>cartazes</e-answer> 
 - <e-moji>🪱</e-moji>minhoca: <e-answer>minhocas</e-answer>
-- <e-moji>🧴</e-moji>gel: <e-answer readonly>géis</e-answer> ou <e-answer>geles</e-answer>
+- <e-moji>🧴</e-moji>gel: <e-answer>geles</e-answer> ou <e-answer readonly>géis</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -256,7 +256,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>💆🏻‍♀️</e-moji>massagem: <e-answer>massagens</e-answer>
 - <e-moji>🎿</e-moji>esqui: <e-answer>esquis</e-answer>
 - <e-moji>🦘</e-moji>canguru: <e-answer>cangurus</e-answer>
-- <e-moji>🍯</e-moji>mel: <e-answer readonly>méis</e-answer> ou <e-answer>meles</e-answer>
+- <e-moji>🍯</e-moji>mel: <e-answer>meles</e-answer> ou <e-answer readonly>méis</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -307,7 +307,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 ## 21. Passa para o plural
 
-- <e-moji> ~ </e-moji>til: <e-answer>tiles</e-answer>
+- <e-moji> ~ </e-moji>til: <e-answer>tiles</e-answer> ou <e-answer readonly>tis</e-answer>
 - <e-moji>🛟</e-moji>boia: <e-answer>boias</e-answer>
 - <e-moji>🗾</e-moji>país: <e-answer>países</e-answer>
 - <e-moji>🦒</e-moji>girafa: <e-answer>girafas</e-answer>
