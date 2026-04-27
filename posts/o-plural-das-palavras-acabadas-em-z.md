@@ -24,31 +24,29 @@ Passa para o plural as seguintes palavras finalizadas em *-z:*
 
 2. <e-moji>👦</e-moji>rapaz: <e-answer>rapazes</e-answer>
 
-3. <e-moji>🔟</e-moji>dez: <e-answer>dezes</e-answer>
+3. <e-moji>🍚</e-moji>arroz: <e-answer>arrozes</e-answer>
 
-4. <e-moji>🍚</e-moji>arroz: <e-answer>arrozes</e-answer>
+4. <e-moji>😃</e-moji>feliz: <e-answer>felizes</e-answer>
 
-5. <e-moji>😃</e-moji>feliz: <e-answer>felizes</e-answer>
+5. <e-moji>❌</e-moji>cruz: <e-answer>cruzes</e-answer>
 
-6. <e-moji>❌</e-moji>cruz: <e-answer>cruzes</e-answer>
+6. <e-moji>🗣️</e-moji>voz: <e-answer>vozes</e-answer>
 
-7. <e-moji>🗣️</e-moji>voz: <e-answer>vozes</e-answer>
+7. <e-moji>☮️</e-moji>paz: <e-answer>pazes</e-answer>
 
-8. <e-moji>☮️</e-moji>paz: <e-answer>pazes</e-answer>
+8. <e-moji>👨‍⚖️</e-moji>juiz: <e-answer>juízes</e-answer>
 
-9. <e-moji>👨‍⚖️</e-moji>juiz: <e-answer>juízes</e-answer>
+9. <e-moji>🚨</e-moji>luz: <e-answer>luzes</e-answer>
 
-10. <e-moji>🚨</e-moji>luz: <e-answer>luzes</e-answer>
+10. <e-moji>♟️</e-moji>xadrez: <e-answer>xadrezes</e-answer>
 
-11. <e-moji>♟️</e-moji>xadrez: <e-answer>xadrezes</e-answer>
+11. <e-moji>🪧</e-moji>cartaz: <e-answer>cartazes</e-answer>
 
-12. <e-moji>🪧</e-moji>cartaz: <e-answer>cartazes</e-answer>
+12. <e-moji>🤰🏻</e-moji>gravidez: <e-answer>gravidezes</e-answer>
 
-13. <e-moji>🤰🏻</e-moji>gravidez: <e-answer>gravidezes</e-answer>
+13. <e-moji>⛲</e-moji>chafariz: <e-answer>chafarizes</e-answer>
 
-14. <e-moji>⛲</e-moji>chafariz: <e-answer>chafarizes</e-answer>
-
-15. <e-moji>💅🏻</e-moji>verniz: <e-answer>vernizes</e-answer>
+14. <e-moji>💅🏻</e-moji>verniz: <e-answer>vernizes</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
