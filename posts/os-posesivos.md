@@ -3,6 +3,7 @@ title: Os posesivos
 tags:
   - o_posesivo
 draft: false
+show_toc: false
 ---
 # Ben falado! Os posesivos meu, teu, seu
 
@@ -35,7 +36,7 @@ As expresións *de meu, de teu, de seu, de noso, de voso* e *de seu* empréganse
 
 Estas formas poden indicar que unha característica é propia da natureza dunha persoa.
 
-* *Seguro que non espera nada a cambio. É que é boíño de seu.*
+* *Seguro que non espera nada en troca. É que é boíño de seu.*
 
 3. Indicar que algo sucede por si mesmo, sen participación externa:
 
