@@ -293,7 +293,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 ## 20. Passa para o plural
 
 - <e-moji>🐍</e-moji>cobra: <e-answer>cobras</e-answer>
-- <e-moji>🔟</e-moji>dez: <e-answer>dezes</e-answer>
+- <e-moji>💅</e-moji>verniz: <e-answer>vernizes</e-answer>
 - <e-moji>🧃</e-moji>sumo: <e-answer>sumos</e-answer>
 - <e-moji>❗</e-moji>exclamação: <e-answer>exclamações</e-answer>
 - <e-moji>👨🏻‍🏭</e-moji>operário: <e-answer>operários</e-answer>
