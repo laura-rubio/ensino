@@ -442,7 +442,6 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 ## 30. Passa para o plural
 
-
 - <e-moji>🇦</e-moji> vogal: <e-answer>vogais</e-answer>
 - <e-moji>🪎</e-moji>baú: <e-answer>baús</e-answer>
 - <e-moji>🏃‍♂️‍➡️</e-moji>corredor: <e-answer>corredores</e-answer>
