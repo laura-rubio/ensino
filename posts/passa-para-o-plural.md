@@ -322,7 +322,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 ## 22. Passa para o plural
 
-- <e-moji>💅🏻</e-moji>unha: <e-answer>unhas</e-answer>
+- <e-moji>🧤</e-moji>luva: <e-answer>luvas</e-answer>
 - <e-moji>💪</e-moji>bíceps: <e-answer>bíceps</e-answer>
 - <e-moji>🦢</e-moji>cisne: <e-answer>cisnes</e-answer>
 - <e-moji>🔒</e-moji>cadeado: <e-answer>cadeados</e-answer>
