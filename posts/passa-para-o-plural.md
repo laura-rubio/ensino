@@ -374,7 +374,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🎫</e-moji>bilhete: <e-answer>bilhetes</e-answer>
 - <e-moji>🪈</e-moji>flauta: <e-answer>flautas</e-answer>
 - <e-moji>🎡</e-moji>roda: <e-answer>rodas</e-answer>
-- <e-moji>🍛</e-moji>caril: <e-answer>caris</e-answer>
+- <e-moji>🇪🇸</e-moji>espanhol: <e-answer>espanhóis</e-answer>
 - <e-moji>🐫</e-moji>dromedário: <e-answer>dromedários</e-answer>
 - <e-moji>💂</e-moji>guarda: <e-answer>guardas</e-answer>
 
@@ -432,10 +432,26 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>🫆</e-moji>impressão digital: <e-answer>impressões</e-answer> <e-answer>digitais</e-answer>
 - <e-moji>🦀</e-moji>caranguejo: <e-answer>caranguejos</e-answer>
 - <e-moji>🎷</e-moji>saxofone: <e-answer>saxofones</e-answer>
-- <e-moji>🇪🇸</e-moji>espanhol: <e-answer>espanhóis</e-answer>
-- <e-moji>🩴</e-moji>chinelo: <e-answer>chinelos</e-answer>
+- <e-moji>🍛</e-moji>caril: <e-answer>caris</e-answer>
+- <e-moji>🍪</e-moji>bolacha: <e-answer>bolachas</e-answer>
 - <e-moji>💦</e-moji>suor: <e-answer>suores</e-answer>
 - <e-moji>🛫</e-moji>descolagem: <e-answer>descolagens</e-answer>
 - <e-moji>🛬</e-moji>aterragem: <e-answer>aterragens</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## 30. Passa para o plural
+
+
+- <e-moji>🇦</e-moji> vogal: <e-answer>vogais</e-answer>
+- <e-moji>🪎</e-moji>baú: <e-answer>baús</e-answer>
+- <e-moji>🏃‍♂️‍➡️</e-moji>corredor: <e-answer>corredores</e-answer>
+- <e-moji>🔘</e-moji>botão: <e-answer>botões</e-answer>
+- <e-moji>🍵</e-moji>chá: <e-answer>chás</e-answer>
+- <e-moji>🫖</e-moji>bule: <e-answer>bules</e-answer>
+- <e-moji>🇫🇷</e-moji> francês: <e-answer>franceses</e-answer>
+- <e-moji>👼</e-moji>anjo: <e-answer>anjos</e-answer>
+- <e-moji>🪉</e-moji>harpa: <e-answer>harpas</e-answer>
+- <e-moji>🦝</e-moji>guaxinim: <e-answer>guaxinins</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
