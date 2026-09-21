@@ -91,3 +91,4 @@ Conjuga os verbos:
 2. Presente do indicativo do verbo [queixar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#952:queixar-se/1)
 3. Presente do indicativo do verbo [arrepender-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#932:arrepender-se/1)
 4. Presente do indicativo do verbo [ajoelhar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#1574:ajoelhar-se/1)
+5. Presente do indicativo do verbo [divertir-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#440:divertir-se/1)
