@@ -88,3 +88,4 @@ Conjuga os verbos:
 Conjuga os verbos:
 
 1. Presente do indicativo do verbo [esforçar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#2247:esforcar/1)
+2. Presente do indicativo do verbo [queixar-se](https://www.verbos-portugueses.info/pt/praticar/tempos.html#952:queixar-se/1))
