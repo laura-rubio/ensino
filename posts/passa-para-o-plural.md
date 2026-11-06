@@ -442,7 +442,7 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 
 ## 30. Passa para o plural
 
-- <e-moji>🇦</e-moji> vogal: <e-answer>vogais</e-answer>
+- <e-moji>🇦</e-moji>vogal: <e-answer>vogais</e-answer>
 - <e-moji>🪎</e-moji>baú: <e-answer>baús</e-answer>
 - <e-moji>🏃‍♂️‍➡️</e-moji>corredor: <e-answer>corredores</e-answer>
 - <e-moji>🔘</e-moji>botão: <e-answer>botões</e-answer>
@@ -452,5 +452,20 @@ Digita **AltGr + 4** ou **Ctrl + Alt + 4** antes da vogal
 - <e-moji>👼</e-moji>anjo: <e-answer>anjos</e-answer>
 - <e-moji>🪉</e-moji>harpa: <e-answer>harpas</e-answer>
 - <e-moji>🦝</e-moji>guaxinim: <e-answer>guaxinins</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## 31. Passa para o plural
+
+- <e-moji>✂️</e-moji>tesoura: <e-answer>tesouras</e-answer>
+- <e-moji>🏊‍♂️</e-moji>nadador: <e-answer>nadadores</e-answer>
+- <e-moji>🩴</e-moji>chinelo: <e-answer>chinelos</e-answer> 
+- <e-moji>👴</e-moji>ancião: <e-answer>anciãos</e-answer> ou <e-answer readonly>anciães</e-answer> ou <e-answer readonly>anciões</e-answer>
+- <e-moji>🤒</e-moji>febril: <e-answer>febris</e-answer>
+- <e-moji>🦓</e-moji>zebra: <e-answer>zebras</e-answer>
+- <e-moji>📲</e-moji>mensagem: <e-answer>mensagens</e-answer>
+- <e-moji>👶</e-moji>bebé: <e-answer>bebés</e-answer>
+- <e-moji>➗</e-moji>divisão: <e-answer>divisões</e-answer>
+- <e-moji>👋</e-moji>adeus: <e-answer>adeuses</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
