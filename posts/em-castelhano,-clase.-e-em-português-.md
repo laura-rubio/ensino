@@ -48,7 +48,7 @@ Completa com as palavras *aula, sala de aula* e *turma.* Podes ter de usar o plu
 3. Os alunos chegaram atrasados à primeira <e-answer>aula</e-answer> da manhã.
 4. A minha <e-answer>turma</e-answer> vai participar num concurso interescolar.
 5. Amanhã não há <e-answer>aulas</e-answer> porque é feriado.
-6. A nossa <e-answer>sala de aula</e-answer> está equipada com computadores para os alunos.
+6. A nossa <e-answer>sala de aula</e-answer> está equipada com computadores.
 7. A <e-answer>aula</e-answer> de Biologia terminou cinco minutos antes.
    
 <e-validate>Verifica as respostas</e-validate>
