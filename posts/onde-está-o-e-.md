@@ -34,7 +34,7 @@ Usamos a conjunção *e* depois dos milhares quando o grupo que vem a seguir é 
 Exemplos:
 - 1 008: mil **e** oito
 - 2 027: dois mil **e** vinte e sete
-- 5 200: cinco mil **e** duzentos
+- 50 200: cinquenta mil **e** duzentos
 
 Quando esse grupo corresponde a uma centena não exata (101 a 999), não usamos *e* depois dos milhares. No entanto, mantemos a conjunção nos restantes grupos, de acordo com as regras que acabámos de estudar.
 
@@ -42,15 +42,15 @@ Exemplos:
 
 Nota: ∅ significa ausência da conjunção *e*
 - 1 101: mil ∅ cento **e** um
-- 2 312: dois mil ∅ trezentos **e** doze
-- 6 784: seis mil ∅ setecentos **e** oitenta **e** quatro
+- 42 312: quarenta e dois mil ∅ trezentos **e** doze
+- 356 784: trezentos e cinquenta e seis mil ∅ setecentos **e** oitenta **e** quatro
 
 Também não usamos a conjunção *e* nos milhares exatos (1 000, 2 000, 3 000…), óbvio! 😉
 
 ### - Nos milhões (1 000 000 a 999 999 999) 
 Usamos *e* depois dos milhões quando o grupo que vem a seguir é inferior a 100, é uma centena exata (100, 200…) ou é uma centena de milhar exata (100 000, 200 000...). 
 
-Repara em que estamos aplicar o mesmo princípio que vimos nos milhares. 🧐
+Repara em que estamos a aplicar o mesmo princípio que vimos nos milhares. 🧐
 
 Exemplos:
 - 1 000 001: um milhão **e** um
@@ -64,8 +64,8 @@ Exemplos:
 
 Usos do *e* em português que diferem do castelhano: 
 
-  1) Usamos *e* e escrevemos separadamente os números 21 a 29: *vinte **e** um,* *vinte **e** dois...*
+  1) Usamos *e* e escrevemos separadamente os números de 21 a 29: *vinte **e** um,* *vinte **e** dois...*
   2) Usamos *e* para ligar as centenas às dezenas ou às unidades: *quatrocentos **e** onze,* *cento **e** dois.* 
-  3) Usamos *e* depois dos milhares e dos milhões quando o grupo que vem a seguir é inferior a 100 ou corresponde a uma centena exata (100, 200…) ou a uma centena de milhar exata (100 000, 200 000): *mil **e** oito,* *três mil **e** quarenta,* *cinco mil **e** duzentos,* *um milhão **e** um,* *um milhão **e** cem* e *um milhão **e** cem mil.*
+  3) Usamos *e* depois dos milhares e dos milhões quando o grupo numérico seguinte é inferior a 100 ou corresponde a uma centena exata (100, 200…) ou a uma centena de milhar exata (100 000, 200 000): *mil **e** oito,* *três mil **e** quarenta,* *cinco mil **e** duzentos,* *um milhão **e** um,* *um milhão **e** cem* e *um milhão **e** cem mil.*
 
 </article>
