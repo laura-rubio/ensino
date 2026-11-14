@@ -66,6 +66,6 @@ Usos do *e* em português que diferem do castelhano:
 
   1) Usamos *e* e escrevemos separadamente os números de 21 a 29: *vinte **e** um,* *vinte **e** dois...*
   2) Usamos *e* para ligar as centenas às dezenas ou às unidades: *quatrocentos **e** onze,* *cento **e** dois.* 
-  3) Usamos *e* depois dos milhares e dos milhões quando o grupo numérico seguinte é inferior a 100 ou corresponde a uma centena exata (100, 200…) ou a uma centena de milhar exata (100 000, 200 000): *mil **e** oito,* *três mil **e** quarenta,* *cinco mil **e** duzentos,* *um milhão **e** um,* *um milhão **e** cem* e *um milhão **e** cem mil.*
+  3) Usamos *e* depois dos milhares e dos milhões quando o grupo numérico seguinte é inferior a 100 ou corresponde a uma centena exata (100, 200…) ou a uma centena de milhar exata (100 000, 200 000): *mil **e** oito,* *três mil **e** quarenta,* *cinco mil **e** duzentos,* *um milhão **e** um,* *um milhão **e** cem,* *um milhão **e** cem mil.*
 
 </article>
