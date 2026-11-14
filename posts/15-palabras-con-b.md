@@ -5,7 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-Olla a imaxe e, a continuación, escribe o nome. Todos eles teñen B. 
+Olla a imaxe e, a continuación, escribe o nome. Todas teñen B. 
 
 Non te preocupes polas maiúsculas, mais si polos acentos. Algunhas destas palabras teñen acento e, se non as acentuares, a resposta será incorrecta.
 
