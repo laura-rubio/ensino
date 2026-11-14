@@ -40,7 +40,7 @@ Número | Letra
 
 <e-validate>Verifica as respostas</e-validate>
 
-3. Escreve números por extenso: 
+3. Escreve os números por extenso: 
 
 Número          | Letra
 ----------------|-----------

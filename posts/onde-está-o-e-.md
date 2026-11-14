@@ -42,8 +42,8 @@ Exemplos:
 
 Nota: ∅ significa ausência da conjunção *e*
 - 1 101: mil ∅ cento **e** um
-- 42 312: quarenta e dois mil ∅ trezentos **e** doze
-- 356 784: trezentos e cinquenta e seis mil ∅ setecentos **e** oitenta **e** quatro
+- 42 312: quarenta **e** dois mil ∅ trezentos **e** doze
+- 356 784: trezentos **e** cinquenta **e** seis mil ∅ setecentos **e** oitenta **e** quatro
 
 Também não usamos a conjunção *e* nos milhares exatos (1 000, 2 000, 3 000…), óbvio! 😉
 
