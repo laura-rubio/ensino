@@ -1,9 +1,9 @@
 ---
-title: ' Números com todas as letras'
+title: Números com todas as letras
 summary: Escreve os números por extenso e põe à prova os teus conhecimentos!
 tags:
   - Os números em português
-draft: true
+draft: false
 show_toc: false
 ---
 1. Escreve os números por extenso: 
