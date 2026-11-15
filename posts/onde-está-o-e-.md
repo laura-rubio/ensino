@@ -5,7 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-![Image](/img/2026.jpg)
+![Image](/img/numero_456789.jpg)
 
 O uso da conjunção *e* nos números não é exatamente igual em castelhano e português.
 
