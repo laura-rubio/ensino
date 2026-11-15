@@ -53,9 +53,9 @@ Número          | Letra
 2019            | <e-answer>dois mil e dezanove</e-answer>
 82750           | <e-answer>oitenta e dois mil setecentos e cinquenta</e-answer>
 1045            | <e-answer>mil e quarenta e cinco</e-answer>
-93 228 000      | <e-answer>noventa e três milhões duzentos e vinte e oito mil</e-answer>
-1 500 000       |  <e-answer>um milhão e quinhentos mil</e-answer>
-622 700 000     |<e-answer>seiscentos e vinte e dois milhões e setecentos mil</e-answer>
-240 000 000     |<e-answer>duzentos e quarenta milhões</e-answer>
+93228000        | <e-answer>noventa e três milhões duzentos e vinte e oito mil</e-answer>
+1500000         |  <e-answer>um milhão e quinhentos mil</e-answer>
+622700000       |<e-answer>seiscentos e vinte e dois milhões e setecentos mil</e-answer>
+240000000       |<e-answer>duzentos e quarenta milhões</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
