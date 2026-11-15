@@ -10,16 +10,17 @@ show_toc: false
 
 Número | Letra
 -------|-----------
-3  | <e-answer>três</e-answer>
-17 | <e-answer>dezassete</e-answer>
-4  | <e-answer>quatro</e-answer>
-11 | <e-answer>onze</e-answer>
-0  | <e-answer>zero</e-answer>
-18 | <e-answer>dezoito</e-answer>
-1  | <e-answer>um</e-answer>
-14 | <e-answer>catorze</e-answer>
-9  | <e-answer>nove</e-answer>
-12 | <e-answer>doze</e-answer>
+19     | <e-answer readonly>dezanove</e-answer>
+3      | <e-answer>três</e-answer>
+17     | <e-answer>dezassete</e-answer>
+4      | <e-answer>quatro</e-answer>
+11     | <e-answer>onze</e-answer>
+0      | <e-answer>zero</e-answer>
+18     | <e-answer>dezoito</e-answer>
+1      | <e-answer>um</e-answer>
+14     | <e-answer>catorze</e-answer>
+9      | <e-answer>nove</e-answer>
+12     | <e-answer>doze</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -27,16 +28,17 @@ Número | Letra
 
 Número | Letra
 -------|-----------
-102 |  <e-answer>cento e dois</e-answer>
-75  |  <e-answer>setenta e cinco</e-answer>
-340 |  <e-answer>trezentos e quarenta</e-answer>
-21  |  <e-answer>vinte e um</e-answer>
-258 |  <e-answer>duzentos e cinquenta e oito</e-answer>
-513 |  <e-answer>quinhentos e treze</e-answer>
-96  |  <e-answer>noventa e seis</e-answer>
-430 |  <e-answer>quatrocentos e trinta</e-answer>
-615 |  <e-answer>seiscentos e quinze</e-answer>
-37  |  <e-answer>trinta e sete</e-answer>
+102    |  <e-answer readonly>cento e dois</e-answer>
+75     |  <e-answer>setenta e cinco</e-answer>
+340    |  <e-answer>trezentos e quarenta</e-answer>
+37     |  <e-answer>trinta e sete</e-answer>
+258    |  <e-answer>duzentos e cinquenta e oito</e-answer>
+513    |  <e-answer>quinhentos e treze</e-answer>
+96     |  <e-answer>noventa e seis</e-answer>
+430    |  <e-answer>quatrocentos e trinta</e-answer>
+615    |  <e-answer>seiscentos e quinze</e-answer>
+21     |  <e-answer>vinte e um</e-answer>
+777    |  <e-answer>setecentos e setenta e sete</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -44,7 +46,7 @@ Número | Letra
 
 Número          | Letra
 ----------------|-----------
-5400            |  <e-answer>cinco mil e quatrocentos</e-answer>
+5400            |  <e-answer readonly>cinco mil e quatrocentos</e-answer>
 1975            |  <e-answer>mil novecentos e setenta e cinco</e-answer>
 13541           |  <e-answer>treze mil quinhentos e quarenta e um</e-answer>
 16109           | <e-answer>dezasseis mil cento e nove</e-answer>
@@ -54,5 +56,6 @@ Número          | Letra
 93 228 000      | <e-answer>noventa e três milhões duzentos e vinte e oito mil</e-answer>
 1 500 000       |  <e-answer>um milhão e quinhentos mil</e-answer>
 622 700 000     |<e-answer>seiscentos e vinte e dois milhões e setecentos mil</e-answer>
+240 000 000     |<e-answer>duzentos e quarenta milhões</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
