@@ -44,55 +44,55 @@ Conjuga os verbos:
 
 Conjuga os verbos:
 
-1. Presente do indicativo do verbo achar
+1. Presente do indicativo do verbo [achar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#516:achar/3)
 
-2. Presente do indicativo do verbo estudar
+2. Presente do indicativo do verbo [estudar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#468:estudar/3)
 
-3. Presente do indicativo do verbo chegar
+3. Presente do indicativo do verbo [chegar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#206:chegar/3)
 
-4. Presente do indicativo do verbo jogar
+4. Presente do indicativo do verbo [jogar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#223:jogar/3)
 
-5. Presente do indicativo do verbo brincar
+5. Presente do indicativo do verbo [brincar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#790:brincar/3)
    
 ### Série 3
 
 Conjuga os verbos:
 
-1. Presente do indicativo do verbo adorar
+1. Presente do indicativo do verbo [adorar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#462:adorar/3)
 
-2. Presente do indicativo do verbo detestar
+2. Presente do indicativo do verbo [detestar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#1174:detestar/3)
 
-3. Presente do indicativo do verbo apanhar
+3. Presente do indicativo do verbo [apanhar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#635:apanhar/3)
 
-4. Presente do indicativo do verbo trabalhar
+4. Presente do indicativo do verbo [trabalhar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#155:trabalhar/3)
 
-5. Presente do indicativo do verbo gostar
+5. Presente do indicativo do verbo [gostar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#169:gostar/3)
 
 
 ### Série 4
 
 Conjuga os verbos:
 
-1. Presente do indicativo do verbo tomar 
+1. Presente do indicativo do verbo [tomar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#157:tomar/3)
 
-2. Presente do indicativo do verbo jantar
+2. Presente do indicativo do verbo [jantar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#634:jantar/3)
 
-3. Presente do indicativo do verbo fechar
+3. Presente do indicativo do verbo [fechar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#222:fechar/3)
 
-4. Presente do indicativo do verbo ganhar
+4. Presente do indicativo do verbo [ganhar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#278:ganhar/3)
 
-5. Presente do indicativo do verbo praticar
+5. Presente do indicativo do verbo [praticar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#333:praticar/3)
 
 ### Série 5
 
 Conjuga os verbos:
 
-1. Presente do indicativo do verbo comprar
+1. Presente do indicativo do verbo [comprar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#267:comprar/3)
 
-2. Presente do indicativo do verbo pagar
+2. Presente do indicativo do verbo [pagar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#167:pagar/3)
 
-3. Presente do indicativo do verbo usar
+3. Presente do indicativo do verbo [usar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#179:usar/3)
 
-4. Presente do indicativo do verbo tocar
+4. Presente do indicativo do verbo [tocar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#202:tocar/3)
 
-5. Presente do indicativo do verbo cozinhar
+5. Presente do indicativo do verbo [cozinhar](https://www.verbos-portugueses.info/pt/praticar/tempos.html#221:cozinhar/3)
